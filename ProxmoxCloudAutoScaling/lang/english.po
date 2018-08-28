@@ -1,0 +1,829 @@
+#. extracted from ProxmoxCloudAutoScaling/lang/english.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-28 16:53+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.3.0\n"
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27autoscale%27]
+msgid "Autoscale"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27autoscale%27][%27configuration%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['autoscale']['configuration']"
+msgid "Configuration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27autoscale%27][%27accounts%27]
+msgid "Servers"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27autoscale%27][%27optionsManage%27]
+msgid "Options Manage"
+msgstr ""
+
+#. //Configuration
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Autoscale+extensions+allow+you+automatically+resize+your+cloud+servers.+In+this+section+you+can+create+new+group+of+rules+or+manage+existing.+Each+group+contains+set+of+rules+that+will+be+use+for+scaling+services.%27]
+msgid ""
+"Autoscale extension allows you to automatically resize your cloud servers. "
+"In this section you can create new groups of rules and manage existing. Each "
+"group contains a set of rules that will be used for scaling services."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Manage+Exisitng+Groups%27]
+msgid "Manage Existing Groups"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27%23ID%27]
+msgid "#ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Name%27]
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Submodule%27]
+msgid "Submodule"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Configurable+Options+Name%27]
+msgid "Configurable Options Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Status%27]
+msgid "Status"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Actions%27]
+msgctxt "$_LANG['addonAA']['MultiAutoscale']['Actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Invalid+value+provided%27]
+msgid "Invalid value provided"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Add+New+Autoscaling+Configuration%27]
+msgid "Add New Autoscaling Configuration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Group+Name%27]
+msgid "Group Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Server+Type%27]
+msgid "Server Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Enabled%27]
+msgctxt "$_LANG['addonAA']['MultiAutoscale']['Enabled']"
+msgid "Enabled"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Disabled%27]
+msgctxt "$_LANG['addonAA']['MultiAutoscale']['Disabled']"
+msgid "Disabled"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Configurable+Option+Group%27]
+msgid "Configurable Option Group"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Group+name+that+is+visible+only+for+admins%27]
+msgid "Group name will be visible only for admins"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Select+supported+product+for+new+group%27]
+msgid "Select supported product for a new group"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Select+supported+configurable+options+type+for+new+group%27]
+msgid "Select supported configurable options type for a new group"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Create+New+Group%27]
+msgid "Create New Group"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Manage%27]
+msgid "Manage"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27In+Server+Options%27]
+msgid "In Server Options"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Delete%27]
+msgctxt "$_LANG['addonAA']['MultiAutoscale']['Delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Cancel%27]
+msgctxt "$_LANG['addonAA']['MultiAutoscale']['Cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Are+you+sure%3F%27]
+msgid "Are you sure?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27All+options+within+this+group+will+be+deleted%27]
+msgid "All options within this group will be deleted"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Invalid+Value+Provided%27]
+msgid "Invalid Value Provided"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Enable+Notifications%27]
+msgid "Enable Notifications"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Check+this+to+allow+clients+to+enable+notifications%27]
+msgid "Enable to let clients receive notifications"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Name+visible+only+for+admins%27]
+msgid "Enter name visible only for admins"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Supported+product%27]
+msgid "Supported product"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Configurable+Options+Group%27]
+msgid "Configurable Options Group"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Supported+configurable+option+group%27]
+msgid "Supported configurable option group"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Time+Interval%27]
+msgctxt "$_LANG['addonAA']['MultiAutoscale']['Time Interval']"
+msgid "Time Interval"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Defining+minimum+number+of+minutes+between+accounts+changes.+Also+it+is+time+for+averaging%27]
+msgid ""
+"Define a minimum number of minutes between accounts changes, it will be also "
+"used to calculate average"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Notification+Time+Interval%27]
+msgid "Notification Time Interval"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Defining+minimum+number+of+minutes+between+notifications%27]
+msgid "Define a minimum number of minutes between sending next notifications"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Save%27]
+msgctxt "$_LANG['addonAA']['MultiAutoscale']['Save']"
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27General+Configuration%27]
+msgid "General Configuration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Options+Setup%27]
+msgid "Options Setup"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Client+Area+Configuration%27]
+msgid "Client Area Configuration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Display+Client+Rules+Configuration%27]
+msgid "Display Client Rules Configuration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Modify+Rules+Configuration%27]
+msgid "Modify Rules Configuration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Enable+to+display+rules+configuration+in+the+client+area%27]
+msgid "Enable to display rules configuration in the client area"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Check+this+to+allow+clients+to+modify+Autoscaling+rules%27]
+msgid "Enable to let clients modify autoscaling rules"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Modify+Time+Interval%27]
+msgid "Modify Time Interval"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Enable+this+to+allow+clients+to+modify+time+interval%27]
+msgid "Enable to allow clients to modify time interval"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Allowed+Time+Interval+Values%27]
+msgid "Allowed Time Interval Values"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Define+allowed+range+for+interval+time+(eg.+10-50)%27]
+msgid "Define allowed range for time interval (e.g. 10-50)"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Modify+Notifications+Time+Interval%27]
+msgid "Modify Notifications Time Interval"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Check+this+to+allow+clients+to+modify+notifications+time+interval%27]
+msgid "Enable to allow clients to modify notifications time interval"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Allowed+Notifications+Time+Interval+Values%27]
+msgid "Allowed Notifications Time Interval Values"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27On+this+page+you+can+setup+rules+for+selected+product.+These+rules+will+be+used+by+Autoscaling+extension+to+deteminete+which+service+should+be+changed.+Service+will+be+changed+acording+to+parameters+set+in+rules+options+if+condition+in+bottom+rules+or+top+rules+will+be+met.%27]
+msgid ""
+"On this page you can set up rules for selected product. These rules will be "
+"used by Autoscaling extension to determine which service should be changed "
+"and set up changes parameters defined in bottom and top rules."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Configuration+for+group%27]
+msgid "Configuration for group"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Top+Rules%27]
+msgctxt "$_LANG['addonAA']['MultiAutoscale']['Top Rules']"
+msgid "Top Rules"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Bottom+Rules%27]
+msgctxt "$_LANG['addonAA']['MultiAutoscale']['Bottom Rules']"
+msgid "Bottom Rules"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Package%27]
+msgid "Package"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Description%27]
+msgid "Description"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Disable%27]
+msgid "Disable"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Enable%27]
+msgid "Enable"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Please+provide+valid+name%27]
+msgid "Please provide a valid name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Add+New+Option%27]
+msgid "Add New Option"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Autoscale+Type%27]
+msgid "Autoscaling Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Max+VM+Amount%27]
+msgid "Max VM Amount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Please+Note%27]
+msgid "Please Note"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Remeber+to+create+options+for+clients+that+will+use+this+type+of+autoscaling%27]
+msgid ""
+"Remember to create options for clients that will use this type of autoscaling"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Top%27]
+msgid "Top"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Bottom%27]
+msgid "Bottom"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27rules+for%27]
+msgid "rules for"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Resource+Name%27]
+msgid "Resource Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Comparison+Type%27]
+msgid "Comparison Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Threshold%27]
+msgctxt "$_LANG['addonAA']['MultiAutoscale']['Threshold']"
+msgid "Threshold"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Add%27]
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27No+Rules+Created%27]
+msgid "No Rules Created"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Select+Package+For+Rule%27]
+msgid "Select Package For Rule"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27This+package+will+be+set+when+rules+will+be+met+for%27]
+msgid "This package will be set when rules are met for"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Option+Description%27]
+msgid "Option Description"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Empty+available+description+list%27]
+msgid "Empty available description list"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27autoscale%27][%27predefinedPackages%27]
+msgid "Server Scaling Sets"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27On+this+page+you+can+setup+packages+for+product.+These+packages+will+are+used+to+autoscale+VMs.+Each+package+is+contains+information+about+VM%5C%27s+storage,+CPU+cores,+CPU+weight+and+memory+limits.%27]
+msgid ""
+"On this page you can set up packages for products using 'Resize Server' "
+"autoscaling type. These packages will be used to autoscale VMs. Each package "
+"contains information about VM's storage, CPU cores, CPU weight and memory "
+"limits."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Predefined+Packages%27]
+msgid "Predefined Packages"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Show+All%27]
+msgid "Show All"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Product+Type%27]
+msgctxt "$_LANG['addonAA']['MultiAutoscale']['Product Type']"
+msgid "Product Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Configure%27]
+msgid "Configure"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Add+New+VM+Package%27]
+msgid "Add New VM Package"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Package+Name%27]
+msgid "Package Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Name+for+new+VM+configuration+package%27]
+msgid "Name for new VM configuration package"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Select+product+type+for+VM+package%27]
+msgid "Select product type for VM package"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Add+New+Package%27]
+msgid "Add New Package"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Config+Option+Group%27]
+msgid "Config Option Group"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Product%27]
+msgid "Product"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Configurable+Option+Name%27]
+msgid "Configurable Option Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Select+supported+configurable+options+for+new+package%27]
+msgid "Select supported configurable options for new package"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Package+Submodule%27]
+msgid "Package Submodule"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Select+submodule+to+manage+VM+package%27]
+msgid "Select submodule to manage VM package"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27All+options+within+this+package+will+be+deleted%27]
+msgid "All options within this package will be deleted"
+msgstr ""
+
+#. //Accounts
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27On+this+page+you+can+find+virtual+machines+with+enabled+Autoscale.+You+can+take+a+look+into+history+of+each+virtual+machine+and+see+how+it+was+changing%27]
+msgid ""
+"On this page you can find virtual machines with autoscaling enabled. You can "
+"take a look into history of each virtual machine and see how it was changing"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Accounts%27]
+msgid "Accounts"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Hosting+ID%27]
+msgid "Hosting ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27VM+ID%27]
+msgid "VM ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Client%27]
+msgid "Client"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Configuration+Group%27]
+msgid "Configuration Group"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Current+Option%27]
+msgid "Current Option"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Last+Update%27]
+msgid "Last Update"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27History%27]
+msgid "History"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Type%27]
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27In+Server%27]
+msgid "Resize Server"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27By+Cloning%27]
+msgid "Clone Server"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27View+History%27]
+msgid "View History"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Show+Details%27]
+msgid "Show Details"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Hide+Details%27]
+msgid "Hide Details"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Group%27]
+msgid "Group"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Changes+History%27]
+msgid "Changes History"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Message%27]
+msgctxt "$_LANG['addonAA']['MultiAutoscale']['Message']"
+msgid "Message"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Date%27]
+msgctxt "$_LANG['addonAA']['MultiAutoscale']['Date']"
+msgid "Date"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Close%27]
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27N/A%27]
+msgid "N/A"
+msgstr ""
+
+#. ########################################################################################################################
+#. ################################################### Submodules #########################################################
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Memory+Size%27]
+msgid "Memory Size"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Unit:+MB.+Amount+of+given+RAM%27]
+msgid "Unit: MB. Amount of given RAM"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27CPU+Number%27]
+msgid "CPU Number"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Unit:+/hr.+Amount+of+CPU+units%27]
+msgid "Unit: /hr. Number of CPU units"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27CPU+Cores%27]
+msgid "CPU Cores"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Unit:+/hr.+Amount+of+CPU+Cores%27]
+msgid "Unit: /hr. Number of CPU Cores"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27CPU+Weight%27]
+msgid "CPU Weight"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Unit:+/hr.+Amount+of+CPU+weight%27]
+msgid "Unit: /hr. Amount of CPU weight"
+msgstr ""
+
+#. ########################################################################################################################
+#. ################################################### CLIENT AREA ########################################################
+#: %24_LANG[%27AutoscaleClientArea%27][%27Select+autoscale+type%27]
+msgid "Select autoscaling type"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27By+Cloning+The+Server%27]
+msgid "By Server Clone"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Inside+The+Server%27]
+msgid "By Server Resize"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27This+option+allow+to+use+already+exsiting+rules+to+scale+server.+All+changes+will+be+made+in+already+exisiting+server.%27]
+msgid ""
+"This option allows to use the rules to scale servers. All changes will be "
+"made in the already existing server."
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27This+option+require+to+set+rules+before+use.+The+server+will+be+clone+and+all+machines+will+be+connected+in+Load+Balancer.%27]
+msgid ""
+"This option requires to set the rules before usage. The server will be "
+"cloned, all machines will be connected to Load Balancer."
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Save+Configuration%27]
+msgid "Save Configuration"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Time+Interval%27]
+msgctxt "$_LANG['AutoscaleClientArea']['Time Interval']"
+msgid "Time Interval"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27This+setting+allow+you+to+set+how+many+minutes+Autoscale+should+wait+between+changes+in+VMs+configuration%27]
+msgid ""
+"Define the time interval, in minutes, autoscaling should be awaiting between "
+"any changes in VMs configuration"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Minutes+between+checking+the+rules%27]
+msgid "Minutes between checking the rules"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Value+should+be+lower+then%27]
+msgid "Value should be lower than"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Value+should+be+higher+then%27]
+msgid "Value should be higher than"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Proxmox+Cloud+Autoscaling%27]
+msgid "Proxmox Cloud Autoscaling"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Disabled%27]
+msgctxt "$_LANG['AutoscaleClientArea']['Disabled']"
+msgid "Disabled"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Enabled%27]
+msgctxt "$_LANG['AutoscaleClientArea']['Enabled']"
+msgid "Enabled"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Show%27]
+msgid "Show"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Hide%27]
+msgid "Hide"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Show+Rules%27]
+msgid "Show Rules"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Hide+Rules%27]
+msgid "Hide Rules"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Resources%27]
+msgid "Resources"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Top+Rules%27]
+msgctxt "$_LANG['AutoscaleClientArea']['Top Rules']"
+msgid "Top Rules"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Bottom+Rules%27]
+msgctxt "$_LANG['AutoscaleClientArea']['Bottom Rules']"
+msgid "Bottom Rules"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Advanced+Mode%27]
+msgid "Advanced Mode"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Simple+Mode%27]
+msgid "Simple Mode"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Create+New+Instance+Rules%27]
+msgid "Create New Instance Rules"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Destroy+Instance+Rules%27]
+msgid "Destroy Instance Rules"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27This+set+of+rules+will+determinate+when+instance+should+be+clonned+to+boost+performance%27]
+msgid ""
+"This set of rules will determine when instance should be cloned to boost "
+"performance"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27This+set+of+rules+will+determinate+when+instance+should+be+destroy+to+save+resources%27]
+msgid ""
+"This set of rules will determine when instance should be destroyed to save "
+"resources"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Resource%27]
+msgid "Resource"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Comparison%27]
+msgid "Comparison"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Threshold%27]
+msgctxt "$_LANG['AutoscaleClientArea']['Threshold']"
+msgid "Threshold"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27VM+Amount%27]
+msgid "VM Clones"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27No+Rules+Available%27]
+msgid "No Rules Available"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Add+Rule%27]
+msgid "Add Rule"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Add+Group%27]
+msgid "Add Group"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27AND%27]
+msgid "AND"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27OR%27]
+msgid "OR"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Rule%27]
+msgid "Rule"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Provided+value+is+invalid%27]
+msgid "*Provided value is invalid"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Load+Balancer%27]
+msgid "Load Balancer"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Load+Balancer+Type%27]
+msgid "Load Balancer Type"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Configuration%27]
+msgctxt "$_LANG['AutoscaleClientArea']['Configuration']"
+msgid "Configuration"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Username%27]
+msgid "Username"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Password%27]
+msgid "Password"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Port%27]
+msgid "Port"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Autoscale+Notifications%27]
+msgid "Autoscale Notifications"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27ID%27]
+msgid "ID"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Message%27]
+msgctxt "$_LANG['AutoscaleClientArea']['Message']"
+msgid "Message"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Date%27]
+msgctxt "$_LANG['AutoscaleClientArea']['Date']"
+msgid "Date"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Prev%27]
+msgid "Prev"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Next%27]
+msgid "Next"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Other+IP%27]
+msgid "Other IP"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Select+IP%27]
+msgid "Select IP"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Number+of+VM+that+will+be+created+when+all+rules+are+match%27]
+msgid "Number of VM clones that will be created when all rules are met"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Number+of+VM+that+will+be+destroyed+when+all+rules+are+match%27]
+msgid "Number of VM clones that will be destroyed when all rules are met"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27IP+Address%27]
+msgid "IP Address"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27This+IP+address+will+be+used+in+load+balancer+configuration%27]
+msgid "This IP address will be used in load balancer configuration"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27There+are+no+available+options+for+this+server%27]
+msgid "There are no available options for this server"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27No+data+available+in+table%27]
+msgid "No data available in table"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Create+From+Template%27]
+msgid "Create From Template"
+msgstr ""
+
+#: %24_LANG[%27AutoscaleClientArea%27][%27Pool%27]
+msgid "Pool"
+msgstr ""
+
+#. //Exceptions
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Unable+to+add+new+Group.+Product+type+submodule+not+found.%27]
+msgid "Unable to add new group. Product type submodule not found."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Unable+to+enable+option.+Rules+are+not+set.%27]
+msgid "Unable to enable option. Rules are not set."
+msgstr ""

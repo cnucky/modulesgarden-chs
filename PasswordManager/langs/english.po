@@ -1,0 +1,2530 @@
+#. extracted from PasswordManager/langs/english.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-28 16:53+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.3.0\n"
+
+#. /**********************************************************************
+#.  *  Password Manager (09.08.17)
+#.  * *
+#.  *
+#.  *  CREATED BY MODULESGARDEN       ->        http://modulesgarden.com
+#.  *  CONTACT                        ->       contact@modulesgarden.com
+#.  *
+#.  *
+#.  *
+#.  *
+#.  * This software is furnished under a license and may be used and copied
+#.  * only  in  accordance  with  the  terms  of such  license and with the
+#.  * inclusion of the above copyright notice.  This software  or any other
+#.  * copies thereof may not be provided or otherwise made available to any
+#.  * other person.  No title to and  ownership of the  software is  hereby
+#.  * transferred.
+#.  *
+#.  *
+#.  **********************************************************************/
+#: %24_LANG[%27token%27]
+msgid ", Error Token:"
+msgstr ""
+
+#: %24_LANG[%27generalError%27]
+msgid "Something has gone wrong. Check the logs and contact the administrator"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27pagesLabels%27][%27label%27][%27home%27]
+msgctxt "$_LANG['addonCA']['pagesLabels']['label']['home']"
+msgid "Dashboard"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27settings%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['settings']"
+msgid "Settings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27documentation%27]
+msgid "Documentation"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27settings%27]
+msgctxt "$_LANG['addonAA']['settings']['settings']"
+msgid "Settings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27Synchronization%27]
+msgid "Synchronization"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27general%27]
+msgctxt "$_LANG['addonAA']['settings']['general']"
+msgid "General"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27button%27][%27Save+Changes%27]
+msgctxt "$_LANG['addonAA']['settings']['button']['Save Changes']"
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27Client+Product+Password%27]
+msgctxt "$_LANG['addonAA']['settings']['Client Product Password']"
+msgid "Client Product Password"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27Client+Private+Passwords%27]
+msgctxt "$_LANG['addonAA']['settings']['Client Private Passwords']"
+msgid "Client Private Passwords"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[clientProductPassword]%27][%27options%27][%27on%27]
+msgid "Display the list of login details for client's products and services"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[excludeProductGroupIds]%27][%27label%27]
+msgid "Exclude Product Groups"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27messages%27][%27Default+Settings+have+been+saved%27]
+msgid "Default settings have been saved"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[excludeClientGroupIds]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['settings[excludeClientGroupIds]']['label']"
+msgid "Exclude Client Groups"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[excludeProductIds]%27][%27label%27]
+msgid "Exclude Products"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[excludeClientIds]%27][%27label%27]
+msgid "Exclude Clients"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27Client+Area+Client+Private+Passwords%27]
+msgid "Client Area Client Private Passwords"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[clientPrivatePasswords]%27][%27options%27][%27on%27]
+msgid "Manage private access details in the client area "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[clientPrivatePasswords]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['settings[clientPrivatePasswords]']['label']"
+msgid "Client Private Passwords"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[privatePasswordExcludeClientGroupIds]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['settings[privatePasswordExcludeClientGroupIds]']['label']"
+msgid "Exclude Client Groups"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[privatePasswordExcludeClientIds]%27][%27label%27]
+msgid "Exclude Client"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[passwordsLimitPerUser]%27][%27label%27]
+msgid "Passwords Limit Per User"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[passwordsLimitPerUser]%27][%27description%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['settings[passwordsLimitPerUser]']['description']"
+msgid ""
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[privatePasswordRoleId]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['settings[privatePasswordRoleId]']['label']"
+msgid "Extended Permissions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[privatePasswordRoleId]%27][%27description%27]
+msgid "All non-personal passwords will be shared with these administrators!"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27Email+Notifications%27]
+msgid "Email Notifications"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27Unassign%27]
+msgctxt "$_LANG['addonAA']['settings']['Unassign']"
+msgid "Unassign"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[clientPasswordChangeReminder]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['settings[clientPasswordChangeReminder]']['label']"
+msgid "Password Change Reminder"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[clientPasswordChangeReminder]%27][%27description%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['settings[clientPasswordChangeReminder]']['description']"
+msgid ""
+"Select the email template for clients or leave blank to disable the feature"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[clientPasswordChangeNotification]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['settings[clientPasswordChangeNotification]']['label']"
+msgid "Password Change Notification"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[clientPasswordChangeNotification]%27][%27description%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['settings[clientPasswordChangeNotification]']['description']"
+msgid ""
+"Select the email template for clients or leave blank to disable the feature"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27clientNotifications%27][%27label%27]
+msgid "Client Notifications"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27adminNotifications%27][%27label%27]
+msgid "Administrator Notifications"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[clientProductPassword]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['settings[clientProductPassword]']['label']"
+msgid "Client Product Password"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27Field+is+required%27]
+msgctxt "$_LANG['addonAA']['settings']['Field is required']"
+msgid "Field is required"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[privatePasswordUnlimitedLoginForClientIds]%27][%27label%27]
+msgid "Exclude Client From Limit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27Security+Settings%27]
+msgid "Security Settings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27configuration%27][%27settings[clientPasswordAccess]%27][%27options%27][%27fullAccess%27]
+msgid "Full Access - any administrator is allowed to view clients' passwords "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27configuration%27][%27settings[clientPasswordAccess]%27][%27options%27][%27restrictedAccess%27]
+msgid ""
+"Restricted Access - only specified administrator roles are allowed to access "
+"clients' passwords"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[clientPasswordAccess]%27][%27label%27]
+msgid "Client Password Access"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[extendedPermissionsRoleIds]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['settings[extendedPermissionsRoleIds]']['label']"
+msgid "Extended Permissions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[adminPasswordChangeReminder]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['settings[adminPasswordChangeReminder]']['label']"
+msgid "Password Change Reminder"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[adminPasswordChangeReminder]%27][%27description%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['settings[adminPasswordChangeReminder]']['description']"
+msgid ""
+"Select the email template for administrators or leave blank to disable the "
+"feature"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[adminPasswordChangeNotification]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['settings[adminPasswordChangeNotification]']['label']"
+msgid "Password Change Notification"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[adminPasswordChangeNotification]%27][%27description%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['settings[adminPasswordChangeNotification]']['description']"
+msgid ""
+"Select the email template for administrators or leave blank to disable the "
+"feature"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27configuration%27][%27settings[clientPasswordAccess]%27][%27options%27][%27sharedAccess%27]
+msgid ""
+"Shared Access - only shared passwords are available for specified "
+"administrator roles "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27Other%27]
+msgid "Other"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[passwordManagerButton]%27][%27options%27][%27on%27]
+msgid "Enable the 'Password Manager' button in the client area"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[passwordManagerButton]%27][%27label%27]
+msgid "Password Manager Button"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[clientProfileTab]%27][%27options%27][%27on%27]
+msgid "Enable the 'Passwords' tab in the client's profile configuration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[clientProfileTab]%27][%27label%27]
+msgid "Profile Tab "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[supportTicektsTab]%27][%27options%27][%27on%27]
+msgid " Enable the 'Passwords' tab on the support tickets page"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[supportTicektsTab]%27][%27label%27]
+msgid "Support Tickets Tab"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27categories%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['categories']"
+msgid "Categories"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Categories%27]
+msgctxt "$_LANG['addonAA']['categories']['Categories']"
+msgid "Categories"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27ID%27]
+msgctxt "$_LANG['addonAA']['categories']['ID']"
+msgid "ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Name%27]
+msgctxt "$_LANG['addonAA']['categories']['Name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Description%27]
+msgctxt "$_LANG['addonAA']['categories']['Description']"
+msgid "Description"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Clients%27]
+msgctxt "$_LANG['addonAA']['categories']['Clients']"
+msgid "Clients"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Admins%27]
+msgctxt "$_LANG['addonAA']['categories']['Admins']"
+msgid "Administrators"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Actions%27]
+msgctxt "$_LANG['addonAA']['categories']['Actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Add+Category%27]
+msgctxt "$_LANG['addonAA']['categories']['Add Category']"
+msgid "Add Category"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Nothing+to+display%27]
+msgctxt "$_LANG['addonAA']['categories']['Nothing to display']"
+msgid "Nothing to display"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27search%27]
+msgctxt "$_LANG['addonAA']['categories']['search']"
+msgid "Search"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27previous%27]
+msgctxt "$_LANG['addonAA']['categories']['previous']"
+msgid "Previous"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27next%27]
+msgctxt "$_LANG['addonAA']['categories']['next']"
+msgid "Next"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27actionButtons%27][%27edit%27]
+msgctxt "$_LANG['addonAA']['categories']['actionButtons']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27actionButtons%27][%27delete%27]
+msgctxt "$_LANG['addonAA']['categories']['actionButtons']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Add+New+Category%27]
+msgctxt "$_LANG['addonAA']['categories']['Add New Category']"
+msgid "Add New Category"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27modal%27][%27Add%27]
+msgctxt "$_LANG['addonAA']['categories']['modal']['Add']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27modal%27][%27close%27]
+msgctxt "$_LANG['addonAA']['categories']['modal']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Edit+Category%27]
+msgctxt "$_LANG['addonAA']['categories']['Edit Category']"
+msgid "Edit Category"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Save%27]
+msgctxt "$_LANG['addonAA']['categories']['Save']"
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27modal%27][%27Delete%27]
+msgctxt "$_LANG['addonAA']['categories']['modal']['Delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Are+you+sure+you+want+to+delete+this+entry+from+categories+list%3F%27]
+msgctxt "$_LANG['addonAA']['categories']['Are you sure you want to delete this entry from categories list?']"
+msgid "Are you sure you want to delete this entry from the list of categories?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27modal%27][%27delete%27]
+msgctxt "$_LANG['addonAA']['categories']['modal']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Client+List%27]
+msgctxt "$_LANG['addonAA']['categories']['Client List']"
+msgid "Client List"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27close%27]
+msgctxt "$_LANG['addonAA']['categories']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Admin+List%27]
+msgid "Admin List"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Category+%25s+has+been+deleted%27]
+msgctxt "$_LANG['addonAA']['categories']['Category %s has been deleted']"
+msgid "Category %s has been deleted"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Field+is+required%27]
+msgctxt "$_LANG['addonAA']['categories']['Field is required']"
+msgid "Field is required"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27category%27][%27category[name]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['categories']['category']['category[name]']['label']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27category%27][%27category[description]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['categories']['category']['category[description]']['label']"
+msgid "Description"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27category%27][%27category[clientIds]%27][%27label%27]
+msgid "Assigned Clients"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27category%27][%27category[adminIds]%27][%27label%27]
+msgid "Assigned Administrators"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Category+%25s+has+been+added%27]
+msgctxt "$_LANG['addonAA']['categories']['Category %s has been added']"
+msgid "Category %s has been added"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Category+%25s+has+been+saved%27]
+msgctxt "$_LANG['addonAA']['categories']['Category %s has been saved']"
+msgid "Category %s has been saved"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Id%27]
+msgctxt "$_LANG['addonAA']['categories']['Id']"
+msgid "Id"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Admin+Categories%27]
+msgctxt "$_LANG['addonAA']['categories']['Admin Categories']"
+msgid "Administrator Categories"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27categories%27][%27admin%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['categories']['admin']"
+msgid "Administrator Categories"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27admin%27][%27description%27]
+msgid "Categories created by administrators."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27client%27][%27description%27]
+msgid "Categories created by clients."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27categories%27][%27client%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['categories']['client']"
+msgid "Client Categories"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27categories%27][%27Client+Categories%27]
+msgctxt "$_LANG['addonAA']['categories']['Client Categories']"
+msgid "Client Categories"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27accessDetails%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['accessDetails']"
+msgid "Access Details"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Access+Details%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Access Details']"
+msgid "Access Details"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27ID%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['ID']"
+msgid "ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Name%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Username%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Username']"
+msgid "Username"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Password%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Password']"
+msgid "Password"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Owner%27]
+msgid "Owner"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Admin+Roles%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Admin Roles']"
+msgid "Administrator Roles"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Category%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Category']"
+msgid "Category"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Permissions%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Permissions']"
+msgid "Permissions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Actions%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Nothing+to+display%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Nothing to display']"
+msgid "Nothing to display"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27search%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['search']"
+msgid "Search"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27previous%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['previous']"
+msgid "Previous"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27next%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['next']"
+msgid "Next"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Add+New%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Add New']"
+msgid "Add New"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Add+New+Access+Details%27]
+msgid "Add New Access Details"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27modal%27][%27Add%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['modal']['Add']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27modal%27][%27close%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['modal']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Edit+Access+Details%27]
+msgid "Edit Access Details"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Save%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Save']"
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Field+is+required%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Field is required']"
+msgid "Field is required"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[name]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[name]']['label']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[username]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[username]']['label']"
+msgid "Username"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[categoryId]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[categoryId]']['label']"
+msgid "Category"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[password]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[password]']['label']"
+msgid "Password"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[roleIds]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[roleIds]']['label']"
+msgid "Administrator Roles"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[adminIds]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[adminIds]']['label']"
+msgid "Administrators"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[clientIds]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[clientIds]']['label']"
+msgid "Clients"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[websiteUrl]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[websiteUrl]']['label']"
+msgid "Website URL"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[loginUrl]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[loginUrl]']['label']"
+msgid "Login URL"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Unassign%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Unassign']"
+msgid "Unassign"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[permissions]%27][%27options%27][%27clientEdit%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[permissions]']['options']['clientEdit']"
+msgid "Clients Edit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Clients+Edit%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Clients Edit']"
+msgid "Clients Edit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[permissions]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[permissions]']['label']"
+msgid "Permissions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[notfChangePass]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[notfChangePass]']['label']"
+msgid " Password Change"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[notfChangePass]%27][%27options%27][%27enable%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[notfChangePass]']['options']['enable']"
+msgid "Enable"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[notfChangePass]%27][%27options%27][%27notfChangeInsertPass%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[notfChangePass]']['options']['notfChangeInsertPass']"
+msgid "Insert New Password Into Email"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[reminderInsertPass]%27][%27options%27][%27reminderInsertPass%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[reminderInsertPass]']['options']['reminderInsertPass']"
+msgid "Insert Current Password Into Email"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[reminderInsertPass]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[reminderInsertPass]']['label']"
+msgid "Password Reminder"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access%27][%27access[reminderUnit]%27][%27options%27][%27disabled%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access']['access[reminderUnit]']['options']['disabled']"
+msgid "Disabled"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access%27][%27access[reminderUnit]%27][%27options%27][%27day%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access']['access[reminderUnit]']['options']['day']"
+msgid "Day"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access%27][%27access[reminderUnit]%27][%27options%27][%27week%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access']['access[reminderUnit]']['options']['week']"
+msgid "Week"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access%27][%27access[reminderUnit]%27][%27options%27][%27month%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access']['access[reminderUnit]']['options']['month']"
+msgid "Month"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[reminderUnit]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[reminderUnit]']['label']"
+msgid "Password Reminder"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[reminderPeriod]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[reminderPeriod]']['label']"
+msgid "Password Reminder"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[note]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[note]']['label']"
+msgid "Note"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Category+Details%27]
+msgid "Category Details"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27close%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Id%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Id']"
+msgid "Id"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Clients%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Clients']"
+msgid "Clients"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Admins%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Admins']"
+msgid "Administrators"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Client+List%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Client List']"
+msgid "Client List"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Only+Me%27]
+msgid "Only Me"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Categories%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Categories']"
+msgid "Categories"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27actionButtons%27][%27edit%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['actionButtons']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27actionButtons%27][%27delete%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['actionButtons']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27modal%27][%27Access+Details%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['modal']['Access Details']"
+msgid "Access Details"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Are+you+sure+you+want+to+delete+this+entry+from+access+details+list%3F%27]
+msgid ""
+"Are you sure you want to delete this entry from the list of access details?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27modal%27][%27delete%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['modal']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27actionButtons%27][%27notes%27]
+msgid "Notes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27actionButtons%27][%27Log+In%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['actionButtons']['Log In']"
+msgid "Log In"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Note%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Note']"
+msgid "Note"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Toggle+Filters%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Toggle Filters']"
+msgid "Toggle Filters"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Reset%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Reset']"
+msgid "Reset"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Filter%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Filter']"
+msgid "Filter"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Client%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Client']"
+msgid "Client"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27modal%27][%27Delete%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['modal']['Delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27actionButtons%27][%27details%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['actionButtons']['details']"
+msgid "Details"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Details%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Details']"
+msgid "Details"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Website+URL%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Website URL']"
+msgid "Website URL"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Log+In%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Log In']"
+msgid "Log In"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27General%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['General']"
+msgid "General"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Sharing%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Sharing']"
+msgid "Sharing"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Notifications%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Notifications']"
+msgid "Notifications"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Show+Password%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Show Password']"
+msgid "Show Password"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Hide+Password%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['Hide Password']"
+msgid "Hide Password"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[password]%27][%27Show+Password%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[password]']['Show Password']"
+msgid "Show Password"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[password]%27][%27Hide+Password%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[password]']['Hide Password']"
+msgid "Hide Password"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Access+Detail+%25s+has+been+added%27]
+msgid "Access detail %s has been added"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Access+Detail+%25s+has+been+deleted%27]
+msgid "Access detail %s has been deleted"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Access+Detail+%25s+has+been+saved%27]
+msgid "Access detail %s has been saved"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[websiteUrl]%27][%27placeholder%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[websiteUrl]']['placeholder']"
+msgid "http://example.com"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[loginUrl]%27][%27placeholder%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[loginUrl]']['placeholder']"
+msgid "http://example.com"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27pagesLabels%27][%27label%27][%27home%27]
+msgctxt "$_LANG['addonCA']['pagesLabels']['label']['home']"
+msgid "Owned Passwords"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27pagesLabels%27][%27label%27][%27shared%27]
+msgctxt "$_LANG['addonCA']['pagesLabels']['label']['shared']"
+msgid "Shared Passwords"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27pagesLabels%27][%27label%27][%27product%27]
+msgctxt "$_LANG['addonCA']['pagesLabels']['label']['product']"
+msgid "Product Passwords"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27pagesLabels%27][%27label%27][%27categories%27]
+msgctxt "$_LANG['addonCA']['pagesLabels']['label']['categories']"
+msgid "Categories"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Name%27]
+msgctxt "$_LANG['addonCA']['home']['Name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Username%27]
+msgctxt "$_LANG['addonCA']['home']['Username']"
+msgid "Username"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Password%27]
+msgctxt "$_LANG['addonCA']['home']['Password']"
+msgid "Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Shared%27]
+msgctxt "$_LANG['addonCA']['home']['Shared']"
+msgid "Shared"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Actions%27]
+msgctxt "$_LANG['addonCA']['home']['Actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Add+New%27]
+msgctxt "$_LANG['addonCA']['home']['Add New']"
+msgid "Add New"
+msgstr ""
+
+#: %24_LANG[%27Nothing+to+display%27]
+msgctxt "$_LANG['Nothing to display']"
+msgid "Nothing to display"
+msgstr ""
+
+#: %24_LANG[%27Search%27]
+msgctxt "$_LANG['Search']"
+msgid "Search"
+msgstr ""
+
+#: %24_LANG[%27Previous%27]
+msgctxt "$_LANG['Previous']"
+msgid "Previous"
+msgstr ""
+
+#: %24_LANG[%27Next%27]
+msgctxt "$_LANG['Next']"
+msgid "Next"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Field+is+required%27]
+msgctxt "$_LANG['addonCA']['home']['Field is required']"
+msgid "Field is required"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Unassign%27]
+msgctxt "$_LANG['addonCA']['home']['Unassign']"
+msgid "Unassign"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[name]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[name]']['label']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[categoryId]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[categoryId]']['label']"
+msgid "Category"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[username]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[username]']['label']"
+msgid "Username"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[password]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[password]']['label']"
+msgid "Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[websiteUrl]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[websiteUrl]']['label']"
+msgid "Website URL"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[loginUrl]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[loginUrl]']['label']"
+msgid "Log In"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[notfChangePass]%27][%27options%27][%27enable%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[notfChangePass]']['options']['enable']"
+msgid "Enable"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[notfChangePass]%27][%27options%27][%27notfChangeInsertPass%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[notfChangePass]']['options']['notfChangeInsertPass']"
+msgid " Insert New Password Into Email "
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[notfChangePass]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[notfChangePass]']['label']"
+msgid " Password Change"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[reminderPeriod]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[reminderPeriod]']['label']"
+msgid "Password Reminder"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access%27][%27access[reminderUnit]%27][%27options%27][%27disabled%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access']['access[reminderUnit]']['options']['disabled']"
+msgid "Disabled"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access%27][%27access[reminderUnit]%27][%27options%27][%27day%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access']['access[reminderUnit]']['options']['day']"
+msgid "Day"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access%27][%27access[reminderUnit]%27][%27options%27][%27week%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access']['access[reminderUnit]']['options']['week']"
+msgid "Week"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access%27][%27access[reminderUnit]%27][%27options%27][%27month%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access']['access[reminderUnit]']['options']['month']"
+msgid "Month"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[reminder]%27][%27options%27][%27reminderInsertPass%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[reminder]']['options']['reminderInsertPass']"
+msgid "Insert Current Password Into Email "
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[note]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[note]']['label']"
+msgid "Note"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Add+New+Own+Password%27]
+msgctxt "$_LANG['addonCA']['home']['Add New Own Password']"
+msgid "Add New Owned Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27modal%27][%27Add%27]
+msgctxt "$_LANG['addonCA']['home']['modal']['Add']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27modal%27][%27close%27]
+msgctxt "$_LANG['addonCA']['home']['modal']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Password+%25s+has+been+added%27]
+msgctxt "$_LANG['addonCA']['home']['Password %s has been added']"
+msgid "Password %s has been added"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27actionButtons%27][%27Log+In%27]
+msgctxt "$_LANG['addonCA']['home']['actionButtons']['Log In']"
+msgid "Log In"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27actionButtons%27][%27details%27]
+msgctxt "$_LANG['addonCA']['home']['actionButtons']['details']"
+msgid "Details"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27actionButtons%27][%27edit%27]
+msgctxt "$_LANG['addonCA']['home']['actionButtons']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27actionButtons%27][%27delete%27]
+msgctxt "$_LANG['addonCA']['home']['actionButtons']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Category%27]
+msgctxt "$_LANG['addonCA']['home']['Category']"
+msgid "Category"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Edit+Own+Password%27]
+msgctxt "$_LANG['addonCA']['home']['Edit Own Password']"
+msgid "Edit Owned Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Save%27]
+msgctxt "$_LANG['addonCA']['home']['Save']"
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Password+%25s+has+been+saved%27]
+msgctxt "$_LANG['addonCA']['home']['Password %s has been saved']"
+msgid "Password %s has been saved"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27modal%27][%27Delete+Own+Password%27]
+msgctxt "$_LANG['addonCA']['home']['modal']['Delete Own Password']"
+msgid "Delete Owned Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Are+you+sure+you+want+to+delete+this+entry+from+own+passwords+list%3F%27]
+msgctxt "$_LANG['addonCA']['home']['Are you sure you want to delete this entry from own passwords list?']"
+msgid ""
+"Are you sure you want to delete this entry from the list of owned passwords?"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27modal%27][%27delete%27]
+msgctxt "$_LANG['addonCA']['home']['modal']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Details%27]
+msgctxt "$_LANG['addonCA']['home']['Details']"
+msgid "Details"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27close%27]
+msgctxt "$_LANG['addonCA']['home']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Password++%25s+has+been+deleted%27]
+msgctxt "$_LANG['addonCA']['home']['Password  %s has been deleted']"
+msgid "Password  %s has been deleted"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Website+URL%27]
+msgctxt "$_LANG['addonCA']['home']['Website URL']"
+msgid "Website URL"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Log+In%27]
+msgctxt "$_LANG['addonCA']['home']['Log In']"
+msgid "Log In"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Note%27]
+msgctxt "$_LANG['addonCA']['home']['Note']"
+msgid "Note"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Owned+Passwords+limit+exceeded%27]
+msgid "The limit of owned passwords has been exceeded"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Name%27]
+msgctxt "$_LANG['addonCA']['shared']['Name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Username%27]
+msgctxt "$_LANG['addonCA']['shared']['Username']"
+msgid "Username"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Password%27]
+msgctxt "$_LANG['addonCA']['shared']['Password']"
+msgid "Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Shared%27]
+msgctxt "$_LANG['addonCA']['shared']['Shared']"
+msgid "Shared"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Category%27]
+msgctxt "$_LANG['addonCA']['shared']['Category']"
+msgid "Category"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Actions%27]
+msgctxt "$_LANG['addonCA']['shared']['Actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Add+New%27]
+msgctxt "$_LANG['addonCA']['shared']['Add New']"
+msgid "Add New"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27actionButtons%27][%27Log+In%27]
+msgctxt "$_LANG['addonCA']['shared']['actionButtons']['Log In']"
+msgid "Log In"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27actionButtons%27][%27details%27]
+msgctxt "$_LANG['addonCA']['shared']['actionButtons']['details']"
+msgid "Details"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27actionButtons%27][%27edit%27]
+msgctxt "$_LANG['addonCA']['shared']['actionButtons']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27actionButtons%27][%27delete%27]
+msgctxt "$_LANG['addonCA']['shared']['actionButtons']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[name]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[name]']['label']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[categoryId]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[categoryId]']['label']"
+msgid "Category"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[username]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[username]']['label']"
+msgid "Username"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[password]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[password]']['label']"
+msgid "Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[websiteUrl]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[websiteUrl]']['label']"
+msgid "Website URL"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[loginUrl]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[loginUrl]']['label']"
+msgid "Log In"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[notfChangePass]%27][%27options%27][%27enable%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[notfChangePass]']['options']['enable']"
+msgid "Enable"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[notfChangePass]%27][%27options%27][%27notfChangeInsertPass%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[notfChangePass]']['options']['notfChangeInsertPass']"
+msgid " Insert New Password Into Email "
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[notfChangePass]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[notfChangePass]']['label']"
+msgid "Password Change Notification"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[reminderPeriod]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[reminderPeriod]']['label']"
+msgid "Password Reminder"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access%27][%27access[reminderUnit]%27][%27options%27][%27disabled%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access']['access[reminderUnit]']['options']['disabled']"
+msgid "Disabled"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access%27][%27access[reminderUnit]%27][%27options%27][%27day%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access']['access[reminderUnit]']['options']['day']"
+msgid "Day"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access%27][%27access[reminderUnit]%27][%27options%27][%27week%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access']['access[reminderUnit]']['options']['week']"
+msgid "Week"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access%27][%27access[reminderUnit]%27][%27options%27][%27month%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access']['access[reminderUnit]']['options']['month']"
+msgid "Month"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[reminder]%27][%27options%27][%27reminderInsertPass%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[reminder]']['options']['reminderInsertPass']"
+msgid "Insert Current Password Into Email "
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[note]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[note]']['label']"
+msgid "Note"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Field+is+required%27]
+msgctxt "$_LANG['addonCA']['shared']['Field is required']"
+msgid "Field is required"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Unassign%27]
+msgctxt "$_LANG['addonCA']['shared']['Unassign']"
+msgid "Unassign"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Add+New+Shared+Password%27]
+msgid "Add New Shared Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27modal%27][%27Add%27]
+msgctxt "$_LANG['addonCA']['shared']['modal']['Add']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27modal%27][%27close%27]
+msgctxt "$_LANG['addonCA']['shared']['modal']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Edit+Shared+Password%27]
+msgid "Edit Shared Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Save%27]
+msgctxt "$_LANG['addonCA']['shared']['Save']"
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27modal%27][%27Delete+Shared+Password%27]
+msgid "Delete Shared Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Are+you+sure+you+want+to+delete+this+entry+from+own+passwords+list%3F%27]
+msgid ""
+"Are you sure you want to delete this entry from the list of shared passwords?"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27modal%27][%27delete%27]
+msgctxt "$_LANG['addonCA']['shared']['modal']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Details%27]
+msgctxt "$_LANG['addonCA']['shared']['Details']"
+msgid "Details"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Website+URL%27]
+msgctxt "$_LANG['addonCA']['shared']['Website URL']"
+msgid "Website URL"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Log+In%27]
+msgctxt "$_LANG['addonCA']['shared']['Log In']"
+msgid "Log In"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Note%27]
+msgctxt "$_LANG['addonCA']['shared']['Note']"
+msgid "Note"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27close%27]
+msgctxt "$_LANG['addonCA']['shared']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Password+%25s+has+been+saved%27]
+msgctxt "$_LANG['addonCA']['shared']['Password %s has been saved']"
+msgid "Password %s has been saved"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27No+access+to+that+password%27]
+msgid "You have no access to this password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Show+Password%27]
+msgctxt "$_LANG['addonCA']['shared']['Show Password']"
+msgid "Show Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Hide+Password%27]
+msgctxt "$_LANG['addonCA']['shared']['Hide Password']"
+msgid "Hide Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[password]%27][%27Show+Password%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[password]']['Show Password']"
+msgid "Show Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[password]%27][%27Hide+Password%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[password]']['Hide Password']"
+msgid "Hide Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Edit%27]
+msgctxt "$_LANG['addonCA']['shared']['Edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27General%27]
+msgctxt "$_LANG['addonCA']['shared']['General']"
+msgid "General"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Sharing%27]
+msgctxt "$_LANG['addonCA']['shared']['Sharing']"
+msgid "Sharing"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Notifications%27]
+msgctxt "$_LANG['addonCA']['shared']['Notifications']"
+msgid "Notifications"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[websiteUrl]%27][%27placeholder%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[websiteUrl]']['placeholder']"
+msgid "http://example.com"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[loginUrl]%27][%27placeholder%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[loginUrl]']['placeholder']"
+msgid "http://example.com"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27Field+is+required%27]
+msgctxt "$_LANG['addonCA']['categories']['Field is required']"
+msgid "Field is required"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27category%27][%27category[name]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['categories']['category']['category[name]']['label']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27category%27][%27category[description]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['categories']['category']['category[description]']['label']"
+msgid "Description"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27Name%27]
+msgctxt "$_LANG['addonCA']['categories']['Name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27Description%27]
+msgctxt "$_LANG['addonCA']['categories']['Description']"
+msgid "Description"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27Actions%27]
+msgctxt "$_LANG['addonCA']['categories']['Actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27Add+Category%27]
+msgctxt "$_LANG['addonCA']['categories']['Add Category']"
+msgid "Add Category"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27Add+New+Category%27]
+msgctxt "$_LANG['addonCA']['categories']['Add New Category']"
+msgid "Add New Category"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27modal%27][%27Add%27]
+msgctxt "$_LANG['addonCA']['categories']['modal']['Add']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27modal%27][%27close%27]
+msgctxt "$_LANG['addonCA']['categories']['modal']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27Edit+Category%27]
+msgctxt "$_LANG['addonCA']['categories']['Edit Category']"
+msgid "Edit Category"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27Save%27]
+msgctxt "$_LANG['addonCA']['categories']['Save']"
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27modal%27][%27Delete%27]
+msgctxt "$_LANG['addonCA']['categories']['modal']['Delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27Are+you+sure+you+want+to+delete+this+entry+from+categories+list%3F%27]
+msgctxt "$_LANG['addonCA']['categories']['Are you sure you want to delete this entry from categories list?']"
+msgid "Are you sure you want to delete this entry from the list of categories?"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27modal%27][%27delete%27]
+msgctxt "$_LANG['addonCA']['categories']['modal']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27actionButtons%27][%27edit%27]
+msgctxt "$_LANG['addonCA']['categories']['actionButtons']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27actionButtons%27][%27delete%27]
+msgctxt "$_LANG['addonCA']['categories']['actionButtons']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27Category+%25s+has+been+added%27]
+msgctxt "$_LANG['addonCA']['categories']['Category %s has been added']"
+msgid "Category %s has been added"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27Category+%25s+has+been+deleted%27]
+msgctxt "$_LANG['addonCA']['categories']['Category %s has been deleted']"
+msgid "Category %s has been deleted"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27Category+%25s+has+been+saved%27]
+msgctxt "$_LANG['addonCA']['categories']['Category %s has been saved']"
+msgid "Category %s has been saved"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Product/Service%27]
+msgctxt "$_LANG['addonCA']['product']['Product/Service']"
+msgid "Product/Service"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Username%27]
+msgctxt "$_LANG['addonCA']['product']['Username']"
+msgid "Username"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Password%27]
+msgctxt "$_LANG['addonCA']['product']['Password']"
+msgid "Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Billing+Cycle%27]
+msgid "Billing Cycle"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Next+Due+Date%27]
+msgid "Next Due Date"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27IP+Address%27]
+msgid "IP Address"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Status%27]
+msgid "Status"
+msgstr ""
+
+#: %24_LANG[%27Monthly%27]
+msgid "Monthly"
+msgstr ""
+
+#: %24_LANG[%27Free+Account%27]
+msgid "Free Account"
+msgstr ""
+
+#: %24_LANG[%27Passwords%27]
+msgid "Passwords"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Show+Password%27]
+msgctxt "$_LANG['addonCA']['product']['Show Password']"
+msgid "Show Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Hide+Password%27]
+msgctxt "$_LANG['addonCA']['product']['Hide Password']"
+msgid "Hide Password"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Dashboard%27]
+msgctxt "$_LANG['addonAA']['home']['Dashboard']"
+msgid "Dashboard"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Clients+Summary%27]
+msgid "Clients Summary"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Client+Passwords%27]
+msgid "Client Passwords"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Client+Categories%27]
+msgctxt "$_LANG['addonAA']['home']['Client Categories']"
+msgid "Client Categories"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Admin+Summary%27]
+msgid "Administrators Summary"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Admin+Passwords%27]
+msgid "Administrator Passwords"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Admin+Categories%27]
+msgctxt "$_LANG['addonAA']['home']['Admin Categories']"
+msgid "Administrator Categories"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[adminView]%27][%27options%27][%27enable%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[adminView]']['options']['enable']"
+msgid "Only shared passwords are available for the administrator "
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[adminView]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[adminView]']['label']"
+msgid "Share With Administrator"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27General%27]
+msgctxt "$_LANG['addonCA']['home']['General']"
+msgid "General"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Sharing%27]
+msgctxt "$_LANG['addonCA']['home']['Sharing']"
+msgid "Sharing"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Notifications%27]
+msgctxt "$_LANG['addonCA']['home']['Notifications']"
+msgid "Notifications"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Show+Password%27]
+msgctxt "$_LANG['addonCA']['home']['Show Password']"
+msgid "Show Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Hide+Password%27]
+msgctxt "$_LANG['addonCA']['home']['Hide Password']"
+msgid "Hide Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[password]%27][%27Show+Password%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[password]']['Show Password']"
+msgid "Show Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[password]%27][%27Hide+Password%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[password]']['Hide Password']"
+msgid "Hide Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[websiteUrl]%27][%27placeholder%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[websiteUrl]']['placeholder']"
+msgid "http://example.com"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[loginUrl]%27][%27placeholder%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[loginUrl]']['placeholder']"
+msgid "http://example.com"
+msgstr ""
+
+#: %24_LANG[%27Show+_MENU_+entries%27]
+msgid "Show _MENU_ entries"
+msgstr ""
+
+#: %24_LANG[%27Showing+_START_+to+_END_+of+_TOTAL_+entries%27]
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+#: %24_LANG[%27(filtered+from+_MAX_+total+entries)%27]
+msgid "(filtered from _MAX_ total entries)"
+msgstr ""
+
+#: %24_LANG[%27Password+Manager%27]
+msgid "Password Manager"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27Category+%5C%27%25s%5C%27+has+been+saved%27]
+msgid "Category '%s' has been saved"
+msgstr ""
+
+#: %24_LANG[%27Quarterly%27]
+msgid "Quarterly"
+msgstr ""
+
+#: %24_LANG[%27No+access+to+this+page%27]
+msgid "You have no access to this page"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[clientMasterPassword]%27][%27options%27][%27on%27]
+msgid "Use the master password to protect client's owned logins and passwords"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[clientMasterPassword]%27][%27label%27]
+msgid "Master Password "
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27pagesLabels%27][%27label%27][%27masterPassword%27]
+msgctxt "$_LANG['addonCA']['pagesLabels']['label']['masterPassword']"
+msgid "Master Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Confirm+master+password+to+continue%27]
+msgid "Confirm the master password to continue"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Master+Password%27]
+msgctxt "$_LANG['addonCA']['home']['Master Password']"
+msgid "Master Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27You+are+entering+an+owned+passwords+area+and+must+confirm+your+master+password+to+continue.%27]
+msgid "Confirm your master password before entering the owned passwords area. "
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Confirm%27]
+msgctxt "$_LANG['addonCA']['home']['Confirm']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Password+is+incorrect%27]
+msgid "Password is incorrect"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[passwordRandomChars]%27][%27label%27]
+msgid "Password Random Characters"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[passwordStrength]%27][%27label%27]
+msgid "Password Strength"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[passwordStrength]%27][%27description%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['settings[passwordStrength]']['description']"
+msgid ""
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[password]%27][%27Generate+Password%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['access[password]']['Generate Password']"
+msgid "Generate Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[password]%27][%27Generate+Password%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[password]']['Generate Password']"
+msgid "Generate Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[password]%27][%27Generate+Password%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[password]']['Generate Password']"
+msgid "Generate Password"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27contacts%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['contacts']"
+msgid "Contacts"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27Client+Contacts%27]
+msgid "Client Contacts"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27Toggle+Filters%27]
+msgctxt "$_LANG['addonAA']['contacts']['Toggle Filters']"
+msgid "Toggle Filters"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27Client%27]
+msgctxt "$_LANG['addonAA']['contacts']['Client']"
+msgid "Client"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27ID%27]
+msgctxt "$_LANG['addonAA']['contacts']['ID']"
+msgid "ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27First+Name%27]
+msgctxt "$_LANG['addonAA']['contacts']['First Name']"
+msgid "First Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27Last+Name%27]
+msgctxt "$_LANG['addonAA']['contacts']['Last Name']"
+msgid "Last Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27Email+Address%27]
+msgctxt "$_LANG['addonAA']['contacts']['Email Address']"
+msgid "Email Address"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27Permissions%27]
+msgctxt "$_LANG['addonAA']['contacts']['Permissions']"
+msgid "Permissions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27Actions%27]
+msgctxt "$_LANG['addonAA']['contacts']['Actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27Edit+Permissions%27]
+msgid "Edit Permissions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27Save%27]
+msgctxt "$_LANG['addonAA']['contacts']['Save']"
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27modal%27][%27close%27]
+msgctxt "$_LANG['addonAA']['contacts']['modal']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27Nothing+to+display%27]
+msgctxt "$_LANG['addonAA']['contacts']['Nothing to display']"
+msgid "Nothing to display"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27search%27]
+msgctxt "$_LANG['addonAA']['contacts']['search']"
+msgid "Search"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27previous%27]
+msgctxt "$_LANG['addonAA']['contacts']['previous']"
+msgid "Previous"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27next%27]
+msgctxt "$_LANG['addonAA']['contacts']['next']"
+msgid "Next"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27Reset%27]
+msgctxt "$_LANG['addonAA']['contacts']['Reset']"
+msgid "Reset"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27Filter%27]
+msgctxt "$_LANG['addonAA']['contacts']['Filter']"
+msgid "Filter"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27home%27]
+msgctxt "$_LANG['addonAA']['contacts']['home']"
+msgid "Owned Passwords"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27categories%27]
+msgctxt "$_LANG['addonAA']['contacts']['categories']"
+msgid "Categories"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27masterPassword%27]
+msgctxt "$_LANG['addonAA']['contacts']['masterPassword']"
+msgid "Master Password"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27product%27]
+msgctxt "$_LANG['addonAA']['contacts']['product']"
+msgid "Product Passwords"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27shared%27]
+msgctxt "$_LANG['addonAA']['contacts']['shared']"
+msgid "Shared Passwords"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27actionButtons%27][%27edit%27]
+msgctxt "$_LANG['addonAA']['contacts']['actionButtons']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27Permissions+For+Contact:%27]
+msgctxt "$_LANG['addonAA']['contacts']['Permissions For Contact:']"
+msgid "Permissions For Contact:"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27Allow+Access%27]
+msgctxt "$_LANG['addonAA']['contacts']['Allow Access']"
+msgid "Allow Access"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27contacts%27][%27Contact+permissions+%23%25s+have+been+saved%27]
+msgctxt "$_LANG['addonAA']['contacts']['Contact permissions #%s have been saved']"
+msgid "Contact permissions #%s have been saved"
+msgstr ""
+
+#: %24_LANG[%27Access+denied%27]
+msgid "Access denied"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Services+Passwords%27]
+msgid "Services Passwords"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Additional+Services+Passwords%27]
+msgid "Additional Services Passwords"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Name%27]
+msgctxt "$_LANG['addonCA']['product']['Name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Shared%27]
+msgctxt "$_LANG['addonCA']['product']['Shared']"
+msgid "Shared"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Category%27]
+msgctxt "$_LANG['addonCA']['product']['Category']"
+msgid "Category"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Actions%27]
+msgctxt "$_LANG['addonCA']['product']['Actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Add+New%27]
+msgctxt "$_LANG['addonCA']['product']['Add New']"
+msgid "Add New"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Add+New+Own+Password%27]
+msgctxt "$_LANG['addonCA']['product']['Add New Own Password']"
+msgid "Add New Owned Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27General%27]
+msgctxt "$_LANG['addonCA']['product']['General']"
+msgid "General"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Sharing%27]
+msgctxt "$_LANG['addonCA']['product']['Sharing']"
+msgid "Sharing"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Notifications%27]
+msgctxt "$_LANG['addonCA']['product']['Notifications']"
+msgid "Notifications"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27modal%27][%27Add%27]
+msgctxt "$_LANG['addonCA']['product']['modal']['Add']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27modal%27][%27close%27]
+msgctxt "$_LANG['addonCA']['product']['modal']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Edit+Own+Password%27]
+msgctxt "$_LANG['addonCA']['product']['Edit Own Password']"
+msgid "Edit Owned Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Save%27]
+msgctxt "$_LANG['addonCA']['product']['Save']"
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27modal%27][%27Delete+Own+Password%27]
+msgctxt "$_LANG['addonCA']['product']['modal']['Delete Own Password']"
+msgid "Delete Owned Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Are+you+sure+you+want+to+delete+this+entry+from+own+passwords+list%3F%27]
+msgctxt "$_LANG['addonCA']['product']['Are you sure you want to delete this entry from own passwords list?']"
+msgid ""
+"Are you sure you want to delete this entry from the list of owned passwords?"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27modal%27][%27delete%27]
+msgctxt "$_LANG['addonCA']['product']['modal']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Details%27]
+msgctxt "$_LANG['addonCA']['product']['Details']"
+msgid "Details"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Website+URL%27]
+msgctxt "$_LANG['addonCA']['product']['Website URL']"
+msgid "Website URL"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Log+In%27]
+msgctxt "$_LANG['addonCA']['product']['Log In']"
+msgid "Log In"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Note%27]
+msgctxt "$_LANG['addonCA']['product']['Note']"
+msgid "Note"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27close%27]
+msgctxt "$_LANG['addonCA']['product']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27details%27]
+msgctxt "$_LANG['addonCA']['product']['details']"
+msgid "Details"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27edit%27]
+msgctxt "$_LANG['addonCA']['product']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27delete%27]
+msgctxt "$_LANG['addonCA']['product']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Field+is+required%27]
+msgctxt "$_LANG['addonCA']['product']['Field is required']"
+msgid "Field is required"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[name]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[name]']['label']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[username]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[username]']['label']"
+msgid "Username"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[password]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[password]']['label']"
+msgid "Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[password]%27][%27Generate+Password%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[password]']['Generate Password']"
+msgid "Generate Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[websiteUrl]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[websiteUrl]']['label']"
+msgid "Website URL"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[websiteUrl]%27][%27placeholder%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[websiteUrl]']['placeholder']"
+msgid "http://example.com"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[loginUrl]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[loginUrl]']['label']"
+msgid "Login URL"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[loginUrl]%27][%27placeholder%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[loginUrl]']['placeholder']"
+msgid "http://example.com"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[note]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[note]']['label']"
+msgid "Note"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Unassign%27]
+msgctxt "$_LANG['addonCA']['product']['Unassign']"
+msgid "Unassign"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[categoryId]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[categoryId]']['label']"
+msgid "Category"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[adminView]%27][%27options%27][%27enable%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[adminView]']['options']['enable']"
+msgid "Only shared passwords are available for the administrator "
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[adminView]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[adminView]']['label']"
+msgid "Share With Administrator"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access%27][%27access[reminderUnit]%27][%27options%27][%27disabled%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access']['access[reminderUnit]']['options']['disabled']"
+msgid "Disabled"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access%27][%27access[reminderUnit]%27][%27options%27][%27day%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access']['access[reminderUnit]']['options']['day']"
+msgid "Day"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access%27][%27access[reminderUnit]%27][%27options%27][%27week%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access']['access[reminderUnit]']['options']['week']"
+msgid "Week"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access%27][%27access[reminderUnit]%27][%27options%27][%27month%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access']['access[reminderUnit]']['options']['month']"
+msgid "Month"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[reminder]%27][%27options%27][%27reminderInsertPass%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[reminder]']['options']['reminderInsertPass']"
+msgid "Insert Current Password Into Email"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[password]%27][%27Show+Password%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[password]']['Show Password']"
+msgid "Show Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[password]%27][%27Hide+Password%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[password]']['Hide Password']"
+msgid "Hide Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[notfChangePass]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[notfChangePass]']['label']"
+msgid " Password Change"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[notfChangePass]%27][%27options%27][%27enable%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[notfChangePass]']['options']['enable']"
+msgid "Enable"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[notfChangePass]%27][%27options%27][%27notfChangeInsertPass%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[notfChangePass]']['options']['notfChangeInsertPass']"
+msgid "Insert New Password Into Email"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[reminderInsertPass]%27][%27options%27][%27reminderInsertPass%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[reminderInsertPass]']['options']['reminderInsertPass']"
+msgid "Insert Current Password Into Email"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[reminderInsertPass]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[reminderInsertPass]']['label']"
+msgid "Password Reminder"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access%27][%27access[reminderUnit]%27][%27options%27][%27disabled%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access']['access[reminderUnit]']['options']['disabled']"
+msgid "Disabled"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27access[reminderPeriod]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['product']['access']['access[reminderPeriod]']['label']"
+msgid "Password Reminder"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Password+%25s+has+been+deleted%27]
+msgid "Password %s has been deleted"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Password+%25s+has+been+added%27]
+msgctxt "$_LANG['addonCA']['product']['Password %s has been added']"
+msgid "Password %s has been added"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27access%27][%27hostingLink[hostingId]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['product']['access']['hostingLink[hostingId]']['label']"
+msgid "Product/Service"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Product/Service+-+field+is+required%27]
+msgid "Product/Service - field is required"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Password+%25s+has+been+saved%27]
+msgctxt "$_LANG['addonCA']['product']['Password %s has been saved']"
+msgid "Password %s has been saved"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27product%27][%27Password++%25s+has+been+deleted%27]
+msgctxt "$_LANG['addonCA']['product']['Password  %s has been deleted']"
+msgid "Password  %s has been deleted"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27home%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['home']"
+msgid "Dashboard"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27hostingLink[hostingId]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['accessDetails']['access']['hostingLink[hostingId]']['label']"
+msgid "Product/Service"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27E-Mail%27]
+msgid "E-Mail"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Add%27]
+msgctxt "$_LANG['addonCA']['shared']['Add']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27remove%27]
+msgctxt "$_LANG['addonCA']['shared']['remove']"
+msgid "Remove"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Emails%27]
+msgctxt "$_LANG['addonCA']['shared']['Emails']"
+msgid "Emails"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Emails%27]
+msgctxt "$_LANG['addonCA']['home']['Emails']"
+msgid "Emails"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Add%27]
+msgctxt "$_LANG['addonCA']['home']['Add']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27remove%27]
+msgctxt "$_LANG['addonCA']['home']['remove']"
+msgid "Remove"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[permissions]%27][%27options%27][%27clientEdit%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[permissions]']['options']['clientEdit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[permissions]%27][%27options%27][%27clientDelete%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[permissions]']['options']['clientDelete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27access%27][%27access[permissions]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['home']['access']['access[permissions]']['label']"
+msgid "Permissions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27access%27][%27access[permissions]%27][%27options%27][%27clientDelete%27]
+msgid "Client Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27accessDetails%27][%27Clients+Delete%27]
+msgid "Clients Delete"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Shared+with+administrator%27]
+msgid "Shared with administrator"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27No+access+for+Administrator%27]
+msgid "No access for Administrator"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27modal%27][%27Delete+Password%27]
+msgid "Delete Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Are+you+sure+you+want+to+delete+this+entry+from+passwords+list%3F%27]
+msgid "Are you sure you want to delete this entry from the list of passwords?"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27Password++%25s+has+been+deleted%27]
+msgctxt "$_LANG['addonCA']['shared']['Password  %s has been deleted']"
+msgid "Password  %s has been deleted"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27categories%27][%27Category+%5C%27%25s%5C%27+already+exist%27]
+msgid "Category '%s' already exists"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27steps%27]
+msgid ""
+"Your newly installed module has to be configured. Complete the following "
+"steps:"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27step1%27]
+msgid ""
+"Move to the 'Settings' tab to configure the access to product password "
+"restrictions, \n"
+"define email notifications and manage security settings."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27step2%27]
+msgid "Set the categories for users under the 'Categories' tab "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27step3%27]
+msgid "'Add Category'"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Add%27]
+msgid "'Add'"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27step4%27]
+msgid "Create clients' 'Access Details' "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27step5%27]
+msgid " 'Add New' "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27step6%27]
+msgid "Monitor the statistics on access details on the 'Dashboard'"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27For+more+detailed+information+visit+our%27]
+msgid "For more detailed information visit our"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Wiki.%27]
+msgid "Wiki."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Hide+Guide%27]
+msgctxt "$_LANG['addonAA']['home']['Hide Guide']"
+msgid "Hide Guide"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[clientAreaContactPermissions]%27][%27options%27][%27on%27]
+msgid "Enable the 'Contacts Permissions' in the client area "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[clientAreaContactPermissions]%27][%27label%27]
+msgid "Contacts Permissions"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27pagesLabels%27][%27label%27][%27contacts%27]
+msgctxt "$_LANG['addonCA']['pagesLabels']['label']['contacts']"
+msgid "Contacts"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27contacts%27][%27First+Name%27]
+msgctxt "$_LANG['addonCA']['contacts']['First Name']"
+msgid "First Name"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27contacts%27][%27Last+Name%27]
+msgctxt "$_LANG['addonCA']['contacts']['Last Name']"
+msgid "Last Name"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27contacts%27][%27Email+Address%27]
+msgctxt "$_LANG['addonCA']['contacts']['Email Address']"
+msgid "Email Address"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27contacts%27][%27Permissions%27]
+msgctxt "$_LANG['addonCA']['contacts']['Permissions']"
+msgid "Permissions"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27contacts%27][%27Actions%27]
+msgctxt "$_LANG['addonCA']['contacts']['Actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27contacts%27][%27home%27]
+msgctxt "$_LANG['addonCA']['contacts']['home']"
+msgid "Owned Passwords"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27contacts%27][%27categories%27]
+msgctxt "$_LANG['addonCA']['contacts']['categories']"
+msgid "Categories"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27contacts%27][%27masterPassword%27]
+msgctxt "$_LANG['addonCA']['contacts']['masterPassword']"
+msgid "Master Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27contacts%27][%27product%27]
+msgctxt "$_LANG['addonCA']['contacts']['product']"
+msgid "Product Passwords"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27contacts%27][%27shared%27]
+msgctxt "$_LANG['addonCA']['contacts']['shared']"
+msgid "Shared Passwords"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27contacts%27][%27Permissions+For+Contact:%27]
+msgctxt "$_LANG['addonCA']['contacts']['Permissions For Contact:']"
+msgid "Permissions For Contact:"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27contacts%27][%27Allow+Access%27]
+msgctxt "$_LANG['addonCA']['contacts']['Allow Access']"
+msgid "Allow Access"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27contacts%27][%27Save%27]
+msgctxt "$_LANG['addonCA']['contacts']['Save']"
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27contacts%27][%27modal%27][%27close%27]
+msgctxt "$_LANG['addonCA']['contacts']['modal']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27contacts%27][%27actionButtons%27][%27edit%27]
+msgctxt "$_LANG['addonCA']['contacts']['actionButtons']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27contacts%27][%27Contact+permissions+%23%25s+have+been+saved%27]
+msgctxt "$_LANG['addonCA']['contacts']['Contact permissions #%s have been saved']"
+msgid "Contact permissions #%s have been saved"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Your+owned+password+limit+is:+%25s%27]
+msgid "Your owned password limit is: %s"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Enable+Master+Password%27]
+msgid "Enable Master Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Minimum+of+6+characters%27]
+msgid "Minimum of 6 characters"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Save+Changes%27]
+msgctxt "$_LANG['addonCA']['home']['Save Changes']"
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Change+Master+Password%27]
+msgid "Change Master Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Current+Master+Password%27]
+msgid "Current Master Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Enter+Master+Password+here%27]
+msgid "Enter the master password here"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27New+Master+Password%27]
+msgid "New Master Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Disable+Master+Password%27]
+msgid "Disable Master Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Whoops,+these+don%5C%27t+match%27]
+msgid "Whoops, these don't match"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[hideGuide]%27][%27options%27][%27on%27]
+msgid "Tick to enable "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27settings[hideGuide]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['settings[hideGuide]']['label']"
+msgid "Hide Guide"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[adminView]%27][%27options%27][%27enable%27]
+msgid "Only shared passwords are available for the administrator"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[adminView]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[adminView]']['label']"
+msgid "Share With Administrator"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[permissions]%27][%27options%27][%27clientEdit%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[permissions]']['options']['clientEdit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[permissions]%27][%27options%27][%27clientDelete%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[permissions]']['options']['clientDelete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27shared%27][%27access%27][%27access[permissions]%27][%27label%27]
+msgctxt "$_LANG['addonCA']['shared']['access']['access[permissions]']['label']"
+msgid "Permissions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27Please+select+a+value+between+1+and+100%27]
+msgid "Please select a value between 1 and 100"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Password%27]
+msgctxt "$_LANG['addonCA']['home']['Password']"
+msgid "Password"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27home%27][%27Add+an+extra+layer+of+protection+for+your+owned+passwords+-+enable+the+master+password+that+will+be+required+before+accessing+the+%5C%27Owned+Passwords%5C%27+page.%27]
+msgid ""
+"Add an extra layer of protection for your owned passwords - enable the "
+"master password that will be required before accessing the 'Owned Passwords' "
+"page."
+msgstr ""
+
+#: %24_LANG[%27Provide+email+addresses+of+additional+system+users+with+whom+you+would+like+to+share+these+credentials.%27]
+msgid ""
+"Provide email addresses of additional system users with whom you would like "
+"to share these credentials."
+msgstr ""

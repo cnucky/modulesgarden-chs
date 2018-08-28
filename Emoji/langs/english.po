@@ -1,0 +1,497 @@
+#. extracted from Emoji/langs/english.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-28 16:53+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.3.0\n"
+
+#: %24_LANG[%27logs%27][%27order%27]
+msgid "Order"
+msgstr ""
+
+#: %24_LANG[%27logs%27][%27emojiOrderLogChangeSuccess%27]
+msgid "Emoji has been applied to the ordered domain -"
+msgstr ""
+
+#: %24_LANG[%27logs%27][%27emojiOrderLogChangeError%27]
+msgid "Emoji has not been applied to the ordered domain -"
+msgstr ""
+
+#: %24_LANG[%27logs%27][%27invoice%27]
+msgid "Invoice"
+msgstr ""
+
+#: %24_LANG[%27logs%27][%27Invoice+Payment+Confirmation%27]
+msgid " the 'Invoice Payment Confirmation' email notification -"
+msgstr ""
+
+#: %24_LANG[%27logs%27][%27Invoice+Created%27]
+msgid " the 'Invoice Created' email notification -"
+msgstr ""
+
+#: %24_LANG[%27logs%27][%27emojiInvoiceLogChangeSuccess%27]
+msgid "Emoji has been applied to the domain in"
+msgstr ""
+
+#: %24_LANG[%27logs%27][%27emojiInvoiceLogChangeError%27]
+msgid " Emoji has not been applied to the domain in"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27mainContainer%27][%27settings%27][%27boxSection%27][%27emojiPopupShow%27][%27emojiPopupShow%27]
+msgid "Emoji Search Picker In Text Area"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27mainContainer%27][%27settings%27][%27boxSection%27][%27emojiPopupShow%27][%27description%27]
+msgid ""
+"If enabled, the emoji popup will be displayed when entering the emoji code "
+"in the ticket"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27mainContainer%27][%27settings%27][%27boxSection%27][%27emojiMenuPickerShow%27][%27emojiMenuPickerShow%27]
+msgid "Emoji Search Picker In Toolbar"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27mainContainer%27][%27settings%27][%27boxSection%27][%27emojiMenuPickerShow%27][%27description%27]
+msgid ""
+"If enabled, the button with emoji search picker will be displayed in the "
+"ticket editor toolbar"
+msgstr ""
+
+#: %24_LANG[%27logs%27][%27Support+Ticket+Opened%27]
+msgid " the 'Support Ticket Opened' email notification -"
+msgstr ""
+
+#: %24_LANG[%27logs%27][%27Support+Ticket+Reply%27]
+msgid " the 'Support Ticket Reply' email notification -"
+msgstr ""
+
+#: %24_LANG[%27logs%27][%27Support+Ticket+Opened+by+Admin%27]
+msgid " the 'Support Ticket Opened by Admin' email notification -"
+msgstr ""
+
+#: %24_LANG[%27logs%27][%27ticket%27]
+msgid "Ticket"
+msgstr ""
+
+#: %24_LANG[%27logs%27][%27emojiLogChangeSuccess%27]
+msgid "Emoji has been applied to"
+msgstr ""
+
+#: %24_LANG[%27logs%27][%27emojiLogChangeError%27]
+msgid "Emoji has not been applied to"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27mainContainer%27][%27settings%27][%27boxSection%27][%27emojiLengthToShowPopup%27][%27emojiLengthToShowPopup%27]
+msgid "Characters Number For Popup Display"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27mainContainer%27][%27settings%27][%27boxSection%27][%27emojiLengthToShowPopup%27][%27description%27]
+msgid ""
+"Specify how many characters should be entered after the colon in order to "
+"display the emoji popup"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27massEnableModal%27][%27baseForm%27][%27enableStatus%27][%27enableStatus%27]
+msgid ""
+"Choose the preferred status of emoji in the selected support departments"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27massEnableModal%27][%27baseForm%27][%27enableStatus%27][%27description%27]
+msgid ""
+"If enabled, your clients will be able to use emoji in the selected support "
+"departments. Otherwise, emoji will not be available."
+msgstr ""
+
+#: %24_LANG[%27verifyStatusOn%27]
+msgctxt "$_LANG['verifyStatusOn']"
+msgid "Enabled"
+msgstr ""
+
+#: %24_LANG[%27verifyStatusOff%27]
+msgctxt "$_LANG['verifyStatusOff']"
+msgid "Disabled"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27departmentsSettings%27]
+msgid "Settings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27mainContainer%27][%27labelscont%27][%27table%27][%27id%27]
+msgctxt "$_LANG['addonAA']['departmentsSettings']['mainContainer']['labelscont']['table']['id']"
+msgid "ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27mainContainer%27][%27labelscont%27][%27table%27][%27name%27]
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27mainContainer%27][%27labelscont%27][%27table%27][%27description%27]
+msgid "Description"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27mainContainer%27][%27labelscont%27][%27table%27][%27status%27]
+msgid "Status"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27button%27][%27massDeleteLoggerButton%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['button']['massDeleteLoggerButton']"
+msgid "Delete Selected Logs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27mainContainer%27][%27labelscont%27][%27massEnableButton%27][%27button%27][%27massEnableButton%27]
+msgid "Change Status"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27moduleSettings%27][%27Module+Settings%27]
+msgid "Module Settings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27mainContainer%27][%27settings%27][%27boxSection%27][%27emojiForAdminArea%27][%27emojiForAdminArea%27]
+msgid "Emoji In Admin Area"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27mainContainer%27][%27settings%27][%27boxSection%27][%27emojiForAdminArea%27][%27description%27]
+msgid ""
+"Check this option if you want to use and display emoji in the tickets in the "
+"admin area"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27mainContainer%27][%27settings%27][%27baseSubmitButton%27][%27button%27][%27submit%27]
+msgctxt "$_LANG['addonAA']['departmentsSettings']['mainContainer']['settings']['baseSubmitButton']['button']['submit']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27mainContainer%27][%27settings%27][%27boxSection%27][%27emojiForDomains%27][%27emojiForDomains%27]
+msgid "Replace Domains With Emoji"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27mainContainer%27][%27settings%27][%27boxSection%27][%27emojiForDomains%27][%27description%27]
+msgid ""
+"Check this option if you want to replace domains in punycode with emoji "
+"domains"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27mainContainer%27][%27labelscont%27][%27DepartmentsSettings%27]
+msgid "Support Department Settings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27massEnableModal%27][%27modal%27][%27massEnableModal%27]
+msgid "Change Emoji Availability"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27massEnableModal%27][%27baseForm%27][%27confirmToogle%27]
+msgctxt "$_LANG['addonAA']['departmentsSettings']['massEnableModal']['baseForm']['confirmToogle']"
+msgid ""
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27massEnableModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['departmentsSettings']['massEnableModal']['baseAcceptButton']['title']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27departmentsSettings%27][%27massEnableModal%27][%27baseCancelButton%27][%27title%27]
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27token%27]
+msgid ", Error Token:"
+msgstr ""
+
+#: %24_LANG[%27generalError%27]
+msgid "Something has gone wrong. Check logs and contact the administrator."
+msgstr ""
+
+#: %24_LANG[%27generalErrorClientArea%27]
+msgid "Something has gone wrong. Contact the administrator."
+msgstr ""
+
+#: %24_LANG[%27permissionsStorage%27]
+msgid ""
+"The :storage_path: settings are not sufficient. Please change the "
+"permissions to the value 777."
+msgstr ""
+
+#: %24_LANG[%27undefinedAction%27]
+msgid "Undefined Action"
+msgstr ""
+
+#: %24_LANG[%27changesHasBeenSaved%27]
+msgid "Changes have been saved successfully"
+msgstr ""
+
+#: %24_LANG[%27Monthly%27]
+msgid "Monthly"
+msgstr ""
+
+#: %24_LANG[%27Free+Account%27]
+msgid "Free Account"
+msgstr ""
+
+#: %24_LANG[%27Passwords%27]
+msgid "Passwords"
+msgstr ""
+
+#: %24_LANG[%27labelAddedSuccesfully%27]
+msgid "The label has been added successfully"
+msgstr ""
+
+#: %24_LANG[%27Nothing+to+display%27]
+msgctxt "$_LANG['Nothing to display']"
+msgid "Nothing to display"
+msgstr ""
+
+#: %24_LANG[%27Search%27]
+msgid "Search"
+msgstr ""
+
+#: %24_LANG[%27Previous%27]
+msgctxt "$_LANG['Previous']"
+msgid "Previous"
+msgstr ""
+
+#: %24_LANG[%27Next%27]
+msgctxt "$_LANG['Next']"
+msgid "Next"
+msgstr ""
+
+#: %24_LANG[%27searchPlacecholder%27]
+msgid "Search..."
+msgstr ""
+
+#: %24_LANG[%27noDataAvalible%27]
+msgid "No Data Available"
+msgstr ""
+
+#: %24_LANG[%27validationErrors%27][%27emptyField%27]
+msgid "The field cannot be empty"
+msgstr ""
+
+#: %24_LANG[%27bootstrapswitch%27][%27disabled%27]
+msgctxt "$_LANG['bootstrapswitch']['disabled']"
+msgid "Disabled"
+msgstr ""
+
+#: %24_LANG[%27bootstrapswitch%27][%27enabled%27]
+msgctxt "$_LANG['bootstrapswitch']['enabled']"
+msgid "Enabled"
+msgstr ""
+
+#. /* * ********************************************************************************************************************
+#.  *                                                   ADMIN AREA                                                        *
+#.  * ******************************************************************************************************************** */
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27next%27]
+msgctxt "$_LANG['addonAA']['datatables']['next']"
+msgid "Next"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27previous%27]
+msgctxt "$_LANG['addonAA']['datatables']['previous']"
+msgid "Previous"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27zeroRecords%27]
+msgctxt "$_LANG['addonAA']['datatables']['zeroRecords']"
+msgid "Nothing to display"
+msgstr ""
+
+#. // -------------------------------------------------> MENU <--------------------------------------------------------- //
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27home%27]
+msgid "Home"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27documentation%27]
+msgid "Documentation"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27LoggerManager%27]
+msgid "Logs"
+msgstr ""
+
+#: %24_LANG[%27serverAA%27][%27configuration%27][%27configuration%27][%27header%27]
+msgid "Configuration"
+msgstr ""
+
+#: %24_LANG[%27serverAA%27][%27configuration%27][%27configuration%27][%27a%27][%27label%27]
+msgid "A"
+msgstr ""
+
+#: %24_LANG[%27serverAA%27][%27configuration%27][%27configuration%27][%27b%27][%27label%27]
+msgid "B"
+msgstr ""
+
+#: %24_LANG[%27serverAA%27][%27configuration%27][%27configuration%27][%27save%27][%27content%27]
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27Page+not+found%27]
+msgid "Page not found"
+msgstr ""
+
+#: %24_LANG[%27labelDeletedSuccesfully%27]
+msgid "The label has been deleted successfully"
+msgstr ""
+
+#: %24_LANG[%27changesSaved%27]
+msgid "Changes have been saved succesfully"
+msgstr ""
+
+#: %24_LANG[%27ItemNotFound%27]
+msgid "Item Not Found"
+msgstr ""
+
+#: %24_LANG[%27CategoryDeletedSuccesfully%27]
+msgid "The category has been deleted succesfully"
+msgstr ""
+
+#: %24_LANG[%27categroyCannotBeAssignedAsParentToItself%27]
+msgid "The category cannot be assigned as a parent to itself"
+msgstr ""
+
+#: %24_LANG[%27formValidationError%27]
+msgid "Form Validation Error"
+msgstr ""
+
+#: %24_LANG[%27FormValidators%27][%27thisFieldCannotBeEmpty%27]
+msgid "This field cannot be empty"
+msgstr ""
+
+#: %24_LANG[%27FormValidators%27][%27PleaseProvideANumericValue%27]
+msgid "Please provide a numeric value"
+msgstr ""
+
+#: %24_LANG[%27FormValidators%27][%27PleaseProvideANumericValueBetween%27]
+msgid "Please provide a numeric value between :minValue: and :maxValue:"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27id%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['mainContainer']['loggercont']['table']['id']"
+msgid "ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27message%27]
+msgid "Message"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27ref%27]
+msgid "Reference Object"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27type%27]
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27level%27]
+msgid "Level"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27request%27]
+msgid "Request"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27response%27]
+msgid "Response"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27before_vars%27]
+msgid "Before Vars"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27vars%27]
+msgid "Vars"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27date%27]
+msgid "Date"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27deleteLoggerModalButton%27][%27button%27][%27deleteLoggerModalButton%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['mainContainer']['loggercont']['deleteLoggerModalButton']['button']['deleteLoggerModalButton']"
+msgid "Delete Log"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteLoggerModal%27][%27modal%27][%27deleteLoggerModal%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['deleteLoggerModal']['modal']['deleteLoggerModal']"
+msgid "Delete Log"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteLoggerModal%27][%27deleteLoggerForm%27][%27confirmLabelRemoval%27]
+msgid "Are you sure that you want to remove the log?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteLoggerModal%27][%27baseAcceptButton%27][%27title%27]
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteLoggerModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['deleteLoggerModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27loggerDeletedSuccesfully%27]
+msgid "Logger Deleted Succesfully"
+msgstr ""
+
+#: %24_LANG[%27loggersDeletedSuccesfully%27]
+msgid "Loggers Deleted Succesfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27massDeleteLoggerButton%27][%27button%27][%27massDeleteLoggerButton%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['mainContainer']['loggercont']['massDeleteLoggerButton']['button']['massDeleteLoggerButton']"
+msgid "Delete Selected Logs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27massDeleteLoggerModal%27][%27modal%27][%27massDeleteLoggerModal%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['massDeleteLoggerModal']['modal']['massDeleteLoggerModal']"
+msgid "Delete Selected Logs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27massDeleteLoggerModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['massDeleteLoggerModal']['baseAcceptButton']['title']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27massDeleteLoggerModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['massDeleteLoggerModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27massDeleteLoggerModal%27][%27deleteLoggerForm%27][%27confirmLabelRemoval%27]
+msgid "Are you sure that you want to remove the selected logs?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27deleteAllLoggersButton%27][%27button%27][%27deleteAllLoggersButton%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['mainContainer']['loggercont']['deleteAllLoggersButton']['button']['deleteAllLoggersButton']"
+msgid "Delete Selected Logs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27button%27][%27deleteAllLoggersButton%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['button']['deleteAllLoggersButton']"
+msgid "Delete Selected Logs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteAllLoggersModal%27][%27modal%27][%27deleteAllLoggersModal%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['deleteAllLoggersModal']['modal']['deleteAllLoggersModal']"
+msgid "Delete Selected Logs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteAllLoggersModal%27][%27deleteAllLoggerForm%27][%27confirmLabelRemoval%27]
+msgid "Are you sure that you want to remove all logs?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteAllLoggersModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['deleteAllLoggersModal']['baseAcceptButton']['title']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteAllLoggersModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['deleteAllLoggersModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""

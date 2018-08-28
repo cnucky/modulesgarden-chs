@@ -1,0 +1,1770 @@
+#. extracted from DomainOrdersExtended/langs/english.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-28 16:53+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.3.0\n"
+
+#: %24_LANG[%27token%27]
+msgid ", Error Token:"
+msgstr ""
+
+#: %24_LANG[%27generalError%27]
+msgid "Something has gone wrong. Check the logs and contact the administrator."
+msgstr ""
+
+#: %24_LANG[%27generalErrorClientArea%27]
+msgid "Something has gone wrong. Contact the administrator."
+msgstr ""
+
+#: %24_LANG[%27permissionsStorage%27]
+msgid ""
+"Folder settings are not sufficient. Please change the permissions to value "
+"777."
+msgstr ""
+
+#: %24_LANG[%27undefinedAction%27]
+msgid "Undefined Action"
+msgstr ""
+
+#: %24_LANG[%27changesHasBeenSaved%27]
+msgctxt "$_LANG['changesHasBeenSaved']"
+msgid "Changes have been saved successfully"
+msgstr ""
+
+#: %24_LANG[%27Monthly%27]
+msgid "Monthly"
+msgstr ""
+
+#: %24_LANG[%27Free+Account%27]
+msgid "Free Account"
+msgstr ""
+
+#: %24_LANG[%27Passwords%27]
+msgid "Passwords"
+msgstr ""
+
+#: %24_LANG[%27labelAddedSuccesfully%27]
+msgid "Label has been added successfully"
+msgstr ""
+
+#: %24_LANG[%27Nothing+to+display%27]
+msgctxt "$_LANG['Nothing to display']"
+msgid "Nothing to display"
+msgstr ""
+
+#: %24_LANG[%27Search%27]
+msgid "Search"
+msgstr ""
+
+#: %24_LANG[%27Previous%27]
+msgctxt "$_LANG['Previous']"
+msgid "Previous"
+msgstr ""
+
+#: %24_LANG[%27Next%27]
+msgctxt "$_LANG['Next']"
+msgid "Next"
+msgstr ""
+
+#: %24_LANG[%27searchPlacecholder%27]
+msgid "Search..."
+msgstr ""
+
+#: %24_LANG[%27noDataAvalible%27]
+msgid "No Data Available"
+msgstr ""
+
+#: %24_LANG[%27labelsDeletedSuccesfully%27]
+msgid "Labels have been deleted successfully"
+msgstr ""
+
+#: %24_LANG[%27loggerDeletedSuccesfully%27]
+msgid "The log entry has been deleted successfully"
+msgstr ""
+
+#: %24_LANG[%27validationErrors%27][%27emptyField%27]
+msgid "Field cannot be empty"
+msgstr ""
+
+#: %24_LANG[%27bootstrapswitch%27][%27disabled%27]
+msgctxt "$_LANG['bootstrapswitch']['disabled']"
+msgid "Disabled"
+msgstr ""
+
+#: %24_LANG[%27bootstrapswitch%27][%27enabled%27]
+msgid "Enabled"
+msgstr ""
+
+#: %24_LANG[%27MULTIPLE_DOMAIN_SEARCH%27]
+msgid "Multi Category View"
+msgstr ""
+
+#: %24_LANG[%27SINGLE_DOMAIN_SEARCH%27]
+msgid "List View"
+msgstr ""
+
+#: %24_LANG[%27CATEGORY_SEARCH%27]
+msgid "General Category View"
+msgstr ""
+
+#: %24_LANG[%27THREAD_ONE%27]
+msgctxt "$_LANG['THREAD_ONE']"
+msgid "1"
+msgstr ""
+
+#: %24_LANG[%27THREAD_TWO%27]
+msgctxt "$_LANG['THREAD_TWO']"
+msgid "2"
+msgstr ""
+
+#: %24_LANG[%27THREAD_TREE%27]
+msgctxt "$_LANG['THREAD_TREE']"
+msgid "3"
+msgstr ""
+
+#: %24_LANG[%27THREAD_FOUR%27]
+msgctxt "$_LANG['THREAD_FOUR']"
+msgid "4"
+msgstr ""
+
+#: %24_LANG[%27THREAD_FIVE%27]
+msgctxt "$_LANG['THREAD_FIVE']"
+msgid "5"
+msgstr ""
+
+#: %24_LANG[%27THREAD_SIX%27]
+msgctxt "$_LANG['THREAD_SIX']"
+msgid "6"
+msgstr ""
+
+#: %24_LANG[%27THREAD_SEVEN%27]
+msgctxt "$_LANG['THREAD_SEVEN']"
+msgid "7"
+msgstr ""
+
+#: %24_LANG[%27THREAD_EIGHT%27]
+msgctxt "$_LANG['THREAD_EIGHT']"
+msgid "8"
+msgstr ""
+
+#: %24_LANG[%27THREAD_NINE%27]
+msgctxt "$_LANG['THREAD_NINE']"
+msgid "9"
+msgstr ""
+
+#: %24_LANG[%27THREAD_TEN%27]
+msgctxt "$_LANG['THREAD_TEN']"
+msgid "10"
+msgstr ""
+
+#: %24_LANG[%27THREAD_ELEVEN%27]
+msgid "11"
+msgstr ""
+
+#: %24_LANG[%27THREAD_TWELVE%27]
+msgid "12"
+msgstr ""
+
+#: %24_LANG[%27THREAD_THIRTEEN%27]
+msgid "13"
+msgstr ""
+
+#: %24_LANG[%27THREAD_FOURTEEN%27]
+msgid "14"
+msgstr ""
+
+#: %24_LANG[%27THREAD_FIFTEEN%27]
+msgctxt "$_LANG['THREAD_FIFTEEN']"
+msgid "15"
+msgstr ""
+
+#: %24_LANG[%27THREAD_SIXTEEN%27]
+msgid "16"
+msgstr ""
+
+#: %24_LANG[%27THREAD_SEVENTEEN%27]
+msgid "17"
+msgstr ""
+
+#: %24_LANG[%27THREAD_EIGHTEEN%27]
+msgid "18"
+msgstr ""
+
+#: %24_LANG[%27THREAD_NINETEEN%27]
+msgid "19"
+msgstr ""
+
+#: %24_LANG[%27THREAD_TWENTY%27]
+msgctxt "$_LANG['THREAD_TWENTY']"
+msgid "20"
+msgstr ""
+
+#: %24_LANG[%27RECORD_ONE%27]
+msgctxt "$_LANG['RECORD_ONE']"
+msgid "1"
+msgstr ""
+
+#: %24_LANG[%27RECORD_TWO%27]
+msgctxt "$_LANG['RECORD_TWO']"
+msgid "2"
+msgstr ""
+
+#: %24_LANG[%27RECORD_TREE%27]
+msgctxt "$_LANG['RECORD_TREE']"
+msgid "3"
+msgstr ""
+
+#: %24_LANG[%27RECORD_FOUR%27]
+msgctxt "$_LANG['RECORD_FOUR']"
+msgid "4"
+msgstr ""
+
+#: %24_LANG[%27RECORD_FIVE%27]
+msgctxt "$_LANG['RECORD_FIVE']"
+msgid "5"
+msgstr ""
+
+#: %24_LANG[%27RECORD_SIX%27]
+msgctxt "$_LANG['RECORD_SIX']"
+msgid "6"
+msgstr ""
+
+#: %24_LANG[%27RECORD_SEVEN%27]
+msgctxt "$_LANG['RECORD_SEVEN']"
+msgid "7"
+msgstr ""
+
+#: %24_LANG[%27RECORD_EIGHT%27]
+msgctxt "$_LANG['RECORD_EIGHT']"
+msgid "8"
+msgstr ""
+
+#: %24_LANG[%27RECORD_NINE%27]
+msgctxt "$_LANG['RECORD_NINE']"
+msgid "9"
+msgstr ""
+
+#: %24_LANG[%27RECORD_TEN%27]
+msgctxt "$_LANG['RECORD_TEN']"
+msgid "10"
+msgstr ""
+
+#: %24_LANG[%27RECORD_FIFTEEN%27]
+msgctxt "$_LANG['RECORD_FIFTEEN']"
+msgid "15"
+msgstr ""
+
+#: %24_LANG[%27RECORD_TWENTY%27]
+msgctxt "$_LANG['RECORD_TWENTY']"
+msgid "20"
+msgstr ""
+
+#: %24_LANG[%27RECORD_TWENTY_FIVE%27]
+msgid "25"
+msgstr ""
+
+#: %24_LANG[%27RECORD_THIRTY%27]
+msgid "30"
+msgstr ""
+
+#: %24_LANG[%27RECORD_FORTY%27]
+msgid "40"
+msgstr ""
+
+#: %24_LANG[%27RECORD_FIFTY%27]
+msgid "50"
+msgstr ""
+
+#: %24_LANG[%27RECORD_HUNDRED%27]
+msgid "100"
+msgstr ""
+
+#: %24_LANG[%27PROVIDER_WHMCS%27]
+msgid "WHMCS Lookup Provider"
+msgstr ""
+
+#: %24_LANG[%27PROVIDER_OPENSRS%27]
+msgid "OpenSRS Lookup"
+msgstr ""
+
+#: %24_LANG[%27PROVIDER_ENOM%27]
+msgid "Enom Lookup"
+msgstr ""
+
+#: %24_LANG[%27PROVIDER_Disabled%27]
+msgctxt "$_LANG['PROVIDER_Disabled']"
+msgid "Disabled"
+msgstr ""
+
+#: %24_LANG[%27SUGGESTED_TYPE%27]
+msgid "Suggested"
+msgstr ""
+
+#: %24_LANG[%27DEFAULT_TYPE%27]
+msgid "Default"
+msgstr ""
+
+#: %24_LANG[%27TOP_GROSSING_TYPE%27]
+msgid "Top Grossing"
+msgstr ""
+
+#: %24_LANG[%27DISABLED_TYPE%27]
+msgctxt "$_LANG['DISABLED_TYPE']"
+msgid "Disabled"
+msgstr ""
+
+#: %24_LANG[%27labelDeletedSuccesfully%27]
+msgid "The label has been deleted successfully"
+msgstr ""
+
+#: %24_LANG[%27changesSaved%27]
+msgctxt "$_LANG['changesSaved']"
+msgid "Changes have been saved successfully"
+msgstr ""
+
+#: %24_LANG[%27ItemNotFound%27]
+msgid "The item has not been found"
+msgstr ""
+
+#: %24_LANG[%27CategoryDeletedSuccesfully%27]
+msgid "The category has been deleted successfully"
+msgstr ""
+
+#: %24_LANG[%27categroyCannotBeAssignedAsParentToItself%27]
+msgid "The category cannot be assigned as a parent to itself"
+msgstr ""
+
+#: %24_LANG[%27formValidationError%27]
+msgid "Form Validation Error"
+msgstr ""
+
+#: %24_LANG[%27FormValidators%27][%27thisFieldCannotBeEmpty%27]
+msgid "This field cannot be empty"
+msgstr ""
+
+#: %24_LANG[%27FormValidators%27][%27PleaseProvideANumericValue%27]
+msgid "Please provide a numeric value"
+msgstr ""
+
+#: %24_LANG[%27FormValidators%27][%27PleaseProvideANumericValueBetween%27]
+msgid "Please provide a numeric value between :minValue: and :maxValue:"
+msgstr ""
+
+#: %24_LANG[%27FormValidators%27][%27PleaseProvideAPriceEqualOrHigherThan%27]
+msgid ""
+"Please provide a numeric value equal to :eqValue: or higher than :minValue:"
+msgstr ""
+
+#: %24_LANG[%27FormValidators%27][%27PleaseProvideAPriceEqualOrHigher%27]
+msgid "Please provide a numeric value equal or higher than :minValue:"
+msgstr ""
+
+#. /* * ********************************************************************************************************************
+#.  *                                                   ADMIN AREA                                                        *
+#.  * ******************************************************************************************************************** */
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27next%27]
+msgctxt "$_LANG['addonAA']['datatables']['next']"
+msgid "Next"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27previous%27]
+msgctxt "$_LANG['addonAA']['datatables']['previous']"
+msgid "Previous"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27zeroRecords%27]
+msgctxt "$_LANG['addonAA']['datatables']['zeroRecords']"
+msgid "Nothing to display"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27Page+not+found%27]
+msgid "Page not found"
+msgstr ""
+
+#: %24_LANG[%27domainPricing%27][%27msetupfee%27]
+msgid "1 Year"
+msgstr ""
+
+#: %24_LANG[%27domainPricing%27][%27qsetupfee%27]
+msgid "2 Years"
+msgstr ""
+
+#: %24_LANG[%27domainPricing%27][%27ssetupfee%27]
+msgid "3 Years"
+msgstr ""
+
+#: %24_LANG[%27domainPricing%27][%27asetupfee%27]
+msgid "4 Years"
+msgstr ""
+
+#: %24_LANG[%27domainPricing%27][%27bsetupfee%27]
+msgid "5 Years"
+msgstr ""
+
+#: %24_LANG[%27domainPricing%27][%27monthly%27]
+msgid "6 Years"
+msgstr ""
+
+#: %24_LANG[%27domainPricing%27][%27quarterly%27]
+msgid "7 Years"
+msgstr ""
+
+#: %24_LANG[%27domainPricing%27][%27semiannually%27]
+msgid "8 Years"
+msgstr ""
+
+#: %24_LANG[%27domainPricing%27][%27annually%27]
+msgid "9 Years"
+msgstr ""
+
+#: %24_LANG[%27domainPricing%27][%27biennially%27]
+msgid "10 Years"
+msgstr ""
+
+#: %24_LANG[%27domainPricing%27][%27domainregister%27]
+msgid "Domain Registration"
+msgstr ""
+
+#: %24_LANG[%27domainPricing%27][%27domaintransfer%27]
+msgid "Domain Transfer"
+msgstr ""
+
+#: %24_LANG[%27domainPricing%27][%27domainrenew%27]
+msgid "Domain Renew"
+msgstr ""
+
+#. // -------------------------------------------------> MENU <--------------------------------------------------------- //
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27tldConfiguration%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['tldConfiguration']"
+msgid "TLDs Configuration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27moduleSettings%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['moduleSettings']"
+msgid "Settings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27submoduleSettings%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['submoduleSettings']"
+msgid "Submodules"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27labels%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['labels']"
+msgid "Labels"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27documentation%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['documentation']"
+msgid "Documentation"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27predefinedTldSets%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['predefinedTldSets']"
+msgid "Predefined TLD Sets"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27TldConfiguration%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['TldConfiguration']"
+msgid "TLDs Configuration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27ModuleSettings%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['ModuleSettings']"
+msgid "Settings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27SubmoduleSettings%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['SubmoduleSettings']"
+msgid "Submodules"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27Labels%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['Labels']"
+msgid "Labels"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27Documentation%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['Documentation']"
+msgid "Documentation"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27PredefinedTldSets%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['PredefinedTldSets']"
+msgid "Predefined TLD Sets"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27mainContainer%27][%27doeTldConfigContainer%27][%27title%27]
+msgid "TLD Categories"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27mainContainer%27][%27doeTldConfigContainer%27][%27addCategoryButton%27][%27button%27][%27addGroupTooltip%27]
+msgid "Add TLDs Group"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27button%27][%27assignTldButton%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['button']['assignTldButton']"
+msgid "Assign TLDs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27tldTable%27][%27id%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['tldTable']['id']"
+msgid "ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27tldTable%27][%27extension%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['tldTable']['extension']"
+msgid "Extension"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27tldTable%27][%27registrar%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['tldTable']['registrar']"
+msgid "Registrar"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27tldTable%27][%27pricing%27]
+msgid "Pricing"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27tldTable%27][%27suggested%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['tldTable']['suggested']"
+msgid "Promoted"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27tldTable%27][%27labels%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['tldTable']['labels']"
+msgid "Labels"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27dataTable%27][%27editConfigButton%27][%27button%27][%27editConfigButton%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['dataTable']['editConfigButton']['button']['editConfigButton']"
+msgid "Edit TLD Configuration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27dataTable%27][%27editPricingButton%27][%27button%27][%27editPricingButton%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['dataTable']['editPricingButton']['button']['editPricingButton']"
+msgid "Edit TLD Pricing"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27dataTable%27][%27deleteTldButton%27][%27button%27][%27deleteTldButton%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['dataTable']['deleteTldButton']['button']['deleteTldButton']"
+msgid "Delete TLD"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27addCategoryModal%27][%27modal%27][%27addCategoryModal%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['addCategoryModal']['modal']['addCategoryModal']"
+msgid "Add Category"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27addCategoryModal%27][%27addCategoryForm%27][%27title%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['addCategoryModal']['addCategoryForm']['title']['title']"
+msgid "Title"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27addCategoryModal%27][%27addCategoryForm%27][%27parent_id%27][%27parent_id%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['addCategoryModal']['addCategoryForm']['parent_id']['parent_id']"
+msgid "Parent Category"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27addCategoryModal%27][%27addCategoryForm%27][%27type%27][%27type%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['addCategoryModal']['addCategoryForm']['type']['type']"
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27addCategoryModal%27][%27addCategoryForm%27][%27suggested%27][%27suggested%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['addCategoryModal']['addCategoryForm']['suggested']['suggested']"
+msgid "Promoted"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27addCategoryModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['addCategoryModal']['baseAcceptButton']['title']"
+msgid "Add Category"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27addCategoryModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['addCategoryModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27button%27][%27editCategoryButton%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['button']['editCategoryButton']"
+msgid "Edit Category"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27button%27][%27deleteCategoryButton%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['button']['deleteCategoryButton']"
+msgid "Delete Category"
+msgstr ""
+
+#: %24_LANG[%27tldRemoved%27]
+msgid "TLD has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27tldsRemoved%27]
+msgid "TLDs have been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27Unassigned%27]
+msgid "Unassigned"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27massEditPricingModal%27][%27modal%27][%27massEditPricingModal%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['massEditPricingModal']['modal']['massEditPricingModal']"
+msgid "Edit TLDs Pricing"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27massEditPricingModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['massEditPricingModal']['baseAcceptButton']['title']"
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27massEditPricingModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['massEditPricingModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27massEditTldModal%27][%27modal%27][%27massEditTldModal%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['massEditTldModal']['modal']['massEditTldModal']"
+msgid "Edit TLDs Configuration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27massEditTldModal%27][%27massEditTldForm%27][%27category_id%27][%27category_id%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['massEditTldModal']['massEditTldForm']['category_id']['category_id']"
+msgid "Category"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27massEditTldModal%27][%27massEditTldForm%27][%27autoreg%27][%27autoreg%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['massEditTldModal']['massEditTldForm']['autoreg']['autoreg']"
+msgid "Registrar"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27massEditTldModal%27][%27massEditTldForm%27][%27labels%27][%27labels%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['massEditTldModal']['massEditTldForm']['labels']['labels']"
+msgid "Labels"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27massEditTldModal%27][%27massEditTldForm%27][%27suggested%27][%27suggested%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['massEditTldModal']['massEditTldForm']['suggested']['suggested']"
+msgid "Promoted"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27massEditTldModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['massEditTldModal']['baseAcceptButton']['title']"
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27massEditTldModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['massEditTldModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27assignTldModal%27][%27modal%27][%27assignTldModal%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['assignTldModal']['modal']['assignTldModal']"
+msgid "Assign TLDs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27assignTldModal%27][%27assignTldForm%27][%27category_idd%27][%27category_idd%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['assignTldModal']['assignTldForm']['category_idd']['category_idd']"
+msgid "Category"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27assignTldModal%27][%27assignTldForm%27][%27tld_ids%27][%27tld_ids%27]
+msgid "TLDs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27assignTldModal%27][%27assignTldForm%27][%27suggested%27][%27suggested%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['assignTldModal']['assignTldForm']['suggested']['suggested']"
+msgid "Promoted"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27assignTldModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['assignTldModal']['baseAcceptButton']['title']"
+msgid "Assign TLDs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27assignTldModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['assignTldModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editCategoryModal%27][%27modal%27][%27editCategoryModal%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editCategoryModal']['modal']['editCategoryModal']"
+msgid "Edit Category"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editCategoryModal%27][%27editCategoryForm%27][%27title%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editCategoryModal']['editCategoryForm']['title']['title']"
+msgid "Title"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editCategoryModal%27][%27editCategoryForm%27][%27parent_id%27][%27parent_id%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editCategoryModal']['editCategoryForm']['parent_id']['parent_id']"
+msgid "Parent Category"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editCategoryModal%27][%27editCategoryForm%27][%27type%27][%27type%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editCategoryModal']['editCategoryForm']['type']['type']"
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editCategoryModal%27][%27editCategoryForm%27][%27suggested%27][%27suggested%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editCategoryModal']['editCategoryForm']['suggested']['suggested']"
+msgid "Promoted"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editCategoryModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editCategoryModal']['baseAcceptButton']['title']"
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editCategoryModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editCategoryModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27deleteCategoryModal%27][%27modal%27][%27deleteCategoryModal%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['deleteCategoryModal']['modal']['deleteCategoryModal']"
+msgid "Delete Category"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27deleteCategoryModal%27][%27deleteCategoryForm%27][%27confirmCategoryRemoval%27]
+msgid "Are you sure that you want to remove this category?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27deleteCategoryModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['deleteCategoryModal']['baseAcceptButton']['title']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27deleteCategoryModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['deleteCategoryModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editTldModal%27][%27modal%27][%27editTldModal%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editTldModal']['modal']['editTldModal']"
+msgid "Edit TLD Configuration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editTldModal%27][%27editTldForm%27][%27extension%27][%27extension%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editTldModal']['editTldForm']['extension']['extension']"
+msgid "Extension"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editTldModal%27][%27editTldForm%27][%27category_id%27][%27category_id%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editTldModal']['editTldForm']['category_id']['category_id']"
+msgid "Category"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editTldModal%27][%27editTldForm%27][%27autoreg%27][%27autoreg%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editTldModal']['editTldForm']['autoreg']['autoreg']"
+msgid "Registrar"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editTldModal%27][%27editTldForm%27][%27labels%27][%27labels%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editTldModal']['editTldForm']['labels']['labels']"
+msgid "Labels"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editTldModal%27][%27editTldForm%27][%27suggested%27][%27suggested%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editTldModal']['editTldForm']['suggested']['suggested']"
+msgid "Promoted"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editTldModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editTldModal']['baseAcceptButton']['title']"
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editTldModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editTldModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editPricingModal%27][%27modal%27][%27editPricingModal%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editPricingModal']['modal']['editPricingModal']"
+msgid "Edit TLD Pricing"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editPricingModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editPricingModal']['baseAcceptButton']['title']"
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editPricingModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editPricingModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27deleteTldModal%27][%27modal%27][%27deleteTldModal%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['deleteTldModal']['modal']['deleteTldModal']"
+msgid "Delete TLD"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27deleteTldModal%27][%27deleteTldForm%27][%27confirmCategoryRemoval%27]
+msgid ""
+"Are you sure that you want to remove \":extension:\" TLD from this group?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27deleteTldModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['deleteTldModal']['baseAcceptButton']['title']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27deleteTldModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['deleteTldModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27button%27][%27massEditConfigButton%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['button']['massEditConfigButton']"
+msgid "Edit TLDs Configuration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27button%27][%27massEditPricingButton%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['button']['massEditPricingButton']"
+msgid "Edit TLDs Pricing"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27button%27][%27massDeleteTldButton%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['button']['massDeleteTldButton']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27moduleSettings%27][%27mainContainer%27][%27doeSectionsSettings%27][%27boxSection%27][%27doeSectionsSettings%27]
+msgid "Module Settings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27moduleSettings%27][%27mainContainer%27][%27doeSectionsSettings%27][%27boxSection%27][%27halfPageSection%27][%27replaceStandardRegistrar%27][%27replaceStandardRegistrar%27]
+msgid "Replace Standard Registrar With Module Order Form"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27moduleSettings%27][%27mainContainer%27][%27doeSectionsSettings%27][%27boxSection%27][%27halfPageSection%27][%27domainSearchType%27][%27domainSearchType%27]
+msgid "Domain Search Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27moduleSettings%27][%27mainContainer%27][%27doeSectionsSettings%27][%27boxSection%27][%27doeSectionsSettingsCron%27]
+msgid "Cron Settings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27moduleSettings%27][%27mainContainer%27][%27doeSectionsSettings%27][%27boxSection%27][%27halfPageSection%27][%27threadCount%27][%27threadCount%27]
+msgid "Number Of Simultaneous Processes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27moduleSettings%27][%27mainContainer%27][%27doeSectionsSettings%27][%27boxSection%27][%27halfPageSection%27][%27recordsCount%27][%27recordsCount%27]
+msgid "Search Records Per Process"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27moduleSettings%27][%27mainContainer%27][%27doeSectionsSettings%27][%27baseSubmitButton%27][%27button%27][%27submit%27]
+msgctxt "$_LANG['addonAA']['moduleSettings']['mainContainer']['doeSectionsSettings']['baseSubmitButton']['button']['submit']"
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27moduleSettings%27][%27mainContainer%27][%27doeSectionsSettings%27][%27boxSection%27][%27halfPageSection%27][%27defaultTlds%27][%27defaultTlds%27]
+msgid "TLDs Searched By Default"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27moduleSettings%27][%27mainContainer%27][%27doeSectionsSettings%27][%27boxSection%27][%27halfPageSection%27][%27suggestedSearchType%27][%27suggestedSearchType%27]
+msgid "Suggested Search"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27defaultSubmodule%27][%27DefaultSubmodule%27]
+msgid "Default Submodule"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27defaultSubmodule%27][%27sectionDescription%27][%27description%27]
+msgid ""
+"A default submodule uses a default WHMCS search form and the providers set "
+"within. It works when neither the OpenSRS nor Enom submodule is configured "
+"or in case they do not support a given TLD."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27defaultSubmodule%27][%27defaultSubmodule[enableSubmodule]%27][%27enableSubmodule%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['defaultSubmodule']['defaultSubmodule[enableSubmodule]']['enableSubmodule']"
+msgid "Enable Submodule"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27openSRS%27][%27OpenSRS%27]
+msgid "OpenSRS"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27openSRS%27][%27sectionDescription_OpenSRS%27][%27description%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['openSRS']['sectionDescription_OpenSRS']['description']"
+msgid ""
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27openSRS%27][%27sectionDescription_OpenSRS%27][%27allowedTlds%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['openSRS']['sectionDescription_OpenSRS']['allowedTlds']"
+msgid "Allowed TLDs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27openSRS%27][%27openSRS[enableSubmodule]%27][%27enableSubmodule%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['openSRS']['openSRS[enableSubmodule]']['enableSubmodule']"
+msgid "Enable Submodule"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27openSRS%27][%27openSRS[hostname]%27][%27hostname%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['openSRS']['openSRS[hostname]']['hostname']"
+msgid "Hostname"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27openSRS%27][%27openSRS[hostname]%27][%27description%27]
+msgid "Please provide your OpenSRS API hostname"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27openSRS%27][%27openSRS[username]%27][%27username%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['openSRS']['openSRS[username]']['username']"
+msgid "Username"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27openSRS%27][%27openSRS[username]%27][%27description%27]
+msgid "Please provide your OpenSRS API username"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27openSRS%27][%27openSRS[privateKey]%27][%27privateKey%27]
+msgid "OpenSRS Private Key"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27openSRS%27][%27openSRS[privateKey]%27][%27description%27]
+msgid "Please provide your OpenSRS API private key"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27openSRS%27][%27openSRS[spinnerCount]%27][%27spinnerCount%27]
+msgid "OpenSRS Spinner Count"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27openSRS%27][%27openSRS[spinnerCount]%27][%27description%27]
+msgid "Please provide the number of suggestions (0 - 100)"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27openSRS%27][%27openSRS[enableDomainSuggestions]%27][%27enableDomainSuggestions%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['openSRS']['openSRS[enableDomainSuggestions]']['enableDomainSuggestions']"
+msgid "Enable Domain Suggestions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27openSRS%27][%27openSRS[enableDomainSuggestions]%27][%27description%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['openSRS']['openSRS[enableDomainSuggestions]']['description']"
+msgid "Domain spinner will be enabled if a submodule supports it"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27openSRS%27][%27openSRS[enableTransferForDomainSpinner]%27][%27enableTransferForDomainSpinner%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['openSRS']['openSRS[enableTransferForDomainSpinner]']['enableTransferForDomainSpinner']"
+msgid "Enable Transfer For Domain Spinner"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27openSRS%27][%27openSRS[enableTransferForDomainSpinner]%27][%27description%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['openSRS']['openSRS[enableTransferForDomainSpinner]']['description']"
+msgid "Available domains for transfer will also be listed"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27openSRS%27][%27openSRS[disabledTlds]%27][%27disabledTlds%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['openSRS']['openSRS[disabledTlds]']['disabledTlds']"
+msgid "Disabled TLDs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27openSRS%27][%27openSRS[disabledTlds]%27][%27description%27]
+msgid "These TLDs will not be searched by the OpenSRS submodule"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27eNom%27][%27ENom%27]
+msgid "Enom"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27eNom%27][%27sectionDescription_ENom%27][%27description%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['eNom']['sectionDescription_ENom']['description']"
+msgid ""
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27eNom%27][%27sectionDescription_ENom%27][%27allowedTlds%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['eNom']['sectionDescription_ENom']['allowedTlds']"
+msgid "Allowed TLDs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27eNom%27][%27eNom[enableSubmodule]%27][%27enableSubmodule%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['eNom']['eNom[enableSubmodule]']['enableSubmodule']"
+msgid "Enable Submodule"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27eNom%27][%27eNom[hostname]%27][%27hostname%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['eNom']['eNom[hostname]']['hostname']"
+msgid "Hostname"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27eNom%27][%27eNom[hostname]%27][%27description%27]
+msgid "Please provide your Enom API hostname"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27eNom%27][%27eNom[username]%27][%27username%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['eNom']['eNom[username]']['username']"
+msgid "Username"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27eNom%27][%27eNom[username]%27][%27description%27]
+msgid "Please provide your Enom API username"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27eNom%27][%27eNom[password]%27][%27password%27]
+msgid "Password"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27eNom%27][%27eNom[password]%27][%27description%27]
+msgid "Please provide your Enom API password"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27eNom%27][%27eNom[domainSpinnerGroupLimit]%27][%27domainSpinnerGroupLimit%27]
+msgid "Domain Spinner Group Limit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27eNom%27][%27eNom[domainSpinnerGroupLimit]%27][%27description%27]
+msgid ""
+"Please provide the number of groups for suggestions (0 - 100). One group "
+"contains 4 TLD suggestions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27eNom%27][%27eNom[enableDomainSuggestions]%27][%27enableDomainSuggestions%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['eNom']['eNom[enableDomainSuggestions]']['enableDomainSuggestions']"
+msgid "Enable Domain Suggestions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27eNom%27][%27eNom[enableDomainSuggestions]%27][%27description%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['eNom']['eNom[enableDomainSuggestions]']['description']"
+msgid "Domain spinner will be enabled if a submodule supports it"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27eNom%27][%27eNom[enableTransferForDomainSpinner]%27][%27enableTransferForDomainSpinner%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['eNom']['eNom[enableTransferForDomainSpinner]']['enableTransferForDomainSpinner']"
+msgid "Enable Transfer For Domain Spinner"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27eNom%27][%27eNom[enableTransferForDomainSpinner]%27][%27description%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['eNom']['eNom[enableTransferForDomainSpinner]']['description']"
+msgid "Available domains for transfer will also be listed"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27eNom%27][%27eNom[disabledTlds]%27][%27disabledTlds%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['eNom']['eNom[disabledTlds]']['disabledTlds']"
+msgid "Disabled TLDs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27eNom%27][%27eNom[disabledTlds]%27][%27description%27]
+msgid "These TLDs will not be searched by the Enom submodule"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27submoduleSettings%27][%27mainContainer%27][%27doeSubmoduleSettings%27][%27baseSubmitButton%27][%27button%27][%27submit%27]
+msgctxt "$_LANG['addonAA']['submoduleSettings']['mainContainer']['doeSubmoduleSettings']['baseSubmitButton']['button']['submit']"
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27mainContainer%27][%27labelscont%27][%27labelsContTitle%27]
+msgctxt "$_LANG['addonAA']['labels']['mainContainer']['labelscont']['labelsContTitle']"
+msgid "Labels"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27mainContainer%27][%27labelscont%27][%27addLabelModalButton%27][%27button%27][%27addLabelModalButton%27]
+msgctxt "$_LANG['addonAA']['labels']['mainContainer']['labelscont']['addLabelModalButton']['button']['addLabelModalButton']"
+msgid "Add Label"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27mainContainer%27][%27labelscont%27][%27table%27][%27title%27]
+msgctxt "$_LANG['addonAA']['labels']['mainContainer']['labelscont']['table']['title']"
+msgid "Title"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27mainContainer%27][%27labelscont%27][%27table%27][%27message%27]
+msgctxt "$_LANG['addonAA']['labels']['mainContainer']['labelscont']['table']['message']"
+msgid "Message"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27mainContainer%27][%27labelscont%27][%27table%27][%27order%27]
+msgctxt "$_LANG['addonAA']['labels']['mainContainer']['labelscont']['table']['order']"
+msgid "Priority"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27mainContainer%27][%27labelscont%27][%27table%27][%27color%27]
+msgctxt "$_LANG['addonAA']['labels']['mainContainer']['labelscont']['table']['color']"
+msgid "Color"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27mainContainer%27][%27labelscont%27][%27table%27][%27background_color%27]
+msgctxt "$_LANG['addonAA']['labels']['mainContainer']['labelscont']['table']['background_color']"
+msgid "Background Color"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27mainContainer%27][%27labelscont%27][%27table%27][%27preview%27]
+msgid "Preview"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27mainContainer%27][%27labelscont%27][%27editLabelModalButton%27][%27button%27][%27editLabelModalButton%27]
+msgctxt "$_LANG['addonAA']['labels']['mainContainer']['labelscont']['editLabelModalButton']['button']['editLabelModalButton']"
+msgid "Edit Label"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27mainContainer%27][%27labelscont%27][%27deleteLabelModalButton%27][%27button%27][%27deleteLabelModalButton%27]
+msgctxt "$_LANG['addonAA']['labels']['mainContainer']['labelscont']['deleteLabelModalButton']['button']['deleteLabelModalButton']"
+msgid "Delete Label"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27addLabelModal%27][%27modal%27][%27addLabelModal%27]
+msgctxt "$_LANG['addonAA']['labels']['addLabelModal']['modal']['addLabelModal']"
+msgid "Add Label"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27addLabelModal%27][%27addLabelForm%27][%27title%27][%27title%27]
+msgctxt "$_LANG['addonAA']['labels']['addLabelModal']['addLabelForm']['title']['title']"
+msgid "Title"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27addLabelModal%27][%27addLabelForm%27][%27message%27][%27message%27]
+msgctxt "$_LANG['addonAA']['labels']['addLabelModal']['addLabelForm']['message']['message']"
+msgid "Message"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27addLabelModal%27][%27addLabelForm%27][%27order%27][%27order%27]
+msgctxt "$_LANG['addonAA']['labels']['addLabelModal']['addLabelForm']['order']['order']"
+msgid "Priority"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27addLabelModal%27][%27addLabelForm%27][%27color%27][%27color%27]
+msgctxt "$_LANG['addonAA']['labels']['addLabelModal']['addLabelForm']['color']['color']"
+msgid "Color"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27addLabelModal%27][%27addLabelForm%27][%27background_color%27][%27background_color%27]
+msgctxt "$_LANG['addonAA']['labels']['addLabelModal']['addLabelForm']['background_color']['background_color']"
+msgid "Background Color"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27addLabelModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['labels']['addLabelModal']['baseAcceptButton']['title']"
+msgid "Add Label"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27addLabelModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['labels']['addLabelModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27editLabelModal%27][%27modal%27][%27editLabelModal%27]
+msgctxt "$_LANG['addonAA']['labels']['editLabelModal']['modal']['editLabelModal']"
+msgid "Edit Label"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27editLabelModal%27][%27editLabelForm%27][%27title%27][%27title%27]
+msgctxt "$_LANG['addonAA']['labels']['editLabelModal']['editLabelForm']['title']['title']"
+msgid "Title"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27editLabelModal%27][%27editLabelForm%27][%27message%27][%27message%27]
+msgctxt "$_LANG['addonAA']['labels']['editLabelModal']['editLabelForm']['message']['message']"
+msgid "Message"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27editLabelModal%27][%27editLabelForm%27][%27order%27][%27order%27]
+msgctxt "$_LANG['addonAA']['labels']['editLabelModal']['editLabelForm']['order']['order']"
+msgid "Priority"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27editLabelModal%27][%27editLabelForm%27][%27color%27][%27color%27]
+msgctxt "$_LANG['addonAA']['labels']['editLabelModal']['editLabelForm']['color']['color']"
+msgid "Color"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27editLabelModal%27][%27editLabelForm%27][%27background_color%27][%27background_color%27]
+msgctxt "$_LANG['addonAA']['labels']['editLabelModal']['editLabelForm']['background_color']['background_color']"
+msgid "Background Color"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27editLabelModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['labels']['editLabelModal']['baseAcceptButton']['title']"
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27editLabelModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['labels']['editLabelModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27deleteLabelModal%27][%27modal%27][%27deleteLabelModal%27]
+msgctxt "$_LANG['addonAA']['labels']['deleteLabelModal']['modal']['deleteLabelModal']"
+msgid "Delete Label"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27deleteLabelModal%27][%27deleteLabelForm%27][%27confirmLabelRemoval%27]
+msgid "Are you sure that you want to remove the \":title:\" label?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27deleteLabelModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['labels']['deleteLabelModal']['baseAcceptButton']['title']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27deleteLabelModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['labels']['deleteLabelModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27mainContainer%27][%27labelscont%27][%27massDeleteLabelsButton%27][%27button%27][%27massDeleteLabelsButton%27]
+msgid "Remove"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27massDeleteLabelsModal%27][%27modal%27][%27massDeleteLabelsModal%27]
+msgid "Delete Labels"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27massDeleteLabelsModal%27][%27massDeleteLabelForm%27][%27confirmLabelsRemoval%27]
+msgid "Are you sure that you want to remove the selected labels?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27massDeleteLabelsModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['labels']['massDeleteLabelsModal']['baseAcceptButton']['title']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27massDeleteLabelsModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['labels']['massDeleteLabelsModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27editLabelModal%27][%27editLabelForm%27][%27order%27][%27description%27]
+msgctxt "$_LANG['addonAA']['labels']['editLabelModal']['editLabelForm']['order']['description']"
+msgid ""
+"Define the position of a label next to a domain - the higher the number, the "
+"higher the priority and thus, the closer the label to a domain"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27labels%27][%27addLabelModal%27][%27addLabelForm%27][%27order%27][%27description%27]
+msgctxt "$_LANG['addonAA']['labels']['addLabelModal']['addLabelForm']['order']['description']"
+msgid ""
+"Define the position of a label next to a domain - the higher the number, the "
+"higher the priority and thus, the closer the label to a domain"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27predefinedTldSets%27][%27mainContainer%27][%27doeTldPredefinedTldSets%27][%27title%27]
+msgid "Category List"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27predefinedTldSets%27][%27tldTable%27][%27name%27]
+msgctxt "$_LANG['addonAA']['predefinedTldSets']['tldTable']['name']"
+msgid "Extension"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27predefinedTldSets%27][%27button%27][%27massAssignTldButton%27]
+msgctxt "$_LANG['addonAA']['predefinedTldSets']['button']['massAssignTldButton']"
+msgid "Add TLDs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27predefinedTldSets%27][%27massCreateTldModal%27][%27massCreateTldForm%27][%27category_id%27][%27category_id%27]
+msgctxt "$_LANG['addonAA']['predefinedTldSets']['massCreateTldModal']['massCreateTldForm']['category_id']['category_id']"
+msgid "Category"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27predefinedTldSets%27][%27massCreateTldModal%27][%27modal%27][%27massCreateTldModal%27]
+msgctxt "$_LANG['addonAA']['predefinedTldSets']['massCreateTldModal']['modal']['massCreateTldModal']"
+msgid "Add TLDs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27predefinedTldSets%27][%27massCreateTldModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['predefinedTldSets']['massCreateTldModal']['baseAcceptButton']['title']"
+msgid "Add TLDs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27predefinedTldSets%27][%27massCreateTldModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['predefinedTldSets']['massCreateTldModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27massDeleteTldsModal%27][%27modal%27][%27massDeleteTldsModal%27]
+msgid "Delete TLDs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27massDeleteTldsModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['massDeleteTldsModal']['baseAcceptButton']['title']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27massDeleteTldsModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['massDeleteTldsModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27massDeleteTldsModal%27][%27deleteTldForm%27][%27confirmCategoryRemoval%27]
+msgid "Are you sure that you want to remove the selected TLDs?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27moduleSettings%27][%27mainContainer%27][%27doeSectionsSettings%27][%27boxSection%27][%27halfPageSection%27][%27threadCount%27][%27description%27]
+msgid "Define the number of cron search processes to be run at a time"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27moduleSettings%27][%27mainContainer%27][%27doeSectionsSettings%27][%27boxSection%27][%27halfPageSection%27][%27recordsCount%27][%27description%27]
+msgid ""
+"Define the number of domains to be delivered under a single cron search "
+"process"
+msgstr ""
+
+#. /* * ********************************************************************************************************************
+#.  *                                                    CLIENT AREA                                                      *
+#.  * ******************************************************************************************************************** */
+#: %24_LANG[%27addonCA%27][%27pageNotFound%27]
+msgid "Page Not Found"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeSearch%27][%27searchButton%27][%27button%27][%27searchButton%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeSearch']['searchButton']['button']['searchButton']"
+msgid "Search Domains"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27SearchDomains%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['SearchDomains']"
+msgid "Search Domains"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTld%27][%27Transfer%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTld']['Transfer']"
+msgid "Transfer"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTld%27][%27Registry%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTld']['Registry']"
+msgid "Register"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTld%27][%27DomainNotAvailable%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTld']['DomainNotAvailable']"
+msgid "The domain is not available"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTld%27][%27AddToCart%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTld']['AddToCart']"
+msgid "The domain has been added to cart"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTld%27][%27NotFindDomains%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTld']['NotFindDomains']"
+msgid "Please search the domain first"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTld%27][%27Check%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTld']['Check']"
+msgid "Check"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTld%27][%27Free%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTld']['Free']"
+msgid "Available"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTld%27][%27Taken%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTld']['Taken']"
+msgid "Taken"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTld%27][%27Error%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTld']['Error']"
+msgid "Error"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithOutCategory%27][%27Transfer%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithOutCategory']['Transfer']"
+msgid "Transfer"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithOutCategory%27][%27Registry%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithOutCategory']['Registry']"
+msgid "Register"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithOutCategory%27][%27DomainNotAvailable%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithOutCategory']['DomainNotAvailable']"
+msgid "The domain is not available"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithOutCategory%27][%27AddToCart%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithOutCategory']['AddToCart']"
+msgid "The domain has been added to cart"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithOutCategory%27][%27NotFindDomains%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithOutCategory']['NotFindDomains']"
+msgid "Please search the domain first"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithOutCategory%27][%27Check%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithOutCategory']['Check']"
+msgid "Check"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithOutCategory%27][%27Free%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithOutCategory']['Free']"
+msgid "Available"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithOutCategory%27][%27Taken%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithOutCategory']['Taken']"
+msgid "Taken"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithOutCategory%27][%27Error%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithOutCategory']['Error']"
+msgid "Error"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithSubcategory%27][%27Transfer%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithSubcategory']['Transfer']"
+msgid "Transfer"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithSubcategory%27][%27Registry%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithSubcategory']['Registry']"
+msgid "Register"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithSubcategory%27][%27DomainNotAvailable%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithSubcategory']['DomainNotAvailable']"
+msgid "The domain is not available"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithSubcategory%27][%27AddToCart%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithSubcategory']['AddToCart']"
+msgid "The domain has been added to cart"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithSubcategory%27][%27NotFindDomains%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithSubcategory']['NotFindDomains']"
+msgid "Please search the domain first"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithSubcategory%27][%27Check%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithSubcategory']['Check']"
+msgid "Check"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithSubcategory%27][%27Free%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithSubcategory']['Free']"
+msgid "Available"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithSubcategory%27][%27Taken%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithSubcategory']['Taken']"
+msgid "Taken"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithSubcategory%27][%27Error%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithSubcategory']['Error']"
+msgid "Error"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27specialChoice%27][%27Transfer%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['specialChoice']['Transfer']"
+msgid "Transfer"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27specialChoice%27][%27Registry%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['specialChoice']['Registry']"
+msgid "Register"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27specialChoice%27][%27DomainNotAvailable%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['specialChoice']['DomainNotAvailable']"
+msgid "The domain is not available"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27specialChoice%27][%27AddToCart%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['specialChoice']['AddToCart']"
+msgid "The domain has been added to cart"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27specialChoice%27][%27Check%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['specialChoice']['Check']"
+msgid "Check"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27specialChoice%27][%27Free%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['specialChoice']['Free']"
+msgid "Available"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27specialChoice%27][%27Taken%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['specialChoice']['Taken']"
+msgid "Taken"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27specialChoice%27][%27Error%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['specialChoice']['Error']"
+msgid "Error"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27suggestions%27][%27Transfer%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['suggestions']['Transfer']"
+msgid "Transfer"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27suggestions%27][%27Registry%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['suggestions']['Registry']"
+msgid "Register"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27suggestions%27][%27DomainNotAvailable%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['suggestions']['DomainNotAvailable']"
+msgid "The domain is not available"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27suggestions%27][%27AddToCart%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['suggestions']['AddToCart']"
+msgid "The domain has been added to cart"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27suggestions%27][%27NotFindDomains%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['suggestions']['NotFindDomains']"
+msgid "Please search the domain first"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27suggestions%27][%27Check%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['suggestions']['Check']"
+msgid "Check"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27suggestions%27][%27Free%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['suggestions']['Free']"
+msgid "Available"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27suggestions%27][%27Taken%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['suggestions']['Taken']"
+msgid "Taken"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27suggestions%27][%27Error%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['suggestions']['Error']"
+msgid "Error"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27search%27][%27placeholder%27]
+msgid "E.g.: example.com"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27free%27]
+msgid "Free"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27oneYear%27]
+msgid "/yr"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27twoYears%27]
+msgid "/2yrs"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27treeYears%27]
+msgid "/3yrs"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27fourYears%27]
+msgid "/4yrs"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27fiveYears%27]
+msgid "/5yrs"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27sixYears%27]
+msgid "/6yrs"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27sevenYears%27]
+msgid "/7yrs"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27eightYears%27]
+msgid "/8yrs"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27nineYears%27]
+msgid "/9yrs"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27tenYears%27]
+msgid "/10yrs"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithSubcategory%27][%27Suggested%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithSubcategory']['Suggested']"
+msgid "Suggestions"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27cartTotals%27][%27title%27]
+msgid "Order Summary"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27cartTotals%27][%27total%27]
+msgid "Total:"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27cartTotals%27][%27YourShoppingCartIsEmpty%27]
+msgid "Your shopping cart is empty"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27cartTotals%27][%27domains%27]
+msgid "Domains:"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27cartTotals%27][%27products%27]
+msgid "Products:"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27cartTotals%27][%27addons%27]
+msgid "Addons:"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27cartTotals%27][%27baseButton%27][%27Checkout%27]
+msgid "Go To Cart"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeSearch%27][%27suggestionTlds%27][%27CheckAll%27]
+msgid "Check All"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeSearch%27][%27suggestionTlds%27][%27Uncheck%27]
+msgid "Uncheck"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTld%27][%27Suggested%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTld']['Suggested']"
+msgid "Suggestions"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27orderDomain%27][%27mainContainer%27][%27doeListTldWithOutCategory%27][%27Suggested%27]
+msgctxt "$_LANG['addonCA']['orderDomain']['mainContainer']['doeListTldWithOutCategory']['Suggested']"
+msgid "Suggestions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27addCategoryModal%27][%27addCategoryForm%27][%27suggested%27][%27description%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['addCategoryModal']['addCategoryForm']['suggested']['description']"
+msgid ""
+"If set as promoted, the category will be displayed at the top of the domain "
+"search list, regardless of the category order specified using drag & drop."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editCategoryModal%27][%27editCategoryForm%27][%27suggested%27][%27description%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editCategoryModal']['editCategoryForm']['suggested']['description']"
+msgid ""
+"If set as promoted, the category will be displayed at the top of the domain "
+"search list, regardless of the category order specified using drag & drop."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27editTldModal%27][%27editTldForm%27][%27suggested%27][%27description%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['editTldModal']['editTldForm']['suggested']['description']"
+msgid ""
+"If set as promoted, the TLD will be displayed at the top of the search list "
+"within the category it is assigned to, regardless of the domain order "
+"specified using drag & drop."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tldConfiguration%27][%27assignTldModal%27][%27assignTldForm%27][%27suggested%27][%27description%27]
+msgctxt "$_LANG['addonAA']['tldConfiguration']['assignTldModal']['assignTldForm']['suggested']['description']"
+msgid ""
+"If set as promoted, the TLD will be displayed at the top of the search list "
+"within the category it is assigned to, regardless of the domain order "
+"specified using drag & drop."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27LoggerManager%27]
+msgid "Logs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27id%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['mainContainer']['loggercont']['table']['id']"
+msgid "ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27message%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['mainContainer']['loggercont']['table']['message']"
+msgid "Message"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27type%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['mainContainer']['loggercont']['table']['type']"
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27date%27]
+msgid "Date"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27response%27]
+msgid "Response"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27request%27]
+msgid "Request"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27submodule%27]
+msgid "Submodule"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27deleteLoggerModalButton%27][%27button%27][%27deleteLoggerModalButton%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['mainContainer']['loggercont']['deleteLoggerModalButton']['button']['deleteLoggerModalButton']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteLoggerModal%27][%27modal%27][%27deleteLoggerModal%27]
+msgid "Delete Log"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteLoggerModal%27][%27deleteLoggerForm%27][%27confirmLabelRemoval%27]
+msgid "Are you sure that you want to remove the selected log?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteLoggerModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['deleteLoggerModal']['baseAcceptButton']['title']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteLoggerModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['deleteLoggerModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27button%27][%27massDeleteLoggerButton%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['button']['massDeleteLoggerButton']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27massDeleteLoggerModal%27][%27modal%27][%27massDeleteLoggerModal%27]
+msgid "Delete Logs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27massDeleteLoggerModal%27][%27deleteLoggerForm%27][%27confirmLabelRemoval%27]
+msgid "Are you sure that you want to remove the selected logs?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27massDeleteLoggerModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['massDeleteLoggerModal']['baseAcceptButton']['title']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27massDeleteLoggerModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['massDeleteLoggerModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27loggersDeletedSuccesfully%27]
+msgid "Logs have been deleted successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27moduleSettings%27][%27mainContainer%27][%27doeSectionsSettings%27][%27doeLogSettings%27][%27doeLogSettings%27]
+msgid "Logs Settings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27moduleSettings%27][%27mainContainer%27][%27doeSectionsSettings%27][%27doeLogSettings%27][%27leftSideLogs%27][%27logDebugMode%27][%27logDebugMode%27]
+msgid "Debug Mode"
+msgstr ""

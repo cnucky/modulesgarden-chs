@@ -1,0 +1,87 @@
+#. extracted from AdvancedBilling/extensions/RecurringBilling/lang/english.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-28 16:54+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.3.0\n"
+
+#: %24LANG[%27configuration%27][%27enable_recurring_billing%27]
+msgid "Enable"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27enable_recurring_billing_help%27]
+msgid ""
+"Check this option if you want to enable the Recurring Billing for this "
+"product"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27bill_on_terminate%27]
+msgid "Bill On Termination"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27bill_on_terminate_help%27]
+msgid "Bill your client after the account is terminated "
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27billing_type%27]
+msgid "Billing Type"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27billing_type_help%27]
+msgctxt "$LANG['configuration']['billing_type_help']"
+msgid ""
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27bill_on_invoice_generate%27]
+msgid "Bill On Invoice"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27bill_on_specific_day%27]
+msgid "Bill On Specific Day"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27bill_every_x_days%27]
+msgid "Bill Every X Days"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27billing_type_value%27]
+msgid "Billing Type Value"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27billing_type_value_help%27]
+msgctxt "$LANG['configuration']['billing_type_value_help']"
+msgid ""
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27due_date%27]
+msgid "Due Date"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27due_date_help%27]
+msgid "Days (7 by default)"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27autogenerate_invoice%27]
+msgid "Auto Generate Invoice"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27autogenerate_invoice_help%27]
+msgid "Check this option if you want invoices to be generated automatically"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27auto_apply_credits%27]
+msgid "Auto Apply Credits"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27auto_apply_credits_help%27]
+msgid ""
+"Automatically apply any credits available in the client's credit balance"
+msgstr ""

@@ -1,0 +1,1542 @@
+#. extracted from DiscountCenter/langs/english.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-28 16:53+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.3.0\n"
+
+#. /* *********************************************************************
+#.  * DiscountCenter product developed. (2015-11-16)
+#.  * *
+#.  *
+#.  *  CREATED BY MODULESGARDEN       ->       http://modulesgarden.com
+#.  *  CONTACT                        ->       contact@modulesgarden.com
+#.  *
+#.  *
+#.  * This software is furnished under a license and may be used and copied
+#.  * only  in  accordance  with  the  terms  of such  license and with the
+#.  * inclusion of the above copyright notice.  This software  or any other
+#.  * copies thereof may not be provided or otherwise made available to any
+#.  * other person.  No title to and  ownership of the  software is  hereby
+#.  * transferred.
+#.  *
+#.  *
+#.  * ******************************************************************** */
+#: %24_LANG[%27token%27]
+msgid ", Error Token:"
+msgstr ""
+
+#: %24_LANG[%27generalError%27]
+msgid ""
+"It seems you have encountered an unexpected error. Please contact "
+"administrator for more info."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27home%27]
+msgid "Dashboard"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27discounts%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['discounts']"
+msgid "Discounts"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27quantityDiscounts%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['quantityDiscounts']"
+msgid "Quantity Discounts"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27logs%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['logs']"
+msgid "Logs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27documentation%27]
+msgid "Documentation"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27quantityDiscounts%27][%27add%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['quantityDiscounts']['add']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27settings%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['settings']"
+msgid "Settings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27discounts%27][%27addDiscount%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['discounts']['addDiscount']"
+msgid "Add Discount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27quantityDiscounts%27][%27edit%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['quantityDiscounts']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27header%27][%27Discounts%27]
+msgctxt "$_LANG['addonAA']['discounts']['header']['Discounts']"
+msgid "Discounts"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27tableHeader%27][%27ID%27]
+msgctxt "$_LANG['addonAA']['discounts']['tableHeader']['ID']"
+msgid "ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27tableHeader%27][%27Name%27]
+msgctxt "$_LANG['addonAA']['discounts']['tableHeader']['Name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27tableHeader%27][%27Actions%27]
+msgctxt "$_LANG['addonAA']['discounts']['tableHeader']['Actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27button%27][%27Add+New%27]
+msgctxt "$_LANG['addonAA']['discounts']['button']['Add New']"
+msgid "Add New"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Nothing+to+display%27]
+msgctxt "$_LANG['addonAA']['discounts']['Nothing to display']"
+msgid "Nothing to display"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27search%27]
+msgctxt "$_LANG['addonAA']['discounts']['search']"
+msgid "Search"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27previous%27]
+msgctxt "$_LANG['addonAA']['discounts']['previous']"
+msgid "Previous"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27next%27]
+msgctxt "$_LANG['addonAA']['discounts']['next']"
+msgid "Next"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27header%27][%27Add+Discount%27]
+msgctxt "$_LANG['addonAA']['discounts']['header']['Add Discount']"
+msgid "Add Discount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27General%27]
+msgctxt "$_LANG['addonAA']['discounts']['General']"
+msgid "General"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Product+Discounts%27]
+msgid "Product Discounts"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Activation+Rules%27]
+msgctxt "$_LANG['addonAA']['discounts']['Activation Rules']"
+msgid "Activation Rules"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Products%27]
+msgctxt "$_LANG['addonAA']['discounts']['Products']"
+msgid "Products"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Product+Addons%27]
+msgid "Product Addons"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Domains%27]
+msgctxt "$_LANG['addonAA']['discounts']['Domains']"
+msgid "Domains"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Back%27]
+msgctxt "$_LANG['addonAA']['discounts']['Back']"
+msgid "Back"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27percentage%27]
+msgctxt "$_LANG['addonAA']['discounts']['percentage']"
+msgid "Percentage"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Fixed+Amount%27]
+msgctxt "$_LANG['addonAA']['discounts']['Fixed Amount']"
+msgid "Fixed Amount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27One+Time%27]
+msgid "One Time"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Monthly%27]
+msgid "Monthly"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Quarterly%27]
+msgid "Quarterly"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Semi-Annually%27]
+msgid "Semi-Annually"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Annually%27]
+msgid "Annually"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Biennially%27]
+msgid "Biennially"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Triennially%27]
+msgid "Triennially"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Add%27]
+msgctxt "$_LANG['addonAA']['discounts']['Add']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Any%27]
+msgid "Any"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27discount[name]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['newDiscount']['discount[name]']['label']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27discount[name]%27][%27placeholder%27]
+msgid "Discount name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27discount[name]%27][%27description%27]
+msgctxt "$_LANG['addonAA']['discounts']['newDiscount']['discount[name]']['description']"
+msgid ""
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27requried[domainregister]%27][%27label%27]
+msgid " Domains"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27requried[addon]%27][%27label%27]
+msgid " Addons"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27requried[product]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['newDiscount']['requried[product]']['label']"
+msgid "Products"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27promotional[products]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['newDiscount']['promotional[products]']['label']"
+msgid "Products"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27promotional[addons]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['newDiscount']['promotional[addons]']['label']"
+msgid "Addons"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27promotional[domains]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['newDiscount']['promotional[domains]']['label']"
+msgid "Domains"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27discount[enable]%27][%27options%27][%27enable%27]
+msgctxt "$_LANG['addonAA']['discounts']['newDiscount']['discount[enable]']['options']['enable']"
+msgid "Tick to enable"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27discount[enable]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['newDiscount']['discount[enable]']['label']"
+msgid "Enable"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27promotionalProducts%27][%27label%27]
+msgid "Apply Promotion To"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27requriedProductsLabel%27][%27label%27]
+msgid "Products Required In Cart"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Field+%22Value%22+is+empty%27]
+msgid "Field \"Value\" is empty"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Field+%22Name%22+is+empty%27]
+msgid "Field \"Name\" is empty"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Field+%22Products%22+or+%22Addons%22+or+%22Domains%22+is+requried.%27]
+msgid "Field \"Products\" or \"Addons\" or \"Domains\" is required."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27delete%27]
+msgctxt "$_LANG['addonAA']['discounts']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27eidt%27]
+msgctxt "$_LANG['addonAA']['discounts']['eidt']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Price%27]
+msgid "Price"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27free_amount%27]
+msgctxt "$_LANG['addonAA']['discounts']['free_amount']"
+msgid "Fixed Amount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27One+Time/Monthly%27]
+msgid "One Time/Monthly"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27activationRules%27][%27rules[clientTyps]%27][%27options%27][%27all%27]
+msgid "All - give promotion to all clients and potential clients"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27activationRules%27][%27rules[clientTyps]%27][%27options%27][%27new%27]
+msgctxt "$_LANG['addonAA']['discounts']['activationRules']['rules[clientTyps]']['options']['new']"
+msgid "New - give promotion to new clients only"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27activationRules%27][%27rules[clientTyps]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['activationRules']['rules[clientTyps]']['label']"
+msgid "Clients"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27activationRules%27][%27rules[clients]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['activationRules']['rules[clients]']['label']"
+msgid "Clients"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27activationRules%27][%27rules[groups]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['activationRules']['rules[groups]']['label']"
+msgid "Client Groups"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Currency%27]
+msgid "Currency"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Promotion%27]
+msgid "Promotion"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%271+Year%27]
+msgid "1 Year"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%272+Years%27]
+msgid "2 Years"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%273+Years%27]
+msgid "3 Years"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%274+Years%27]
+msgid "4 Years"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%275+Years%27]
+msgid "5 Years"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%276+Years%27]
+msgid "6 Years"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%277+Years%27]
+msgid "7 Years"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%278+Years%27]
+msgid "8 Years"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%279+Years%27]
+msgid "9 Years"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%2710+Years%27]
+msgid "10 Years"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Percentage%27]
+msgctxt "$_LANG['addonAA']['discounts']['Percentage']"
+msgid "Percentage"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Field+is+required%27]
+msgctxt "$_LANG['addonAA']['discounts']['Field is required']"
+msgid "Field is required"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27The+value+must+be+positive%27]
+msgid "The value must be positive"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27modal%27][%27Delete+Discount%27]
+msgctxt "$_LANG['addonAA']['discounts']['modal']['Delete Discount']"
+msgid "Delete Discount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Are+you+sure+you+want+to+delete+this+entry+from+discounts+list%3F%27]
+msgctxt "$_LANG['addonAA']['discounts']['Are you sure you want to delete this entry from discounts list?']"
+msgid "Are you sure you want to delete this entry from discounts list?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27modal%27][%27close%27]
+msgctxt "$_LANG['addonAA']['discounts']['modal']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27modal%27][%27delete%27]
+msgctxt "$_LANG['addonAA']['discounts']['modal']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Discount+%25s+has+been+delted%27]
+msgid "Discount %s has been deleted"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27actionButtons%27][%27edit%27]
+msgctxt "$_LANG['addonAA']['discounts']['actionButtons']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27discounts%27][%27editDiscount%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['discounts']['editDiscount']"
+msgid "Edit Discount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27header%27][%27Edit+Discount%27]
+msgctxt "$_LANG['addonAA']['discounts']['header']['Edit Discount']"
+msgid "Edit Discount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27actionButtons%27][%27delete%27]
+msgctxt "$_LANG['addonAA']['discounts']['actionButtons']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Discount++has+been+saved%27]
+msgid "Discount has been saved"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27filters%27][%27toggle%27]
+msgctxt "$_LANG['addonAA']['discounts']['filters']['toggle']"
+msgid "Toggle Filters"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Product%27]
+msgctxt "$_LANG['addonAA']['discounts']['Product']"
+msgid "Product"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27filters%27][%27Reset%27]
+msgctxt "$_LANG['addonAA']['discounts']['filters']['Reset']"
+msgid "Reset"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27filters%27][%27Filter%27]
+msgctxt "$_LANG['addonAA']['discounts']['filters']['Filter']"
+msgid "Filter"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Addon%27]
+msgctxt "$_LANG['addonAA']['discounts']['Addon']"
+msgid "Addon"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27status%27]
+msgctxt "$_LANG['addonAA']['discounts']['status']"
+msgid "Status"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27enable%27]
+msgid "Only enable"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Domain%27]
+msgctxt "$_LANG['addonAA']['discounts']['Domain']"
+msgid "Domain"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Save+Changes%27]
+msgctxt "$_LANG['addonAA']['discounts']['Save Changes']"
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27activationRules%27][%27rules[clientTyps]%27][%27options%27][%27chosen%27]
+msgid "Chosen - give promotion to selected clients only"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27disabled%27]
+msgctxt "$_LANG['addonAA']['discounts']['disabled']"
+msgid "Disabled"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27enabled%27]
+msgctxt "$_LANG['addonAA']['discounts']['enabled']"
+msgid "Enabled"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27tableHeader%27][%27Status%27]
+msgctxt "$_LANG['addonAA']['discounts']['tableHeader']['Status']"
+msgid "Status"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27actionButtons%27][%27Toggle+Status%27]
+msgctxt "$_LANG['addonAA']['discounts']['actionButtons']['Toggle Status']"
+msgid "Toggle Status"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Discount+%23%25s+status+has+switched+on%27]
+msgctxt "$_LANG['addonAA']['discounts']['Discount #%s status has switched on']"
+msgid "Discount #%s status has been enabled"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Discount+%23%25s+status+has+switched+off%27]
+msgctxt "$_LANG['addonAA']['discounts']['Discount #%s status has switched off']"
+msgid "Discount #%s status has been disabled"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Client+rules+are+empty%27]
+msgctxt "$_LANG['addonAA']['discounts']['Client rules are empty']"
+msgid "Client rules field is empty"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27That+value+is+to+high%27]
+msgid "That value is too high"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27value%27][%27placeholder%27]
+msgid "25.00"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Disable%27]
+msgid "Disable"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27activationRules%27][%27rules[recurring]%27][%27options%27][%27on%27]
+msgid " Apply discount to recurring orders"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27activationRules%27][%27rules[recurring]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['activationRules']['rules[recurring]']['label']"
+msgid "Recurring Discounts"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Setup+Fee%27]
+msgid "Setup Fee"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27quantity[multipleItems]%27][%27options%27][%27on%27]
+msgid "Apply discount to multiple quantities"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27quantity[multipleItems]%27][%27label%27]
+msgid "Multiple Quantity"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27discount[description]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['newDiscount']['discount[description]']['label']"
+msgid "Description"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27activationRules%27][%27discount[promoCode]%27][%27options%27][%27on%27]
+msgctxt "$_LANG['addonAA']['discounts']['activationRules']['discount[promoCode]']['options']['on']"
+msgid " Disable discount if promotion code is used"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27activationRules%27][%27discount[promoCode]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['activationRules']['discount[promoCode]']['label']"
+msgid "Promotion Code"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27quantity[promoCode]%27][%27options%27][%27on%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['rules']['quantity[promoCode]']['options']['on']"
+msgid " Disable discount if promotion code is used"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27quantity[promoCode]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['rules']['quantity[promoCode]']['label']"
+msgid "Promotion Code"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27activationRules%27][%27discount[fromDateTime]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['activationRules']['discount[fromDateTime]']['label']"
+msgid "Start Date"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27activationRules%27][%27discount[toDateTime]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['activationRules']['discount[toDateTime]']['label']"
+msgid "Expiry Date"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27activationRules%27][%27discount[includeDateTime]%27][%27options%27][%27on%27]
+msgctxt "$_LANG['addonAA']['discounts']['activationRules']['discount[includeDateTime]']['options']['on']"
+msgid "Select to enable setting up the time frames"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27activationRules%27][%27discount[includeDateTime]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['activationRules']['discount[includeDateTime]']['label']"
+msgid "Validity Period"
+msgstr ""
+
+#: %24_LANG[%27All%27]
+msgid "All"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27tableHeader%27][%27Start+Date%27]
+msgctxt "$_LANG['addonAA']['discounts']['tableHeader']['Start Date']"
+msgid "Start Date"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27tableHeader%27][%27Expiry+Date%27]
+msgctxt "$_LANG['addonAA']['discounts']['tableHeader']['Expiry Date']"
+msgid "Expiry Date"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27The+value+should+be+higher+than+0%27]
+msgctxt "$_LANG['addonAA']['discounts']['The value should be higher than 0']"
+msgid "The value should be higher than 0"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27activationRules%27][%27rules[recurringMonths]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['activationRules']['rules[recurringMonths]']['label']"
+msgid "Recurring Months"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27requriedClientProductsLabel%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['newDiscount']['requriedClientProductsLabel']['label']"
+msgid "Required Active Products"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27requried[client_product]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['newDiscount']['requried[client_product]']['label']"
+msgid "Products"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27requried[client_addon]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['newDiscount']['requried[client_addon]']['label']"
+msgid "Addons"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27requried[client_domain]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['newDiscount']['requried[client_domain]']['label']"
+msgid "Domains"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27tableHeader%27][%27Assigned%27]
+msgctxt "$_LANG['addonAA']['discounts']['tableHeader']['Assigned']"
+msgid "Assigned"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27tableHeader%27][%27Assigned%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['tableHeader']['Assigned']"
+msgid "Assigned"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Addons%27]
+msgctxt "$_LANG['addonAA']['discounts']['Addons']"
+msgid "Addons"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27Copy+To+Other+Currencies%27]
+msgid "Copy To Other Currencies"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27daysForNewClientsStatus%27][%27label%27]
+msgid "New Client Status - Number Of Days"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27header%27][%27settings%27]
+msgctxt "$_LANG['addonAA']['settings']['header']['settings']"
+msgid "Settings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27daysForNewClientsStatus%27][%27description%27]
+msgid "Define the number of days that a client is marked as new."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27button%27][%27Save+Changes%27]
+msgctxt "$_LANG['addonAA']['settings']['button']['Save Changes']"
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27messages%27][%27Default+Settings+have+been+saved%27]
+msgid "Default Settings have been saved"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27The+value+should+be+higher+than+0%27]
+msgctxt "$_LANG['addonAA']['settings']['The value should be higher than 0']"
+msgid "The value should be higher than 0"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27autoApplyingDiscount%27][%27options%27][%27on%27]
+msgid "Enable all newly created discounts"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27autoApplyingDiscount%27][%27label%27]
+msgid "Autoapply Discounts"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27header%27][%27Logs%27]
+msgctxt "$_LANG['addonAA']['logs']['header']['Logs']"
+msgid "Logs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27tableHeader%27][%27ID%27]
+msgctxt "$_LANG['addonAA']['logs']['tableHeader']['ID']"
+msgid "ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27tableHeader%27][%27Message%27]
+msgid "Message"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27tableHeader%27][%27Date%27]
+msgid "Date"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27tableHeader%27][%27Action%27]
+msgid "Action"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27button%27][%27Delete+All+Entries%27]
+msgctxt "$_LANG['addonAA']['logs']['button']['Delete All Entries']"
+msgid "Delete All Entries"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27modal%27][%27Delete+All+Entries%27]
+msgctxt "$_LANG['addonAA']['logs']['modal']['Delete All Entries']"
+msgid "Delete All Entries"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27Are+you+sure+you+want+to+delete+all+entries+from+logs+list%3F%27]
+msgid "Are you sure you want to delete all entries from logs list?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27modal%27][%27delete%27]
+msgctxt "$_LANG['addonAA']['logs']['modal']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27modal%27][%27close%27]
+msgctxt "$_LANG['addonAA']['logs']['modal']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27Nothing+to+display%27]
+msgctxt "$_LANG['addonAA']['logs']['Nothing to display']"
+msgid "Nothing to display"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27search%27]
+msgctxt "$_LANG['addonAA']['logs']['search']"
+msgid "Search"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27previous%27]
+msgctxt "$_LANG['addonAA']['logs']['previous']"
+msgid "Previous"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27next%27]
+msgctxt "$_LANG['addonAA']['logs']['next']"
+msgid "Next"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27actionButtons%27][%27delete%27]
+msgctxt "$_LANG['addonAA']['logs']['actionButtons']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27modal%27][%27Delete+Log%27]
+msgid "Delete Log"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27Are+you+sure+you+want+to+delete+this+entry+from+logs+list%3F%27]
+msgid "Are you sure you want to delete this entry from logs list?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27Log+%25s+has+been+delted%27]
+msgid "Log %s has been deleted"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logs%27][%27Logs+have+been+delted%27]
+msgid "Logs have been deleted"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27header%27][%27quantity+Discounts%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['header']['quantity Discounts']"
+msgid "Quantity Discounts"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27header%27][%27quantity+Discounts%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['header']['quantity Discounts']"
+msgid "Quantity Discounts"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27tableHeader%27][%27ID%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['tableHeader']['ID']"
+msgid "ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27tableHeader%27][%27Name%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['tableHeader']['Name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27tableHeader%27][%27Actions%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['tableHeader']['Actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Add+New%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['Add New']"
+msgid "Add New"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27General%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['General']"
+msgid "General"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27quantity+Discounts%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['quantity Discounts']"
+msgid "Quantity Discounts"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Activation+Rules%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['Activation Rules']"
+msgid "Activation Rules"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27modal%27][%27close%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['modal']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Save+Changes%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['Save Changes']"
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27modal%27][%27Delete+Discount%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['modal']['Delete Discount']"
+msgid "Delete Discount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Are+you+sure+you+want+to+delete+this+entry+from+discounts+list%3F%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['Are you sure you want to delete this entry from discounts list?']"
+msgid "Are you sure you want to delete this entry from discounts list?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27modal%27][%27delete%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['modal']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Nothing+to+display%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['Nothing to display']"
+msgid "Nothing to display"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27search%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['search']"
+msgid "Search"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27previous%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['previous']"
+msgid "Previous"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27next%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['next']"
+msgid "Next"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Field+is+required%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['Field is required']"
+msgid "Field is required"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27quantity[name]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['newDiscount']['quantity[name]']['label']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27quantity[name]%27][%27placeholder%27]
+msgid "name "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27quantity[enable]%27][%27options%27][%27enable%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['newDiscount']['quantity[enable]']['options']['enable']"
+msgid "Tick to enable"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27quantity[enable]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['newDiscount']['quantity[enable]']['label']"
+msgid "Enable"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27requriedProductsLabel%27][%27label%27]
+msgid "Specified Products In Cart"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27promotionalProductsLabel%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['newDiscount']['promotionalProductsLabel']['label']"
+msgid "Promotional Products"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27promotional[products]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['newDiscount']['promotional[products]']['label']"
+msgid "Products"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27promotional[addons]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['newDiscount']['promotional[addons]']['label']"
+msgid "Addons"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27promotional[domains]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['newDiscount']['promotional[domains]']['label']"
+msgid "Domains"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27requried[product]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['newDiscount']['requried[product]']['label']"
+msgid "Products"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27requried[addon]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['newDiscount']['requried[addon]']['label']"
+msgid "Addons"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27requried[domainregister]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['newDiscount']['requried[domainregister]']['label']"
+msgid "Domains"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27rules[clientTyps]%27][%27options%27][%27all%27]
+msgid "All - give promotion to all clients and potential clients "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27rules[clientTyps]%27][%27options%27][%27new%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['rules']['rules[clientTyps]']['options']['new']"
+msgid "New - give promotion to new clients only"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27rules[clientTyps]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['rules']['rules[clientTyps]']['label']"
+msgid "Clients "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27rules[clients]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['rules']['rules[clients]']['label']"
+msgid "Clients "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27rules[groups]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['rules']['rules[groups]']['label']"
+msgid "Client Groups"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Add+Threshold%27]
+msgid "Add Threshold"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27remove%27]
+msgid "Remove"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Apply+To%27]
+msgid "Application Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27All+Required+Products%27]
+msgid "All Specified Products"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27more_expensive%27]
+msgid "If Price Is Higher Than"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27less_expensive%27]
+msgid "If Price Is Lower Than"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27products%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['products']"
+msgid "Promotional Products"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Price+Limit%27]
+msgid "Price Limit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Thresholds%27]
+msgid "Thresholds"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27quantity+of+required+products+in+order%27]
+msgid "minimum number of specified products in a single order"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27discount%27]
+msgid "% discount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Price+Limit+is+not+valid%27]
+msgid "Price Limit is not valid"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Products+are+empty%27]
+msgid "Products are empty"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27quantity+Discount++has+been+saved%27]
+msgid "Quantity Discount has been saved"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27edit%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27delete%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27quantity+Discount+%25s+has+been+delted%27]
+msgid "Quantity Discount %s has been deleted"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Edit%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['Edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Back%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['Back']"
+msgid "Back"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27rules[clientTyps]%27][%27options%27][%27chosen%27]
+msgid " Chosen - give promotion to selected clients only "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27header%27][%27Edit+Discount%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['header']['Edit Discount']"
+msgid "Edit Discount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Promotial+products+are+empty%27]
+msgid "Promotional products are empty"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27header%27][%27Add+Quantity+Discount%27]
+msgid "Add Quantity Discount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27filters%27][%27toggle%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['filters']['toggle']"
+msgid "Toggle Filters"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Product%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['Product']"
+msgid "Product"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27filters%27][%27Reset%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['filters']['Reset']"
+msgid "Reset"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27filters%27][%27Filter%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['filters']['Filter']"
+msgid "Filter"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Addon%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['Addon']"
+msgid "Addon"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Domain%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['Domain']"
+msgid "Domain"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27status%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['status']"
+msgid "Status"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27enable%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['enable']"
+msgid "Enable"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27enabled%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['enabled']"
+msgid "Enabled"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27disabled%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['disabled']"
+msgid "Disabled"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27tableHeader%27][%27Status%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['tableHeader']['Status']"
+msgid "Status"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27actionButtons%27][%27Toggle+Status%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['actionButtons']['Toggle Status']"
+msgid "Toggle Status"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27actionButtons%27][%27edit%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['actionButtons']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Discount+%23%25s+status+has+switched+off%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['Discount #%s status has switched off']"
+msgid "Discount #%s status has been disabled"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Discount+%23%25s+status+has+switched+on%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['Discount #%s status has switched on']"
+msgid "Discount #%s status has been enabled"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Client+rules+are+empty%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['Client rules are empty']"
+msgid "Client rules field is empty"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27That+value+is+invalid%27]
+msgid "That value is invalid"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%22Field+%27Products%27+or+%27Addons%27+or+%27Domains%27+is+required%22]
+msgid "Field 'Products' or 'Addons' or 'Domains' is required"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27rules[recurring]%27][%27options%27][%27on%27]
+msgid "Apply discount to recurring orders"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27rules[recurring]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['rules']['rules[recurring]']['label']"
+msgid "Recurring Discounts"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27quantity[description]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['newDiscount']['quantity[description]']['label']"
+msgid "Description"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27tableHeader%27][%27Start+Date%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['tableHeader']['Start Date']"
+msgid "Start Date"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27tableHeader%27][%27Expiry+Date%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['tableHeader']['Expiry Date']"
+msgid "Expiry Date"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27discount[fromDateTime]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['rules']['discount[fromDateTime]']['label']"
+msgid "Start Date"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27discount[toDateTime]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['rules']['discount[toDateTime]']['label']"
+msgid "Expiry Date"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27The+value+should+be+higher+than+0%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['The value should be higher than 0']"
+msgid "The value should be higher than 0"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27rules[recurringMonths]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['rules']['rules[recurringMonths]']['label']"
+msgid "Recurring Months"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27requriedClientProductsLabel%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['newDiscount']['requriedClientProductsLabel']['label']"
+msgid "Required Active Products"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27requried[client_product]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['newDiscount']['requried[client_product]']['label']"
+msgid "Products"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27requried[client_addon]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['newDiscount']['requried[client_addon]']['label']"
+msgid "Addons"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27requried[client_domain]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['newDiscount']['requried[client_domain]']['label']"
+msgid "Domains"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Products%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['Products']"
+msgid "Products"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Addons%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['Addons']"
+msgid "Addons"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Domains%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['Domains']"
+msgid "Domains"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27discount[includeDateTime]%27][%27options%27][%27on%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['rules']['discount[includeDateTime]']['options']['on']"
+msgid "Select to enable setting up the time frames"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27discount[includeDateTime]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['rules']['discount[includeDateTime]']['label']"
+msgid "Validity Period"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Summary%27]
+msgid "Summary"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Discounts%27]
+msgctxt "$_LANG['addonAA']['home']['Discounts']"
+msgid "Discounts"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Quantity+Discounts%27]
+msgctxt "$_LANG['addonAA']['home']['Quantity Discounts']"
+msgid "Quantity Discounts"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Most+used+Quantity+Discount%27]
+msgid "Most frequently used Quantity Discount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Most+used+Discount%27]
+msgid "Most frequently used Discount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27The+largest+discount+in+single+purchase%27]
+msgid "The largest discount value in single purchase"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Discounts+Overview%27]
+msgid "Discounts Overview"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Number+of+Discounts%27]
+msgid "Number of Discounts"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Period%27]
+msgid "Period"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Week%27]
+msgid "Week"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Month%27]
+msgid "Month"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Year%27]
+msgid "Year"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Day+of+the+Week%27]
+msgid "Day of the Week"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Month+of+the+Year%27]
+msgid "Month of the Year"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Years%27]
+msgid "Years"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Guide%27]
+msgid "Guide"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27steps%27]
+msgid ""
+"Your newly installed module needs some configuration. Undertake a few steps:"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27step1%27]
+msgid ""
+"Set discount rules for many purchases or conditional discount under "
+"'Quantity Discounts' "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Add+New%27]
+msgid "'Add New'"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27step2%27]
+msgid "Set number of days for 'New Client Status' under 'Settings' "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27enter+number+of+days%27]
+msgid "enter number of days"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Save+Changes%27]
+msgid "'Save Changes'"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27step3%27]
+msgid "Follow discounts stats under 'Dashboard'"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27step4%27]
+msgid "For more detailed information visit our "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Wiki.%27]
+msgid "Wiki."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27Hide+Guide%27]
+msgctxt "$_LANG['addonAA']['home']['Hide Guide']"
+msgid "Hide Guide"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27hideGuide%27][%27label%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['hideGuide']['label']"
+msgid "Hide Guide"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27hideGuide%27][%27options%27][%27on%27]
+msgctxt "$_LANG['addonAA']['settings']['configuration']['hideGuide']['options']['on']"
+msgid "Tick to enable"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27PriceLimitPlaceholder%27]
+msgid "50.00"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27integration%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['integration']"
+msgid "Integration Code"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27integration%27][%27Integration+Code%27]
+msgctxt "$_LANG['addonAA']['integration']['Integration Code']"
+msgid "Integration Code"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27integration%27][%27Order+Form+Template:+Modern%27]
+msgid "Order Form Template: Modern"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27integration%27][%27Edit+%5C%27ordersummary.tpl%5C%27+file+located+in+%5C%27templates/orderforms/modern/ordersummary.tpl%5C%27.%27]
+msgid ""
+"Edit 'ordersummary.tpl' file located in 'your_whmcs/templates/orderforms/"
+"modern/ordersummary.tpl'."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27integration%27][%27Example:%27]
+msgid "Example:"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27integration%27][%27Available+Variables%27]
+msgid "Available Variables"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27integration%27][%27Variable+displaying+full+product+price.%27]
+msgid "Variable displaying full product price."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27integration%27][%27Variable+displaying+full+addon+price.%27]
+msgid "Variable displaying full addon price."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27integration%27][%27Variable+displaying+discount+product+price.%27]
+msgid "Variable displaying discount product price."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27integration%27][%27Order+Form+Template:+Standard+Cart%27]
+msgid "Order Form Template: Standard Cart"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27integration%27][%27Edit+%5C%27ordersummary.tpl%5C%27+file+located+in+%5C%27templates/orderforms/standard_cart/ordersummary.tpl%5C%27.%27]
+msgid ""
+"Edit 'ordersummary.tpl' file located in 'templates/orderforms/standard_cart/"
+"ordersummary.tpl'."
+msgstr ""
+
+#: %24_LANG[%27Display+_MENU_+records+per+page%27]
+msgid "Display _MENU_ records per page"
+msgstr ""
+
+#: %24_LANG[%27Show+_MENU_+entries%27]
+msgid "Show _MENU_ entries"
+msgstr ""
+
+#: %24_LANG[%27Showing+_START_+to+_END_+of+_TOTAL_+entries%27]
+msgid "Showing _START_ to _END_ of _TOTAL_ entries"
+msgstr ""
+
+#: %24_LANG[%27(Old+Price:+%25s)%27]
+msgid "(Old Price: %s)"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27integration%27][%27Variable+displaying+total+discount+product+price.%27]
+msgid "Variable displaying total discount product price."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27integration%27][%27Variable+displaying+full+setup+price.%27]
+msgid "Variable displaying full setup price."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27integration%27][%27Variable+displaying+discount+setup+price.%27]
+msgid "Variable displaying discount setup price."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27requriedProductsLabel%27][%27tooltipDescription%27]
+msgid ""
+"Any of the specified here products must be in the cart. The sum of all "
+"specified products is compared with set up tresholds and an adequate "
+"discount is applied."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27requriedProductsLabel%27][%27tooltipDescription%27]
+msgid ""
+"Products required to be in the cart to apply this discount. All of the "
+"chosen products are required."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27promotionalProducts%27][%27tooltipDescription%27]
+msgid "Products for which you wish to define discount."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27newDiscount%27][%27requriedClientProductsLabel%27][%27tooltipDescription%27]
+msgctxt "$_LANG['addonAA']['discounts']['newDiscount']['requriedClientProductsLabel']['tooltipDescription']"
+msgid ""
+"Products required to be already owned by a client and active to apply this "
+"discount. All of the chosen products are required."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27newDiscount%27][%27requriedClientProductsLabel%27][%27tooltipDescription%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['newDiscount']['requriedClientProductsLabel']['tooltipDescription']"
+msgid ""
+"Products required to be already owned by a client and active to apply this "
+"discount. All of the chosen products are required."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27configuration%27][%27orderForm%27][%27options%27][%27Auto%27]
+msgid "Auto"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27configuration%27][%27orderForm%27][%27options%27][%27Modern%27]
+msgid "Modern"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27configuration%27][%27orderForm%27][%27options%27][%27StandardCart%27]
+msgid "StandardCart"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27configuration%27][%27orderForm%27][%27options%27][%27UniversalSlider%27]
+msgid "UniversalSlider"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27configuration%27][%27orderForm%27][%27options%27][%27Boxes%27]
+msgid "Boxes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27configuration%27][%27orderForm%27][%27options%27][%27CloudSlider%27]
+msgid "CloudSlider"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27][%27orderForm%27][%27label%27]
+msgid "Order Form"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27quantity[unpaidInvoices]%27][%27options%27][%27on%27]
+msgid "Enable discount for unpaid invoices"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27quantity[unpaidInvoices]%27][%27label%27]
+msgid "Unpaid Invoices"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27Active+Services+Quantity%27]
+msgid "Active Services Quantity"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27quantity[bundle]%27][%27options%27][%27on%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['rules']['quantity[bundle]']['options']['on']"
+msgid "Disable discount if bundle is used "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27quantityDiscounts%27][%27rules%27][%27quantity[bundle]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['quantityDiscounts']['rules']['quantity[bundle]']['label']"
+msgid "Bundle"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27activationRules%27][%27discount[bundle]%27][%27options%27][%27on%27]
+msgctxt "$_LANG['addonAA']['discounts']['activationRules']['discount[bundle]']['options']['on']"
+msgid "Disable discount if bundle is used "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27activationRules%27][%27discount[bundle]%27][%27label%27]
+msgctxt "$_LANG['addonAA']['discounts']['activationRules']['discount[bundle]']['label']"
+msgid "Bundle"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27domainregister%27][%27Price%27]
+msgid "Register Price"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27domaintransfer%27][%27Price%27]
+msgid "Transfer Price"
+msgstr ""

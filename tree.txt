@@ -1,0 +1,130 @@
+.
+├── accountSynchronization
+│   └── english.po
+├── AdvancedBilling
+│   ├── extensions
+│   │   ├── ClientAreaUsageRecords
+│   │   │   └── lang
+│   │   │       ├── english.php
+│   │   │       └── english.po
+│   │   ├── CreditBilling
+│   │   │   └── lang
+│   │   │       ├── english.php
+│   │   │       └── english.po
+│   │   ├── Graphs
+│   │   │   └── lang
+│   │   │       ├── english.php
+│   │   │       └── english.po
+│   │   ├── Notifications
+│   │   │   └── lang
+│   │   │       └── english.php
+│   │   └── RecurringBilling
+│   │       └── lang
+│   │           ├── english.php
+│   │           └── english.po
+│   └── langs
+│       ├── english.php
+│       └── english.po
+├── ClientAreaDesigner
+│   └── langs
+│       ├── english.php
+│       └── english.po
+├── DirectAdminExtended
+│   ├── addons
+│   │   └── directadmin_extended_functions
+│   │       └── langs
+│   │           ├── english.php
+│   │           └── english.po
+│   └── servers
+│       └── directadminExtended
+│           └── lang
+│               ├── english.php
+│               └── english.po
+├── DiscountCenter
+│   └── langs
+│       ├── english.php
+│       └── english.po
+├── DNSManager2
+│   └── langs
+│       ├── english.php
+│       └── english.po
+├── DomainOrdersExtended
+│   └── langs
+│       ├── english.php
+│       └── english.po
+├── domainsReseller
+│   └── lang
+│       ├── english.php
+│       └── english.po
+├── Emoji
+│   └── langs
+│       ├── english.php
+│       └── english.po
+├── ipmanager2
+│   ├── assets
+│   │   └── img
+│   │       └── Sorting\ icons.psd
+│   └── lang
+│       ├── english.php
+│       └── english.po
+├── PasswordManager
+│   └── langs
+│       ├── english.php
+│       └── english.po
+├── ProxmoxCloud
+│   ├── addons
+│   │   └── proxmoxAddon
+│   │       └── langs
+│   │           ├── english.php
+│   │           └── english.po
+│   └── servers
+│       └── proxmoxCloud
+│           └── lang
+│               ├── english.php
+│               └── english.po
+├── ProxmoxCloudAutoScaling
+│   └── lang
+│       ├── english.php
+│       └── english.po
+├── ProxmoxVPS
+│   ├── addons
+│   │   └── proxmoxAddon
+│   │       └── langs
+│   │           ├── english.php
+│   │           └── english.po
+│   └── servers
+│       └── proxmoxVPS
+│           └── lang
+│               ├── english.php
+│               └── english.po
+├── ResellersCenter
+│   └── english.php
+├── SMSCenter
+│   └── langs
+│       ├── english.php
+│       └── english.po
+├── SolusVMExtendedCloud
+│   ├── files
+│   │   └── lang
+│   │       └── english.php
+│   └── langs
+│       ├── english.php
+│       └── english.po
+├── SolusVMExtendedReseller
+│   └── lang
+│       ├── english.php
+│       └── english.po
+├── SolusVMExtendedVPS
+│   ├── files
+│   │   └── lang
+│   │       └── english.php
+│   └── langs
+│       ├── english.php
+│       └── english.po
+├── tree.txt
+└── WPManager
+    └── langs
+        ├── english.php
+        └── english.po
+
+70 directories, 57 files
