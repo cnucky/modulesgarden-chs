@@ -1,0 +1,4086 @@
+#. extracted from dnsmanager/english.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-28 21:28+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.3.0\n"
+
+#: %24_LANG[%27token%27]
+msgid ", Error Token:"
+msgstr ""
+
+#: %24_LANG[%27generalError%27]
+msgid ""
+"It seems that you have encountered an unexpected error. Please contact the "
+"ModulesGarden Support Team."
+msgstr ""
+
+#: %24_LANG[%27manage_dns%27]
+msgctxt "$_LANG['manage_dns']"
+msgid "Manage DNS"
+msgstr ""
+
+#: %24_LANG[%27mg_manage_dns_link%27]
+msgctxt "$_LANG['mg_manage_dns_link']"
+msgid "Manage DNS"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27next%27]
+msgctxt "$_LANG['addonAA']['datatables']['next']"
+msgid "Next"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27previous%27]
+msgctxt "$_LANG['addonAA']['datatables']['previous']"
+msgid "Next"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27zeroRecords%27]
+msgid "Nothing to display"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27sEmptyTable%27]
+msgid "No data available"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27sPrevious%27]
+msgid "Previous"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27sNext%27]
+msgctxt "$_LANG['addonAA']['datatables']['sNext']"
+msgid "Next"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27sZeroRecords%27]
+msgid "No records to display"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27sInfoEmpty%27]
+msgid "No matching records found"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27sSearch%27]
+msgctxt "$_LANG['addonAA']['datatables']['sSearch']"
+msgid "Search"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27sLengthMenu%27]
+msgid "Show _MENU_ entries"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27sInfoFiltered%27]
+msgid " (filtered from _MAX_ total entries)"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27sInfo%27]
+msgid "Got a total of _TOTAL_ entries to show (_START_ to _END_)"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27home%27][%27label%27]
+msgid "Main"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27dashboard%27][%27label%27]
+msgid "Dashboard"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27settings%27][%27servers%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['settings']['servers']"
+msgid "Servers"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27zones%27][%27label%27]
+msgid "Zones List"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27settings%27][%27label%27]
+msgid "Settings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27settings%27][%27global%27]
+msgid "Global Settings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27settings%27][%27packages%27]
+msgid "Packages"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27settings%27][%27sets%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['settings']['sets']"
+msgid "DNS Record Sets"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27settings%27][%27blocked%27]
+msgid "Blocked Strings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27settings%27][%27logs%27]
+msgid "Logs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27tools%27][%27label%27]
+msgid "Tools"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27tools%27][%27cron%27]
+msgid "Cron"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27tools%27][%27migration%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['tools']['migration']"
+msgid "Migration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27tools%27][%27import%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['tools']['import']"
+msgid "Import"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27documentation%27][%27label%27]
+msgid "Documentation"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27tools%27][%27tasks%27]
+msgid "Tasks"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27confirmation_close%27]
+msgctxt "$_LANG['addonAA']['confirmation_close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27confirmation_confirm%27]
+msgctxt "$_LANG['addonAA']['confirmation_confirm']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27confirmation_default_title%27]
+msgctxt "$_LANG['addonAA']['confirmation_default_title']"
+msgid "Confirmation"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27servers%27]
+msgctxt "$_LANG['addonAA']['dashboard']['servers']"
+msgid "Servers"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27zones_used%27]
+msgid "Zones Used"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27email_send%27]
+msgid "Emails"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27last_week%27]
+msgid "Last Week"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27zone_created%27]
+msgid "Zones Created"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27zone_edited%27]
+msgid "Zones Altered"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27zone_removed%27]
+msgid "Zones Removed"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27notifications%27]
+msgctxt "$_LANG['addonAA']['dashboard']['notifications']"
+msgid "Notifications"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27notification%27]
+msgid "Notification"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27typeh%27]
+msgctxt "$_LANG['addonAA']['dashboard']['typeh']"
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27type%27][0]
+msgctxt "$_LANG['addonAA']['dashboard']['type'][0]"
+msgid "Problem"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27type%27][1]
+msgid "Info"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27type%27][2]
+msgctxt "$_LANG['addonAA']['dashboard']['type'][2]"
+msgid "Problem"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27date%27]
+msgctxt "$_LANG['addonAA']['dashboard']['date']"
+msgid "Date"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27no_zone_in_use%27]
+msgid "No zones are currently in use"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27are_you_sure_that_you_want_to_hide_this_guide%27]
+msgid ""
+"Are you sure that you want to hide this guide? You can turn it on again in "
+"the Global Settings section."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27add_dns_zone%27]
+msgctxt "$_LANG['addonAA']['zones']['add_dns_zone']"
+msgid "Add DNS Zone"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27zone_client%27]
+msgctxt "$_LANG['addonAA']['zones']['zone_client']"
+msgid "Client"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27zone_service%27]
+msgctxt "$_LANG['addonAA']['zones']['zone_service']"
+msgid "Service"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27zone_name%27]
+msgctxt "$_LANG['addonAA']['zones']['zone_name']"
+msgid "Zone Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27ip%27]
+msgctxt "$_LANG['addonAA']['zones']['ip']"
+msgid "IP Address"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27selectRecordSet%27]
+msgctxt "$_LANG['addonAA']['zones']['selectRecordSet']"
+msgid "Select Record Set"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27set_dns_record_set%27]
+msgctxt "$_LANG['addonAA']['zones']['set_dns_record_set']"
+msgid "Change Record Set"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27wipe_records%27]
+msgctxt "$_LANG['addonAA']['zones']['wipe_records']"
+msgid "Wipe Records"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27select_record_set%27]
+msgctxt "$_LANG['addonAA']['zones']['select_record_set']"
+msgid "Select Record Set"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27none%27]
+msgctxt "$_LANG['addonAA']['zones']['none']"
+msgid "None"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27table%27][%27name%27]
+msgctxt "$_LANG['addonAA']['zones']['table']['name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27table%27][%27client%27]
+msgctxt "$_LANG['addonAA']['zones']['table']['client']"
+msgid "Client"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27table%27][%27type%27]
+msgctxt "$_LANG['addonAA']['zones']['table']['type']"
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27table%27][%27server%27]
+msgid "Server"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27table%27][%27status%27]
+msgctxt "$_LANG['addonAA']['zones']['table']['status']"
+msgid "Status"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27edit%27]
+msgctxt "$_LANG['addonAA']['zones']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27synchronize%27]
+msgid "Synchronize"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27create%27]
+msgid "Create"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27remove%27]
+msgctxt "$_LANG['addonAA']['zones']['remove']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27remove_from_whmcs_only%27]
+msgid "Remove only from WHMCS"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27close%27]
+msgctxt "$_LANG['addonAA']['zones']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27edit_zone%27]
+msgctxt "$_LANG['addonAA']['zones']['edit_zone']"
+msgid "Edit Zone"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27save_changes%27]
+msgctxt "$_LANG['addonAA']['zones']['save_changes']"
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27zone_already_taken%27]
+msgctxt "$_LANG['addonAA']['zones']['zone_already_taken']"
+msgid "The selected zone is already taken"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27infos%27][%27zone_created_successfully%27]
+msgctxt "$_LANG['addonAA']['zones']['infos']['zone_created_successfully']"
+msgid "A new zone has been created successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27infos%27][%27set_added_successfully%27]
+msgid "The selected record has been changed successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27infos%27][%27changes_saved%27]
+msgctxt "$_LANG['addonAA']['zones']['infos']['changes_saved']"
+msgid "Changes have been saved successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27infos%27][%27zone_synchronized%27]
+msgid "The selected zone has been synchronized successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27infos%27][%27zone_created%27]
+msgid "The selected zone has been created successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27infos%27][%27zone_removed_from_server%27]
+msgid "The selected zone has been successfully deleted from the server"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27infos%27][%27zone_removed_from_whmcs%27]
+msgid "The selected zone has been successfully removed from WHMCS"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27remove_record%27]
+msgctxt "$_LANG['addonAA']['zones']['remove_record']"
+msgid "Remove Record"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27add_new_record%27]
+msgctxt "$_LANG['addonAA']['zones']['add_new_record']"
+msgid "Add New Record"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27zone_type%27][%270%27]
+msgid "-"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27zone_type%27][%271%27]
+msgctxt "$_LANG['addonAA']['zones']['zone_type']['1']"
+msgid "Domain"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27zone_type%27][%272%27]
+msgid "Hosting"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27zone_type%27][%273%27]
+msgctxt "$_LANG['addonAA']['zones']['zone_type']['3']"
+msgid "Addon"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27synchronize_zone_confirm%27]
+msgid "Are you sure that you want to synchronize this zone?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27add_zone_confirm%27]
+msgid "Are you sure that you want to create this zone on the server?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27remove_zone_confirm%27]
+msgid "Are you sure that you want to remove this zone from the server?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27remove_zone_whmcs_confirm%27]
+msgid ""
+"Are you sure that you want to delete this zone from WHMCS? It will remain "
+"untouched on the server."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27remove_zone_record_confirm%27]
+msgctxt "$_LANG['addonAA']['zones']['remove_zone_record_confirm']"
+msgid ""
+"Are you sure that you want to remove this record? All unsaved changes will "
+"be lost."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27add_zone_record_confirm%27]
+msgid ""
+"Are you sure that you want to add this record? All unsaved changes will be "
+"lost."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27there_is_no_supported_record_within_this_zone%27]
+msgid "There is no supported record within this zone"
+msgstr ""
+
+#. //===========================================================================================================
+#. //===========================================RECORDS INFO====================================================
+#. //===========================================================================================================
+#: %24_LANG[%27addonAA%27][%27zones%27][%27add_zone%27]
+msgctxt "$_LANG['addonAA']['zones']['add_zone']"
+msgid "Add Zone"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_info%27][%27name%27]
+msgid ""
+"Name of the owner, i.e. name of the node this resource record is related to."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27name%27]
+msgctxt "$_LANG['addonAA']['zones']['name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_info%27][%27ttl%27]
+msgid ""
+"A 32 bit signed integer that specifies a time interval that the resource "
+"record may be cached before the source of the information should again be "
+"consulted. Zero values are interpreted to mean that the RR can only be used "
+"for a transaction in progress, and should not be cached."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27ttl%27]
+msgctxt "$_LANG['addonAA']['zones']['ttl']"
+msgid "TTL"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27MX%27]
+msgid ""
+"MX records cause the type A additional section processing for the host "
+"specified by the EXCHANGE."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27MX%27][%27preference%27]
+msgid ""
+"A 16 bit integer which specifies the preference given to this RR among "
+"others at the same owner. Lower values are preferred."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27MX%27][%27exchange%27]
+msgid ""
+"A <domain-name> which specifies a host willing to act as a mail exchange for "
+"the owner name."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27A%27]
+msgid ""
+"Hosts that have multiple Internet addresses will have multiple A records."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27A%27][%27address%27]
+msgid "A 32 bit Internet address."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27AAAA%27]
+msgid ""
+"The AAAA resource record type is a record specific to the Internet class "
+"that stores a single IPv6 address."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27AAAA%27][%27address%27]
+msgid ""
+"A 128 bit IPv6 address is encoded in the data portion of an AAAA resource "
+"record in network byte order (high-order byte first)."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27CNAME%27]
+msgid ""
+"CNAME RRs do not cause any additional section processing, but name servers "
+"may choose to restart the query at the canonical name in certain cases."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27CNAME%27][%27cname%27]
+msgid ""
+"A <domain-name> which specifies a canonical or primary name for the owner. "
+"The owner name is an alias."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27AFSDB%27]
+msgid ""
+"An AFSDB-record maps a domain name to the AFS (Andrew File System) database "
+"server."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27AFSDB%27][%27subtype%27]
+msgid "A 16 bit integer."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27AFSDB%27][%27hostname%27]
+msgid ""
+"A domain name of a host that has a server for the cell named by the owner "
+"name of the RR."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27DNAME%27]
+msgid ""
+"A DNAME-record is used to map/rename an entire sub-tree of the DNS name "
+"space to another domain. It differs from the CNAME-record which maps only a "
+"single node of the name space."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27DNAME%27][%27target%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['DNAME']['target']"
+msgid "Target"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27NS%27]
+msgid ""
+"NS records cause both the usual additional section processing to locate a "
+"type A record, and, when used in a referral, a special search of the zone in "
+"which they reside for glue information."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27NS%27][%27nsdname%27]
+msgid ""
+"A <domain-name> which specifies a host which should be authoritative for the "
+"specified class and domain."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27RP%27]
+msgid ""
+"An RP-record specifies the mailbox of the person responsible for a host ("
+"domain name)."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27RP%27][%27mbox%27]
+msgid "A domain name that specifies the mailbox for the responsible person."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27RP%27][%27txtdname%27]
+msgid "A domain name for which TXT RRs exist."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27SRV%27]
+msgid "SRV-records are used to specify the location of a service."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27SRV%27][%27priority%27]
+msgid "The priority of this target host."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27SRV%27][%27weight%27]
+msgid ""
+"A server selection mechanism. The weight field specifies a relative weight "
+"for entries with the same priority."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27SRV%27][%27port%27]
+msgid "The port on this target host of this service. The range is 0-65535."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27SRV%27][%27target%27]
+msgid "The domain name of the target host."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27TXT%27]
+msgid ""
+"TXT-records are used to hold a descriptive text. They are often used to hold "
+"general information about a domain name such as who is hosting it, contact "
+"person, phone numbers, etc."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27TXT%27][%27txtdata%27]
+msgid "One or more <character-string>s."
+msgstr ""
+
+#. //TODO: dodaÄ‡ opsiy
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27PTR%27]
+msgid "PTR"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27PTR%27][%27ptrdname%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['PTR']['ptrdname']"
+msgid "PTRD name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27NAPTR%27]
+msgid "NAPTR"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27NAPTR%27][%27order%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['NAPTR']['order']"
+msgid "Order"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27NAPTR%27][%27preference%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['NAPTR']['preference']"
+msgid "Preference"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27NAPTR%27][%27flags%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['NAPTR']['flags']"
+msgid "Flags"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27NAPTR%27][%27service%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['NAPTR']['service']"
+msgid "Service"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27NAPTR%27][%27regexp%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['NAPTR']['regexp']"
+msgid "Regexp"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27NAPTR%27][%27replacement%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['NAPTR']['replacement']"
+msgid "Replacement"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27LOC%27]
+msgid "LOC"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27LOC%27][%27version%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['LOC']['version']"
+msgid "Version"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27LOC%27][%27size%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['LOC']['size']"
+msgid "Size"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27LOC%27][%27horiz_pre%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['LOC']['horiz_pre']"
+msgid "Horiz pre"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27LOC%27][%27vert_pre%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['LOC']['vert_pre']"
+msgid "Vert pre"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27LOC%27][%27latitude%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['LOC']['latitude']"
+msgid "Latitude"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27LOC%27][%27longitude%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['LOC']['longitude']"
+msgid "Longitude"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27LOC%27][%27altitude%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['LOC']['altitude']"
+msgid "Altitude"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27X25%27]
+msgid "X25"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27X25%27][%27psdnaddress%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['X25']['psdnaddress']"
+msgid "PSDN address"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27add_new_record%27]
+msgctxt "$_LANG['addonAA']['settings']['add_new_record']"
+msgid "Add New Record"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27CAA%27][%27flag%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['CAA']['flag']"
+msgid "Flag"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27CAA%27][%27tag%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['CAA']['tag']"
+msgid "Tag"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27CAA%27][%27target%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['CAA']['target']"
+msgid "Target"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27DS%27]
+msgid "DS"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27DS%27][%27keytag%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['DS']['keytag']"
+msgid "Key tag"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27DS%27][%27algorithm%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['DS']['algorithm']"
+msgid "Algorithm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27DS%27][%27digesttype%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['DS']['digesttype']"
+msgid "Digest type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27DS%27][%27digest%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['DS']['digest']"
+msgid "Digest"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27HINFO%27]
+msgid "HINFO"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27HINFO%27][%27cpu%27]
+msgid "Cpu"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27HINFO%27][%27os%27]
+msgid "Os"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27ISDN%27]
+msgid "ISDN"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27ISDN%27][%27isdnaddress%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['ISDN']['isdnaddress']"
+msgid "ISDN address"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27ISDN%27][%27sa%27]
+msgid "Sa"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27MB%27]
+msgid "MB"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27MB%27][%27madname%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['MB']['madname']"
+msgid "Madname"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27MD%27]
+msgid "MD"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27MD%27][%27madname%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['MD']['madname']"
+msgid "Madname"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27MF%27]
+msgid "MF"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27MF%27][%27madname%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['MF']['madname']"
+msgid "Madname"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27MG%27]
+msgid "MG"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27MG%27][%27mgmname%27]
+msgid "Mgmname"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27MINFO%27]
+msgid "MINFO"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27MINFO%27][%27rmailbx%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['MINFO']['rmailbx']"
+msgid "Rmailbx"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27MINFO%27][%27emailbx%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['MINFO']['emailbx']"
+msgid "Emailbx"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27MR%27]
+msgid "MR"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27MR%27][%27newname%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['MR']['newname']"
+msgid "Newname"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27SOA%27]
+msgid "SOA"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27SOA%27][%27mname%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['SOA']['mname']"
+msgid "Mname"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27SOA%27][%27rname%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['SOA']['rname']"
+msgid "Rname"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27SOA%27][%27serial%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['SOA']['serial']"
+msgid "Serial"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27SOA%27][%27refresh%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['SOA']['refresh']"
+msgid "Refresh"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27SOA%27][%27retry%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['SOA']['retry']"
+msgid "Retry"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27SOA%27][%27expire%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['SOA']['expire']"
+msgid "Expire"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27SOA%27][%27minimum%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['SOA']['minimum']"
+msgid "Minimum"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27SOA%27][%27subtype%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['SOA']['subtype']"
+msgid "Subtype"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27SOA%27][%27hostname%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['SOA']['hostname']"
+msgid "Hostname"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27WKS%27]
+msgid "WKS"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27WKS%27][%27address%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['WKS']['address']"
+msgid "Address"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27WKS%27][%27protocol%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['WKS']['protocol']"
+msgid "Protocol"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27WKS%27][%27bitmap%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['WKS']['bitmap']"
+msgid "Bitmap"
+msgstr ""
+
+#. //===========================================================================================================
+#. //===========================================/RECORDS INFO===================================================
+#. //===========================================================================================================
+#: %24_LANG[%27addonAA%27][%27settings%27][%27table%27][%27name%27]
+msgctxt "$_LANG['addonAA']['settings']['table']['name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27table%27][%27type%27]
+msgctxt "$_LANG['addonAA']['settings']['table']['type']"
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27table%27][%27default_ip%27]
+msgctxt "$_LANG['addonAA']['settings']['table']['default_ip']"
+msgid "Default IP Address"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27table%27][%27rdns%27]
+msgctxt "$_LANG['addonAA']['settings']['table']['rdns']"
+msgid "rDNS"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27table%27][%27multiple_ptr%27]
+msgctxt "$_LANG['addonAA']['settings']['table']['multiple_ptr']"
+msgid "Multiple PTR Records"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27table%27][%27status%27]
+msgctxt "$_LANG['addonAA']['settings']['table']['status']"
+msgid "Status"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27edit%27]
+msgctxt "$_LANG['addonAA']['settings']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27turn_on_server%27]
+msgid "Turn On"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27turn_off_server%27]
+msgid "Turn Off"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27delete%27]
+msgctxt "$_LANG['addonAA']['settings']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27enabled%27]
+msgctxt "$_LANG['addonAA']['settings']['enabled']"
+msgid "Enabled"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27disabled%27]
+msgctxt "$_LANG['addonAA']['settings']['disabled']"
+msgid "Disabled"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27add_server%27]
+msgid "Add Server"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27close%27]
+msgctxt "$_LANG['addonAA']['settings']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27name%27]
+msgctxt "$_LANG['addonAA']['settings']['name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27module%27]
+msgid "Module"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27select_one%27]
+msgctxt "$_LANG['addonAA']['settings']['select_one']"
+msgid "Select One"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27edit_server%27]
+msgid "Edit Server"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27test_connection%27]
+msgid "Test Connection"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27save_changes%27]
+msgctxt "$_LANG['addonAA']['settings']['save_changes']"
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27allow_rdns%27]
+msgctxt "$_LANG['addonAA']['settings']['allow_rdns']"
+msgid "Allow rDNS Records"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27allow_multiple_ptr%27]
+msgctxt "$_LANG['addonAA']['settings']['allow_multiple_ptr']"
+msgid "Allow Multiple PTR Records"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27nameservers%27]
+msgid "Nameservers"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27nameserver%27]
+msgid "Nameserver"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27ip_address_of_nameserver%27]
+msgid "IP Address Of Nameserver"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27no_options_available%27]
+msgid "No Options Available"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27enable_cache%27]
+msgid "Enable Cache"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configure_blocked_strings%27]
+msgid "Configure Blocked Strings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27dns_blocked_strings%27]
+msgid "DNS Blocked Strings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27rdns_blocked_strings%27]
+msgid "rDNS Blocked Strings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27use_rdns_blocked_same_as_for_dns%27]
+msgid "Use same values as for DNS"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27blocked_strings_excluded_clients%27]
+msgid "Excluded Clients"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27cache_warning%27]
+msgid ""
+"It seems that the :path: is not writable/readable. If you want to use the "
+"cache system you have to change permissions of this directory."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27ns_populate%27]
+msgid "Populate Nameservers"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27overwrite_soa%27]
+msgid "Overwrite SOA Record"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27templates%27]
+msgid "Templates"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27client_area%27]
+msgid "Client Area"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27default_template%27]
+msgid "Default Template"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27client_can_switch_template%27]
+msgid "Switch Templates"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27link_to_dns_management%27]
+msgid "DNS Management Link"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27logs_and_notifications%27]
+msgid "Logs And Notifications"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27delete_logs_older_than%27]
+msgid "Delete Logs Older Than"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27delete_notifications_older_than%27]
+msgid "Delete Notifications Older Than"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27log_successful_actions%27]
+msgid "Log Successful Actions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27notifications%27]
+msgctxt "$_LANG['addonAA']['settings']['notifications']"
+msgid "Notifications"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configure_emails_send%27]
+msgid "Delivered Emails"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27client_notifications%27]
+msgid "Client Notifications"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27zone_created%27]
+msgid "Zone Created"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27zone_altered%27]
+msgid "Zone Altered"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27zone_removed%27]
+msgid "Zone Removed"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27admin_notifications%27]
+msgid "Administrator Notifications"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27save%27]
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27days%27][%271%27]
+msgid "1 Day"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27days%27][%272%27]
+msgid "2 Days"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27days%27][%273%27]
+msgid "3 Days"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27days%27][%274%27]
+msgid "4 Days"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27days%27][%275%27]
+msgid "5 Days"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27days%27][%276%27]
+msgid "6 Days"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27days%27][%277%27]
+msgid "1 Week"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27days%27][%2714%27]
+msgid "2 Weeks"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27days%27][%2721%27]
+msgid "3 Weeks"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27days%27][%2730%27]
+msgid "1 Month"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27days%27][%2760%27]
+msgid "2 Months"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27days%27][%2790%27]
+msgid "3 Months"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27days%27][%27180%27]
+msgid "6 Months"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27table%27][%27name%27]
+msgctxt "$_LANG['addonAA']['settings']['table']['name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27table%27][%27client%27]
+msgctxt "$_LANG['addonAA']['settings']['table']['client']"
+msgid "Client"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27table%27][%27action%27]
+msgid "Action"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27table%27][%27status%27]
+msgctxt "$_LANG['addonAA']['settings']['table']['status']"
+msgid "Status"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27table%27][%27value%27]
+msgctxt "$_LANG['addonAA']['settings']['table']['value']"
+msgid "Value"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27table%27][%27date%27]
+msgctxt "$_LANG['addonAA']['settings']['table']['date']"
+msgid "Date"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27table%27][%27dns_records%27]
+msgctxt "$_LANG['addonAA']['settings']['table']['dns_records']"
+msgid "DNS Records"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27table%27][%27assigned_to%27]
+msgctxt "$_LANG['addonAA']['settings']['table']['assigned_to']"
+msgid "Assigned"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27add_set%27]
+msgctxt "$_LANG['addonAA']['settings']['add_set']"
+msgid "Add Set"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27edit%27]
+msgctxt "$_LANG['addonAA']['settings']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27remove%27]
+msgctxt "$_LANG['addonAA']['settings']['remove']"
+msgid "Remove"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27close%27]
+msgctxt "$_LANG['addonAA']['settings']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27add%27]
+msgctxt "$_LANG['addonAA']['settings']['add']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27set_edit%27]
+msgctxt "$_LANG['addonAA']['settings']['set_edit']"
+msgid "Edit Set"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27save_changes%27]
+msgctxt "$_LANG['addonAA']['settings']['save_changes']"
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27name%27]
+msgctxt "$_LANG['addonAA']['settings']['name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27table%27][%27servers%27]
+msgctxt "$_LANG['addonAA']['settings']['table']['servers']"
+msgid "Servers"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27add_package%27]
+msgid "Add Package"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27domains%27]
+msgid "Domains"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27hostings%27]
+msgid "Hostings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27addons%27]
+msgid "Addons"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27disable%27]
+msgid "Disable"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27enable%27]
+msgid "Enable"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27general%27]
+msgctxt "$_LANG['addonAA']['settings']['general']"
+msgid "General"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27items%27]
+msgid "Items"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27servers%27]
+msgctxt "$_LANG['addonAA']['settings']['servers']"
+msgid "Servers"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27Records%27]
+msgctxt "$_LANG['addonAA']['settings']['Records']"
+msgid "Records"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27own_zones_per_item%27]
+msgid "Zones Limit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27enable_rdns%27]
+msgid "Enable rDNS Records"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27zone_creation_automation%27]
+msgid "Zone Creation Automation"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27new_item%27]
+msgid "New Item"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27pending_transfer_domain%27]
+msgid "Pending Domain Transfer"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27pending_registration_domain%27]
+msgid "Pending Domain Registration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27domain_with_dns_management%27]
+msgid "Domain With DNS Management"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27update_existed_zone%27]
+msgid "Allow Update Of Existing Zone"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27products%27]
+msgid "Products"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27products_addons%27]
+msgid "Product Addons"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27type%27]
+msgctxt "$_LANG['addonAA']['settings']['type']"
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27packages%27]
+msgid "Package"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27lang%27]
+msgid "Lang"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27multiple_ptr%27]
+msgctxt "$_LANG['addonAA']['settings']['multiple_ptr']"
+msgid "Multiple PTR Records"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27status%27]
+msgctxt "$_LANG['addonAA']['settings']['status']"
+msgid "Status"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27rdns%27]
+msgctxt "$_LANG['addonAA']['settings']['rdns']"
+msgid "rDNS"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27edit_package%27]
+msgid "Edit Package"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27restrictions%27]
+msgid "Restrictions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27allow_rdns_records%27]
+msgctxt "$_LANG['addonAA']['settings']['allow_rdns_records']"
+msgid "Allow rDNS Records"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27record_limit%27]
+msgid "Record Limit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27dns_record_sets%27]
+msgctxt "$_LANG['addonAA']['settings']['dns_record_sets']"
+msgid "DNS Record Sets"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27default_dns_record_set%27]
+msgid "Default DNS Record Set"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27none%27]
+msgctxt "$_LANG['addonAA']['settings']['none']"
+msgid "None"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27client_can_use_sets%27]
+msgid "Client Can Use Sets"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27allowed_sets%27]
+msgid "Allowed Sets"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27modify%27]
+msgid "Modify"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27exclude%27]
+msgid "Exclude"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27cron_synchronization%27]
+msgctxt "$_LANG['addonAA']['settings']['cron_synchronization']"
+msgid "Cron Synchronization"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27cron_migrator%27]
+msgid "Cron Migrator"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27cron_cleaner%27]
+msgctxt "$_LANG['addonAA']['settings']['cron_cleaner']"
+msgid "Cron Cleaner"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27allow_record_types%27]
+msgid "Allowed Record Types"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27cron_synchronizator%27]
+msgctxt "$_LANG['addonAA']['settings']['cron_synchronizator']"
+msgid "Cron Synchronization"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27include%27]
+msgid "Include"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27admins%27]
+msgid "Administrators"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27delete_all_logs%27]
+msgid "Delete All Logs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27already_in_package%27]
+msgid "Already In Package: "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27there_is_no_server_added_to_this_package%27]
+msgid "There are no servers added to this package"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27there_is_no_record_within_this_set%27]
+msgctxt "$_LANG['addonAA']['settings']['there_is_no_record_within_this_set']"
+msgid "There are no records within this set"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27other%27]
+msgctxt "$_LANG['addonAA']['settings']['other']"
+msgid "Other"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27disable_tutorial%27]
+msgid "Hide Guide"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27client_area_status%27]
+msgid "Client Area Zones Status"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27soa_is_not_ns_status%27]
+msgid "SOA Warning"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27whois_missing_status%27]
+msgid "Available Domain"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27is_ok_status%27]
+msgctxt "$_LANG['addonAA']['settings']['is_ok_status']"
+msgid "Active"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27status_is_pending%27]
+msgctxt "$_LANG['addonAA']['settings']['status_is_pending']"
+msgid "Pending"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27status_content%27]
+msgid "Status Content"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27soa_is_not_ns_status_text%27]
+msgid ""
+"The domain {$domain} is not active. In order to activate it, change "
+"nameservers for the domain. You can do this either by redelegating the "
+"domain at the domain registrar, or you can transfer the domain to us."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27whois_missing_status_text%27]
+msgid "The domain {$domain} is still not registered."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27is_ok_status_text%27]
+msgid "The domain {$domain} is active."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27is_pending_status_text%27]
+msgid ""
+"We are still analyzing the {$domain} domain. It can take up to 15 minutes to "
+"receive the zone status. You can proceed to create records below."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27info%27]
+msgid "Information"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27cron_job%27]
+msgid "Cron Job"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27recommended_run_time%27]
+msgid "Suggested Interval"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27each_5_minutes%27]
+msgid "Every 5 Minutes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27last_run_time%27]
+msgid "Last Execution"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27minutes_ago%27]
+msgid "Minutes Ago"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27run_time_period%27]
+msgid "Execution Period"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27minutes%27]
+msgid "Minutes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27cron_migration%27]
+msgid "Cron Migration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27migrate_zones%27]
+msgid "Migrate Zones"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27rune_each%27]
+msgid "Run Every"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27zones_per_run%27]
+msgid "Zones Per Execution"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27cron_importer%27]
+msgid "Cron Importer"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27import_zones_from_external_server%27]
+msgid "Import Zones From External Server"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27cron_sync%27]
+msgid "Cron Sync"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27synchronize_your_zones%27]
+msgid "Synchronize Zones"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27recheck_zones%27]
+msgid "Recheck Zones"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27cron_cleaner%27]
+msgctxt "$_LANG['addonAA']['tools']['cron_cleaner']"
+msgid "Cron Cleaner"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27cron_cleaner_warning%27]
+msgctxt "$_LANG['addonAA']['tools']['cron_cleaner_warning']"
+msgid ""
+"The Cron Cleaner is enabled. Zones will be removed if the Notify Only option "
+"is disabled."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27clear_the_mess%27]
+msgid "Delete Unused Elements"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27remove_zone_if%27]
+msgid "Remove Zones:"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27no_longer_match_any_package%27]
+msgid "Not Included In Package"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27unmodified_longer_than%27]
+msgid "Not Modified For"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27domain_does_not_exist_whois%27]
+msgid "Not Found In WHOIS"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27does_not_have_at_least_one%27]
+msgid "Without Records"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27remove_ptr_record_if%27]
+msgid "Remove PTR Records:"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27service_is_terminated_canceled%27]
+msgctxt "$_LANG['addonAA']['tools']['service_is_terminated_canceled']"
+msgid "Suspended/Terminated/Canceled Service"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27save%27]
+msgctxt "$_LANG['addonAA']['tools']['save']"
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27every%27]
+msgid "Every"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27migration%27]
+msgctxt "$_LANG['addonAA']['tools']['migration']"
+msgid "Migration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27zones_moved_total%27]
+msgid "Total Number Of Zones Moved"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27progress%27]
+msgctxt "$_LANG['addonAA']['tools']['progress']"
+msgid "Progress"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27there_are_no_migration%27]
+msgid "There are no migrations yet"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27schedule_migration%27]
+msgid "Schedule Migration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27import%27]
+msgctxt "$_LANG['addonAA']['tools']['import']"
+msgid "Import"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27zones_imported_total%27]
+msgid "Total Number Of Zones Imported"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27there_are_no_import%27]
+msgid "There are no imports yet"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27schedule_import%27]
+msgid "Schedule Import"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27addExportToFile%27]
+msgid "Export To File"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27add_import%27]
+msgid "Add Import"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27close%27]
+msgctxt "$_LANG['addonAA']['tools']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27add_migration%27]
+msgctxt "$_LANG['addonAA']['tools']['add_migration']"
+msgid "Add Migration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27from_server%27]
+msgid "From Server"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27to_server%27]
+msgid "To Server"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27add%27]
+msgctxt "$_LANG['addonAA']['tools']['add']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27no_server_available%27]
+msgid "No Server Available"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27infos%27][%27new_task_added%27]
+msgid "A new task has been added successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27fetching_list%27]
+msgid "Fetching List"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27remove_import_confirmation%27]
+msgid ""
+"Are you sure that you want to cancel this import? Already imported zones "
+"will not be removed from the client accounts."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27remove_migration_confirmation%27]
+msgid ""
+"Are you sure that you want to cancel this migration? Already migrated zones "
+"will not be removed from the target server."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27cancel%27]
+msgctxt "$_LANG['addonAA']['tools']['cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27show_list%27]
+msgid "Show List"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27zone%27]
+msgid "Zone"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27ip%27]
+msgctxt "$_LANG['addonAA']['tools']['ip']"
+msgid "IP Address"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27status%27]
+msgctxt "$_LANG['addonAA']['tools']['status']"
+msgid "Status"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27client%27]
+msgctxt "$_LANG['addonAA']['tools']['client']"
+msgid "Client"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27there_is_no_zone_to_import%27]
+msgid "There Are No Zones To Import"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27no_clients_available%27]
+msgid "No Clients Available"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27import_zone%27]
+msgid "Import Zone"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27import_zones%27]
+msgid "Import Zones"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27you_cannot_edit_this_zone_because_it_is_terminated_on_server%27]
+msgctxt "$_LANG['addonAA']['tools']['you_cannot_edit_this_zone_because_it_is_terminated_on_server']"
+msgid "You cannot edit this zone because it is terminated on the server"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27you_cannot_edit_this_zone_because_it_is_terminated_on_server%27]
+msgctxt "$_LANG['addonAA']['zones']['you_cannot_edit_this_zone_because_it_is_terminated_on_server']"
+msgid "You cannot edit this zone because it is terminated on the server"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27turn_on_server_confirmation%27]
+msgid "Are you sure that you want to turn on this server?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27turn_off_server_confirmation%27]
+msgid "Are you sure that you want to turn off this server"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27delete_server_confirmation%27]
+msgid "Are you sure that you want to remove this server?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27disable_package_confirmation%27]
+msgid "Are you sure that you want to disable this package?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27enable_package_confirmation%27]
+msgid "Are you sure that you want to enable this package?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27remove_package_confirmation%27]
+msgid "Are you sure that you want to remove this package?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27remove_set_confirmation_body%27]
+msgctxt "$_LANG['addonAA']['settings']['remove_set_confirmation_body']"
+msgid "Are you sure that you want to remove this set?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27remove_all_logs_confirmation%27]
+msgid "Are you sure that you want to remove all logs?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27cannot_find_class%27]
+msgid "Cannot find a class"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27errors%27][%27select_one_at_least%27]
+msgctxt "$_LANG['addonAA']['zones']['errors']['select_one_at_least']"
+msgid "You have to select at least one zone"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27infos%27][%27connection_success%27]
+msgid "The server connection has been established successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27infos%27][%27new_server_added%27]
+msgid "A new server has been added successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27infos%27][%27changes_saved%27]
+msgctxt "$_LANG['addonAA']['settings']['infos']['changes_saved']"
+msgid "Changes have been saved successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27infos%27][%27server_removed%27]
+msgid "The server has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27infos%27][%27server_turned_on%27]
+msgid "The server has been turned on successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27infos%27][%27server_turned_off%27]
+msgid "The server has been turned off successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27errors%27][%27module_is_unsupported%27]
+msgid "The module :module: is not supported"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27infos%27][%27changes_saved%27]
+msgctxt "$_LANG['addonAA']['settings']['infos']['changes_saved']"
+msgid "Changes have been saved successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27infos%27][%27new_package_added%27]
+msgid "A new package has been added successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27infos%27][%27package_removed%27]
+msgid "The selected package has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27infos%27][%27package_enabled%27]
+msgid "The selected package has been enabled successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27infos%27][%27package_disabled%27]
+msgid "The selected package has been disabled successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27infos%27][%27set_added%27]
+msgid "The selected set has been added successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27infos%27][%27set_removed%27]
+msgctxt "$_LANG['addonAA']['settings']['infos']['set_removed']"
+msgid "The selected set has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27infos%27][%27all_logs_removed%27]
+msgid "All logs have been removed successfully "
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27error%27][%27cannot_find_class%27]
+msgid "The class :class: cannot be found"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27infos%27][%27import_removed%27]
+msgid "The selected import has been canceled successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27infos%27][%27changes_saved%27]
+msgctxt "$_LANG['addonAA']['tools']['infos']['changes_saved']"
+msgid "Changes have been saved successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27infos%27][%27cron_cleaner_warning%27]
+msgctxt "$_LANG['addonAA']['tools']['infos']['cron_cleaner_warning']"
+msgid ""
+"The Cron Cleaner is enabled. Zones will be removed if the Notify Only option "
+"is disabled."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27add%27]
+msgctxt "$_LANG['addonAA']['zones']['add']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27select_minutes%27][%270%27]
+msgctxt "$_LANG['addonAA']['tools']['select_minutes']['0']"
+msgid "Disabled"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27select_minutes%27][%275%27]
+msgid "5 minutes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27select_minutes%27][%2710%27]
+msgid "10 minutes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27select_minutes%27][%2715%27]
+msgid "15 minutes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27select_minutes%27][%2720%27]
+msgid "20 minutes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27select_minutes%27][%2740%27]
+msgid "40 minutes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27select_minutes%27][%2760%27]
+msgid "1 hour"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27select_minutes%27][%27120%27]
+msgid "2 hours"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27select_minutes%27][%27180%27]
+msgid "3 hours"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27select_minutes%27][%27360%27]
+msgid "6 hours"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27select_minutes%27][%27720%27]
+msgid "12 hours"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27select_minutes%27][%271440%27]
+msgid "1 day"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27select_minutes%27][%272880%27]
+msgid "2 days"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27select_minutes%27][%274320%27]
+msgid "3 days"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27select_minutes%27][%2710080%27]
+msgid "7 days"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27select_minutes%27][%2743200%27]
+msgid "1 month"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27cancel%27]
+msgctxt "$_LANG['addonAA']['zones']['cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27errors%27][%27server_module_cannot_be_empty%27]
+msgid "The server module cannot be empty"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27errors%27][%27server_name_cannot_be_empty%27]
+msgid "The server name cannot be empty"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27configuration%27]
+msgid "Configuration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27enable_dnssec%27]
+msgctxt "$_LANG['addonAA']['settings']['enable_dnssec']"
+msgid "Enable DNSSEC"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27import_now%27]
+msgid "Import Now"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27errors%27][%27you_have_to_choose_two_diffrent_servers%27]
+msgid "You have to choose two different servers"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27infos%27][%27migration_removed%27]
+msgid "Migration Canceled"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27migrate_zone%27]
+msgid "Migrate Zone"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27migrate_now%27]
+msgid "Migrate Now"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27run_now%27]
+msgid "Run Now"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27task_run_now_confirm%27]
+msgid "Are you sure that you want to run this task now?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27remove%27]
+msgctxt "$_LANG['addonAA']['tools']['remove']"
+msgid "Remove"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27task_remove_confirm%27]
+msgid "Are you sure that you want to remove this task?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27table%27][%27name%27]
+msgctxt "$_LANG['addonAA']['tools']['table']['name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27table%27][%27lastrun%27]
+msgid "Last Run"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27table%27][%27nextrun%27]
+msgid "Next Run"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27table%27][%27created_at%27]
+msgid "Created On"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27table%27][%27status%27]
+msgctxt "$_LANG['addonAA']['tools']['table']['status']"
+msgid "Status"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27infos%27][%27task_removed%27]
+msgid "The selected task has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27schedule_import_confirmation%27]
+msgid ""
+"Are you sure you that want to schedule this import? It will cause your admin "
+"area to be unavailable for a while."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27schedule_migration_confirmation%27]
+msgid ""
+"Are you sure that you want to schedule this migration? It will cause your "
+"admin area to be unavailable for a while."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27infos%27][%27import_scheduled%27]
+msgid "A new import has been scheduled successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27infos%27][%27migration_scheduled%27]
+msgid "A new migration has been scheduled successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27not_esxist%27]
+msgid "Deleted"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27exist%27]
+msgid "Created"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27infos%27][%27zone_imported%27]
+msgctxt "$_LANG['addonAA']['tools']['infos']['zone_imported']"
+msgid "The selected zone has been imported successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27errors%27][%27something_went_wrong_during_import%27]
+msgctxt "$_LANG['addonAA']['tools']['errors']['something_went_wrong_during_import']"
+msgid "Something has gone wrong during the import"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27infos%27][%27zone_migrated%27]
+msgid "The selected zone has been migrated successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27errors%27][%27something_went_wrong_during_migration%27]
+msgid "Something has gone wrong during the migration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dns_submodule_connection_problem%27]
+msgctxt "$_LANG['addonAA']['dns_submodule_connection_problem']"
+msgid ""
+"Something has gone wrong while connecting to the zone server. Please try "
+"again later."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dns_submodule_command_error%27]
+msgid "Something has gone wrong. Server of the zone returns:"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dns_submodule_invalid_parameters%27]
+msgctxt "$_LANG['addonAA']['dns_submodule_invalid_parameters']"
+msgid "Something has gone wrong. Reason:"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dns_submodule_invalid_response%27]
+msgctxt "$_LANG['addonAA']['dns_submodule_invalid_response']"
+msgid ""
+"Something has gone wrong. The response from the zone server cannot be "
+"parsed. Please try again later."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27errors%27][%27this_server_is_already_in_use_by_some_packages%27]
+msgid ""
+"You cannot remove this server because it is already used by some packages."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27errors%27][%27there_are_zones_on_this_server%27]
+msgid ""
+"There are zones on this server. Please migrate/remove them before removing "
+"the server."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27errors%27][%27you_cannot_delete_server_with_task%27]
+msgid "You cannot delete a server with an import or migration assigned."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27errors%27][%27server_cannot_be_empty%27]
+msgid "This field cannot be empty."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27errors%27][%27server_already_on_list%27]
+msgid "This server is already on the list."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27task_statuses%27][%27start%27]
+msgid "New"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27task_statuses%27][%27pending%27]
+msgctxt "$_LANG['addonAA']['tools']['task_statuses']['pending']"
+msgid "Pending"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27task_statuses%27][%27in_progress%27]
+msgid "In Progress"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27task_statuses%27][%27aborted%27]
+msgid "Aborted"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27task_statuses%27][%27canceled%27]
+msgid "Canceled"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27task_statuses%27][%27finished%27]
+msgid "Finished"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27task_statuses%27][%27error%27]
+msgid "Error"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27infos%27][%27task_finished%27]
+msgid "The selected task has been finished"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27related_item%27]
+msgctxt "$_LANG['addonAA']['tools']['related_item']"
+msgid "Related Item"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27none%27]
+msgctxt "$_LANG['addonAA']['tools']['none']"
+msgid "None"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27select_one%27]
+msgctxt "$_LANG['addonAA']['tools']['select_one']"
+msgid "Select One"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27records_limit%27]
+msgid "Records Limit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27total%27]
+msgid "Total"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27there_is_no_domain_configured_yet%27]
+msgid "There are no domains configured yet"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27there_is_no_product_configured_yet%27]
+msgid "There are no products configured yet"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27there_is_no_product_addon_configured_yet%27]
+msgid "There are no product addons configured yet"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27infos%27][%27record_removed%27]
+msgid "Record Removed"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27there_is_no_zone_to_migrate%27]
+msgid "There are no zones to migrate"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27one_of_servers_has_been_removed%27]
+msgid "One of the servers has been removed"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27server_has_been_removed%27]
+msgid "The selected server has been removed"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27notify_only%27]
+msgid "Notify Only"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27notify_only_desc%27]
+msgid ""
+"When the Notify Only option is enabled by default, the cron job is disabled. "
+"These settings have to be changed manually if you would like to have the "
+"zones removed by the Cron Cleaner."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27rdns_standalone%27]
+msgid "Standalone rDNS"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27allow_to_create_own_zones%27]
+msgid "Allow the creation of own zones"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27related_service_ips_only%27]
+msgid "Related Service IP Addresses Only"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27custom_subnet_ip%27]
+msgid "Custom Subnet IP Address"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27custom_ip%27]
+msgid "rDNS Custom IP Address"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27change_related_item%27]
+msgid "Change Related Item"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27related_item%27]
+msgctxt "$_LANG['addonAA']['zones']['related_item']"
+msgid "Related Item"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27infos%27][%27success%27]
+msgctxt "$_LANG['addonAA']['zones']['infos']['success']"
+msgid "Success"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27standalone_rdns_title%27]
+msgid "Create PTR records for IPv4 and IPv6 addresses with no related zone"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27related_service_ips_only_title%27]
+msgid "Create zones and PTR records with a related IP address only"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27custom_subnet_ip_title%27]
+msgid ""
+"Create zones and PTR records with an IP address included in a subnet related "
+"to the product (if integrated with IP Manager For WHMCS)"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27custom_ip_title%27]
+msgid "Create PTR records with a custom IP address"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27owned_domains_only%27]
+msgid "Owned Domains Only"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27owned_domains_only_title%27]
+msgid "Restrict clients to manually create zones using their own domains only"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27zone_create_custom_ip%27]
+msgid "Custom IP Address"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27zone_create_custom_ip_title%27]
+msgid "Create zones with a custom IP address"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27select_all%27]
+msgid "Select All"
+msgstr ""
+
+#. //===========================================================================================================
+#. //===========================================CLIENT_AREA=====================================================
+#. //===========================================================================================================
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27you_cant_create_this_zone_because_it_is_not_belongs_to_you%27]
+msgid "You cannot create this zone, because it does not belong to you"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27you_cannot_edit_this_zone_because_it_is_not_belongs_to_you%27]
+msgid "You cannot edit this zone, because it does not belong to you"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27you+have+no+zones+available%27]
+msgid "You have no zones available at this moment"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27confirmation_close%27]
+msgctxt "$_LANG['addonCA']['confirmation_close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27confirmation_confirm%27]
+msgctxt "$_LANG['addonCA']['confirmation_confirm']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27confirmation_default_title%27]
+msgctxt "$_LANG['addonCA']['confirmation_default_title']"
+msgid "Confirmation"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27zones%27]
+msgid "Zones"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27add_new_zone%27]
+msgid "Add New Zone"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27you_have_no_zone_within_this_group%27]
+msgid "There are no zones within this group"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27edit_zone%27]
+msgctxt "$_LANG['addonCA']['dashboard']['edit_zone']"
+msgid "Edit Zone"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27remove-zone-confirm%27]
+msgid "Are you sure that you want to remove this zone?"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27delete_zone%27]
+msgid "Delete Zone"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27service%27]
+msgctxt "$_LANG['addonCA']['dashboard']['service']"
+msgid "Service"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27domain%27]
+msgctxt "$_LANG['addonCA']['dashboard']['domain']"
+msgid "Domain"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27addon%27]
+msgctxt "$_LANG['addonCA']['dashboard']['addon']"
+msgid "Addon"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27dns_zones%27]
+msgid "DNS Zones"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27search%27]
+msgctxt "$_LANG['addonCA']['dashboard']['search']"
+msgid "Search"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27add_dns_zone%27]
+msgctxt "$_LANG['addonCA']['dashboard']['add_dns_zone']"
+msgid "Add DNS Zone"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27zone_name%27]
+msgctxt "$_LANG['addonCA']['dashboard']['zone_name']"
+msgid "Zone Name"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27ip%27]
+msgctxt "$_LANG['addonCA']['dashboard']['ip']"
+msgid "IP Address"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27cancel%27]
+msgctxt "$_LANG['addonCA']['dashboard']['cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27add_zone%27]
+msgctxt "$_LANG['addonCA']['dashboard']['add_zone']"
+msgid "Add Zone"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27you_cant_add_new_zones_within_this_group%27]
+msgid "You cannot add new zones within this group"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27you_cant_remove_this_zone_because_it_is_not_belongs_to_you%27]
+msgid "You cannot remove this zone because it does not belong to you"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27you_cant_remove_this_record_because_it_is_not_belongs_to_one_of_your_zones%27]
+msgid "You cannot remove this record because it does not belong to your zones"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27invalid_zone_id%27]
+msgid "The selected zone ID is invalid"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27invalid_module_config%27]
+msgid "Either the Module Name or Module Configuration Data fields are empty"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27infos%27][%27zone_removed_successfully%27]
+msgid "The selected zone has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27add_record%27]
+msgid "Add Record"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27name%27]
+msgctxt "$_LANG['addonCA']['dashboard']['name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27type%27]
+msgctxt "$_LANG['addonCA']['dashboard']['type']"
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27ttl%27]
+msgctxt "$_LANG['addonCA']['dashboard']['ttl']"
+msgid "TTL"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27rdata%27]
+msgid "RDATA"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27actions%27]
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27remove_zone_record_confirm%27]
+msgctxt "$_LANG['addonCA']['dashboard']['remove_zone_record_confirm']"
+msgid ""
+"Are you sure that you want to remove this record? All unsaved changes will "
+"be lost."
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27remove_record%27]
+msgctxt "$_LANG['addonCA']['dashboard']['remove_record']"
+msgid "Remove Record"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27save_changes%27]
+msgctxt "$_LANG['addonCA']['dashboard']['save_changes']"
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27infos%27][%27record_removed_successfully%27]
+msgid "The selected record has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27add_new_record%27]
+msgctxt "$_LANG['addonCA']['dashboard']['add_new_record']"
+msgid "Add New Record"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27select_one%27]
+msgctxt "$_LANG['addonCA']['dashboard']['select_one']"
+msgid "Select One"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27infos%27][%27new_record_added_to_zone%27]
+msgid "A new record has been successfully added to the zone"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27infos%27][%27changes_saved%27]
+msgctxt "$_LANG['addonCA']['dashboard']['infos']['changes_saved']"
+msgid "Changes have been saved successfully"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27dns_manager%27]
+msgctxt "$_LANG['addonCA']['dashboard']['dns_manager']"
+msgid "DNS Manager"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27choose_record_type%27]
+msgid "Choose a record type"
+msgstr ""
+
+#. /* 2.9.0 */
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27value_is_blocked%27]
+msgid "This value is blocked and cannot be used"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27is_blocked_and_cannot_save%27]
+msgid "is blocked and cannot be saved"
+msgstr ""
+
+#. /* end 2.9.0 */
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27you_cant_add_this_record_because_you_reach_limit%27]
+msgid "You cannot add this record because you have reached the limit"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27records_limit_reached%27]
+msgid "Records Limit Reached"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27create_zone%27]
+msgid "Create Zone"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27infos%27][%27zone_created_successfully%27]
+msgctxt "$_LANG['addonCA']['dashboard']['infos']['zone_created_successfully']"
+msgid "A new zone has been created successfully"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27infos%27][%27zone_updated_successfully%27]
+msgid "The selected zone has been updated successfully"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27you_cannot_edit_this_zone_because_it_is_terminated_on_server%27]
+msgctxt "$_LANG['addonCA']['dashboard']['you_cannot_edit_this_zone_because_it_is_terminated_on_server']"
+msgid "You cannot edit this zone because it is terminated on the server"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27there_is_no_record_within_this_zone%27]
+msgid "There are no records within this zone"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27no_ip_available%27]
+msgid "No IP address available"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27you_cannot_add_record_to_zone_that_is_not_yours%27]
+msgid "You cannot add a record to the zone which does not belong to you"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27you_cant_use_ip_that_not_belongs_to_you%27]
+msgid "You cannot use an IP address which does not belong to you"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27you_have_exceeded_limit%27]
+msgid "You have exceeded the limit of records"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27zone_already_in_task%27]
+msgid "This zone has already been scheduled in a task"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27zone_already_taken%27]
+msgctxt "$_LANG['addonCA']['dashboard']['zone_already_taken']"
+msgid "The selected zone is already taken"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27this_ip_is_already_taken%27]
+msgid "This IP address is already taken"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27you_cannot_remove_record_that_is_not_belongs_to_you%27]
+msgid "You cannot remove a record that does not belong to you"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27no_matches_found%27]
+msgid "No Matches Found"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dns_submodule_connection_problem%27]
+msgctxt "$_LANG['addonCA']['dns_submodule_connection_problem']"
+msgid ""
+"Something has gone wrong while connecting to the zone server. Please try "
+"again later."
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dns_submodule_command_error%27]
+msgid "Something has gone wrong. The zone server returns:"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dns_submodule_invalid_parameters%27]
+msgctxt "$_LANG['addonCA']['dns_submodule_invalid_parameters']"
+msgid "Something has gone wrong. Reason:"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dns_submodule_invalid_response%27]
+msgctxt "$_LANG['addonCA']['dns_submodule_invalid_response']"
+msgid ""
+"Something has gone wrong. The response from the zone server cannot be "
+"parsed. Please try again later."
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27you_cannot_edit_zone_that_is_not_your_own_zone%27]
+msgid "You cannot edit a zone which does not belong to you"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27ip_or_block%27]
+msgid "IP Address Or Subnet"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27ip_is_not_belongs_to_selected_block%27]
+msgid "This IP address does not belong to the selected block"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27you_dont_own_this_ip%27]
+msgid "You do not own this IP address"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27leave_it_blank_if_you_want_to_use_domain_only%27]
+msgid "Leave it empty if you want to use the domain only"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27add_new_rdns%27]
+msgid "Add New PTR"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27add%27]
+msgctxt "$_LANG['addonCA']['dashboard']['add']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27related_item%27]
+msgctxt "$_LANG['addonCA']['dashboard']['related_item']"
+msgid "Related Item"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27manage_rdns%27]
+msgid "Manage Reverse DNS"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27select_zones%27]
+msgid "Select Zones"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27set_dns_record_set%27]
+msgctxt "$_LANG['addonCA']['dashboard']['set_dns_record_set']"
+msgid "Change Record Set"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27select_record_set%27]
+msgctxt "$_LANG['addonCA']['dashboard']['select_record_set']"
+msgid "Select Record Set"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27wipe_records%27]
+msgctxt "$_LANG['addonCA']['dashboard']['wipe_records']"
+msgid "Wipe Records"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27select_one_at_least%27]
+msgctxt "$_LANG['addonCA']['dashboard']['errors']['select_one_at_least']"
+msgid "You have to select at least one zone"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27set_dns_records%27]
+msgctxt "$_LANG['addonCA']['dashboard']['set_dns_records']"
+msgid "Change Record Set"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27infos%27][%27set_added_successfully%27]
+msgid "The 'Set DNS Record' task has been added successfully"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27add_ptr%27]
+msgid "Add PTR"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27there_is_no_ptr_record%27]
+msgid "There is no PTR record"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27no_active_server_related_to_this_item%27]
+msgid "There is no active server related to this item"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27rnds_disabled%27]
+msgid "Reverse DNS is disabled on the server related to the selected item"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27edit_record%27]
+msgid "Edit Record"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27edit_rdns%27]
+msgid "Edit Reverse DNS"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27invalid_domain_name%27]
+msgid "Invalid domain data (RDATA)"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27infos%27][%27success%27]
+msgctxt "$_LANG['addonCA']['dashboard']['infos']['success']"
+msgid "Success"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27ip_cannot_be_empty%27]
+msgid "IP address cannot be empty"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27default_ip%27]
+msgctxt "$_LANG['addonCA']['dashboard']['default_ip']"
+msgid "Default IP Address"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27you_cant_use_domain_that_does_not_belong_to_you%27]
+msgid "You cannot use a domain which does not belong to you"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27zone_signing_keys%27]
+msgid "Zone Signing Keys"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27key_signing_keys%27]
+msgid "Key Signing Key"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27delegation_signer_records%27]
+msgid "Delegation Signer Records"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27dns_key_signing_key_records%27]
+msgid "DNS Key Signing Key Records"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27dns_zone_signing_key_records%27]
+msgid "DNS Zone Signing Key Records"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27encryption_method%27]
+msgid "Encryption Method"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27key_expiration%27]
+msgid "Key Expiration"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27expiration%27]
+msgid "Expiration"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27key_tag%27]
+msgid "Key Tag"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27key_size%27]
+msgid "Key Size"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27algorithm%27]
+msgctxt "$_LANG['addonCA']['dashboard']['algorithm']"
+msgid "Algorithm"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27digest_type%27]
+msgid "Digest Type"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27digest%27]
+msgctxt "$_LANG['addonCA']['dashboard']['digest']"
+msgid "Digest"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27flags%27]
+msgid "flags"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27protocol%27]
+msgid "protocol"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27public_key%27]
+msgid "public key"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27dnssec%27]
+msgid "DNSSEC"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27disable_dnssec%27]
+msgid "Disable DNSSEC"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27enable_dnssec%27]
+msgctxt "$_LANG['addonCA']['dashboard']['enable_dnssec']"
+msgid "Enable DNSSEC"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27rectify_dnssec%27]
+msgid "Rectify Zone"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27no_dnsseck_keys%27]
+msgid "You do not have DNSSEC keys"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27bits%27]
+msgid "Bits"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27dnssec_is_disabled%27]
+msgctxt "$_LANG['addonCA']['dashboard']['dnssec_is_disabled']"
+msgid "DNSSEC is disabled"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27dnssec_keys%27]
+msgid "DNSSEC Keys"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27domain_is_not_registered%27]
+msgid "The selected domain is not registered "
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27status_active%27]
+msgctxt "$_LANG['addonCA']['dashboard']['status_active']"
+msgid "Active"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27status_not_active%27]
+msgid "Inactive"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27domain_is_pending%27]
+msgctxt "$_LANG['addonCA']['dashboard']['domain_is_pending']"
+msgid "Pending"
+msgstr ""
+
+#: %24_LANG[%27Directory%27]
+msgid "The directory"
+msgstr ""
+
+#: %24_LANG[%27is_not_readable%27]
+msgctxt "$_LANG['is_not_readable']"
+msgid "is not readable"
+msgstr ""
+
+#: %24_LANG[%27is_not_writable%27]
+msgid "is not writable"
+msgstr ""
+
+#: %24_LANG[%27not+found%27]
+msgid "not found"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27registrars%27]
+msgid "Registrars"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27Server%27]
+msgid "The selected server"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27does+not+support%27]
+msgid "does not support"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27record%27]
+msgid "the record"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27records%27]
+msgid "records"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27auto_check_matches_on_import%27]
+msgid "Auto Check Matching Records"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27auto_check_matches_on_import_title%27]
+msgid ""
+"Mark records matched to the existing hostings/domains automatically. This "
+"will speed up the process of manual selecting zones. Do not forget to "
+"confirm the import manually."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27is_not_readable%27]
+msgctxt "$_LANG['addonAA']['settings']['is_not_readable']"
+msgid "is not readable"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27please_set%27]
+msgctxt "$_LANG['addonAA']['settings']['please_set']"
+msgid "Please set"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27to_enable_the_feature%27]
+msgctxt "$_LANG['addonAA']['settings']['to_enable_the_feature']"
+msgid "To enable this feature"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27directory_as%27]
+msgctxt "$_LANG['addonAA']['settings']['directory_as']"
+msgid "the directory as"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27writable%27]
+msgctxt "$_LANG['addonAA']['settings']['writable']"
+msgid "writable"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27readable%27]
+msgctxt "$_LANG['addonAA']['settings']['readable']"
+msgid "readable"
+msgstr ""
+
+#: %24_LANG[%27recordLimitExceded%27]
+msgid "You cannot add more records, the limit has been exceeded"
+msgstr ""
+
+#: %24_LANG[%27youCannotAddSpecificRecords%27]
+msgid "You cannot add more of"
+msgstr ""
+
+#: %24_LANG[%27limitExceded%27]
+msgid "records, the limit has been exceeded"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27registrarsDescription%27]
+msgid ""
+"The following feature allows you to add the DNS Management option to "
+"registrars, where it was not originally supported. This feature uses the "
+"WHMCS 'DNS Management' tab in the client area which makes it identical to "
+"the default domain DNS management."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27importZoneFromFile%27]
+msgctxt "$_LANG['addonAA']['zones']['importZoneFromFile']"
+msgid "Import Zone From File"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27exportZoneToFile%27]
+msgid "Export Zone To File"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27please_set%27]
+msgctxt "$_LANG['addonAA']['zones']['please_set']"
+msgid "Please set"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27to_enable_the_feature%27]
+msgctxt "$_LANG['addonAA']['zones']['to_enable_the_feature']"
+msgid "To enable this feature"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27directory_as%27]
+msgctxt "$_LANG['addonAA']['zones']['directory_as']"
+msgid "the directory as"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27writable%27]
+msgctxt "$_LANG['addonAA']['zones']['writable']"
+msgid "writable"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27newFileName%27]
+msgid "New File Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27choseFileForImport%27]
+msgid "Choose File To Import"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27readable%27]
+msgctxt "$_LANG['addonAA']['zones']['readable']"
+msgid "readable"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27writable%27]
+msgctxt "$_LANG['addonAA']['zones']['writable']"
+msgid "writable"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27toFile%27]
+msgid "Import To File"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27toEnableImportToFIle%27]
+msgid "In order to enable the import of zones to files, the directory:"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27needsToBeWritable%27]
+msgid "needs to be writable."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27tools%27][%27export%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['tools']['export']"
+msgid "Export"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27zonesExportedTotal%27]
+msgid "Zones Exported Total"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27addExport%27]
+msgid "Add Export"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27thereAreNoExports%27]
+msgid "There are no exports yet"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27removeExportConfirmation%27]
+msgid ""
+"Are you sure that you want to cancel this export? All zones that have been "
+"already exported will not be removed from the client accounts."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27scheduleExportConfirmation%27]
+msgid ""
+"Are you sure that you want to schedule this export? It will cause your admin "
+"area to be unavailable for a while."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27scheduleExport%27]
+msgid "Schedule Export"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27needsToBeReadable%27]
+msgid "needs to be readable."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27destinationServer%27]
+msgid "Destination Server"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27exportWarning%27]
+msgid ""
+"Warning! This action will rebuild the zones found in the source file on the "
+"DNS server. This might result in deleting some of the records."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27fromFile%27]
+msgid "Source File"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27infos%27][%27exportRemoved%27]
+msgid "The selected export has been canceled successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27infos%27][%27exportScheduled%27]
+msgid "A new export has been scheduled successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27exportZones%27]
+msgid "Export Zones"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27exportZone%27]
+msgid "Export Zone"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27exportNow%27]
+msgid "Export Now"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27export%27]
+msgctxt "$_LANG['addonAA']['tools']['export']"
+msgid "Export"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27does_not_have_active_service%27]
+msgctxt "$_LANG['addonAA']['tools']['does_not_have_active_service']"
+msgid "Suspended/Terminated/Canceled Service"
+msgstr ""
+
+#: %24_LANG[%27mg_sets_dns_link%27]
+msgctxt "$_LANG['mg_sets_dns_link']"
+msgid "DNS Record Sets"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27table%27][%27user%27]
+msgctxt "$_LANG['addonAA']['settings']['table']['user']"
+msgid "Client"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27infos%27][%27set_removed%27]
+msgctxt "$_LANG['addonCA']['dashboard']['infos']['set_removed']"
+msgid "The selected set has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27dns_manager%27][%27setsdns%27]
+msgctxt "$_LANG['addonCA']['dashboard']['dns_manager']['setsdns']"
+msgid "DNS Manager"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27setsdns%27][%27setsdns%27]
+msgctxt "$_LANG['addonCA']['setsdns']['setsdns']"
+msgid "DNS Record Sets"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27setsdns%27][%27add_set%27]
+msgctxt "$_LANG['addonCA']['setsdns']['add_set']"
+msgid "Add Set"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27setsdns%27][%27table%27][%27name%27]
+msgctxt "$_LANG['addonCA']['setsdns']['table']['name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27setsdns%27][%27table%27][%27dns_records%27]
+msgctxt "$_LANG['addonCA']['setsdns']['table']['dns_records']"
+msgid "DNS Records"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27setsdns%27][%27table%27][%27assigned_to%27]
+msgctxt "$_LANG['addonCA']['setsdns']['table']['assigned_to']"
+msgid "Assigned"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27remove_set_confirmation_body%27]
+msgctxt "$_LANG['addonCA']['dashboard']['remove_set_confirmation_body']"
+msgid "Are you sure that you want to remove this set?"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27remove%27]
+msgctxt "$_LANG['addonCA']['dashboard']['remove']"
+msgid "Remove"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27edit%27]
+msgctxt "$_LANG['addonCA']['dashboard']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27add_set%27]
+msgctxt "$_LANG['addonCA']['dashboard']['add_set']"
+msgid "Add Set"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27wiki%27]
+msgid ""
+"You may add adequate variables for a domain: {$domain}, {$domainname}, "
+"{$domainextension} and IP {$ip} address and then these fields will be "
+"automatically changed to the domain/zone IP when this record set is used."
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27set_edit%27]
+msgctxt "$_LANG['addonCA']['dashboard']['set_edit']"
+msgid "Edit Set"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27close%27]
+msgctxt "$_LANG['addonCA']['dashboard']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27there_is_no_record_within_this_set%27]
+msgctxt "$_LANG['addonCA']['dashboard']['there_is_no_record_within_this_set']"
+msgid "There are no records within this set"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27setsdns%27][%27setsdns%27]
+msgid "Sets DNS"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27setsdns%27][%27infos%27][%27set_added%27]
+msgctxt "$_LANG['addonAA']['setsdns']['infos']['set_added']"
+msgid "A new set has been added successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27setsdns%27][%27infos%27][%27set_removed%27]
+msgctxt "$_LANG['addonAA']['setsdns']['infos']['set_removed']"
+msgid "The selected set has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27infos%27][%27set_added%27]
+msgctxt "$_LANG['addonAA']['dashboard']['infos']['set_added']"
+msgid "A new set has been added successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27infos%27][%27set_removed%27]
+msgctxt "$_LANG['addonAA']['dashboard']['infos']['set_removed']"
+msgid "The selected set has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27setsdns%27][%27set_added%27]
+msgctxt "$_LANG['addonAA']['setsdns']['set_added']"
+msgid "A new set has been added successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27setsdns%27][%27set_removed%27]
+msgctxt "$_LANG['addonAA']['setsdns']['set_removed']"
+msgid "The selected set has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27set_added%27]
+msgctxt "$_LANG['addonAA']['dashboard']['set_added']"
+msgid "A new set has been added successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27dashboard%27][%27set_removed%27]
+msgctxt "$_LANG['addonAA']['dashboard']['set_removed']"
+msgid "The selected set has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27def%27]
+msgid "Default"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27true%27]
+msgid "True"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27false%27]
+msgid "False"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27link_to_dns_sets_management%27]
+msgid "Client Area Record Sets"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27link_to_dns_sets_management_desc%27]
+msgid "Allows customers to manage DNS record sets from the client area"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27tools%27][%27backups%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['tools']['backups']"
+msgid "Zone Backups"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27tools%27][%27backupsList%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['tools']['backupsList']"
+msgid "Zone Backups"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27backupsList%27]
+msgctxt "$_LANG['addonAA']['tools']['backupsList']"
+msgid "Zone Backups"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27fileName%27]
+msgid "File Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27exportType%27]
+msgid "Export Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27thereAreNoBackupFiles%27]
+msgid "There are no backup files yet"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27downloadFile%27]
+msgid "Download File"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27uploadFile%27]
+msgid "Upload File"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27deleteFile%27]
+msgid "Delete File"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27errors%27][%27fileDoesNotExist%27]
+msgid "The :file: file does not exist"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27removeBackupConfirmation%27]
+msgid "Are you sure that you want to remove this file?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27infos%27][%27fileRemoved%27]
+msgid "The selected file has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27errors%27][%27fileDeleteFailed%27]
+msgid "The process of removing the :file: file has failed"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27addBackupFile%27]
+msgid "Upload Backup File"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27chooseFileToUpload%27]
+msgid "Choose File"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27selectedFileToUpload%27]
+msgid "Selected File"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27backupType%27]
+msgid "Backup Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27singleZone%27]
+msgid "Single Zone"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27bulkZones%27]
+msgid "Bulk Zones"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27upload%27]
+msgid "Upload"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27selectFile%27]
+msgid "Select File"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27errors%27][%27fileAlreadyExist%27]
+msgid "The :file: file already exists"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27errors%27][%27sendingFailed%27]
+msgid "Upload Failed"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27infos%27][%27uploadSuccesfull%27]
+msgid "The selected file has been uploaded successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27backupsTasks%27]
+msgid "Backups Tasks"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27taskType%27]
+msgid "Task Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27taskDescription%27]
+msgid "Task Description"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27scheduleTask%27]
+msgid "Schedule Task"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27infos%27][%27taskRemoved%27]
+msgid "Task Removed"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27zones_procesed_total%27]
+msgid "Total Zones Processed"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27sets_dns%27]
+msgctxt "$_LANG['addonCA']['dashboard']['sets_dns']"
+msgid "DNS Record Sets"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27default_check_desc%27]
+msgid ""
+"If checked, this will be a default set used during the creation of a new DNS "
+"zone"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27setsdns%27][%27dnsSetsTitle%27]
+msgctxt "$_LANG['addonCA']['setsdns']['dnsSetsTitle']"
+msgid "DNS Manager"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27domain%27]
+msgctxt "$_LANG['addonAA']['zones']['domain']"
+msgid "Domain"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27service%27]
+msgctxt "$_LANG['addonAA']['zones']['service']"
+msgid "Service"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27addon%27]
+msgctxt "$_LANG['addonAA']['zones']['addon']"
+msgid "Addon"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27there_are_no_backup_tasks%27]
+msgid "There are no backup tasks"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27infos%27][%27zoneSuccessfullyExported%27]
+msgid "The selected zone has been exported successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27infos%27][%27zoneSuccessfullyImported%27]
+msgctxt "$_LANG['addonAA']['zones']['infos']['zoneSuccessfullyImported']"
+msgid "The selected zone has been imported successfully"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27general%27]
+msgctxt "$_LANG['addonCA']['dashboard']['general']"
+msgid "General"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27records%27]
+msgctxt "$_LANG['addonCA']['dashboard']['records']"
+msgid "Records"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27errors%27][%27invalidContent%27]
+msgid "Invalid File Content"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27selectRecordSet%27]
+msgctxt "$_LANG['addonCA']['dashboard']['selectRecordSet']"
+msgid "Select Record Set"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27none%27]
+msgctxt "$_LANG['addonCA']['dashboard']['none']"
+msgid "None"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27defaultSet%27]
+msgid "Default Set"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27unactiveServices%27]
+msgid "Inactive Services"
+msgstr ""
+
+#. //===========================================================================================================
+#. //===========================================RECORDS PLACEHOLDERS============================================
+#. //===========================================================================================================
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27A%27][%27address%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['A']['address']"
+msgid "Address"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27AAAA%27][%27address%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['AAAA']['address']"
+msgid "Address"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27AFSDB%27][%27subtype%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['AFSDB']['subtype']"
+msgid "Subtype"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27AFSDB%27][%27hostname%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['AFSDB']['hostname']"
+msgid "Hostname"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27ALIAS%27][%27target%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['ALIAS']['target']"
+msgid "Target"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27CAA%27][%27flag%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['CAA']['flag']"
+msgid "Flag"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27CAA%27][%27tag%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['CAA']['tag']"
+msgid "Tag"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27CAA%27][%27target%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['CAA']['target']"
+msgid "Target"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27CNAME%27][%27cname%27]
+msgid "Cname"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27DNAME%27][%27target%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['DNAME']['target']"
+msgid "Target"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27DNSKEY%27][%27protocol%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['DNSKEY']['protocol']"
+msgid "Protocol"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27DNSKEY%27][%27flags%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['DNSKEY']['flags']"
+msgid "Flags"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27DNSKEY%27][%27algorithm%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['DNSKEY']['algorithm']"
+msgid "Algorithm"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27DNSKEY%27][%27publickey%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['DNSKEY']['publickey']"
+msgid "Public key"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27DS%27][%27keytag%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['DS']['keytag']"
+msgid "Key tag"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27DS%27][%27algorithm%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['DS']['algorithm']"
+msgid "Algorithm"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27DS%27][%27digesttype%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['DS']['digesttype']"
+msgid "Digest type"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27DS%27][%27digest%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['DS']['digest']"
+msgid "Digest"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27Def%27][%27value%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['Def']['value']"
+msgid "Value"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27HINFO%27][%27cpu%27]
+msgid "CPU"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27HINFO%27][%27os%27]
+msgid "OS"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27ISDN%27][%27isdnaddress%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['ISDN']['isdnaddress']"
+msgid "ISDN address"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27ISDN%27][%27sa%27]
+msgid "SA"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27LOC%27][%27version%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['LOC']['version']"
+msgid "Version"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27LOC%27][%27size%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['LOC']['size']"
+msgid "Size"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27LOC%27][%27horiz_pre%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['LOC']['horiz_pre']"
+msgid "Horiz pre"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27LOC%27][%27vert_pre%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['LOC']['vert_pre']"
+msgid "Vert pre"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27LOC%27][%27latitude%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['LOC']['latitude']"
+msgid "Latitude"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27LOC%27][%27longitude%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['LOC']['longitude']"
+msgid "Longitude"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27LOC%27][%27altitude%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['LOC']['altitude']"
+msgid "Altitude"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27MB%27][%27madname%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['MB']['madname']"
+msgid "MA dname"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27MD%27][%27madname%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['MD']['madname']"
+msgid "MA dname"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27MF%27][%27madname%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['MF']['madname']"
+msgid "MA dname"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27MG%27][%27mgmname%27]
+msgid "MG mname"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27MINFO%27][%27rmailbx%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['MINFO']['rmailbx']"
+msgid "Rmailbx"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27MINFO%27][%27emailbx%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['MINFO']['emailbx']"
+msgid "Emailbx"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27MR%27][%27emailbx%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['MR']['emailbx']"
+msgid "Newname"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27MX%27][%27preference%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['MX']['preference']"
+msgid "Preference"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27MX%27][%27exchange%27]
+msgid "Exchange"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27NAPTR%27][%27order%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['NAPTR']['order']"
+msgid "Order"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27NAPTR%27][%27preference%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['NAPTR']['preference']"
+msgid "Preference"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27NAPTR%27][%27flags%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['NAPTR']['flags']"
+msgid "Flags"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27NAPTR%27][%27services%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['NAPTR']['services']"
+msgid "Services"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27NAPTR%27][%27regexp%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['NAPTR']['regexp']"
+msgid "Regexp"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27NAPTR%27][%27replacement%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['NAPTR']['replacement']"
+msgid "Replacement"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27NS%27][%27nsdname%27]
+msgid "NS dname"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27OldDNS%27][%27priority%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['OldDNS']['priority']"
+msgid "Priority"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27OldDNS%27][%27value%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['OldDNS']['value']"
+msgid "Value"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27OldDNS%27][%27port%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['OldDNS']['port']"
+msgid "Port"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27OldDNS%27][%27weight%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['OldDNS']['weight']"
+msgid "Weight"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27OldDNS%27][%27forward_type%27]
+msgid "Forward type"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27OldDNS%27][%27forward_url%27]
+msgid "Forward URL"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27PTR%27][%27ptrdname%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['PTR']['ptrdname']"
+msgid "PTRD name"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27RP%27][%27mbox%27]
+msgid "Mbox"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27RP%27][%27txtdname%27]
+msgid "TXT dname"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27RRSIG%27][%27type%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['RRSIG']['type']"
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27RRSIG%27][%27algorithm%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['RRSIG']['algorithm']"
+msgid "Algorithm"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27RRSIG%27][%27labels%27]
+msgid "Labels"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27RRSIG%27][%27ttl%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['RRSIG']['ttl']"
+msgid "TTL"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27RRSIG%27][%27keyTag%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['RRSIG']['keyTag']"
+msgid "Key tag"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27RRSIG%27][%27signer%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['RRSIG']['signer']"
+msgid "Signer"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27RRSIG%27][%27signature%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['RRSIG']['signature']"
+msgid "Signature"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27RRSIG%27][%27signatureexpiration%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['RRSIG']['signatureexpiration']"
+msgid "Signature expiration"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27RRSIG%27][%27signatureinception%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['RRSIG']['signatureinception']"
+msgid "Signature inception"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27RRSIG%27][%27keytag%27]
+msgid "Keytag"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27SOA%27][%27mname%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['SOA']['mname']"
+msgid "Mname"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27SOA%27][%27rname%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['SOA']['rname']"
+msgid "Rname"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27SOA%27][%27serial%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['SOA']['serial']"
+msgid "Serial"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27SOA%27][%27refresh%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['SOA']['refresh']"
+msgid "Refresh"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27SOA%27][%27retry%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['SOA']['retry']"
+msgid "Retry"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27SOA%27][%27expire%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['SOA']['expire']"
+msgid "Expire"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27SOA%27][%27minimum%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['SOA']['minimum']"
+msgid "Minimum"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27SPF%27][%27txtdata%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['SPF']['txtdata']"
+msgid "TXT data"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27SRV%27][%27priority%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['SRV']['priority']"
+msgid "Priority"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27SRV%27][%27weight%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['SRV']['weight']"
+msgid "Weight"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27SRV%27][%27port%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['SRV']['port']"
+msgid "Port"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27SRV%27][%27target%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['SRV']['target']"
+msgid "Target"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27TXT%27][%27txtdata%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['TXT']['txtdata']"
+msgid "TXT data"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27WKS%27][%27address%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['WKS']['address']"
+msgid "Address"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27WKS%27][%27protocol%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['WKS']['protocol']"
+msgid "Protocol"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27WKS%27][%27bitmap%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['WKS']['bitmap']"
+msgid "Bitmap"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27X25%27][%27psdnaddress%27]
+msgctxt "$_LANG['addonCA']['zones']['record_field_placeholder']['X25']['psdnaddress']"
+msgid "PSDN address"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27zones%27][%27record_field_placeholder%27][%27MR%27][%27newname%27]
+msgid "New name"
+msgstr ""
+
+#. //Missing Langs
+#: %24_LANG[%27addonAA%27][%27zones%27][%27defaultSet%27]
+msgid "Default set"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27setsdns%27][%27search%27]
+msgctxt "$_LANG['addonCA']['setsdns']['search']"
+msgid "Search"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27table%27][%27Progress%27]
+msgctxt "$_LANG['addonAA']['tools']['table']['Progress']"
+msgid "Progress"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27ALIAS%27]
+msgid "ALIAS"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27ALIAS%27][%27target%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['ALIAS']['target']"
+msgid "Target"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27CAA%27]
+msgid "CAA"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27DNSKEY%27]
+msgid "DNSKEY"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27DNSKEY%27][%27protocol%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['DNSKEY']['protocol']"
+msgid "Protocol"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27DNSKEY%27][%27flags%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['DNSKEY']['flags']"
+msgid "Flags"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27DNSKEY%27][%27algorithm%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['DNSKEY']['algorithm']"
+msgid "Algorithm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27DNSKEY%27][%27publickey%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['DNSKEY']['publickey']"
+msgid "Public key"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27SPF%27]
+msgid "SPF"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27SPF%27][%27txtdata%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['SPF']['txtdata']"
+msgid "TXT data"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27NAPTR%27][%27services%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['NAPTR']['services']"
+msgid "Services"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_type_info%27][%27RRSIG%27]
+msgid "RRSIG"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27RRSIG%27][%27type%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['RRSIG']['type']"
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27RRSIG%27][%27algorithm%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['RRSIG']['algorithm']"
+msgid "Algorithm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27RRSIG%27][%27labels%27]
+msgid "Number of labels"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27RRSIG%27][%27ttl%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['RRSIG']['ttl']"
+msgid "TTL"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27RRSIG%27][%27signatureexpiration%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['RRSIG']['signatureexpiration']"
+msgid "Signature expiration"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27RRSIG%27][%27signatureinception%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['RRSIG']['signatureinception']"
+msgid "Signature inception"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27RRSIG%27][%27keytag%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['RRSIG']['keytag']"
+msgid "Key tag"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27RRSIG%27][%27signer%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['RRSIG']['signer']"
+msgid "Signer"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27record_field_info%27][%27RRSIG%27][%27signature%27]
+msgctxt "$_LANG['addonAA']['zones']['record_field_info']['RRSIG']['signature']"
+msgid "Signature"
+msgstr ""
+
+#. //API Response
+#: %24_LANG[%27addonAA%27][%27settings%27][%27addonCA%27][%27dashboard%27][%27infos%27][%27zone_updated_successfully%27]
+msgid "Zone has been updated successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27addonCA%27][%27dashboard%27][%27infos%27][%27records_updated_successfully%27]
+msgid "Records have been updated successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27addonCA%27][%27dashboard%27][%27infos%27][%27records_created_successfully%27]
+msgid "Records have been created successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27addonCA%27][%27dashboard%27][%27infos%27][%27records_removed_successfully%27]
+msgid "Records have been deleted successfully"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27errors%27][%27cannot_find_class%27]
+msgid "Cannot Find Class"
+msgstr ""
+
+#. // ------------------------------------------------- 2.9.0 -------------------------------------
+#: %24_LANG[%27addonAA%27][%27settings%27][%27prevent_zone_delete_after_terminate%27]
+msgid "Protect Zones On Product Termination"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27prevent_zone_delete_after_terminate_desc%27]
+msgid ""
+"Zones will not be automatically deleted after the product has been terminated"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27delete_selected%27]
+msgctxt "$_LANG['addonAA']['zones']['delete_selected']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27remove_from_whmcs_selected%27]
+msgid "Remove From WHMCS"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27mass_remove_records%27]
+msgid "Delete Multiple Records**"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27mass_remove_records_confirm_message%27]
+msgid "Are you sure that you want to delete selected zones from the server?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27mass_remove_records%27]
+msgctxt "$_LANG['addonAA']['zones']['mass_remove_records']"
+msgid "Remove"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27mass_remove_for_whmcs_records%27]
+msgid "Remove Multiple Records From WHMCS Only"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27zones%27][%27mass_remove_records_for_whmcs_confirm_message%27]
+msgid ""
+"Are you sure that you want to remove selected zones from WHMCS? They will "
+"remain untouched on the server."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27show_product_name%27]
+msgid "Show Product Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27settings%27][%27show_product_name_desc%27]
+msgid ""
+"Product`s regular name will be displayed instead of the general `Service` "
+"with an order number"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27unactiveDomains%27]
+msgid "Inactive Domains"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27tools%27][%27does_not_have_active_domains%27]
+msgid "Suspended/Terminated/Canceled Domain"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27infos%27][%27DNSSECEnableSuccess%27]
+msgid "DNSSEC has been enabled successfully"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27infos%27][%27DNSSECDisabledSuccess%27]
+msgid "DNSSEC has been disabled successfully"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27infos%27][%27DNSSECRectifySuccess%27]
+msgid "DNSSEC has been rectified successfully"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27dashboard%27][%27infos%27][%27RDNSchanged%27]
+msgid "RDNS record has been changed successfully"
+msgstr ""
