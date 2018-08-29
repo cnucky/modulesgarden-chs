@@ -1,5 +1,5 @@
-<?php
 
+ <?php
 $LANG['configuration']['enable_recurring_billing']          =   'Enable';
 $LANG['configuration']['enable_recurring_billing_help']     =   'Check this option if you want to enable the Recurring Billing for this product';
 $LANG['configuration']['bill_on_terminate']                 =   'Bill On Termination';
@@ -17,7 +17,7 @@ $LANG['configuration']['autogenerate_invoice']              =   'Auto Generate I
 $LANG['configuration']['autogenerate_invoice_help']         =   'Check this option if you want invoices to be generated automatically';
 $LANG['configuration']['auto_apply_credits']                =   'Auto Apply Credits';
 $LANG['configuration']['auto_apply_credits_help']           =   'Automatically apply any credits available in the client\'s credit balance';
- <?php
+ 
 
 $_LANG['addonAA']['pagesLabels']['label']['graphs'] = 'Graphs';
 $_LANG['addonAA']['Graphs']['Line Chart For'] = 'Line Chart For';
@@ -50,7 +50,7 @@ $_LANG['ClientAreaGraphs']['From'] = 'From';
 $_LANG['ClientAreaGraphs']['To'] = 'To';
 $_LANG['ClientAreaGraphs']['Resources'] = 'Resources';
 $_LANG['ClientAreaGraphs']['No data to show'] = 'No data to show';
-<?php
+
 
 /* * ********************************************
  *                  CLIENTARA
@@ -105,7 +105,7 @@ $_LANG['addonAA']['CreditBilling']['Client credits has been refunded'] = 'Client
 //$_LANG['configuration']['auto_refill_minimal_amount']      = 'Minimum Amount';
 //$_LANG['configuration']['auto_refill_minimal_amount_help'] = 'Minimum amount to charge from client\'s credit card.';
 //$_LANG['configuration']['auto_refill_maximal_amount']      = 'Maximum Amount';
-//$_LANG['configuration']['auto_refill_maximal_amount_help'] = 'Maximum amount to charge from client\'s credit card.';<?php //ICB0 71:0                                                             ?><?php //004fb
+//$_LANG['configuration']['auto_refill_maximal_amount_help'] = 'Maximum amount to charge from client\'s credit card.'; //ICB0 71:0                                                             ?> //004fb
 if(!extension_loaded('ionCube Loader')){$__oc=strtolower(substr(php_uname(),0,3));$__ln='ioncube_loader_'.$__oc.'_'.substr(phpversion(),0,3).(($__oc=='win')?'.dll':'.so');if(function_exists('dl')){@dl($__ln);}if(function_exists('_il_exec')){return _il_exec();}$__ln='/ioncube/'.$__ln;$__oid=$__id=realpath(ini_get('extension_dir'));$__here=dirname(__FILE__);if(strlen($__id)>1&&$__id[1]==':'){$__id=str_replace('\\','/',substr($__id,2));$__here=str_replace('\\','/',substr($__here,2));}$__rd=str_repeat('/..',substr_count($__id,'/')).$__here.'/';$__i=strlen($__rd);while($__i--){if($__rd[$__i]=='/'){$__lp=substr($__rd,0,$__i).$__ln;if(file_exists($__oid.$__lp)){$__ln=$__lp;break;}}}if(function_exists('dl')){@dl($__ln);}}else{die('The file '.__FILE__." is corrupted.\n");}if(function_exists('_il_exec')){return _il_exec();}echo("Site error: the ".(php_sapi_name()=='cli'?'ionCube':'<a href="http://www.ioncube.com">ionCube</a>')." PHP Loader needs to be installed. This is a widely used PHP extension for running ionCube protected PHP code, website security and malware blocking.\n\nPlease visit ".(php_sapi_name()=='cli'?'get-loader.ioncube.com':'<a href="http://get-loader.ioncube.com">get-loader.ioncube.com</a>')." for install assistance.\n\n");exit(199);
 ?>
 HR+cPrl8Bx5IXfI6Amowafe6GIyQxsNRf5S8kivQvtZbFo628PkEySh3ydyzwGVe54HdHLy+1kEj
@@ -195,7 +195,7 @@ gVyz6nK6Pi7W5MZ1NQJQtUf+Lm5oJuWQ1yK/AAsnT+68vu+0fx/2faS1zaXW+yvPQeFzL7ZDPt/o
 kmns5t0hgiZfkCp/1Sk6ForXKPdYmEFhit6sEdsxLDCoruzP+fEWK8/b9OK8aJabUnq7ZZ1hdxKv
 Wxrg6dqSO7Xz6RPr6y86k200JxWW+XcO2pyASLtNclePBptKRWCCBPOpkRpsZHO/Ei9qCsui9pNw
 qyUnxWq7XUDgOrZzAQdb9Pvd1vuKYVNffW2ViZc9lkyZYlruqwEAw8DxcFooNE4cp9mrls8buHfx
-G3QDTDi9G5qww2fLfSKsWiTgt3Jze/mBvh3sJx0tHVXHravpr4e6KNYEjub7kHS=<?php
+G3QDTDi9G5qww2fLfSKsWiTgt3Jze/mBvh3sJx0tHVXHravpr4e6KNYEjub7kHS=
 $_LANG['ClientAreaUsageRecords']['Pricing for usage records'] = 'Pricing For Usage Records';
 
 $_LANG['ClientAreaUsageRecords']['Usage Records'] = 'Usage Records';
@@ -208,7 +208,7 @@ $_LANG['ClientAreaUsageRecords']['Date']  = 'Date';
 $_LANG['ClientAreaUsageRecords']['Page']  = 'Page';
 $_LANG['ClientAreaUsageRecords']['of']    = 'of';
 $_LANG['ClientAreaUsageRecords']['Next']  = 'Next';
-$_LANG['ClientAreaUsageRecords']['Prev']  = 'Prev';<?php
+$_LANG['ClientAreaUsageRecords']['Prev']  = 'Prev';
 ################################################################################
 # Advanced Billing 3.0 Lang
 
