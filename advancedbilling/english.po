@@ -1,0 +1,297 @@
+#. extracted from english.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-29 19:30+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.3.0\n"
+
+#: %24LANG[%27configuration%27][%27enable_recurring_billing%27]
+msgid "Enable"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27enable_recurring_billing_help%27]
+msgid ""
+"Check this option if you want to enable the Recurring Billing for this "
+"product"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27bill_on_terminate%27]
+msgid "Bill On Termination"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27bill_on_terminate_help%27]
+msgid "Bill your client after the account is terminated "
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27billing_type%27]
+msgid "Billing Type"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27billing_type_help%27]
+msgctxt "$LANG['configuration']['billing_type_help']"
+msgid ""
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27bill_on_invoice_generate%27]
+msgid "Bill On Invoice"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27bill_on_specific_day%27]
+msgid "Bill On Specific Day"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27bill_every_x_days%27]
+msgid "Bill Every X Days"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27billing_type_value%27]
+msgid "Billing Type Value"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27billing_type_value_help%27]
+msgctxt "$LANG['configuration']['billing_type_value_help']"
+msgid ""
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27due_date%27]
+msgid "Due Date"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27due_date_help%27]
+msgid "Days (7 by default)"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27autogenerate_invoice%27]
+msgid "Auto Generate Invoice"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27autogenerate_invoice_help%27]
+msgid "Check this option if you want invoices to be generated automatically"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27auto_apply_credits%27]
+msgid "Auto Apply Credits"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27auto_apply_credits_help%27]
+msgid ""
+"Automatically apply any credits available in the client's credit balance"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27graphs%27]
+msgid "Graphs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27Graphs%27][%27Line+Chart+For%27]
+msgid "Line Chart For"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27Graphs%27][%27Product%27]
+msgid "Product"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27Graphs%27][%27Hosting%27]
+msgctxt "$_LANG['addonAA']['Graphs']['Hosting']"
+msgid "Hosting"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27Graphs%27][%27Please+select+product%27]
+msgid "Please select the product"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27Graphs%27][%27Resources%27]
+msgctxt "$_LANG['addonAA']['Graphs']['Resources']"
+msgid "Resources"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27Graphs%27][%27Date+Range%27]
+msgid "Date Range"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27Graphs%27][%27Product+Name%27]
+msgid "Product Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27Graphs%27][%27Client+Name%27]
+msgctxt "$_LANG['addonAA']['Graphs']['Client Name']"
+msgid "Client Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27Graphs%27][%27Status%27]
+msgid "Status"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27Graphs%27][%27Actions%27]
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27Graphs%27][%27Account+List%27]
+msgid "Account List"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27Graphs%27][%27Graph+extension+allows+you+to+view+graphs+of+usage+records+for+every+configured+services+in+Advanced+Billing%27]
+msgid ""
+"Graph extension allows you to view graphs of usage records for every "
+"configured service in Advanced Billing module"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27graphs%27][%27details%27]
+msgid "Details"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27Graphs%27][%27Date+From%27]
+msgid "Date From"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27Graphs%27][%27Date+To%27]
+msgid "Date To"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27Graphs%27][%27No+data+to+show%27]
+msgctxt "$_LANG['addonAA']['Graphs']['No data to show']"
+msgid "No data to show"
+msgstr ""
+
+#: %24_LANG[%27ClientAreaMailerReminders%27][%27Show%27]
+msgctxt "$_LANG['ClientAreaMailerReminders']['Show']"
+msgid "Show"
+msgstr ""
+
+#: %24_LANG[%27ClientAreaGraphs%27][%27Resource+Usage+Chart%27]
+msgid "Resource Usage Chart"
+msgstr ""
+
+#: %24_LANG[%27ClientAreaGraphs%27][%27Show%27]
+msgctxt "$_LANG['ClientAreaGraphs']['Show']"
+msgid "Show"
+msgstr ""
+
+#: %24_LANG[%27ClientAreaGraphs%27][%27Hide%27]
+msgid "Hide"
+msgstr ""
+
+#: %24_LANG[%27ClientAreaGraphs%27][%27From%27]
+msgid "From"
+msgstr ""
+
+#: %24_LANG[%27ClientAreaGraphs%27][%27To%27]
+msgid "To"
+msgstr ""
+
+#: %24_LANG[%27ClientAreaGraphs%27][%27Resources%27]
+msgctxt "$_LANG['ClientAreaGraphs']['Resources']"
+msgid "Resources"
+msgstr ""
+
+#: %24_LANG[%27ClientAreaGraphs%27][%27No+data+to+show%27]
+msgctxt "$_LANG['ClientAreaGraphs']['No data to show']"
+msgid "No data to show"
+msgstr ""
+
+#. /* * ********************************************
+#.  *                  CLIENTARA
+#.  * ******************************************* */
+#: %24_LANG[%27CreditBilling%27][%27Enable+Auto+Refill%27]
+msgid "Enable Auto Refill"
+msgstr ""
+
+#: %24_LANG[%27CreditBilling%27][%27Enable+to+automatically+charge+from+a+credit+card%27]
+msgid "Enable to automatically charge the client's credit card"
+msgstr ""
+
+#: %24_LANG[%27CreditBilling%27][%27Auto+Refill+Value%27]
+msgid "Auto Refill Value"
+msgstr ""
+
+#: %24_LANG[%27CreditBilling%27][%27How+much+should+be+refiled+in+a+single+refill+operation%27]
+msgid "The amount to be refilled in a single refill operation"
+msgstr ""
+
+#: %24_LANG[%27CreditBilling%27][%27Auto+Refill+Under%27]
+msgid "Auto Refill Under"
+msgstr ""
+
+#: %24_LANG[%27CreditBilling%27][%27Refil+if+your+credit+balance+falls+below+this+value%27]
+msgid "Refill if your credit balance falls below this value"
+msgstr ""
+
+#: %24_LANG[%27CreditBilling%27][%27Save%27]
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27CreditBilling%27][%27Wrong+value.+Value+cannot+be+lower+than+0%27]
+msgid "The value cannot be lower than 0"
+msgstr ""
+
+#: %24_LANG[%27CreditBilling%27][%27Wrong+value.+Value+cannot+be+lower+than+x%27]
+msgid "The value cannot be lower than x"
+msgstr ""
+
+#: %24_LANG[%27CreditBilling%27][%27Wrong+value.+Value+cannot+be+greater+x%27]
+msgid "The value cannot be greater than x"
+msgstr ""
+
+#: %24_LANG[%27CreditBilling%27][%27Configuration+has+been+saved%27]
+msgid "The configuration has been saved successfully"
+msgstr ""
+
+#: %24_LANG[%27CreditBilling%27][%27Auto+Refill%27]
+msgid "Auto Refill"
+msgstr ""
+
+#: %24_LANG[%27CreditBilling%27][%27Value+cannot+be+higher+then+%27]
+msgid "The value cannot be higher than "
+msgstr ""
+
+#: %24_LANG[%27CreditBilling%27][%27Value+cannot+be+lower+then+%27]
+msgid "The value cannot be lower than "
+msgstr ""
+
+#. /* * ****************************************************
+#.  *                      CONFIGURATION
+#.  * *************************************************** */
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27credits%27][%27label%27]
+msgid "Credits"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27CreditBilling%27][%27User+Credits%27]
+msgid "User Credits"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27CreditBilling%27][%27Client+Name%27]
+msgctxt "$_LANG['addonAA']['CreditBilling']['Client Name']"
+msgid "Client Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27CreditBilling%27][%27Hosting%27]
+msgctxt "$_LANG['addonAA']['CreditBilling']['Hosting']"
+msgid "Hosting"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27CreditBilling%27][%27Internal+Credit%27]
+msgid "Internal Credit"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27CreditBilling%27][%27Already+Paid+For+Hosting%27]
+msgid "Already Paid For Hosting"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27CreditBilling%27][%27Action%27]
+msgid "Action"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27CreditBilling%27][%27Refund%27]
+msgid "Refund"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27CreditBilling%27][%27Client+credits+has+been+refunded%27]
+msgid "Client credits have been refunded successfully"
+msgstr ""
