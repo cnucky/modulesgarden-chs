@@ -80,7 +80,7 @@ $_LANG['pages']['functions']['table_header']['auto_installer'] = "Auto Installer
 $_LANG['pages']['functions']['table_header']['template'] = "Template";
 $_LANG['pages']['functions']['table_header']['enabled_features'] = "Enabled Features";
 $_LANG['pages']['functions']['table']['enabled_features'] = "Enabled Features";
-### EDIT FTP ACCOUNT
+
 $_LANG['pages']['home']['panel']['products'] = "Products";
 $_LANG['pages']['home']['panel']['servers'] = "Servers";
 $_LANG['pages']['home']['panel']['and'] = "And";
