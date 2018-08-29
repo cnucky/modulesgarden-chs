@@ -516,7 +516,7 @@ $_LANG['addonAA']['settings']['Modules'] = 'Modules';
 $_LANG['proxmoxVPS'] = 'ProxmoxVPS';
 $_LANG['proxmoxCloud'] = 'ProxmoxCloud';
 $_LANG['addonAA']['settings']['modules-help'] = '';
-$_LANG['addonAA']['settings']['Reading file content "%s" failed, please check file permission'] = 'Reading of the file content "%s" has failed, please check the file permissions';<?php
+$_LANG['addonAA']['settings']['Reading file content "%s" failed, please check file permission'] = 'Reading of the file content "%s" has failed, please check the file permissions';
 
 $_LANG['general']['back'] = 'Back To Service';
 $_LANG['general']['graph_of'] = 'of';

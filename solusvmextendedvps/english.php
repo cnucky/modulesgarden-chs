@@ -24,7 +24,7 @@
 
 /**
  * @deprecated since version 1.5.0
- */<?php
+ */
 
 /* * ********************************************************************
  * Customization Services by ModulesGarden.com
