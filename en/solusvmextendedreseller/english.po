@@ -1,0 +1,201 @@
+#. extracted from solusvmextendedreseller/english.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-28 21:28+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.3.0\n"
+
+#. /* * ********************************************************************
+#.  * Customization Services by ModulesGarden.com
+#.  * Copyright (c) ModulesGarden, INBS Group Brand, All Rights Reserved 
+#.  * (2013-06-04, 14:13:32)
+#.  * 
+#.  *
+#.  *  CREATED BY MODULESGARDEN       ->        http://modulesgarden.com
+#.  *  CONTACT                        ->       contact@modulesgarden.com
+#.  *
+#.  *
+#.  *
+#.  *
+#.  * This software is furnished under a license and may be used and copied
+#.  * only  in  accordance  with  the  terms  of such  license and with the
+#.  * inclusion of the above copyright notice.  This software  or any other
+#.  * copies thereof may not be provided or otherwise made available to any
+#.  * other person.  No title to and  ownership of the  software is  hereby
+#.  * transferred.
+#.  *
+#.  *
+#.  * ******************************************************************** */
+#. /**
+#.  * @author Grzegorz Draganik <grzegorz@modulesgarden.com>
+#.  */
+#: %24_LANG[%27general%27][%27back%27]
+msgid "Back To Service"
+msgstr ""
+
+#: %24_LANG[%27general%27][%27graph_of%27]
+msgid "of"
+msgstr ""
+
+#: %24_LANG[%27general%27][%27graph_used%27]
+msgid "Used"
+msgstr ""
+
+#: %24_LANG[%27general%27][%27graph_free%27]
+msgid "Free"
+msgstr ""
+
+#: %24_LANG[%27general%27][%27console_info%27]
+msgid ""
+"Console requires java software. You need to accept 'security risk' popup to "
+"run it."
+msgstr ""
+
+#: %24_LANG[%27general%27][%27btn_enable%27]
+msgid "Enable"
+msgstr ""
+
+#: %24_LANG[%27general%27][%27btn_disable%27]
+msgid "Disable"
+msgstr ""
+
+#: %24_LANG[%27general%27][%27connection_error%27]
+msgid "Connection error"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27information%27]
+msgid "Reseller Information"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27email%27]
+msgid "Email"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27firstname%27]
+msgid "Firstname"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27lastname%27]
+msgid "Lastname"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27company%27]
+msgid "Company"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27username_prefix%27]
+msgid "Username Prefix"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27max_vps%27]
+msgid "Max VPS"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27max_users%27]
+msgid "Max Users"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27max_memory%27]
+msgid "Max Memory"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27max_burst%27]
+msgid "Max Burst Memory or Swapspace"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27max_disk_space%27]
+msgid "Max Disk Space"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27max_bandwidth%27]
+msgid "Max Bandwidth"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27max_ipv4%27]
+msgid "Max IPv4"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27max_ipv6%27]
+msgid "Max IPv6"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27node_groups%27]
+msgid "Node Groups"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27media_groups%27]
+msgid "Media Groups"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27allowed_openvz%27]
+msgid "Allowed OpenVZ"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27allowed_xenpv%27]
+msgid "Allowed Xenpv"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27allowed_xenhvm%27]
+msgid "Allowed Xenhvm"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27allowed_kvm%27]
+msgid "Allowed KVM"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27control_panel%27]
+msgid "Control Panel"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27yes%27]
+msgid "Yes"
+msgstr ""
+
+#: %24_LANG[%27reseller%27][%27no%27]
+msgid "No"
+msgstr ""
+
+#. // messages from SolusVM API
+#: %24_LANG[%27solus%27][%27Virtual+server+booted%27]
+msgid "Virtual server booted"
+msgstr ""
+
+#: %24_LANG[%27solus%27][%27Virtual+server+rebooted%27]
+msgid "Virtual server rebooted"
+msgstr ""
+
+#: %24_LANG[%27solus%27][%27Boot+order+changed%27]
+msgid "Boot order changed"
+msgstr ""
+
+#: %24_LANG[%27solus%27][%27Virtual+server+updated%27]
+msgid "Virtual server updated"
+msgstr ""
+
+#: %24_LANG[%27solus%27][%27Virtual+server+hostname+changed%27]
+msgid "Virtual server hostname changed"
+msgstr ""
+
+#: %24_LANG[%27solus%27][%27Virtual+server+is+being+rebuilt%27]
+msgid "Virtual server is being rebuilt"
+msgstr ""
+
+#: %24_LANG[%27solus%27][%27Virtual+server+root+password+changed%27]
+msgid "Virtual server root password changed"
+msgstr ""
+
+#: %24_LANG[%27solus%27][%27Virtual+server+vnc+password+changed%27]
+msgid "Virtual server vnc password changed"
+msgstr ""
+
+#: %24_LANG[%27solus%27][%27Virtual+server+shutdown%27]
+msgid "Virtual server shutdown"
+msgstr ""

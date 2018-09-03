@@ -1,0 +1,1502 @@
+#. extracted from english.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-30 17:21+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.3.0\n"
+
+#. # vmware language variable
+#: %24_ADDONLANG[%27guestosfamily%27]
+msgctxt "$_ADDONLANG['guestosfamily']"
+msgid "Guest OS Family"
+msgstr ""
+
+#: %24_ADDONLANG[%27guestosisofile%27]
+msgid "ISO File"
+msgstr ""
+
+#: %24_ADDONLANG[%27guestosdatastore%27]
+msgid "Datastore"
+msgstr ""
+
+#: %24_ADDONLANG[%27guestosversion%27]
+msgctxt "$_ADDONLANG['guestosversion']"
+msgid "Guest OS Version"
+msgstr ""
+
+#: %24_ADDONLANG[%27guestosversionid%27]
+msgid "Guest OS Version ID"
+msgstr ""
+
+#: %24_ADDONLANG[%27hide%27]
+msgid "Hide"
+msgstr ""
+
+#: %24_ADDONLANG[%27submit%27]
+msgid "Submit"
+msgstr ""
+
+#: %24_ADDONLANG[%27cancel%27]
+msgid "Cancel"
+msgstr ""
+
+#: %24_ADDONLANG[%27action%27]
+msgctxt "$_ADDONLANG['action']"
+msgid "Action"
+msgstr ""
+
+#: %24_ADDONLANG[%27dashboard%27]
+msgid "Dashboard"
+msgstr ""
+
+#: %24_ADDONLANG[%27guestoslist%27]
+msgid "Guest OS List"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmtemplates%27]
+msgid "VM Name"
+msgstr ""
+
+#: %24_ADDONLANG[%27vm_addvm%27]
+msgid "Add Sample Vm's"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmtemplatesdesc%27]
+msgid ""
+"Create a \"Virtual Machine\" from existing VM. Please make sure Your VM must "
+"be Powered off."
+msgstr ""
+
+#: %24_ADDONLANG[%27quotagb%27]
+msgid "Quota GB"
+msgstr ""
+
+#: %24_ADDONLANG[%27autoupgradechildren%27]
+msgid "Set Auto Upgrade Client App For Children"
+msgstr ""
+
+#: %24_ADDONLANG[%27savechanges%27]
+msgid "Save Changes"
+msgstr ""
+
+#: %24_ADDONLANG[%27assignproducttab%27]
+msgid "Assign Product"
+msgstr ""
+
+#: %24_ADDONLANG[%27assigned%27]
+msgid "Assigned"
+msgstr ""
+
+#: %24_ADDONLANG[%27licenseregname%27]
+msgid "License Registered To"
+msgstr ""
+
+#: %24_ADDONLANG[%27licenseregemail%27]
+msgid "License Registered Email"
+msgstr ""
+
+#: %24_ADDONLANG[%27licensestatus%27]
+msgid "License Status"
+msgstr ""
+
+#: %24_ADDONLANG[%27licensevaliddomain%27]
+msgid "License Valid Domain"
+msgstr ""
+
+#: %24_ADDONLANG[%27notassigned%27]
+msgid "Free"
+msgstr ""
+
+#: %24_ADDONLANG[%27status%27]
+msgctxt "$_ADDONLANG['status']"
+msgid "Status"
+msgstr ""
+
+#: %24_ADDONLANG[%27products%27]
+msgctxt "$_ADDONLANG['products']"
+msgid "Products"
+msgstr ""
+
+#: %24_ADDONLANG[%27selectall%27]
+msgctxt "$_ADDONLANG['selectall']"
+msgid "Products"
+msgstr ""
+
+#: %24_ADDONLANG[%27billingcycle%27]
+msgctxt "$_ADDONLANG['billingcycle']"
+msgid "Billing Cycle"
+msgstr ""
+
+#: %24_ADDONLANG[%27partners%27]
+msgid "Select Partner"
+msgstr ""
+
+#: %24_ADDONLANG[%27about%27]
+msgid "About"
+msgstr ""
+
+#: %24_ADDONLANG[%27version%27]
+msgid "Version"
+msgstr ""
+
+#: %24_ADDONLANG[%27license%27]
+msgid "Licence"
+msgstr ""
+
+#: %24_ADDONLANG[%27author%27]
+msgid "Author"
+msgstr ""
+
+#: %24_ADDONLANG[%27productname%27]
+msgid "Product Name"
+msgstr ""
+
+#: %24_ADDONLANG[%27viewmore%27]
+msgid "View More"
+msgstr ""
+
+#: %24_ADDONLANG[%27lastupdated%27]
+msgid "Last Update"
+msgstr ""
+
+#: %24_ADDONLANG[%27addos%27]
+msgid "Create OS Template"
+msgstr ""
+
+#: %24_ADDONLANG[%27addss%27]
+msgid "Add vCenter Server"
+msgstr ""
+
+#: %24_ADDONLANG[%27allrequired%27]
+msgid "All fields are required!"
+msgstr ""
+
+#: %24_ADDONLANG[%27ordernow%27]
+msgid "Order Now"
+msgstr ""
+
+#: %24_ADDONLANG[%27ipmapping%27]
+msgid "IP Mapping"
+msgstr ""
+
+#: %24_ADDONLANG[%27datacenter%27]
+msgid "Datacenter"
+msgstr ""
+
+#: %24_ADDONLANG[%27ip%27]
+msgid "IP Pool"
+msgstr ""
+
+#: %24_ADDONLANG[%27netmask%27]
+msgctxt "$_ADDONLANG['netmask']"
+msgid "Netmask"
+msgstr ""
+
+#: %24_ADDONLANG[%27gateway%27]
+msgctxt "$_ADDONLANG['gateway']"
+msgid "Gateway"
+msgstr ""
+
+#: %24_ADDONLANG[%27dns%27]
+msgctxt "$_ADDONLANG['dns']"
+msgid "DNS"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmtemplate%27]
+msgctxt "$_ADDONLANG['vmtemplate']"
+msgid "Vm Name"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmnameplaceholder%27]
+msgid "Select sample VM name."
+msgstr ""
+
+#: %24_ADDONLANG[%27vmsystempw%27]
+msgctxt "$_ADDONLANG['vmsystempw']"
+msgid "System Password"
+msgstr ""
+
+#: %24_ADDONLANG[%27sys_pw_desc%27]
+msgid ""
+"This is the root password of the newly created cloned server. Username would "
+"be root in case of Linux servers and administrator in case of Windows server."
+msgstr ""
+
+#: %24_ADDONLANG[%27customnameplaceholder%27]
+msgid ""
+"Enter custom name, which you want to show on order form. According to VM OS."
+msgstr ""
+
+#: %24_ADDONLANG[%27customname%27]
+msgid "Custom Name"
+msgstr ""
+
+#: %24_ADDONLANG[%27server%27]
+msgid "vCenter Server Name"
+msgstr ""
+
+#: %24_ADDONLANG[%27serversetup%27]
+msgid "Server Setup"
+msgstr ""
+
+#: %24_ADDONLANG[%27esxiip%27]
+msgid "ESXi IP Address"
+msgstr ""
+
+#: %24_ADDONLANG[%27esxiipdesc%27]
+msgid "Enter ESXi hostname / IP"
+msgstr ""
+
+#: %24_ADDONLANG[%27esxiusername%27]
+msgid "ESXi Username"
+msgstr ""
+
+#: %24_ADDONLANG[%27esxiusernamedesc%27]
+msgid "Enter ESXi Username"
+msgstr ""
+
+#: %24_ADDONLANG[%27esxipassword%27]
+msgid "ESXi Password"
+msgstr ""
+
+#: %24_ADDONLANG[%27esxipassworddesc%27]
+msgid "Enter ESXi Password"
+msgstr ""
+
+#: %24_ADDONLANG[%27vsphereip%27]
+msgid "vCenter IP Address"
+msgstr ""
+
+#: %24_ADDONLANG[%27vsphereipdesc%27]
+msgid "Enter vCenter hostname / IP"
+msgstr ""
+
+#: %24_ADDONLANG[%27vsphereusername%27]
+msgid "vCenter Username"
+msgstr ""
+
+#: %24_ADDONLANG[%27vsphereusernamedesc%27]
+msgid "Enter vCenter Username"
+msgstr ""
+
+#: %24_ADDONLANG[%27vspherepassword%27]
+msgid "vCenter Password"
+msgstr ""
+
+#: %24_ADDONLANG[%27vspherepassworddesc%27]
+msgid "Enter vCenter Password"
+msgstr ""
+
+#: %24_ADDONLANG[%27consoleusername%27]
+msgid "Console Username"
+msgstr ""
+
+#: %24_ADDONLANG[%27consoleusernamedesc%27]
+msgid "Enter Console Username"
+msgstr ""
+
+#: %24_ADDONLANG[%27consolepassword%27]
+msgid "Console Password"
+msgstr ""
+
+#: %24_ADDONLANG[%27consolepassworddesc%27]
+msgid "Enter Console Password"
+msgstr ""
+
+#: %24_ADDONLANG[%27forvm%27]
+msgctxt "$_ADDONLANG['forvm']"
+msgid "Vm Name"
+msgstr ""
+
+#: %24_ADDONLANG[%27macaddress%27]
+msgctxt "$_ADDONLANG['macaddress']"
+msgid "Mac Address"
+msgstr ""
+
+#: %24_ADDONLANG[%27setting%27]
+msgid "Setting"
+msgstr ""
+
+#: %24_ADDONLANG[%27update_datacenter%27]
+msgid "Update Datacenter"
+msgstr ""
+
+#: %24_ADDONLANG[%27addedsucceessmsg%27]
+msgid ""
+"<strong><span class=\"title\">Changes Saved Successfully!</span></strong><br>"
+"Your record has been added."
+msgstr ""
+
+#: %24_ADDONLANG[%27updatesucceessmsg%27]
+msgid ""
+"<strong><span class=\"title\">Changes Saved Successfully!</span></strong><br>"
+"Your record has been updated."
+msgstr ""
+
+#: %24_ADDONLANG[%27deletesucceessmsg%27]
+msgid ""
+"<strong><span class=\"title\">Changes Saved Successfully!</span></strong><br>"
+"Your record has been deleted."
+msgstr ""
+
+#: %24_ADDONLANG[%27update_datacenter_text%27]
+msgid ""
+"In this section you can update your latest datacenter with your all vmware "
+"products in WHMCS system."
+msgstr ""
+
+#: %24_ADDONLANG[%27update_datastore%27]
+msgid "Update Datastores"
+msgstr ""
+
+#: %24_ADDONLANG[%27update_datastore_text%27]
+msgid "You can update your latest datastores in WHMCS system."
+msgstr ""
+
+#: %24_ADDONLANG[%27update_resource_pool%27]
+msgid "Update Resource Pool"
+msgstr ""
+
+#: %24_ADDONLANG[%27update_resource_pool_text%27]
+msgid "You can update your latest resource pool in WHMCS system."
+msgstr ""
+
+#: %24_ADDONLANG[%27selectserver%27]
+msgid "Select vCenter server name"
+msgstr ""
+
+#: %24_ADDONLANG[%27guestosserver%27]
+msgid "Server setup name"
+msgstr ""
+
+#: %24_ADDONLANG[%27tmpltetext%27]
+msgid "Name that will show in order form"
+msgstr ""
+
+#: %24_ADDONLANG[%27rangetxt%27]
+msgid "Enter random IP"
+msgstr ""
+
+#: %24_ADDONLANG[%27addmoreos%27]
+msgid "Click here to add more Guest Os Verion"
+msgstr ""
+
+#: %24_ADDONLANG[%27assignexisting%27]
+msgid "Assign Existing VM"
+msgstr ""
+
+#: %24_ADDONLANG[%27selectvmname%27]
+msgid "Select Vmname"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmadditionalipstatus%27]
+msgid "IP Status"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmadditional%27]
+msgid "Additional"
+msgstr ""
+
+#: %24_ADDONLANG[%27existingvm%27]
+msgid "Assign Existing Vm"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmselectproduct%27]
+msgctxt "$_ADDONLANG['vmselectproduct']"
+msgid "Products"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmselectvm%27]
+msgid "Existing Vm"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmselectuser%27]
+msgid "User"
+msgstr ""
+
+#: %24_ADDONLANG[%27select%27]
+msgid "Select"
+msgstr ""
+
+#: %24_ADDONLANG[%27selectip%27]
+msgid "IP's"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmpm%27]
+msgid "Payment Method"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmbillingcycle%27]
+msgctxt "$_ADDONLANG['vmbillingcycle']"
+msgid "Billing Cycle"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmmonthly%27]
+msgid "Monthly"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmquartly%27]
+msgid "Quarterly"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmsemiannually%27]
+msgid "Semiannually"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmannually%27]
+msgid "Annually"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmbiennially%27]
+msgid "Biennially"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmtriennially%27]
+msgid "Triennially"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmbandwidth%27]
+msgid "Bandwidth"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmaddmoreosversion%27]
+msgid "Add More OS Version - How to add more OS version?"
+msgstr ""
+
+#: %24_ADDONLANG[%27noofips%27]
+msgid "Total IP's"
+msgstr ""
+
+#: %24_ADDONLANG[%27assignedip%27]
+msgid "Assigned IP's"
+msgstr ""
+
+#: %24_ADDONLANG[%27freeip%27]
+msgid "Free IP's"
+msgstr ""
+
+#: %24_ADDONLANG[%27deleteseclected%27]
+msgid "Delete Selected"
+msgstr ""
+
+#: %24_ADDONLANG[%27back%27]
+msgid "Back"
+msgstr ""
+
+#: %24_ADDONLANG[%27upgrade%27]
+msgid "Upgrade Settings"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmexist%27]
+msgid "Already exist with your WHMCS."
+msgstr ""
+
+#: %24_ADDONLANG[%27vmware_module_update%27]
+msgid "Update Module Setting"
+msgstr ""
+
+#: %24_ADDONLANG[%27migrate_vms%27]
+msgctxt "$_ADDONLANG['migrate_vms']"
+msgid "Migrate Vm"
+msgstr ""
+
+#: %24_ADDONLANG[%27vm_from_hostname%27]
+msgid "From Host"
+msgstr ""
+
+#: %24_ADDONLANG[%27vm_to_hostname%27]
+msgid "To Host"
+msgstr ""
+
+#: %24_ADDONLANG[%27vm_r_pool%27]
+msgctxt "$_ADDONLANG['vm_r_pool']"
+msgid "Resource Pool"
+msgstr ""
+
+#: %24_ADDONLANG[%27vm_migrate_reason%27]
+msgctxt "$_ADDONLANG['vm_migrate_reason']"
+msgid "Reason"
+msgstr ""
+
+#: %24_ADDONLANG[%27close%27]
+msgid "Close"
+msgstr ""
+
+#: %24_ADDONLANG[%27approved%27]
+msgid "Approved"
+msgstr ""
+
+#: %24_ADDONLANG[%27declined%27]
+msgid "Declined"
+msgstr ""
+
+#: %24_ADDONLANG[%27approve%27]
+msgid "Approve"
+msgstr ""
+
+#: %24_ADDONLANG[%27decline%27]
+msgid "Decline"
+msgstr ""
+
+#: %24_ADDONLANG[%27os_list_hostname%27]
+msgid "Hostname"
+msgstr ""
+
+#: %24_ADDONLANG[%27os_list_resourcepool%27]
+msgctxt "$_ADDONLANG['os_list_resourcepool']"
+msgid "Resource Pool"
+msgstr ""
+
+#: %24_ADDONLANG[%27os_list_network_adaptor%27]
+msgid "Network Adapter"
+msgstr ""
+
+#: %24_ADDONLANG[%27datacenter_custom_name%27]
+msgid "Datacenter Custom Name"
+msgstr ""
+
+#: %24_ADDONLANG[%27dc_custom_name%27]
+msgid "DC Custom Name"
+msgstr ""
+
+#: %24_ADDONLANG[%27datacenter_custom_name_required%27]
+msgid "Datacenter Custom Name must be different for each entry."
+msgstr ""
+
+#: %24_ADDONLANG[%27datacenter_custom_name_placeholder%27]
+msgid "Ovh Window 7"
+msgstr ""
+
+#: %24_ADDONLANG[%27datacenter_custom_name_exist%27]
+msgid "is already exist. please enter different datacenter custom name."
+msgstr ""
+
+#: %24_ADDONLANG[%27datastore_desc%27]
+msgid "Select correct datastore, where iso files exist."
+msgstr ""
+
+#: %24_ADDONLANG[%27hidefromorderform%27]
+msgid "Hide from order form"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmosmap%27]
+msgid "OS Mapping"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmosmapdesc%27]
+msgid "You must create OS templates or map OS ISO’s for your future customer."
+msgstr ""
+
+#: %24_ADDONLANG[%27vmiosmapdesc%27]
+msgid ""
+"This feature lets you map your ISO files with appropriate Operating systems "
+"E.g. if your datastore is having Windows 2013 Datacenter and Windows 2013 "
+"Standard edition’s ISO then you can map the Guest OS family with Guest OS "
+"Version naming accordingly."
+msgstr ""
+
+#: %24_ADDONLANG[%27vmclonemapdesc%27]
+msgctxt "$_ADDONLANG['vmclonemapdesc']"
+msgid "This feature lets you map your exiting <b>sample VMs</b>"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmclonesamplevmdesc%27]
+msgid ""
+"Sample VMs – Sample VMs are the VMs which you need to create before using "
+"this feature. You need to install one Virtrual Machine with the appropriate "
+"OS and minimum hardware specs. Afterwards, install VMware tools on that VM. "
+"<b>This sample VM should always be turned off so that cloning can be done "
+"from the sample VM.</b>"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmosmapdesclink%27]
+msgid "For more information about the difference between"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmclickplease%27]
+msgid "please"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmclickand%27]
+msgid "and"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmclickhere%27]
+msgid "click here"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmosmapiso%27]
+msgid "ISO Mapping"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmosmapclone%27]
+msgid "VM Cloning/Mapping"
+msgstr ""
+
+#: %24_ADDONLANG[%27guestaddmoreoslinkdesc%27]
+msgid "Click on given link"
+msgstr ""
+
+#: %24_ADDONLANG[%27guestaddmoreoslinkdesclinktext%27]
+msgid "Add more OS version"
+msgstr ""
+
+#: %24_ADDONLANG[%27guestaddmoreoslinkdesc1%27]
+msgid ""
+"and then open the guestOsIdentifier.txt file (/modules/addons/vmware/guestOs/"
+") in your editor. In this file you can add the more OS. "
+msgstr ""
+
+#: %24_ADDONLANG[%27guestaddmoreosdesc%27]
+msgid ""
+"Copy the OS version and version id from given link and paste in this "
+"guestOsIdentifier.txt file according to OS family like (Windows/Linux)"
+msgstr ""
+
+#: %24_ADDONLANG[%27guestaddmoreosinstruction%27]
+msgid "Instructions for add new OS"
+msgstr ""
+
+#: %24_ADDONLANG[%27guestaddmoreosinstructiondesc%27]
+msgid ""
+"Format like \"OS Family-OS Version-OS Version ID\". Add all values with "
+"hyphen (-) separator"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmselectsamplevm%27]
+msgid "Sample VM name"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmserverdesc%27]
+msgid ""
+"In This step you need to add your vCenter server so that program API can "
+"make connection to your vCenter server and can fetch all the connected ESXI "
+"nodes and your datastores etc. "
+msgstr ""
+
+#: %24_ADDONLANG[%27vmipmapdesc%27]
+msgid ""
+"In this section you can define your IPs (ip pools or individual IPs) that "
+"your datacenter has assigned to your Vmware Nodes."
+msgstr ""
+
+#: %24_ADDONLANG[%27vmassignexistingvmdesc%27]
+msgid ""
+"In this section, you can assign your exiting running machines to your WHMCS "
+"clients/users. "
+msgstr ""
+
+#: %24_ADDONLANG[%27vmmigratevmsdesc%27]
+msgid ""
+"In this section, you can accept or decline the user Vm Migrate request's."
+msgstr ""
+
+#. #Email template lang variable
+#: %24_ADDONLANG[%27mailtemplatesetting%27]
+msgid "Mail Template"
+msgstr ""
+
+#: %24_ADDONLANG[%27templateupdated%27]
+msgid "Template Updated Successfully"
+msgstr ""
+
+#: %24_ADDONLANG[%27templatedisabled%27]
+msgid "Templates Disabled Successfully"
+msgstr ""
+
+#: %24_ADDONLANG[%27templateenabled%27]
+msgid "Template Enabled Successfully"
+msgstr ""
+
+#: %24_ADDONLANG[%27managetemplates%27]
+msgid "Manage Your Custom Email Templates."
+msgstr ""
+
+#: %24_ADDONLANG[%27emailtemplate%27]
+msgid "Email Template"
+msgstr ""
+
+#: %24_ADDONLANG[%27disable%27]
+msgid "Disable"
+msgstr ""
+
+#: %24_ADDONLANG[%27actions%27]
+msgid "Actions"
+msgstr ""
+
+#: %24_ADDONLANG[%27notemplate%27]
+msgid "No Custom Email Template Found"
+msgstr ""
+
+#: %24_ADDONLANG[%27disableddelctemp%27]
+msgid "Enable / Disabled Selected Template"
+msgstr ""
+
+#: %24_ADDONLANG[%27subject%27]
+msgid "Subject"
+msgstr ""
+
+#: %24_ADDONLANG[%27availabletemplate%27]
+msgid "Available Template Varaibels"
+msgstr ""
+
+#: %24_ADDONLANG[%27templatedesired%27]
+msgid "Enter the desired text in textarea below for your template"
+msgstr ""
+
+#: %24_ADDONLANG[%27autoconfig%27]
+msgid "IP Auto Customization"
+msgstr ""
+
+#: %24_ADDONLANG[%27autoconfigdesc%27]
+msgid "Enable auto IP customization when Vm will create from this sample Vm."
+msgstr ""
+
+#: %24_ADDONLANG[%27autoconfigheading%27]
+msgid "Auto Config."
+msgstr ""
+
+#: %24_ADDONLANG[%27esxienable%27]
+msgid "ESXI Host"
+msgstr ""
+
+#: %24_ADDONLANG[%27esxienabledesc%27]
+msgid "Enable, if you are using ESXI Host detail."
+msgstr ""
+
+#: %24_ADDONLANG[%27product_key%27]
+msgid "Product (license) Key."
+msgstr ""
+
+#: %24_ADDONLANG[%27product_key_desc%27]
+msgid "Required for windows."
+msgstr ""
+
+#: %24_ADDONLANG[%27fromtemplate%27]
+msgid "From VM template"
+msgstr ""
+
+#: %24_ADDONLANG[%27fromtemplate_desc%27]
+msgid "Tick this box if you're using Vm template for cloning."
+msgstr ""
+
+#: %24_ADDONLANG[%27changelog%27]
+msgid "View Change Log"
+msgstr ""
+
+#: %24_ADDONLANG[%27requestnewfeatures%27]
+msgid "Request New Features"
+msgstr ""
+
+#: %24_ADDONLANG[%27vmhowtocreatevmrcuser%27]
+msgid "How to create user for VMRC console?"
+msgstr ""
+
+#. # Email send lang variable
+#: %24_ADDONLANG[%27mailyourserver%27]
+msgid "Your server"
+msgstr ""
+
+#: %24_ADDONLANG[%27maildeclinedmsg%27]
+msgid "migration request has been declined"
+msgstr ""
+
+#: %24_ADDONLANG[%27maildclnreason%27]
+msgctxt "$_ADDONLANG['maildclnreason']"
+msgid "Reason"
+msgstr ""
+
+#: %24_ADDONLANG[%27maildeclnsupport%27]
+msgid "Please contact with support"
+msgstr ""
+
+#: %24_ADDONLANG[%27mailaccetcongrts%27]
+msgid "Congratulation"
+msgstr ""
+
+#: %24_ADDONLANG[%27mailacceptmsg%27]
+msgid "migration request has been accepted"
+msgstr ""
+
+#. ############################### VM lang valriable start here #########################
+#: %24lang[%27vm_name%27]
+msgctxt "$lang['vm_name']"
+msgid "Server Name"
+msgstr ""
+
+#: %24lang[%27vm_power_state%27]
+msgid "Power Status"
+msgstr ""
+
+#: %24lang[%27vm_guest_os_state%27]
+msgid "Guest OS Status"
+msgstr ""
+
+#: %24lang[%27vm_guest_ip_address%27]
+msgid "Guest IP Address"
+msgstr ""
+
+#: %24lang[%27vm_guest_dedecated_os%27]
+msgid "Detected Guest OS"
+msgstr ""
+
+#: %24lang[%27vm_guest_host_name%27]
+msgid "Guest Host Name"
+msgstr ""
+
+#: %24lang[%27vm_tools_status%27]
+msgid "VmTool Status"
+msgstr ""
+
+#: %24lang[%27vm_tools_version%27]
+msgid "VmTool Version"
+msgstr ""
+
+#: %24lang[%27vm_recent_task%27]
+msgid "VM Recent Task"
+msgstr ""
+
+#: %24lang[%27vm_guest_disk_space%27]
+msgid "Guest Disk Space"
+msgstr ""
+
+#: %24lang[%27vm_system_uptime%27]
+msgid "System uptime"
+msgstr ""
+
+#: %24lang[%27vm_back_to_service%27]
+msgid "Back to service"
+msgstr ""
+
+#: %24lang[%27vm_tab_access%27]
+msgid ""
+"Clientarea Tabs Access Management (if you want to hide the some clientarea "
+"tab access for this user service, just tick the given below options)"
+msgstr ""
+
+#: %24lang[%27vm_host%27]
+msgid "Host"
+msgstr ""
+
+#: %24lang[%27vm_state%27]
+msgid "State"
+msgstr ""
+
+#: %24lang[%27vm_mounted%27]
+msgid "Mounted"
+msgstr ""
+
+#: %24lang[%27vm_path_name%27]
+msgid "VM Path Name"
+msgstr ""
+
+#: %24lang[%27vm_memory_size%27]
+msgid "Memory Size MB"
+msgstr ""
+
+#: %24lang[%27vm_number_cpu%27]
+msgid "Number Of CPU's"
+msgstr ""
+
+#: %24lang[%27vm_number_ip%27]
+msgid "Number Of IP's"
+msgstr ""
+
+#: %24lang[%27vm_guest_full_name%27]
+msgid "Guest Full Name"
+msgstr ""
+
+#: %24lang[%27vm_details%27]
+msgid "Details"
+msgstr ""
+
+#: %24lang[%27vm_action%27]
+msgctxt "$lang['vm_action']"
+msgid "Action"
+msgstr ""
+
+#: %24lang[%27vm_daily_usage%27]
+msgid "Daily Usage"
+msgstr ""
+
+#: %24lang[%27vm_monthly_usage%27]
+msgid "Monthly Usage"
+msgstr ""
+
+#: %24lang[%27vm_disks%27]
+msgid "Disks"
+msgstr ""
+
+#: %24lang[%27vm_memory_size%27]
+msgid "Memory"
+msgstr ""
+
+#: %24lang[%27vm_upgrade%27]
+msgid "Upgrade VM Tool"
+msgstr ""
+
+#: %24lang[%27vm_disk%27]
+msgid "Disk"
+msgstr ""
+
+#: %24lang[%27vm_disk_path%27]
+msgid "Disk Path"
+msgstr ""
+
+#: %24lang[%27vm_capacity%27]
+msgid "Capacity"
+msgstr ""
+
+#: %24lang[%27vm_freespace%27]
+msgid "Free Space"
+msgstr ""
+
+#: %24lang[%27vm_no_disk_found%27]
+msgid "No disk found!"
+msgstr ""
+
+#: %24lang[%27vm_total%27]
+msgid "Total"
+msgstr ""
+
+#: %24lang[%27vm_guest_os%27]
+msgctxt "$lang['vm_guest_os']"
+msgid "Guest OS Family"
+msgstr ""
+
+#: %24lang[%27vm_os_version%27]
+msgctxt "$lang['vm_os_version']"
+msgid "Guest OS Version"
+msgstr ""
+
+#: %24lang[%27vm_datacenter%27]
+msgid "Datacenter Name"
+msgstr ""
+
+#: %24lang[%27vm_install_vm%27]
+msgid "Install VMware"
+msgstr ""
+
+#: %24lang[%27vm_console%27]
+msgid "Console"
+msgstr ""
+
+#: %24lang[%27vm_vmrc%27]
+msgid "Launch Remote Console"
+msgstr ""
+
+#: %24lang[%27vm_vmrc_desc%27]
+msgid ""
+"If VMRC (Remote Console) is not installed on your system, you can download "
+"it from here"
+msgstr ""
+
+#: %24lang[%27vm_click_here%27]
+msgid "Click Here"
+msgstr ""
+
+#: %24lang[%27vm_html5%27]
+msgid "Launch HTML5 Console"
+msgstr ""
+
+#: %24lang[%27vm_deail%27]
+msgid "Server Detail"
+msgstr ""
+
+#: %24lang[%27vm_defaultnw%27]
+msgctxt "$lang['vm_defaultnw']"
+msgid "Network Detail"
+msgstr ""
+
+#: %24lang[%27vm_additional%27]
+msgid "Additional IP's List"
+msgstr ""
+
+#: %24lang[%27vm_viewnetwork%27]
+msgctxt "$lang['vm_viewnetwork']"
+msgid "Network Detail"
+msgstr ""
+
+#: %24lang[%27vm_viewnetworkip%27]
+msgid "IP"
+msgstr ""
+
+#: %24lang[%27vm_viewnetworkdns%27]
+msgctxt "$lang['vm_viewnetworkdns']"
+msgid "DNS"
+msgstr ""
+
+#: %24lang[%27vm_viewnetworkgateway%27]
+msgctxt "$lang['vm_viewnetworkgateway']"
+msgid "Gateway"
+msgstr ""
+
+#: %24lang[%27vm_viewnetworknetmask%27]
+msgctxt "$lang['vm_viewnetworknetmask']"
+msgid "Netmask"
+msgstr ""
+
+#: %24lang[%27vm_viewnetworknetmacaddress%27]
+msgctxt "$lang['vm_viewnetworknetmacaddress']"
+msgid "Mac Address"
+msgstr ""
+
+#: %24lang[%27vm_iso_file%27]
+msgid "Select ISO file"
+msgstr ""
+
+#: %24lang[%27vm_next%27]
+msgid "Next"
+msgstr ""
+
+#: %24lang[%27vm_loding%27]
+msgid "Loding...."
+msgstr ""
+
+#: %24lang[%27vm_snapshot_list_not_found%27]
+msgid "Snapshot list is empty."
+msgstr ""
+
+#: %24lang[%27vm_snapshot_list_not_found_on_revert%27]
+msgid ""
+"You could't revert the snapshot, because your VM machine have not any "
+"snapshot yet."
+msgstr ""
+
+#: %24lang[%27vm_snapshot_list_not_found_on_removeall%27]
+msgid ""
+"You could't perform this action, because your VM machine have not any "
+"snapshot list yet."
+msgstr ""
+
+#: %24lang[%27vm_not_found%27]
+msgid "Server name not found"
+msgstr ""
+
+#: %24lang[%27vm_create_text%27]
+msgid ""
+"It can take up to minimum <strong>1 minute</strong> to install the VM server"
+msgstr ""
+
+#: %24lang[%27vm_not_installed%27]
+msgid ""
+"VMRC plugin is not installed or suported with this browser. please refer to "
+"this link <a target=\"_blank\" href=\"https://developercenter.vmware.com/web/"
+"sdk/55/vmrc\">Click Here</a> to download the plugin and installed on with "
+"your system."
+msgstr ""
+
+#: %24lang[%27vm_revert_from_last%27]
+msgid "Revert to latest snapshot"
+msgstr ""
+
+#: %24lang[%27vm_remove_all_sp%27]
+msgid "Remove all"
+msgstr ""
+
+#: %24lang[%27vm_tools%27]
+msgid "VMware Tools"
+msgstr ""
+
+#: %24lang[%27vm_snapshot%27]
+msgid "Snapshot"
+msgstr ""
+
+#: %24lang[%27vm_snapshot_list%27]
+msgid "Snapshot List"
+msgstr ""
+
+#: %24lang[%27vm_rename%27]
+msgid "Rename"
+msgstr ""
+
+#: %24lang[%27vm_remove_multiple_sp%27]
+msgid "Remove Selected"
+msgstr ""
+
+#: %24lang[%27vm_remove_child%27]
+msgid "Remove Child Snapshot"
+msgstr ""
+
+#: %24lang[%27vm_remove_sp%27]
+msgid "Remove Snapshot"
+msgstr ""
+
+#: %24lang[%27vm_revert_sp%27]
+msgid "Revert Snapshot"
+msgstr ""
+
+#: %24lang[%27vm_save%27]
+msgid "Save"
+msgstr ""
+
+#: %24lang[%27vm_snapshot_created_time%27]
+msgid "Create time"
+msgstr ""
+
+#: %24lang[%27vm_create_snapshot%27]
+msgid "Create Snapshot"
+msgstr ""
+
+#: %24lang[%27vm_delete_snapshot%27]
+msgid "Delete Snapshot"
+msgstr ""
+
+#: %24lang[%27vm_snapshot_name%27]
+msgid "Name"
+msgstr ""
+
+#: %24lang[%27vm_snapshot_name_desc%27]
+msgid "Description"
+msgstr ""
+
+#: %24lang[%27vm_data_usage%27]
+msgid "Data Usage"
+msgstr ""
+
+#: %24lang[%27vm_powered%27]
+msgid "Power"
+msgstr ""
+
+#: %24lang[%27vm_powered_on%27]
+msgid "Power On"
+msgstr ""
+
+#: %24lang[%27vm_powered_off%27]
+msgid "Power Off"
+msgstr ""
+
+#: %24lang[%27vm_toolsNotInstalled%27]
+msgid "Not Installed"
+msgstr ""
+
+#: %24lang[%27vm_guesttoolsNotInstalled%27]
+msgid "Guest Tool Not Installed"
+msgstr ""
+
+#: %24lang[%27vm_unmount%27]
+msgid "Unmount"
+msgstr ""
+
+#: %24lang[%27vm_mount%27]
+msgid "Mount"
+msgstr ""
+
+#: %24lang[%27vm_snap_shot_empty%27]
+msgid "Snap shot name is required."
+msgstr ""
+
+#: %24lang[%27vm_snap_shot_desc_empty%27]
+msgid "Snap shot description is required."
+msgstr ""
+
+#: %24lang[%27vm_paused%27]
+msgid "Pause"
+msgstr ""
+
+#: %24lang[%27vm_install_msg%27]
+msgid "Please go to console and install it "
+msgstr ""
+
+#: %24lang[%27vm_soft_reboot%27]
+msgid "Soft Reboot"
+msgstr ""
+
+#: %24lang[%27vm_hard_reboot%27]
+msgid "Hard Reboot"
+msgstr ""
+
+#: %24lang[%27vm_reinstall%27]
+msgid "Reinstall Vm"
+msgstr ""
+
+#: %24lang[%27vm_unpaused%27]
+msgid "Unpause"
+msgstr ""
+
+#: %24lang[%27vm_soft_reboot_warning%27]
+msgid "Vmware tool must be installed on your server."
+msgstr ""
+
+#: %24lang[%27vm_reinstall_warning%27]
+msgid "Your previous data will be lost."
+msgstr ""
+
+#: %24lang[%27vm_reinstall%27]
+msgid "Reinstall"
+msgstr ""
+
+#: %24lang[%27vm_harddiskempty%27]
+msgid "Hard disk not be empty"
+msgstr ""
+
+#: %24lang[%27vm_mount_text%27]
+msgid ""
+"You can mount / unmount your server.<br> It can take up to few seconds to "
+"mount / unmount depending on the operating system installed.<br> Do you want "
+"to proceed?<br>"
+msgstr ""
+
+#: %24lang[%27vm_soft_reboot_text%27]
+msgid ""
+"This will reboot your server.<br> It can take up to few seconds to reboot "
+"depending on the operating system installed.<br> Do you want to proceed?<br>"
+msgstr ""
+
+#: %24lang[%27vm_reinstall_text%27]
+msgid ""
+"In case, if your system has been crashed. You can re-install your server.<br "
+"/>This will re-install your server.<br> It can take up to few minutes to re-"
+"install the server.<br> Do you want to proceed?<br>"
+msgstr ""
+
+#: %24lang[%27vm_soft_reboot_alert_msg%27]
+msgid "Are you sure want to reboot your server?"
+msgstr ""
+
+#: %24lang[%27vm_reinstall_alert_msg%27]
+msgid "Are you sure want to Re-insatll your server?"
+msgstr ""
+
+#: %24lang[%27vm_power_off_alert_msg%27]
+msgid "Are you sure want to power off your server?"
+msgstr ""
+
+#: %24lang[%27vm_pause_alert_msg%27]
+msgid "Are you sure want to pause your server?"
+msgstr ""
+
+#: %24lang[%27vm_upgrade_alert_msg%27]
+msgid "Are you sure want to upgrade your VM tool?"
+msgstr ""
+
+#: %24lang[%27vm_remove_all_snapshot_alert_msg%27]
+msgid "Are you sure want to remove selected snapshot?"
+msgstr ""
+
+#: %24lang[%27vm_reboot_msg%27]
+msgid "Your server has been successfully rebooted."
+msgstr ""
+
+#: %24lang[%27vm_upgrade_tool_msg%27]
+msgid "Your VM tool has been successfully upgraded."
+msgstr ""
+
+#: %24lang[%27vm_power_off_msg%27]
+msgid "Your Vm server has been successfully power off."
+msgstr ""
+
+#: %24lang[%27vm_revert_from_latest_alert_msg%27]
+msgid ""
+"Confirm Revert to latest Snapshot Current state of the virtual machine will "
+"be lost unless it is saved in a snapshot. Revert to latest (most recent) "
+"snapshot?."
+msgstr ""
+
+#: %24lang[%27vm_remove_all_sp_alert_msg%27]
+msgid ""
+"This will consolidate and remove all snapshots for this virtual machine. The "
+"snapshots will be consolidated to a single disk. Do you want to continue?"
+msgstr ""
+
+#: %24lang[%27vm_create_snap_shot_msg%27]
+msgid "Snapshot has been successfully created."
+msgstr ""
+
+#: %24lang[%27vm_rename_snap_shot_msg%27]
+msgid "Snapshot has been successfully updated."
+msgstr ""
+
+#: %24lang[%27vm_revert_latest_snap_shot_msg%27]
+msgid "Snapshot has been successfully reverted to latest snapshot."
+msgstr ""
+
+#: %24lang[%27vm_remove_all_snap_shot_msg%27]
+msgid "All snapshot have been successfully removed from your VM machine."
+msgstr ""
+
+#: %24lang[%27vm_remove_selected_snap_shot_msg%27]
+msgid "Snapshot has been successfully removed from your VM machine."
+msgstr ""
+
+#: %24lang[%27vm_reinstall_msg%27]
+msgid "Your Server has been successfully re-installed."
+msgstr ""
+
+#: %24lang[%27vm_reinstall_msg1%27]
+msgid ""
+"Kindly reset your password. this is temprorary password. Please reload it."
+msgstr ""
+
+#: %24lang[%27vm_reinstall_btn_reload%27]
+msgid "Reload"
+msgstr ""
+
+#: %24lang[%27vm_install_vm_msg%27]
+msgid "Your Vmware server has been successfully created."
+msgstr ""
+
+#: %24lang[%27vm_pause_msg%27]
+msgid "Your Vm server has been successfully paused."
+msgstr ""
+
+#: %24lang[%27vm_unpause_msg%27]
+msgctxt "$lang['vm_unpause_msg']"
+msgid "Your Vm server has been successfully unpaused."
+msgstr ""
+
+#: %24lang[%27vm_unpaused_msg%27]
+msgctxt "$lang['vm_unpaused_msg']"
+msgid "Your Vm server has been successfully unpaused."
+msgstr ""
+
+#: %24lang[%27vm_power_on_msg%27]
+msgid "Your Vm server has been successfully power on."
+msgstr ""
+
+#: %24lang[%27vm_mount_on_msg%27]
+msgid "Your Vm server has been successfully mounted."
+msgstr ""
+
+#: %24lang[%27vm_unmount_on_msg%27]
+msgid "Your Vm server has been successfully unmounted."
+msgstr ""
+
+#: %24lang[%27vm_power_text%27]
+msgid ""
+"You can power on / power off your server.<br> It can take up to few seconds "
+"to power on / power off depending on the operating system installed.<br> Do "
+"you want to proceed?<br>"
+msgstr ""
+
+#: %24lang[%27vm_upgrade_text%27]
+msgid ""
+"You can upgrade your VM tool.<br> It can take up to few seconds to upgrade "
+"VM tool depending on the operating system installed.<br> Do you want to "
+"proceed?<br>"
+msgstr ""
+
+#: %24lang[%27vm_pause_text%27]
+msgid ""
+"You can paused / unpaused your server.<br> It can take up to few seconds to  "
+"paused / unpaused depending on the operating system installed.<br> Do you "
+"want to proceed?<br>"
+msgstr ""
+
+#: %24lang[%27vm_craete_sanpshot_text%27]
+msgid ""
+"You can create snap shot.<br> It can take up to few seconds to create "
+"snapshot depending on the operating system installed.<br> Do you want to "
+"proceed?<br>"
+msgstr ""
+
+#: %24lang[%27vm_migrate%27]
+msgctxt "$lang['vm_migrate']"
+msgid "Migrate Vm"
+msgstr ""
+
+#: %24lang[%27vm_migrate_text%27]
+msgid ""
+"You can migrate your Vm from one host to another host.<br/>Please submit a "
+"request to admin for migration.<br/>Do you want to proceed?"
+msgstr ""
+
+#: %24lang[%27vm_migrate_send_req%27]
+msgid "Send Request"
+msgstr ""
+
+#: %24lang[%27vm_migrate_select_host%27]
+msgid "Select Host"
+msgstr ""
+
+#: %24lang[%27vm_migrate_alert_msg%27]
+msgid "Are you sure want to migrate the host?"
+msgstr ""
+
+#: %24lang[%27vm_migrate_success_msg%27]
+msgid ""
+"Your server migration request successfully submitted. please wait for admin "
+"approval"
+msgstr ""
+
+#: %24lang[%27vm_migrate_alrdy_sent_msg%27]
+msgid ""
+"You have already submitted the migration request, Please wait for admin "
+"approval or contact to support."
+msgstr ""
+
+#: %24lang[%27clonevmnotfound%27]
+msgid "Clone Vm not found. Please contact with support"
+msgstr ""
+
+#: %24lang[%27vm_migrate_select_dc%27]
+msgid "Select Datacenter"
+msgstr ""
+
+#: %24lang[%27vm_memory_usage%27]
+msgid "Memory Allocation"
+msgstr ""
+
+#: %24lang[%27vm_cpu_usage%27]
+msgid "CPU Allocation"
+msgstr ""
+
+#: %24lang[%27vm_snapshot_limit_exceed%27]
+msgid "You have reached your maximum limit of snapshots allowed!"
+msgstr ""
+
+#. ######################## Vmware Email lang variable #############################
+#: %24lang[%27vm_email_servername%27]
+msgctxt "$lang['vm_email_servername']"
+msgid "Server Name"
+msgstr ""
+
+#: %24lang[%27vm_email_systempw%27]
+msgctxt "$lang['vm_email_systempw']"
+msgid "System Password"
+msgstr ""
+
+#: %24lang[%27vm_email_additionaliptext%27]
+msgid "Additional IP and network detail as given below"
+msgstr ""
+
+#: %24lang[%27vm_email_configtext%27]
+msgid "You can you this detail to configure the network with your server."
+msgstr ""
+
+#: %24lang[%27vm_email_repw%27]
+msgid "Kindly reset your VM password. this is temporary password."
+msgstr ""
+
+#: %24lang[%27vm_email_ram%27]
+msgid "RAM"
+msgstr ""
+
+#: %24lang[%27vm_email_cpu%27]
+msgid "CPU's"
+msgstr ""
+
+#: %24lang[%27vm_email_hdd%27]
+msgid "HDD"
+msgstr ""
+
+#: %24lang[%27vm_networkdetail%27]
+msgid "Network detail as given below"
+msgstr ""
+
+#. # Migrate Admin email conetnt
+#: %24lang[%27vm_admin_migrate_msg%27]
+msgid "This client want to migrate his/her server. from "
+msgstr ""
+
+#: %24lang[%27vm_admin_migrate_to%27]
+msgid "to "
+msgstr ""

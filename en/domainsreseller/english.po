@@ -1,0 +1,1339 @@
+#. extracted from domainsreseller/english.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-28 21:28+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.3.0\n"
+
+#. // api messages
+#: %24LANG[%27formErrorEmptyField%27]
+msgid "Field \":value\" cannot be empty"
+msgstr ""
+
+#: %24LANG[%27formErrorTooLong%27]
+msgid "Value \":value\" is too long"
+msgstr ""
+
+#: %24LANG[%27formErrorTooShort%27]
+msgid "Value \":value\" :value is too short"
+msgstr ""
+
+#: %24LANG[%27formErrorNotPossible%27]
+msgid "Value \":value\" is not possible for this field"
+msgstr ""
+
+#: %24LANG[%27formErrorWrongFormat%27]
+msgid "Value \":value\" has wrong format"
+msgstr ""
+
+#: %24LANG[%27formErrorNotNumber%27]
+msgid "Value \":value\" is not a number"
+msgstr ""
+
+#: %24LANG[%27formErrorOutOfRange%27]
+msgid "Value \":value\" is out of possible range"
+msgstr ""
+
+#: %24LANG[%27formErrorWrongEmailFormat%27]
+msgid "This is not valid e-mail address: \":value\""
+msgstr ""
+
+#: %24LANG[%27formErrorNotEqual%27]
+msgid "Values are not equal"
+msgstr ""
+
+#: %24LANG[%27formErrorWrongExt%27]
+msgid "File has wrong extension"
+msgstr ""
+
+#. //Menu
+#: %24LANG[%27m_main%27]
+msgid "API"
+msgstr ""
+
+#: %24LANG[%27m_APIUsers%27]
+msgid "API Users"
+msgstr ""
+
+#: %24LANG[%27m_APILogs%27]
+msgid "API Logs"
+msgstr ""
+
+#: %24LANG[%27m_moduleGenerator%27]
+msgid "Module Generator"
+msgstr ""
+
+#: %24LANG[%27m_responseTemplates%27]
+msgid "Response Templates"
+msgstr ""
+
+#: %24LANG[%27m_configuration%27]
+msgid "Configuration"
+msgstr ""
+
+#. //API Logs
+#: %24LANG[%27api_logs%27][%27showFilters%27]
+msgctxt "$LANG['api_logs']['showFilters']"
+msgid "Show Filters"
+msgstr ""
+
+#: %24LANG[%27api_logs%27][%27clearLogs%27]
+msgid "Clear Logs"
+msgstr ""
+
+#: %24LANG[%27api_logs%27][%27clientID%27]
+msgid "Client ID"
+msgstr ""
+
+#: %24LANG[%27api_logs%27][%27orderID%27]
+msgid "Order ID"
+msgstr ""
+
+#: %24LANG[%27api_logs%27][%27success%27]
+msgid "Success"
+msgstr ""
+
+#: %24LANG[%27api_logs%27][%27result%27]
+msgid "Result"
+msgstr ""
+
+#: %24LANG[%27api_logs%27][%27filter%27]
+msgctxt "$LANG['api_logs']['filter']"
+msgid "Filter"
+msgstr ""
+
+#: %24LANG[%27api_logs%27][%27error%27]
+msgid "Error"
+msgstr ""
+
+#: %24LANG[%27api_logs%27][%27IP%27]
+msgctxt "$LANG['api_logs']['IP']"
+msgid "IP"
+msgstr ""
+
+#: %24LANG[%27api_logs%27][%27actionConfirmation%27]
+msgid "Are you sure to take this action?"
+msgstr ""
+
+#: %24LANG[%27api_logs%27][%27ID%27]
+msgctxt "$LANG['api_logs']['ID']"
+msgid "ID"
+msgstr ""
+
+#: %24LANG[%27api_logs%27][%27date%27]
+msgid "Date"
+msgstr ""
+
+#: %24LANG[%27api_logs%27][%27client%27]
+msgctxt "$LANG['api_logs']['client']"
+msgid "Client"
+msgstr ""
+
+#: %24LANG[%27api_logs%27][%27request%27]
+msgid "Request"
+msgstr ""
+
+#: %24LANG[%27api_logs%27][%27response%27]
+msgid "Response"
+msgstr ""
+
+#: %24LANG[%27api_logs%27][%27noResults%27]
+msgctxt "$LANG['api_logs']['noResults']"
+msgid "Nothing To Display"
+msgstr ""
+
+#: %24LANG[%27api_logs%27][%27selectPage%27]
+msgid "Select Page:"
+msgstr ""
+
+#: %24LANG[%27api_logs%27][%27resetFilter%27]
+msgctxt "$LANG['api_logs']['resetFilter']"
+msgid "Reset Filter"
+msgstr ""
+
+#: %24LANG[%27api_logs%27][%27logsRemoved%27]
+msgid "Logs have been removed"
+msgstr ""
+
+#. //API Promo
+#: %24LANG[%27api_promo%27][%27assignCode%27]
+msgid "Promo Codes Management"
+msgstr ""
+
+#: %24LANG[%27api_promo%27][%27select%27]
+msgid "Select"
+msgstr ""
+
+#: %24LANG[%27api_promo%27][%27promotionCode%27]
+msgid "Promotion Code"
+msgstr ""
+
+#: %24LANG[%27api_promo%27][%27type%27]
+msgctxt "$LANG['api_promo']['type']"
+msgid "Type"
+msgstr ""
+
+#: %24LANG[%27api_promo%27][%27value%27]
+msgid "Value"
+msgstr ""
+
+#: %24LANG[%27api_promo%27][%27recurring%27]
+msgid "Recurring"
+msgstr ""
+
+#: %24LANG[%27api_promo%27][%27uses%27]
+msgid "Uses"
+msgstr ""
+
+#: %24LANG[%27api_promo%27][%27startDate%27]
+msgid "Starting Date"
+msgstr ""
+
+#: %24LANG[%27api_promo%27][%27expiryDate%27]
+msgid "Expiry Date"
+msgstr ""
+
+#: %24LANG[%27api_promo%27][%27none%27]
+msgid "None"
+msgstr ""
+
+#: %24LANG[%27api_promo%27][%27assign%27]
+msgid "Assign"
+msgstr ""
+
+#: %24LANG[%27api_promo%27][%27generateKeyFirst%27]
+msgid "Please generate an API key firstly"
+msgstr ""
+
+#: %24LANG[%27api_promo%27][%27codeAssigned%27]
+msgid "Promo Code has been assigned to user"
+msgstr ""
+
+#: %24LANG[%27api_promo%27][%27choosePromoCode%27]
+msgid "Please choose Promotion Code before you proceed"
+msgstr ""
+
+#. //API Users
+#: %24LANG[%27api_users%27][%27client%27]
+msgctxt "$LANG['api_users']['client']"
+msgid "Client"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27email%27]
+msgid "E-Mail"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27apiKey%27]
+msgctxt "$LANG['api_users']['apiKey']"
+msgid "API Key"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27credit%27]
+msgctxt "$LANG['api_users']['credit']"
+msgid "Credit"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27promoCode%27]
+msgid "Promo Code"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27actions%27]
+msgctxt "$LANG['api_users']['actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27ipRestriction%27]
+msgctxt "$LANG['api_users']['ipRestriction']"
+msgid "IP Restriction"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27assignPromoCode%27]
+msgid "Assign Promo Code"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27generateNewKey%27]
+msgid "Generate New Key"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27save%27]
+msgctxt "$LANG['api_users']['save']"
+msgid "Save"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27close%27]
+msgctxt "$LANG['api_users']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27addField%27]
+msgctxt "$LANG['api_users']['addField']"
+msgid "Add Field"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27listEnabledIP%27]
+msgctxt "$LANG['api_users']['listEnabledIP']"
+msgid "List of enabled IP addresses"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27IP%27]
+msgctxt "$LANG['api_users']['IP']"
+msgid "IP"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27showFilters%27]
+msgctxt "$LANG['api_users']['showFilters']"
+msgid "Show Filters"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27firstname%27]
+msgid "Firstname"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27lastname%27]
+msgid "Lastname"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27assignedKey%27]
+msgid "Assigned Key"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27filter%27]
+msgctxt "$LANG['api_users']['filter']"
+msgid "Filter"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27resetFilter%27]
+msgctxt "$LANG['api_users']['resetFilter']"
+msgid "Reset Filter"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27yes%27]
+msgid "Yes"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27no%27]
+msgid "No"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27enabled%27]
+msgid "enabled"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27disabled%27]
+msgid "disabled"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27enable%27]
+msgid "Enable"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27disable%27]
+msgid "Disable"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27switchMsg1%27]
+msgid "Are you sure to take this action? API will be"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27switchMsg2%27]
+msgid "for this Client."
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27newKeyMsg%27]
+msgid "Are you sure to generate a new key?"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27genAllKeysMsg%27]
+msgid "Are you sure to generate new keys? All previous keys will be changed."
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27enableAPIAllMsg%27]
+msgid "Are you sure you want to enable API for all users?"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27disableAPIAllMsg%27]
+msgid "Are you sure you want to disable API for all user?"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27genAllKeys%27]
+msgid "Generate Keys For All Users"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27enableAPIAll%27]
+msgid "Enable Keys For All Users"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27disableAPIAll%27]
+msgid "Disable Keys For All Users"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27apiRestrictions%27]
+msgid "API Restriction"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27noResults%27]
+msgctxt "$LANG['api_users']['noResults']"
+msgid "Nothing To Display"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27keysGenerated%27]
+msgid "Keys have been generated"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27allKeysEnabled%27]
+msgid "All keys have been enabled"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27allKeysDisabled%27]
+msgid "All keys have been disabled"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27IPAssigned%27]
+msgid "IP addresses have been assigned"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27APIKeyGenerated%27]
+msgid "API Key has been generated for client:"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27APIKey1%27]
+msgid "API Key has been"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27APIKey2%27]
+msgid "for client:"
+msgstr ""
+
+#: %24LANG[%27api_users%27][%27restrictionSaved%27]
+msgid "Changes have been saved"
+msgstr ""
+
+#: %24LANG[%27apiRestrictions%27][%27enableAPIRestriction%27]
+msgid "Enable API Requests Limit"
+msgstr ""
+
+#: %24LANG[%27apiRestrictions%27][%27restrictionInterval%27]
+msgid "Interval"
+msgstr ""
+
+#: %24LANG[%27apiRestrictions%27][%27restrictionValue%27]
+msgid "Requests Number"
+msgstr ""
+
+#: %24LANG[%27apiRestrictions%27][%27minutes%27]
+msgctxt "$LANG['apiRestrictions']['minutes']"
+msgid "Minutes"
+msgstr ""
+
+#: %24LANG[%27apiRestrictions%27][%27hour%27]
+msgctxt "$LANG['apiRestrictions']['hour']"
+msgid "Hour"
+msgstr ""
+
+#: %24LANG[%27apiRestrictions%27][%27hours%27]
+msgctxt "$LANG['apiRestrictions']['hours']"
+msgid "Hours"
+msgstr ""
+
+#: %24LANG[%27apiRestrictions%27][%27day%27]
+msgctxt "$LANG['apiRestrictions']['day']"
+msgid "Day"
+msgstr ""
+
+#: %24LANG[%27apiRestrictions%27][%27days%27]
+msgctxt "$LANG['apiRestrictions']['days']"
+msgid "Days"
+msgstr ""
+
+#: %24LANG[%27listEnabledIP%27]
+msgctxt "$LANG['listEnabledIP']"
+msgid "List of enabled IP addresses"
+msgstr ""
+
+#: %24LANG[%27addField%27]
+msgctxt "$LANG['addField']"
+msgid "Add Field"
+msgstr ""
+
+#: %24LANG[%27close%27]
+msgctxt "$LANG['close']"
+msgid "Close"
+msgstr ""
+
+#: %24LANG[%27save%27]
+msgctxt "$LANG['save']"
+msgid "Save"
+msgstr ""
+
+#: %24LANG[%27ipRestriction%27]
+msgctxt "$LANG['ipRestriction']"
+msgid "IP Restriction"
+msgstr ""
+
+#. //Configuration
+#: %24LANG[%27configuration%27][%27titleConnection%27]
+msgctxt "$LANG['configuration']['titleConnection']"
+msgid "Connection"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27titlePayment%27]
+msgid "Payment"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27titleMiscellaneous%27]
+msgid "Miscellaneous"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27apiStatus%27]
+msgid "API Status"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27enabled%27]
+msgid "Enabled"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27disabled%27]
+msgid "Disabled"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27apiStatusTitle%27]
+msgid "Turn on/off access to API"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27restrictedByIP%27]
+msgid "Restricted By IP Address"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27restrictedByIPTitle%27]
+msgid "Allow only chosen IPs to access API"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27allowedIP%27]
+msgid "Allowed IP Address"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27allowedIPTitle%27]
+msgid "White List of IPs allowed for connection"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27payAfterReg%27]
+msgid "Pay After Registration"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27payAfterRegTitle%27]
+msgid "List of resellers allowed to register domains without credits"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27payAfterOrder%27]
+msgid "Pay After Order"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27payAfterOrderTitle%27]
+msgid "List of resellers allowed to place orders without credits"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27autoDisableAPI%27]
+msgid "Auto Disable API For New Users"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27autoDisableAPITitle%27]
+msgid "If enabled, new users will not have access to API"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27autoGenerateKey%27]
+msgid "Auto Generate API Key For New Users"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27autoGenerateKeyTitle%27]
+msgid "If enabled, API Key will be automatically generated for every new user"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27sslConnection%27]
+msgid "SSL Connection"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27sslConnectionTitle%27]
+msgid "When enabled, URL with 'https' will be used"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27refund%27]
+msgid "Refund"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27refundTitle%27]
+msgid ""
+"Credits Only - In case of any mistakes while registering, Client will be "
+"given a refund in the form of Credits in WHMCS\n"
+"                                                   Create Refund Invoice -  "
+"In case of any mistakes while registering, Client will be given a refund in "
+"the form of Credits in WHMCS, and an Invoice will be created"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27creditsOnly%27]
+msgid "Credits Only"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27refundInvoice%27]
+msgid "Create Refund Invoice"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27lowCredit%27]
+msgid "Low Credit Notification"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27lowCreditTitle%27]
+msgid ""
+"If the amount of credits is low, an informing email will be sent to a Client"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27tlds%27]
+msgid "TLDs Enabled For API"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27save%27]
+msgid "Save Changes"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27changesSaved%27]
+msgid "Your changes have been saved"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27apiRestriction%27]
+msgid "API Request Amount Restriction"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27apiRestrictionInterval%27]
+msgid "API Restriction Interval"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27apiRestrictionValue%27]
+msgid "Max Request Amount"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27apiRestrictionTitle%27]
+msgid ""
+"If enabled, limited numer of API requests will be called in a defined time "
+"interval"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27apiRestrictionIntervalTitle%27]
+msgid ""
+"Select time interval within which a API requests can be sent, not exceeding "
+"maximum defined"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27apiRestrictionValueTitle%27]
+msgid ""
+"Enter maximum number of allowed API requests in previously chosen time "
+"interval"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27minutes%27]
+msgctxt "$LANG['configuration']['minutes']"
+msgid "Minutes"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27hour%27]
+msgctxt "$LANG['configuration']['hour']"
+msgid "Hour"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27hours%27]
+msgctxt "$LANG['configuration']['hours']"
+msgid "Hours"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27day%27]
+msgctxt "$LANG['configuration']['day']"
+msgid "Day"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27days%27]
+msgctxt "$LANG['configuration']['days']"
+msgid "Days"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27useRegistrant%27]
+msgid "Default Registrant"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27useRegistrantTitle%27]
+msgid ""
+"Select default contact that will be used during registration; this option is "
+"applicable only if registrant contact uses client details from WHMCS"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27useRest%27]
+msgid "Default Admin/Tech/Billing"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27useRestTitle%27]
+msgid ""
+"Select default admin that will be used for contact; this option is "
+"applicable only if admin/tech/billing uses admin details from WHMCS"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27admin%27]
+msgid "Admin"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27reseller%27]
+msgid "Reseller"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27enduser%27]
+msgid "End-User"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27editContact%27]
+msgid "Allow End-Users To Edit Contacts"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27registrant%27]
+msgid "Registrant"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27tech%27]
+msgid "Tech"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27billing%27]
+msgid "Billing"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27ipRestrictionClient%27]
+msgid "Allow Resellers To Set IP Restriction"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27ipRestrictionClientLimit%27]
+msgid "IP Adresses Restriction Limit"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27unlimited%27]
+msgid "Unlimited"
+msgstr ""
+
+#: %24LANG[%27configuration%27][%27ipRestrictionClientTooltip%27]
+msgid ""
+"Enable and set a limit, if you want to allow your resellers to define their "
+"own restricted IP addresses."
+msgstr ""
+
+#. //API
+#: %24LANG[%27main%27][%27introduction%27]
+msgid "Introduction"
+msgstr ""
+
+#: %24LANG[%27main%27][%27connection%27]
+msgctxt "$LANG['main']['connection']"
+msgid "Connection"
+msgstr ""
+
+#: %24LANG[%27main%27][%27examples%27]
+msgid "Examples"
+msgstr ""
+
+#: %24LANG[%27main%27][%27knowledgebase%27]
+msgid "Knowledgebase"
+msgstr ""
+
+#: %24LANG[%27main%27][%27introduction1%27]
+msgid ""
+"The Domains Reseller API allows you to interact with our system "
+"programmatically from your own WHMCS."
+msgstr ""
+
+#: %24LANG[%27main%27][%27introduction2%27]
+msgid "Use API to perform following actions:"
+msgstr ""
+
+#: %24LANG[%27main%27][%27register%27]
+msgctxt "$LANG['main']['register']"
+msgid "Register Domain"
+msgstr ""
+
+#: %24LANG[%27main%27][%27transfer%27]
+msgctxt "$LANG['main']['transfer']"
+msgid "Transfer Domain"
+msgstr ""
+
+#: %24LANG[%27main%27][%27renew%27]
+msgctxt "$LANG['main']['renew']"
+msgid "Renew Domain"
+msgstr ""
+
+#: %24LANG[%27main%27][%27release%27]
+msgctxt "$LANG['main']['release']"
+msgid "Release Domain"
+msgstr ""
+
+#: %24LANG[%27main%27][%27delete%27]
+msgid "Delete Domain"
+msgstr ""
+
+#: %24LANG[%27main%27][%27modifyContact%27]
+msgid "Modify Contact Details"
+msgstr ""
+
+#: %24LANG[%27main%27][%27EPPCode%27]
+msgctxt "$LANG['main']['EPPCode']"
+msgid "Get EPP Code"
+msgstr ""
+
+#: %24LANG[%27main%27][%27dns%27]
+msgid "Get/Save DNS Records"
+msgstr ""
+
+#: %24LANG[%27main%27][%27ns%27]
+msgid "Get/Modify Nameservers"
+msgstr ""
+
+#: %24LANG[%27main%27][%27registerNs%27]
+msgctxt "$LANG['main']['registerNs']"
+msgid "Register Nameserver"
+msgstr ""
+
+#: %24LANG[%27main%27][%27modifyNs%27]
+msgctxt "$LANG['main']['modifyNs']"
+msgid "Modify Nameserver"
+msgstr ""
+
+#: %24LANG[%27main%27][%27deleteNs%27]
+msgctxt "$LANG['main']['deleteNs']"
+msgid "Delete Nameserver"
+msgstr ""
+
+#: %24LANG[%27main%27][%27lock%27]
+msgid "Registrar Lock"
+msgstr ""
+
+#: %24LANG[%27main%27][%27forwarding%27]
+msgid "Get/Save Email Forwarding"
+msgstr ""
+
+#: %24LANG[%27main%27][%27IDProtection%27]
+msgid "ID Protection"
+msgstr ""
+
+#: %24LANG[%27main%27][%27cron%27]
+msgid "Domain Cron Synchronization"
+msgstr ""
+
+#: %24LANG[%27main%27][%27connection1%27]
+msgid "Domains Reseller Request/Response Data Format:"
+msgstr ""
+
+#: %24LANG[%27main%27][%27connection2%27]
+msgid "For API Requests, Domains Reseller accepts query parameters."
+msgstr ""
+
+#: %24LANG[%27main%27][%27connection3%27]
+msgid "API response is sent in JSON data format."
+msgstr ""
+
+#: %24LANG[%27main%27][%27connection4%27]
+msgid "Authentication:"
+msgstr ""
+
+#: %24LANG[%27main%27][%27connection5%27]
+msgid "API key and email address are required for authentication."
+msgstr ""
+
+#: %24LANG[%27main%27][%27connection6%27]
+msgid "These details are given by a provider."
+msgstr ""
+
+#: %24LANG[%27main%27][%27connection7%27]
+msgid "API URL:"
+msgstr ""
+
+#: %24LANG[%27main%27][%27examples1%27]
+msgid "Examples:"
+msgstr ""
+
+#: %24LANG[%27main%27][%27examples2%27]
+msgid ""
+"The following examples use the cURL command-line tool to execute API "
+"requests."
+msgstr ""
+
+#: %24LANG[%27main%27][%27examples3%27]
+msgid "Exemplary API Request:"
+msgstr ""
+
+#: %24LANG[%27main%27][%27examples4%27]
+msgid "Exemplary API Response:"
+msgstr ""
+
+#: %24LANG[%27main%27][%27knowledgebase1%27]
+msgid "API Documentation:"
+msgstr ""
+
+#: %24LANG[%27main%27][%27knowledgebase2%27]
+msgid "View"
+msgstr ""
+
+#: %24LANG[%27main%27][%27knowledgebase3%27]
+msgid ""
+"Documentation will be created as Knowledgebase articles in your WHMCS "
+"system. If you have previously created the documentation, it will be not "
+"overwritten but created again. Do you want to proceed?"
+msgstr ""
+
+#: %24LANG[%27main%27][%27knowledgebase4%27]
+msgid "Generate Knowledgebase Docs"
+msgstr ""
+
+#: %24LANG[%27main%27][%27generated%27]
+msgid "Knowledgebase has been generated"
+msgstr ""
+
+#. //Module Generator
+#: %24LANG[%27module_generator%27][%27whmcs%27]
+msgid "WHMCS"
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27hostBill%27]
+msgid "HostBill"
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27moduleName%27]
+msgid "Module Name:"
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27generateModule%27]
+msgid "Generate Module"
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27whmcsInstruction%27]
+msgctxt "$LANG['module_generator']['whmcsInstruction']"
+msgid ""
+"Instructions on the installation of a module that can be provided to "
+"resellers:"
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27whmcsStep1%27]
+msgctxt "$LANG['module_generator']['whmcsStep1']"
+msgid "Download the file."
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27whmcsStep2%27]
+msgid "Upload and extract the module into the main WHMCS directory."
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27whmcsStep3%27]
+msgid ""
+"Go to Setup → Products/Services → Domain Registrars and activate module."
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27whmcsStep4%27]
+msgctxt "$LANG['module_generator']['whmcsStep4']"
+msgid "Set credentials for the API connection."
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27whmcsInfo1%27]
+msgid "Your resellers have to add this code:"
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27whmcsInfo2%27]
+msgid "At the end of"
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27whmcsInfo3%27]
+msgid "file located at"
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27whmcsInfo4%27]
+msgid "Right before sign:"
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27whmcsInfo5%27]
+msgid "Or in:"
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27hbInstruction%27]
+msgctxt "$LANG['module_generator']['hbInstruction']"
+msgid ""
+"Instructions on the installation of a module that can be provided to "
+"resellers:"
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27hbStep1%27]
+msgctxt "$LANG['module_generator']['hbStep1']"
+msgid "Download the file."
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27hbStep2%27]
+msgid "Upload and extract the module into the main HostBill directory."
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27hbStep3%27]
+msgid "Go to Settings → Modules → Domain Modules and activate module."
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27hbStep4%27]
+msgctxt "$LANG['module_generator']['hbStep4']"
+msgid "Set credentials for the API connection."
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27writable1%27]
+msgid "Check permission to module directory:"
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27writable2%27]
+msgid "It must be writable."
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27invalidName%27]
+msgid "Module name is invalid"
+msgstr ""
+
+#: %24LANG[%27module_generator%27][%27success%27]
+msgid "Success: Module generated. Auto download will start in 10sec"
+msgstr ""
+
+#. //Response Templates
+#: %24LANG[%27responses%27][%27id%27]
+msgctxt "$LANG['responses']['id']"
+msgid "ID"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27contains%27]
+msgctxt "$LANG['responses']['contains']"
+msgid "Response Content"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27replace%27]
+msgctxt "$LANG['responses']['replace']"
+msgid "Replace With"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27type%27]
+msgctxt "$LANG['responses']['type']"
+msgid "Type"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27action%27]
+msgctxt "$LANG['responses']['action']"
+msgid "Action"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27priority%27]
+msgctxt "$LANG['responses']['priority']"
+msgid "Priority"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27actions%27]
+msgctxt "$LANG['responses']['actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27edit%27]
+msgid "Edit"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27remove%27]
+msgid "Remove"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27noResults%27]
+msgid "--No Results--"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27add%27]
+msgctxt "$LANG['responses']['add']"
+msgid "Add"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27modalTitle%27]
+msgid "Add Template"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27modalContains%27]
+msgctxt "$LANG['responses']['modalContains']"
+msgid "Response Content"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27modalContainsTitle%27]
+msgid ""
+"Provide the pattern for search and replace in the response depending on the "
+"type here. For \"Text\" type, simply provide some string like \"Error "
+"Response\". For \"Regular Expression\" type, you need to provide a regular "
+"expression which will be replaced, for example if you want to replace any "
+"dollar price in the response provide \"\\$\\d+\\.\\d+\", in this case it "
+"will replace strings like \"$8.25\". If you want to replace any response, "
+"simply type \".+\" here."
+msgstr ""
+
+#: %24LANG[%27responses%27][%27modalReplace%27]
+msgctxt "$LANG['responses']['modalReplace']"
+msgid "Replace With"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27modalReplaceTitle%27]
+msgid ""
+"Any pattern found from the upper field will be replaced with the text "
+"provided here."
+msgstr ""
+
+#: %24LANG[%27responses%27][%27modalPriority%27]
+msgctxt "$LANG['responses']['modalPriority']"
+msgid "Priority"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27modalPriorityTitle%27]
+msgid ""
+"Higher number means higher priority. Please note that only the first "
+"occurrence with the highest priority will be replaced. It means if there are "
+"2 patterns found with priority 20 and 10, only pattern with priority 20 will "
+"be replaced."
+msgstr ""
+
+#: %24LANG[%27responses%27][%27modalType%27]
+msgctxt "$LANG['responses']['modalType']"
+msgid "Type"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27modalTypeTitle%27]
+msgid ""
+"Indicates if provided text in the first field should be treated as a text or "
+"a regular expression while searching for a pattern."
+msgstr ""
+
+#: %24LANG[%27responses%27][%27modalAction%27]
+msgctxt "$LANG['responses']['modalAction']"
+msgid "Action"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27modalActionTitle%27]
+msgid "Specifies upon which action provided patterns are searched for."
+msgstr ""
+
+#: %24LANG[%27responses%27][%27text%27]
+msgid "Text"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27regExp%27]
+msgid "Regular Expression"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27modalClose%27]
+msgctxt "$LANG['responses']['modalClose']"
+msgid "Close"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27modalAdd%27]
+msgctxt "$LANG['responses']['modalAdd']"
+msgid "Add"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27deleteTitle%27]
+msgctxt "$LANG['responses']['deleteTitle']"
+msgid "Delete Template"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27deleteMessage%27]
+msgid "Are you sure you want to delete this template?"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27close%27]
+msgctxt "$LANG['responses']['close']"
+msgid "Close"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27delete%27]
+msgid "Delete"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27editTitle%27]
+msgid "Edit Template"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27save%27]
+msgctxt "$LANG['responses']['save']"
+msgid "Save"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27added%27]
+msgid "Item has been successfully added"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27deleted%27]
+msgid "Item has been successfully deleted"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27edited%27]
+msgid "Item has been successfully edited"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27register%27]
+msgctxt "$LANG['responses']['register']"
+msgid "Register Domain"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27transfer%27]
+msgctxt "$LANG['responses']['transfer']"
+msgid "Transfer Domain"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27renew%27]
+msgctxt "$LANG['responses']['renew']"
+msgid "Renew Domain"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27getNS%27]
+msgid "Get Nameservers"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27saveNS%27]
+msgid "Save Nameservers"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27release%27]
+msgctxt "$LANG['responses']['release']"
+msgid "Release Domain"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27epp%27]
+msgctxt "$LANG['responses']['epp']"
+msgid "Get EPP Code"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27getContact%27]
+msgid "Get Contact Details"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27saveContact%27]
+msgid "Save Contact Details"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27fields%27]
+msgid "Get Domain Fields"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27getLock%27]
+msgid "Get Registrar Lock"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27updateLock%27]
+msgid "Update Registrar Lock"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27sync%27]
+msgid "Sync"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27transferSync%27]
+msgid "Transfer Sync"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27registerNS%27]
+msgctxt "$LANG['responses']['registerNS']"
+msgid "Register Nameserver"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27modifyNS%27]
+msgctxt "$LANG['responses']['modifyNS']"
+msgid "Modify Nameserver"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27deleteNS%27]
+msgctxt "$LANG['responses']['deleteNS']"
+msgid "Delete Nameserver"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27getDNS%27]
+msgid "Get DNS"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27saveDNS%27]
+msgid "Save DNS"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27delete%27]
+msgctxt "$LANG['responses']['delete']"
+msgid "Delete Template"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27getForwarding%27]
+msgid "Get Forwarding"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27saveForwarding%27]
+msgid "Save Forwarding"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27idProtection%27]
+msgid "Toggle ID Protection"
+msgstr ""
+
+#: %24LANG[%27responses%27][%27version%27]
+msgid "Get Version"
+msgstr ""
+
+#. //The rest
+#: %24LANG[%27manage_label%27]
+msgctxt "$LANG['manage_label']"
+msgid "Reseller Registrar Credentials"
+msgstr ""
+
+#: %24LANG[%27api_disabled%27]
+msgid "API key is disabled. Please contact site admin."
+msgstr ""
+
+#: %24LANG[%27api_url%27]
+msgid "API URL"
+msgstr ""
+
+#: %24LANG[%27api_email%27]
+msgid "API E-mail"
+msgstr ""
+
+#: %24LANG[%27api_key%27]
+msgctxt "$LANG['api_key']"
+msgid "API Key"
+msgstr ""
+
+#: %24LANG[%27credit%27]
+msgctxt "$LANG['credit']"
+msgid "Credit"
+msgstr ""
+
+#: %24LANG[%27action%27]
+msgctxt "$LANG['action']"
+msgid "Action"
+msgstr ""
+
+#: %24LANG[%27confirm_generate_key%27]
+msgid "Are you sure to generate new key?"
+msgstr ""
+
+#: %24LANG[%27generate_key%27]
+msgid "Generate Key"
+msgstr ""
+
+#: %24LANG[%27nothing_label%27]
+msgid "Nothing to display, please contact Admin"
+msgstr ""
+
+#: %24LANG[%27show%27]
+msgid "Show"
+msgstr ""
+
+#: %24LANG[%27hide%27]
+msgid "Hide"
+msgstr ""
+
+#. //This lang line is responsible for displaying navbar item name in Client Area
+#: %24LANG[%27navbar_item_name%27]
+msgctxt "$LANG['navbar_item_name']"
+msgid "Reseller Registrar Credentials"
+msgstr ""

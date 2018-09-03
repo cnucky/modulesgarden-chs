@@ -1,0 +1,758 @@
+#. extracted from english.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-08-29 19:28+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.3.0\n"
+
+#. //====================================================================================
+#. //==============================ADMIN AREA============================================
+#. //====================================================================================
+#. //=========================SYNCHRONIZE/SCAN ACCOUNTS==================================
+#: %24_LANG[%22Start+Synchronization%22]
+msgid "Start Synchronization"
+msgstr ""
+
+#: %24_LANG[%22Here+you+can+manually+synchronize+the+accounts+with+any+supported+server.%22]
+msgid ""
+"Here you can manually synchronize the accounts with any supported server."
+msgstr ""
+
+#: %24_LANG[%22Start+with+selecting+a+server,+then+wait+for+the+accounts+to+be+loaded+and+choose+an+action+you+wish+to+perform.%22]
+msgid ""
+"Start with selecting a server, then wait for the accounts to be loaded and "
+"choose an action you wish to perform."
+msgstr ""
+
+#. //==============================IMPORT================================================
+#: %24_LANG[%22Start+Import%22]
+msgid "Start Import"
+msgstr ""
+
+#: %24_LANG[%22Here+you+can+manually+import+the+accounts+from+any+supported+server.%22]
+msgid "Here you can manually import the accounts from any supported server."
+msgstr ""
+
+#: %24_LANG[%22Start+with+selecting+a+server,+then+wait+for+the+accounts+to+be+loaded+and+choose+which+accounts+you+want+to+import.%22]
+msgid ""
+"Start with selecting a server, then wait for the accounts to be loaded and "
+"choose which accounts you want to import."
+msgstr ""
+
+#: %24_LANG[%22Import+Selected%22]
+msgid "Import Selected"
+msgstr ""
+
+#. //==============================EXPORT================================================
+#: %24_LANG[%22Start+Export%22]
+msgid "Start Export"
+msgstr ""
+
+#: %24_LANG[%22Here+you+can+manually+export+the+accounts+to+any+supported+server.%22]
+msgid "Here you can manually export the accounts to any supported server."
+msgstr ""
+
+#: %24_LANG[%22Start+with+selecting+a+server,+then+wait+for+the+accounts+to+be+loaded+and+choose+which+accounts+you+want+to+export.%22]
+msgid ""
+"Start with selecting a server, then wait for the accounts to be loaded and "
+"choose which accounts you want to export."
+msgstr ""
+
+#: %24_LANG[%22Export+Selected+(Create+On+Server)%22]
+msgid "Export Selected (Create On Server)"
+msgstr ""
+
+#. //============================CRON SYNCHRONIZATION====================================
+#: %24_LANG[%22Cron+Synchronization+allows+you+to+enable+automatic+synchronization+between+specified+servers+and+your+WHMCS.+The+only+thing+you+have+to+do+is+set+up+the+servers+which+you+would+like+to+synchronize+and+add+new+cronjob.%22]
+msgid ""
+"Cron Synchronization allows you to enable automatic synchronization between "
+"specified servers and your WHMCS. The only thing you have to do is set up "
+"the servers which you would like to synchronize and add a new cron job."
+msgstr ""
+
+#: %24_LANG[%22Cron+Job+Setup%22]
+msgid "Cron Job Setup"
+msgstr ""
+
+#: %24_LANG[%22In+order+to+make+cron+job+work+properly+add+a+new+line+to+your+cron+tab+file.+You+can+do+this+directly+from+your+server+or+use+server+management+software+(like+cPanel)%22]
+msgid ""
+"In order to make a cron job work properly, add a new line to your cron tab "
+"file. You can do this directly from your server or use the server management "
+"software (like cPanel)"
+msgstr ""
+
+#: %24_LANG[%22A+correct+cron+job+line+should+look+like+the+examples+below:%22]
+msgid "A correct cron job line should look like the examples below:"
+msgstr ""
+
+#: %24_LANG[%22Every+5+minutes:+%22]
+msgid "Every 5 minutes: "
+msgstr ""
+
+#: %24_LANG[%22Daily:+%22]
+msgid "Daily: "
+msgstr ""
+
+#: %24_LANG[%22Create+A+New+Synchronization+Cron+Task%22]
+msgid "Create A New Synchronization Cron Task"
+msgstr ""
+
+#: %24_LANG[%22Create+A+New+Job%22]
+msgid "Create A New Job"
+msgstr ""
+
+#: %24_LANG[%22Current+Tasks+List%22]
+msgid "Current Tasks List"
+msgstr ""
+
+#: %24_LANG[%22Last+Execution+Time%22]
+msgid "Last Execution Time"
+msgstr ""
+
+#: %24_LANG[%22Last+Log+Entry+%22]
+msgid "Last Log Entry "
+msgstr ""
+
+#: %24_LANG[%22Settings%22]
+msgid "Settings"
+msgstr ""
+
+#: %24_LANG[%22Delete+From+Queue%22]
+msgid "Delete From Queue"
+msgstr ""
+
+#: %24_LANG[%22No+Cron+Job+Set%22]
+msgid "No Cron Job Set"
+msgstr ""
+
+#. //==================================PACKAGES==========================================
+#: %24_LANG[%22Package+Dependencies+Configuration%22]
+msgid "Package Dependencies Configuration"
+msgstr ""
+
+#: %24_LANG[%22You+can+manually+set+dependence+between+a+remote+server+and+a+WHMCS+product.+It+means+that+all+the+services+imported+from+the+chosen+remote+server+with+such+a+plan+will+be+automatically+assigned+to+the+selected+WHMCS+product.%22]
+msgid ""
+"You can manually set dependence between a remote server and a WHMCS product. "
+"It means that all the services imported from the chosen remote server with "
+"such a plan will be automatically assigned to the selected WHMCS product."
+msgstr ""
+
+#: %24_LANG[%22Please+Select+A+Server%22]
+msgid "Please Select A Server"
+msgstr ""
+
+#: %24_LANG[%22Processing...%22]
+msgid "Processing..."
+msgstr ""
+
+#: %24_LANG[%22Save+Configuration%22]
+msgid "Save Configuration"
+msgstr ""
+
+#: %24_LANG[%22Save+Dependency%22]
+msgid "Save Dependency"
+msgstr ""
+
+#: %24_LANG[%22Package+Dependencies+List%22]
+msgid "Package Dependencies List"
+msgstr ""
+
+#: %24_LANG[%22Package+On+Remote+Server%22]
+msgid "Package On Remote Server"
+msgstr ""
+
+#: %24_LANG[%22Delete%22]
+msgid "Delete"
+msgstr ""
+
+#. //==================================SCAN ACCOUNTS=====================================
+#: %24_LANG[%22Nameserver+1%22]
+msgid "Nameserver 1"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+2%22]
+msgid "Nameserver 2"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+3%22]
+msgid "Nameserver 3"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+4%22]
+msgid "Nameserver 4"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+5%22]
+msgid "Nameserver 5"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+6%22]
+msgid "Nameserver 6"
+msgstr ""
+
+#: %24_LANG[%22Add+more+name+servers.%22]
+msgid "Add more name servers."
+msgstr ""
+
+#: %24_LANG[%22More%22]
+msgid "More"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+7%22]
+msgid "Nameserver 7"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+8%22]
+msgid "Nameserver 8"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+9%22]
+msgid "Nameserver 9"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+10%22]
+msgid "Nameserver 10"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+11%22]
+msgid "Nameserver 11"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+12%22]
+msgid "Nameserver 12"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+13%22]
+msgid "Nameserver 13"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+14%22]
+msgid "Nameserver 14"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+15%22]
+msgid "Nameserver 15"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+16%22]
+msgid "Nameserver 16"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+17%22]
+msgid "Nameserver 17"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+18%22]
+msgid "Nameserver 18"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+19%22]
+msgid "Nameserver 19"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+20%22]
+msgid "Nameserver 20"
+msgstr ""
+
+#: %24_LANG[%22Nameserver+21%22]
+msgid "Nameserver 21"
+msgstr ""
+
+#: %24_LANG[%22DNS%22]
+msgid "DNS"
+msgstr ""
+
+#. //==================================LOGS==============================================
+#: %24_LANG[%22Title%22]
+msgid "Title"
+msgstr ""
+
+#: %24_LANG[%22Server%22]
+msgid "Server"
+msgstr ""
+
+#: %24_LANG[%22Date%22]
+msgid "Date"
+msgstr ""
+
+#: %24_LANG[%22Synchronized%22]
+msgid "Synchronized"
+msgstr ""
+
+#: %24_LANG[%22Fail%22]
+msgid "Fail"
+msgstr ""
+
+#: %24_LANG[%22Accounts+Created%22]
+msgid "Accounts Created"
+msgstr ""
+
+#: %24_LANG[%22Details%22]
+msgid "Details"
+msgstr ""
+
+#: %24_LANG[%22Delete+Entry%22]
+msgid "Delete Entry"
+msgstr ""
+
+#: %24_LANG[%22+Delete+Selected%22]
+msgid " Delete Selected"
+msgstr ""
+
+#: %24_LANG[%22Delete+All+Entries%22]
+msgid "Delete All Entries"
+msgstr ""
+
+#: %24_LANG[%22No+Logs+Data%22]
+msgid "No Logs Data"
+msgstr ""
+
+#: %24_LANG[%22Description%22]
+msgid "Description"
+msgstr ""
+
+#: %24_LANG[%22Status%22]
+msgid "Status"
+msgstr ""
+
+#: %24_LANG[%22Back+To+List%22]
+msgid "Back To List"
+msgstr ""
+
+#: %24_LANG[%22Server:+%22]
+msgid "Server: "
+msgstr ""
+
+#: %24_LANG[%22Synchronization+Status%22]
+msgid "Synchronization Status"
+msgstr ""
+
+#: %24_LANG[%22Products+Successfully+Synchronized:+%22]
+msgid "Products Successfully Synchronized: "
+msgstr ""
+
+#: %24_LANG[%22Products+Not+Synchronized+Successfully:+%22]
+msgid "Products Not Synchronized Successfully: "
+msgstr ""
+
+#: %24_LANG[%22New+Clients+Accounts+Created:+%22]
+msgid "New Clients Accounts Created: "
+msgstr ""
+
+#. //==========SYNCHRONIZE/IMPORT/EXPORT/SCAN ACCOUNTS/CRON/GENERAL SETTINGS==============
+#: %24_LANG[%22Product+type%22]
+msgid "Product type"
+msgstr ""
+
+#: %24_LANG[%22Default+%22]
+msgid "Default "
+msgstr ""
+
+#: %24_LANG[%22+Imported+Product%22]
+msgid " Imported Product"
+msgstr ""
+
+#: %24_LANG[%22Select+type+of+imported+products%22]
+msgid "Select the type of imported products"
+msgstr ""
+
+#: %24_LANG[%22Reset+Password%22]
+msgid "Reset Password"
+msgstr ""
+
+#: %24_LANG[%22Reset+user+passwords+on+server+when+importing+accounts%22]
+msgid "Reset user passwords on server when importing accounts"
+msgstr ""
+
+#: %24_LANG[%22WHMCS+Welcome+Email%22]
+msgid "WHMCS Welcome Email"
+msgstr ""
+
+#: %24_LANG[%22Send+email+to+new+users+with+the+Client+Area+login+and+password+details%22]
+msgid "Send email to new users with the client area login and password details"
+msgstr ""
+
+#: %24_LANG[%22Hosting+Welcome+Email%22]
+msgid "Hosting Welcome Email"
+msgstr ""
+
+#: %24_LANG[%22Send+email+to+users+with+new+hosting+login+and+password%22]
+msgid "Send email to users with the new hosting login and password"
+msgstr ""
+
+#: %24_LANG[%22Billing+Settings%22]
+msgid "Billing Settings"
+msgstr ""
+
+#: %24_LANG[%22Billing+Details%22]
+msgid "Billing Details"
+msgstr ""
+
+#: %24_LANG[%22Turn+on+the+billing+details+update+(next+due+date,+billing+cycle)%22]
+msgid "Turn on the update of billing details (next due date, billing cycle)"
+msgstr ""
+
+#: %24_LANG[%22Next+Due+Date%22]
+msgid "Next Due Date"
+msgstr ""
+
+#: %24_LANG[%22Number+of+days+from+the+current+date+when+next+due+date+for+payment+is+required%22]
+msgid ""
+"Number of days from the current date when the next due date for the payment "
+"is set"
+msgstr ""
+
+#: %24_LANG[%22Billing+Cycle%22]
+msgid "Billing Cycle"
+msgstr ""
+
+#: %24_LANG[%22Free%22]
+msgid "Free"
+msgstr ""
+
+#: %24_LANG[%22One+Time%22]
+msgid "One Time"
+msgstr ""
+
+#: %24_LANG[%22Monthly%22]
+msgid "Monthly"
+msgstr ""
+
+#: %24_LANG[%22Quarterly%22]
+msgid "Quarterly"
+msgstr ""
+
+#: %24_LANG[%22Semi-Annually%22]
+msgid "Semi-Annually"
+msgstr ""
+
+#: %24_LANG[%22Annually%22]
+msgid "Annually"
+msgstr ""
+
+#: %24_LANG[%22Biennially%22]
+msgid "Biennially"
+msgstr ""
+
+#: %24_LANG[%22Triennially%22]
+msgid "Triennially"
+msgstr ""
+
+#: %24_LANG[%22Default+billing+cycle%22]
+msgid "Default billing cycle"
+msgstr ""
+
+#: %24_LANG[%22Update+Settings%22]
+msgid "Update Settings"
+msgstr ""
+
+#: %24_LANG[%22Please+Select+A+Valid+Server%22]
+msgid "Please Select A Valid Server"
+msgstr ""
+
+#: %24_LANG[%22accounts%22]
+msgid "accounts"
+msgstr ""
+
+#: %24_LANG[%22List+Accounts%22]
+msgid "List Accounts"
+msgstr ""
+
+#: %24_LANG[%22Domain%22]
+msgid "Domain"
+msgstr ""
+
+#: %24_LANG[%22Username%22]
+msgid "Username"
+msgstr ""
+
+#: %24_LANG[%22Email%22]
+msgid "Email"
+msgstr ""
+
+#: %24_LANG[%22Plan%22]
+msgid "Plan"
+msgstr ""
+
+#: %24_LANG[%22IP+Address%22]
+msgid "IP Address"
+msgstr ""
+
+#: %24_LANG[%22Created+At%22]
+msgid "Created At"
+msgstr ""
+
+#: %24_LANG[%22Sync+Status%22]
+msgid "Sync Status"
+msgstr ""
+
+#: %24_LANG[%22Actions%22]
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%22WHMCS+Product%22]
+msgid "WHMCS Product"
+msgstr ""
+
+#: %24_LANG[%22Action+With+Selected:%22]
+msgid "Action With Selected:"
+msgstr ""
+
+#: %24_LANG[%22Synchronize+(will+perform+default+action+for+specified+kind+of+account)%22]
+msgid "Synchronize (will perform default action for specified kind of account)"
+msgstr ""
+
+#: %24_LANG[%22Terminate+On+Server+(only+if+applicable)%22]
+msgid "Terminate On Server (only if applicable)"
+msgstr ""
+
+#: %24_LANG[%22Create+On+Server+(only+if+applicable)%22]
+msgid "Create On Server (only if applicable)"
+msgstr ""
+
+#: %24_LANG[%22Create+In+WHMCS+(only+if+applicable)%22]
+msgid "Create In WHMCS (only if applicable)"
+msgstr ""
+
+#: %24_LANG[%22Terminate+In+WHMCS+(only+if+applicable)%22]
+msgid "Terminate In WHMCS (only if applicable)"
+msgstr ""
+
+#: %24_LANG[%22Terminate+In+WHMCS+And+On+Server+(only+if+applicable)%22]
+msgid "Terminate Both In WHMCS And On Server (only if applicable)"
+msgstr ""
+
+#: %24_LANG[%22Perform+Action%22]
+msgid "Perform Action"
+msgstr ""
+
+#: %24_LANG[%22Synchronized+DNS+Per+Account%22]
+msgid "Synchronized DNS Per Account"
+msgstr ""
+
+#: %24_LANG[%22Minimum+number+of+nameservers+mathing+nameservers+provided+above+to+mark+hosting+as+correct.%22]
+msgid ""
+"Minimum number of nameservers matching nameservers provided above to mark "
+"hosting as correct."
+msgstr ""
+
+#: %24_LANG[%22Default+Settings%22]
+msgid "Default Settings"
+msgstr ""
+
+#: %24_LANG[%22Daily+Cron+Report%22]
+msgid "Daily Cron Report"
+msgstr ""
+
+#: %24_LANG[%22Send+email+to+admin+with+current+synchronization+status%22]
+msgid "Send email with current synchronization status to the administrator"
+msgstr ""
+
+#: %24_LANG[%22Synchronized+Accounts+Per+Server%22]
+msgid "Synchronized Accounts Per Server"
+msgstr ""
+
+#: %24_LANG[%22Maximum+number+of+synchronized+accounts+for+server+per+cron+job.+Set+0+to+unlimited+synchronization%22]
+msgid ""
+"Maximum number of synchronized accounts for server per cron job. Set 0 to "
+"unlimited synchronization"
+msgstr ""
+
+#: %24_LANG[%22DNS+Settings%22]
+msgid "DNS Settings"
+msgstr ""
+
+#: %24_LANG[%22Nameserver%22]
+msgid "Nameserver"
+msgstr ""
+
+#: %24_LANG[%22Add+More+Fields%22]
+msgid "Add More Fields"
+msgstr ""
+
+#: %24_LANG[%22Cron+Terminate+On+Server%22]
+msgid "Cron Termination On Server"
+msgstr ""
+
+#: %24_LANG[%22Cron+Terminate+In+WHMCS+%22]
+msgid "Cron Termination In WHMCS "
+msgstr ""
+
+#: %24_LANG[%22%22]
+msgctxt "$_LANG[\"\"]"
+msgid ""
+msgstr ""
+
+#: %24_LANG[%22Node+Type%22]
+msgid "Node Type"
+msgstr ""
+
+#: %24_LANG[%22Node+type+setting+when+creating+account+on+server%22]
+msgid "Node type setting when creating an account on server"
+msgstr ""
+
+#: %24_LANG[%22Synchronization+Settings%22]
+msgid "Synchronization Settings"
+msgstr ""
+
+#: %24_LANG[%22Cron+Settings%22]
+msgid "Cron Settings"
+msgstr ""
+
+#: %24_LANG[%22Action%22]
+msgid "Action"
+msgstr ""
+
+#: %24_LANG[%22Synchronize%22]
+msgid "Synchronize"
+msgstr ""
+
+#: %24_LANG[%22Export%22]
+msgid "Export"
+msgstr ""
+
+#: %24_LANG[%22Import%22]
+msgid "Import"
+msgstr ""
+
+#: %24_LANG[%22Name+Servers+Scan%22]
+msgid "Name Servers Scan"
+msgstr ""
+
+#: %24_LANG[%22Choose+action+for+cron+task%22]
+msgid "Choose the action for a cron task"
+msgstr ""
+
+#: %24_LANG[%22Synchronization%22]
+msgid "Synchronization"
+msgstr ""
+
+#: %24_LANG[%22Terminate+In+WHMCS%22]
+msgid "Terminate In WHMCS"
+msgstr ""
+
+#: %24_LANG[%22Terminate+On+Server%22]
+msgid "Terminate On Server"
+msgstr ""
+
+#: %24_LANG[%22Terminate+In+WHMCS+%22]
+msgid "Terminate In WHMCS "
+msgstr ""
+
+#. //==================================OLD SETTINGS======================================
+#: %24_LANG[%22Server+Settings%22]
+msgid "Server Settings"
+msgstr ""
+
+#: %24_LANG[%22Server+Hostname+(or+IP)%22]
+msgid "Server Hostname (or IP)"
+msgstr ""
+
+#: %24_LANG[%22localhost%22]
+msgid "localhost"
+msgstr ""
+
+#: %24_LANG[%22Port%22]
+msgid "Port"
+msgstr ""
+
+#: %24_LANG[%225038%22]
+msgid "5038"
+msgstr ""
+
+#: %24_LANG[%22root%22]
+msgid "root"
+msgstr ""
+
+#: %24_LANG[%22Password%22]
+msgid "Password"
+msgstr ""
+
+#: %24_LANG[%22password%22]
+msgid "password"
+msgstr ""
+
+#: %24_LANG[%22Protocol%22]
+msgid "Protocol"
+msgstr ""
+
+#: %24_LANG[%22tcp://%22]
+msgid "tcp://"
+msgstr ""
+
+#: %24_LANG[%22Base+Settings%22]
+msgid "Base Settings"
+msgstr ""
+
+#: %24_LANG[%22Checking+Frequency%22]
+msgid "Checking Frequency"
+msgstr ""
+
+#: %24_LANG[%2230%22]
+msgid "30"
+msgstr ""
+
+#: %24_LANG[%22seconds%22]
+msgid "seconds"
+msgstr ""
+
+#: %24_LANG[%22Phone+Custom+Field+ID%22]
+msgid "Phone Custom Field ID"
+msgstr ""
+
+#: %24_LANG[%221%22]
+msgid "1"
+msgstr ""
+
+#: %24_LANG[%22Call+Logs+per+Site%22]
+msgid "Call Logs per Site"
+msgstr ""
+
+#: %24_LANG[%2225%22]
+msgid "25"
+msgstr ""
+
+#: %24_LANG[%22By+default+it+is+set+to+25%22]
+msgid "By default it is set to 25"
+msgstr ""
+
+#: %24_LANG[%22ACL%22]
+msgid "ACL"
+msgstr ""
+
+#: %24_LANG[%22ID+of+Staff+Roles+that+will+be+able+to+see+this+page,+separated+by+coma.%22]
+msgid ""
+"ID of staff roles that will be able to see this page, separated by coma."
+msgstr ""
+
+#: %24_LANG[%22Please+note,+that+if+you+will+delete+your+ID+from+this+list+and+you+are+not+Full+Administrator,+you+wont+be+able+to+see+this+page+any+more.%22]
+msgid ""
+"Please note that if you delete your ID from this list and you are not the "
+"full administrator, you will not be able to see this page any longer."
+msgstr ""
+
+#: %24_LANG[%22ID+of+Staff+Roles+that+will+be+able+to+playback+call+records,+separated+by+coma.%22]
+msgid ""
+"ID of staff roles that will be able to playback call records, separated by "
+"coma."
+msgstr ""
+
+#: %24_LANG[%22Templates%22]
+msgid "Templates"
+msgstr ""
+
+#: %24_LANG[%22Call+In+Popup+Template%22]
+msgid "Call In The Popup Template"
+msgstr ""
+
+#: %24_LANG[%22Call+Out+Popup+Template%22]
+msgid "Call Out The Popup Template"
+msgstr ""
