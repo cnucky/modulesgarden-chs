@@ -1,5 +1,113 @@
 <?php
 
+$_LANG['token']                  = ', Error Token:';
+$_LANG['generalError']           = 'A problem with the module has occurred. Check the logs and contact the administrator';
+$_LANG['generalErrorClientArea'] = 'A problem with the module has occurred. Contact the administrator';
+$_LANG['permissionsStorage']     = ':storage_path: settings are not sufficient. Please change permissions to the value 777.';
+$_LANG['undefinedAction']        = 'Undefined Action';
+$_LANG['changesHasBeenSaved']    = 'Changes have been saved successfully';
+$_LANG['Monthly']                = 'Monthly';
+$_LANG['Free Account']           = 'Free Account';
+$_LANG['Passwords']              = 'Passwords';
+$_LANG['labelAddedSuccesfully']  = 'The label has been added successfully';
+$_LANG['Nothing to display']     = 'There is nothing to display';
+$_LANG['Search']                 = 'Search';
+$_LANG['Previous']               = 'Previous';
+$_LANG['Next']                   = 'Next';
+$_LANG['searchPlacecholder']     = 'Search...';
+
+$_LANG['noDataAvalible']                 = 'There is no data available';
+$_LANG['validationErrors']['emptyField'] = 'The field cannot be empty';
+$_LANG['bootstrapswitch']['disabled']    = 'Disabled';
+$_LANG['bootstrapswitch']['enabled']     = 'Enabled';
+
+/* * ********************************************************************************************************************
+ *                                                   ADMIN AREA                                                        *
+ * ******************************************************************************************************************** */
+
+$_LANG['addonAA']['datatables']['next']        = 'Next';
+$_LANG['addonAA']['datatables']['previous']    = 'Previous';
+$_LANG['addonAA']['datatables']['zeroRecords'] = 'There is nothing to display yet';
+
+// -------------------------------------------------> MENU <--------------------------------------------------------- //
+$_LANG['addonAA']['pagesLabels']['label']['dashboard']     = 'Dashboard';
+$_LANG['addonAA']['pagesLabels']['label']['features']      = 'Features';
+$_LANG['addonAA']['pagesLabels']['label']['documentation'] = 'Documentation';
+
+$_LANG['addonAA']['features']['mainContainer']['featuresPage']['table']['id'] = 'Id';
+$_LANG['addonAA']['features']['mainContainer']['featuresPage']['table']['fullname']     = 'Product';
+$_LANG['addonAA']['features']['mainContainer']['featuresPage']['table']['installer_type']   = 'Auto Installer';
+$_LANG['addonAA']['features']['mainContainer']['featuresPage']['table']['skin']             = 'Template';
+$_LANG['addonAA']['features']['mainContainer']['featuresPage']['table']['enabled_features'] = 'Enabled Features';
+
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['featuresSection']['featuresSection']          = 'Features';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['applicationsSettings'] = 'Applications';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['caTemplateSettings']   = 'Client Area Template';
+
+$_LANG['addonAA']['pagesLabels']['features']['configuration']                                                                                                    = ':productName: Configuration';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['configurationSection']['copyConfigurationButton']['button']['copyConfigurationButton']      = 'Copy Configuration';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['leftSide']['install_app']['install_app']                             = 'Install Applications';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['leftSide']['installer_type']['installer_type']                       = 'Auto Installer';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['leftSide']['order_assign']['order_assign']                           = 'Use Configurable Options';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['leftSide']['appsConfigOpt']['appsConfigOpt']                         = 'Apps / Configurable Options';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['leftSide']['client_install_app']['client_install_app']               = 'Install Tab';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['leftSide']['apps_backups']['apps_backups']                           = 'Backup Tab';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['leftSide']['lang']['lang']                                           = 'Language';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['leftSide']['auto_apps_backups']['auto_apps_backups']                 = 'Enable Auto Update Backups';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['leftSide']['auto_apps_backups_default']['auto_apps_backups_default'] = 'Auto Update Backup Enabled By Default On Order';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['rightSide']['skin']['skin']                                  = 'Templates';
+$_LANG['addonAA']['features']['mainContainer']['featuresPage']['moveToConfigurationPage']['button']['moveToConfigurationPage']                                   = 'Settings';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['leftSide']['install_app']['installAppDescription']                   = 'Allow your clients to install one of over 250 applications instantly on their account. This feature requires Softaculous/Installatron to be installed on your cPanel server.';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['leftSide']['appsConfigOpt']['appsConfigOptDescription']              = 'Select the applications that will be installed automatically for newly created accounts.';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['leftSide']['lang']['languageDescription']                            = "Change the language of your application by typing in its two letter code, such as 'en,' 'pl'.";
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['leftSide']['auto_apps_backups']['autoUpdateBackups']                 = 'Enable clients to toggle automatically created update backups and restore the application from a backup in case its update process fails.';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['leftSide']['auto_apps_backups_default']['defaultOnOrderDescription'] = 'The creation of automatic update backups is enabled by default after the initial provisioning in WHMCS.';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['rightSide']['skin']['templateDescription']                           = "All templates are located in: '/templates/client' of the module directory. You can create a new one by copying the current template under a new name.";
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['baseSubmitButton']['button']['submit']                                                      = 'Save';
+$_LANG['addonAA']['features']['mainContainer']['featuresPage']['massCopyButton']['button']['massCopyButton'] = 'Copy Configuration';
+$_LANG['addonAA']['features']['mainContainer']['featuresPage']['copyButton']['button']['copyButton'] = 'Copy Configuration';
+$_LANG['addonAA']['features']['mainContainer']['featuresPage']['downloadAppsButton']['button']['downloadAppsButton'] = 'Download Applications List';
+$_LANG['addonAA']['dashboard']['mainContainer']['productsPage']['table']['stats']  = 'Accounts';
+
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['featuresSection']['email']['autoresponders']['autoresponders'] = 'Autoresponders';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['leftSide']['autoinstall_on_create']['autoinstall_on_create'] = 'Auto Install On Creation';
+
+// Copy Configuration Modal
+
+$_LANG['addonAA']['features']['copyConfigurationModal']['modal']['copyConfigurationModal'] = 'Copy Configuration';
+$_LANG['addonAA']['features']['copyConfigurationModal']['addForm']['fromProduct']['fromProduct']  = 'From';
+$_LANG['addonAA']['features']['copyConfigurationModal']['baseAcceptButton']['title'] = 'Copy';
+$_LANG['addonAA']['features']['copyConfigurationModal']['baseCancelButton']['title'] = 'Cancel';
+
+$_LANG['configurationHasBeenCopied'] = 'Configuration has been copied successfully';
+$_LANG['addonAA']['dashboard']['serverpage']['button']['loginWhm'] = 'Log in to WHM';
+$_LANG['addonAA']['pagesLabels']['label']['Dashboard']  = 'Dashboard';
+$_LANG['addonAA']['dashboard']['mainContainer']['serversPage']['table']['id']     = 'ID';
+$_LANG['addonAA']['dashboard']['mainContainer']['serversPage']['table']['name']   = 'Name';
+$_LANG['addonAA']['dashboard']['mainContainer']['serversPage']['table']['accounts_count']  = 'Active Accounts';
+$_LANG['addonAA']['dashboard']['mainContainer']['serversPage']['loginToWhm']['button']['loginToWhm']        = 'Log in to WHM';
+$_LANG['addonAA']['dashboard']['mainContainer']['serversPage']['editServer']['button']['editServer']    = 'Edit Server';
+$_LANG['addonAA']['dashboard']['mainContainer']['productsPage']['table']['id']                          = 'ID';
+$_LANG['addonAA']['dashboard']['mainContainer']['productsPage']['table']['groupName']   = 'Group Name';
+$_LANG['addonAA']['dashboard']['mainContainer']['productsPage']['table']['productName'] = 'Product Name';
+$_LANG['addonAA']['dashboard']['mainContainer']['productsPage']['table']['serverType']  = 'Server Type';
+$_LANG['addonAA']['dashboard']['mainContainer']['productsPage']['productsPage'] = 'Products';
+$_LANG['addonAA']['dashboard']['mainContainer']['serversPage']['serversPage']   = 'Servers';
+$_LANG['addonAA']['dashboard']['mainContainer']['serversPage']['table']['type'] = 'Type';
+$_LANG['addonAA']['dashboard']['mainContainer']['productsPage']['editProduct']['button']['editProduct'] = 'Edit Product';
+$_LANG['addonAA']['dashboard']['mainContainer']['productsPage']['upgradeButton']['button']['upgradeButton'] = 'Upgrade Product';
+$_LANG['addonAA']['dashboard']['upgradeModal']['modal']['upgradeModal'] = 'Upgrade Product';
+$_LANG['addonAA']['dashboard']['upgradeModal']['baseAcceptButton']['title'] = 'Confirm';
+$_LANG['addonAA']['dashboard']['upgradeModal']['baseCancelButton']['title'] = 'Cancel';
+$_LANG['addonAA']['dashboard']['upgradeModal']['addForm']['serverGroup']['serverGroup'] = 'Server Group';
+$_LANG['addonAA']['dashboard']['upgradeModal']['warning'] = 'You can easily upgrade the current cPanel product to the cPanel Extended one. Simply choose the new cPanel Extended server group that you want to switch to and confirm the upgrade.';
+
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['rightSide']['product_details_template']['product_details_template'] = 'Product Details Template';
+$_LANG['addonAA']['features']['mainContainer']['configurationPage']['applicationsSection']['rightSide']['pd_shortcuts_frame']['pd_shortcuts_frame']   = 'Frameless Shortcuts Section';
+
+
+
+
 // ---------------------------------------------------- BASIC  ---------------------------------------------------------
 
 $_LANG['noDataAvalible']                                      = 'No data available';

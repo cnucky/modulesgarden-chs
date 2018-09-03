@@ -1,0 +1,347 @@
+#. extracted from productlinker/english.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-04 01:20+0800\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.3.0\n"
+
+#. //Body langs
+#: %24LANG[%27Basic+Relations%27]
+msgid "Basic Relations"
+msgstr ""
+
+#: %24LANG[%27Product+Relations%27]
+msgid "Product Relations"
+msgstr ""
+
+#: %24LANG[%27Existing+Connections%27]
+msgid "Existing Connections"
+msgstr ""
+
+#: %24LANG[%27Error+Logs%27]
+msgid "Error Logs"
+msgstr ""
+
+#: %24LANG[%27Settings%27]
+msgid "Settings"
+msgstr ""
+
+#. //Rest
+#: %24LANG[%27validation_required%27]
+msgid "Field % is required"
+msgstr ""
+
+#: %24LANG[%27validation_date%27]
+msgctxt "$LANG['validation_date']"
+msgid "Incorrect date in %"
+msgstr ""
+
+#: %24LANG[%27validation_datetime%27]
+msgctxt "$LANG['validation_datetime']"
+msgid "Incorrect date in %"
+msgstr ""
+
+#: %24LANG[%27validation_is_int%27]
+msgid "Field % must be integer value"
+msgstr ""
+
+#: %24LANG[%27Toggle+Filters%27]
+msgid "Toggle Filters"
+msgstr ""
+
+#: %24LANG[%27Filter+Results+By:%27]
+msgid "Filter Results By:"
+msgstr ""
+
+#: %24LANG[%27Client+Name%27]
+msgid "Client Name"
+msgstr ""
+
+#: %24LANG[%27Main+Product%27]
+msgid "Main Product"
+msgstr ""
+
+#: %24LANG[%27Select+option...%27]
+msgid "Select option..."
+msgstr ""
+
+#: %24LANG[%27Linked+Product%27]
+msgid "Linked Product"
+msgstr ""
+
+#: %24LANG[%27Domain+Name%27]
+msgid "Domain Name"
+msgstr ""
+
+#: %24LANG[%27Row+Limit%27]
+msgid "Row Limit"
+msgstr ""
+
+#: %24LANG[%27Filter+Results%27]
+msgid "Filter Results"
+msgstr ""
+
+#: %24LANG[%27Clear+Filter%27]
+msgid "Clear Filter"
+msgstr ""
+
+#: %24LANG[%27ID%27]
+msgid "ID"
+msgstr ""
+
+#: %24LANG[%27Client+ID%27]
+msgid "Client ID"
+msgstr ""
+
+#: %24LANG[%27Domain%27]
+msgid "Domain"
+msgstr ""
+
+#: %24LANG[%27Username%27]
+msgid "Username"
+msgstr ""
+
+#: %24LANG[%27Module+Type%27]
+msgid "Module Type"
+msgstr ""
+
+#: %24LANG[%27Actions%27]
+msgid "Actions"
+msgstr ""
+
+#: %24LANG[%27Delete+this+relation%27]
+msgid "Delete this relation"
+msgstr ""
+
+#: %24LANG[%27Found%27]
+msgid "Found"
+msgstr ""
+
+#: %24LANG[%27results%27]
+msgid "results"
+msgstr ""
+
+#: %24LANG[%27Error+String+Contains%27]
+msgid "Error String Contains"
+msgstr ""
+
+#: %24LANG[%27Logging+is+enabled%21%27]
+msgid "Logging is enabled!"
+msgstr ""
+
+#: %24LANG[%27Date%27]
+msgid "Date"
+msgstr ""
+
+#: %24LANG[%27Action%27]
+msgid "Action"
+msgstr ""
+
+#: %24LANG[%27Request+Parameters%27]
+msgid "Request Parameters"
+msgstr ""
+
+#: %24LANG[%27Clean+Response%27]
+msgid "Clean Response"
+msgstr ""
+
+#: %24LANG[%27Parsed+Response%27]
+msgid "Parsed Response"
+msgstr ""
+
+#: %24LANG[%27Please+wait.+Working...%27]
+msgid "Please wait. Working..."
+msgstr ""
+
+#: %24LANG[%27The+following+configuration+allows+you+to+pair+product+addons+and+configurable+options+with+license+products.%27]
+msgid ""
+"The following configuration allows you to pair product addons and "
+"configurable options with license products."
+msgstr ""
+
+#: %24LANG[%27Create+Addon+or+Configurable+Option+Relation%27]
+msgid "Create Addon or Configurable Option Relation"
+msgstr ""
+
+#: %24LANG[%27Type%27]
+msgid "Type"
+msgstr ""
+
+#: %24LANG[%27Product+Addon/Configurable+Option%27]
+msgid "Product Addon/Configurable Option"
+msgstr ""
+
+#: %24LANG[%27Promotion+Code%27]
+msgid "Promotion Code"
+msgstr ""
+
+#: %24LANG[%27Addon%27]
+msgid "Addon"
+msgstr ""
+
+#: %24LANG[%27Configurable+option%27]
+msgid "Configurable option"
+msgstr ""
+
+#: %24LANG[%27Select+addon...%27]
+msgid "Select addon..."
+msgstr ""
+
+#: %24LANG[%27Configurable+option+value%27]
+msgid "Configurable option value"
+msgstr ""
+
+#: %24LANG[%27Select+product...%27]
+msgid "Select product..."
+msgstr ""
+
+#: %24LANG[%27Add+Relation%27]
+msgid "Add Relation"
+msgstr ""
+
+#: %24LANG[%27Existing+Relations%27]
+msgid "Existing Relations"
+msgstr ""
+
+#: %24LANG[%27Configurable+Option%27]
+msgid "Configurable Option"
+msgstr ""
+
+#: %24LANG[%27Save+Changes%27]
+msgid "Save Changes"
+msgstr ""
+
+#: %24LANG[%27Delete%27]
+msgid "Delete"
+msgstr ""
+
+#: %24LANG[%27In+this+section+you+can+create+a+relation+which+will+link+any+of+your+product+with+another+one.%27]
+msgid ""
+"In this section you can create a relation which will link any of your "
+"product with another one."
+msgstr ""
+
+#: %24LANG[%27Create+Product+For+Product+Relation%27]
+msgid "Create Product For Product Relation"
+msgstr ""
+
+#: %24LANG[%27Product%27]
+msgid "Product"
+msgstr ""
+
+#: %24LANG[%27Configurable+Options%27]
+msgid "Configurable Options"
+msgstr ""
+
+#: %24LANG[%27Automatic+Product+Generation%27]
+msgid "Automatic Product Generation"
+msgstr ""
+
+#: %24LANG[%27Promotion+Code+Settings%27]
+msgid "Promotion Code Settings"
+msgstr ""
+
+#: %24LANG[%27Highest+Discount+Available%27]
+msgid "Highest Discount Available"
+msgstr ""
+
+#: %24LANG[%27If+multiple+promo+codes+are+assigned+to+the+order,+use+the+one+giving+the+highest+discount+to+your+clients%27]
+msgid ""
+"If multiple promo codes are assigned to the order, use the one giving the "
+"highest discount to your clients"
+msgstr ""
+
+#: %24LANG[%27Discount+Limit%27]
+msgid "Discount Limit"
+msgstr ""
+
+#: %24LANG[%27Chooses+the+lowest+discount+which+is+still+greater+than+the+value+provided+in+this+field.%27]
+msgid ""
+"The lowest discount is applied, must but greater than the value provided in "
+"this field."
+msgstr ""
+
+#: %24LANG[%27Update+Settings%27]
+msgid "Update Settings"
+msgstr ""
+
+#: %24LANG[%27Relations+have+been+updated+successfully.%27]
+msgid "Relations have been updated successfully."
+msgstr ""
+
+#: %24LANG[%27The+relation+has+been+updated+succesfully.%27]
+msgid "The relation has been updated successfully."
+msgstr ""
+
+#: %24LANG[%27You+cannot+pair+the+two+same+products.%27]
+msgid "You cannot pair the two same products."
+msgstr ""
+
+#: %24LANG[%27Invalid+configuration,+endless+loop+detected.%27]
+msgid "Invalid configuration, endless loop detected."
+msgstr ""
+
+#: %24LANG[%27Invalid+configuration,+please+fill+required+fields.%27]
+msgid "Invalid configuration, please fill required fields."
+msgstr ""
+
+#: %24LANG[%27Please+update+configuration+of+promocode+to+support+chosen+products%27]
+msgid "Please update configuration of promocode to support chosen products"
+msgstr ""
+
+#: %24LANG[%27Settings+updated+successfully%27]
+msgid "Settings updated successfully"
+msgstr ""
+
+#: %24LANG[%27There+are+no+existing+relations+or+connections+yet.+Please%27]
+msgid "There are no existing relations or connections yet. Please"
+msgstr ""
+
+#: %24LANG[%27create%27]
+msgid "create"
+msgstr ""
+
+#: %24LANG[%27one+before+start%27]
+msgid "one before moving further."
+msgstr ""
+
+#: %24LANG[%27There+are+no+existing+connections+yet.%27]
+msgid "There are no existing connections yet."
+msgstr ""
+
+#: %24LANG[%27Swap+Price%27]
+msgid "Swap Price"
+msgstr ""
+
+#: %24LANG[%27None%27]
+msgid "None"
+msgstr ""
+
+#: %24LANG[%27Row+Limit+value+cannot+be+lower+than+0%27]
+msgid "Row Limit value cannot be lower than 0"
+msgstr ""
+
+#: %24LANG[%27will+be+added%27]
+msgid "will be added"
+msgstr ""
+
+#: %24LANG[%27Display+Product+Info%27]
+msgid "Display Product Info"
+msgstr ""
+
+#: %24LANG[%27Unable+to+save+settings.+Some+of+provided+values+are+invalid%27]
+msgid "Unable to save settings. Some of provided values are invalid"
+msgstr ""
+
+#: %24LANG[%27Display+information+in+client%5C%27s+cart+what+products+will+be+added+to+order%27]
+msgid ""
+"Display information in client's cart what products will be added to order"
+msgstr ""
