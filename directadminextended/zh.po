@@ -1,0 +1,524 @@
+#. extracted from english.php
+msgid ""
+msgstr ""
+"Project-Id-Version: Chinese (模块花园汉化)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-10 05:14+0000\n"
+"PO-Revision-Date: 2018-09-10 05:37+0000\n"
+"Last-Translator: Li Mi <xjdzch@126.com>\n"
+"Language-Team: Chinese <https://i18n.misakacloud.cn/projects/"
+"ModulesGarden_CHS/directadminextended/zh/>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: Weblate 3.1.1\n"
+
+#: %24_LANG[%27token%27]
+msgid ", Error Token:"
+msgstr "，错误令牌："
+
+#: %24_LANG[%27generalError%27]
+msgid "Something has gone wrong. Check the logs and contact the administrator"
+msgstr "出了点问题。检查日志并联系管理员"
+
+#: %24_LANG[%27datatables%27][%27next%27]
+msgid "Next"
+msgstr "下一个"
+
+#: %24_LANG[%27datatables%27][%27previous%27]
+msgid "Previous"
+msgstr "以前"
+
+#: %24_LANG[%27datatables%27][%27zeroRecords%27]
+msgid "Nothing to display"
+msgstr "无内容显示"
+
+#: %24_LANG[%27pagesLabels%27][%27functions%27][%27label%27]
+msgctxt "$_LANG['pagesLabels']['functions']['label']"
+msgid "Features"
+msgstr "特征"
+
+#: %24_LANG[%27pagesLabels%27][%27home%27][%27label%27]
+msgid "Dashboard"
+msgstr "仪表板"
+
+#: %24_LANG[%27pagesLabels%27][%27documentation%27][%27label%27]
+msgid "Documentation"
+msgstr "文档"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27group_label%27][%27emails%27]
+msgid "Email"
+msgstr "电子邮件"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27emails%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['emails']"
+msgid "Emails"
+msgstr "电子邮件"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27autoresponders%27]
+msgid "Autoresponders"
+msgstr "自动回复"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27vacation%27]
+msgid "Vacation Messages"
+msgstr "假期消息"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27emailfilters%27]
+msgid "SPAM Filters"
+msgstr "垃圾邮件过滤器"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27mailinglists%27]
+msgid "Mailing Lists"
+msgstr "邮件列表"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27spamassasin%27]
+msgid "Spamassasin Setup"
+msgstr "Spamassasin设置"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27email_forwarding%27]
+msgid "Email Forwarders"
+msgstr "电子邮件转发器"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27group_label%27][%27login%27]
+msgid "One Click Login"
+msgstr "一键登录"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27directadmin_login%27]
+msgid "DirectAdmin"
+msgstr "DirectAdmin"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27webmail_login%27]
+msgid "Webmail"
+msgstr "企业邮局"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27login_phpmyadmin%27]
+msgid "phpMyAdmin"
+msgstr "phpMyAdmin管理"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27group_label%27][%27domains%27]
+msgid "Domains"
+msgstr "域名"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27addon_domains%27]
+msgid "Addon Domains"
+msgstr "添加域名"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27domain_forwarders%27]
+msgid "Site Redirections"
+msgstr "网站重定向"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27subdomains%27]
+msgid "Subdomains"
+msgstr "子域名"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27parked_domains%27]
+msgid "Domains Pointers"
+msgstr "域名指向"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27group_label%27][%27others%27]
+msgid "Others"
+msgstr "其他"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27ftp%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['ftp']"
+msgid "FTP Accounts"
+msgstr "FTP帐户"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27databases%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['databases']"
+msgid "Databases"
+msgstr "数据库"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27cron%27]
+msgid "Cron Jobs"
+msgstr "自动任务"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27ssl%27]
+msgid "SSL Certificates"
+msgstr "SSL证书"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27change_password%27]
+msgid "Change Password"
+msgstr "更改密码"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27apachehandlers%27]
+msgid "Apache Handlers"
+msgstr "Apache处理程序"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27filemanager%27]
+msgid "File Manager"
+msgstr "文件管理器"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27fterrorpagesp%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['fterrorpagesp']"
+msgid "Custom Error Pages"
+msgstr "自定义错误页面"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27stats%27]
+msgid "Site Summary"
+msgstr "网站摘要"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27perl_modules%27]
+msgid "Perl Modules"
+msgstr "Perl模块"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27group_label%27][%27backups%27]
+msgctxt "$_LANG['pages']['functions']['group_label']['backups']"
+msgid "Backups"
+msgstr "备份"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27backups%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['backups']"
+msgid "Backups"
+msgstr "备份"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27recreate%27]
+msgid "Recreate"
+msgstr "重新创建"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27group_label%27][%27account_usage%27]
+msgid "Account Usage"
+msgstr "帐户使用情况"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27usage_disk%27]
+msgid "Disk Space"
+msgstr "磁盘空间"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27usage_bandwidth%27]
+msgid "Bandwidth"
+msgstr "带宽"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27usage_email%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['usage_email']"
+msgid "Emails"
+msgstr "电子邮件"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27usage_ftp%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['usage_ftp']"
+msgid "FTP Accounts"
+msgstr "FTP帐户"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27usage_database%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['usage_database']"
+msgid "Databases"
+msgstr "数据库"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27table_header%27][%27product%27]
+msgid "Product"
+msgstr "产品"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27table_header%27][%27configure%27]
+msgctxt "$_LANG['pages']['functions']['table_header']['configure']"
+msgid "Actions"
+msgstr "操作"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27copy_configuration_from%27]
+msgid "Copy Configuration From"
+msgstr "复制配置来自"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27label%27][%27copy_configuration%27]
+msgid "Copy Configuration"
+msgstr "复制配置"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27button%27][%27copy%27]
+msgid "Copy"
+msgstr "复制"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27button%27][%27features%27]
+msgctxt "$_LANG['pages']['functions']['button']['features']"
+msgid "Features"
+msgstr "特征"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27button%27][%27install_app%27]
+msgid "Applications"
+msgstr "应用"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27button%27][%27save%27]
+msgid "Save"
+msgstr "保存"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27button%27][%27configuration%27]
+msgid "Configuration"
+msgstr "组态"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27button%27][%27back%27]
+msgid "Back"
+msgstr "背部"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27label%27][%27look_and_feel%27]
+msgid "Client Area Template"
+msgstr "客户区模板"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27skin%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['skin']"
+msgid "Template"
+msgstr "模板"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27help%27][%27install_app1%27]
+msgid ""
+"Install apps with Softaculous or Installatron! This great feature will allow "
+"your clients to install one of over 250 applications instantly on their "
+"account! "
+msgstr "使用Softaculous或Installatron安装应用程序！这个强大的功能将允许您的客户立即在他们的帐户上安装250多个应用程序之一！ "
+
+#: %24_LANG[%27pages%27][%27functions%27][%27help%27][%27install_app2%27]
+msgid ""
+"Warning! It requires Softaculous/Installatron to be installed on your "
+"DirectAdmin server. For more info, please visit Softaculous.com or "
+"Installatron.com"
+msgstr ""
+"警告！它需要在DirectAdmin服务器上安装Softaculous / "
+"Installatron。有关详细信息，请访问Softaculous.com或Installatron.com"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27help%27][%27conf_opt%27]
+msgid ""
+"Select the applications that will be installed automatically for newly "
+"created accounts."
+msgstr "选择将为新创建的帐户自动安装的应用程序。"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27help%27][%27lang%27]
+msgid ""
+"Change the language of your application by typing in its two-letter code, "
+"such as 'en,' 'pl'."
+msgstr "通过输入两个字母的代码来更改应用程序的语言，例如'en'，'pl'。"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27info%27][%27save_success%27]
+msgid "Configuration saved"
+msgstr "配置已保存"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27table%27][%27empty%27]
+msgid "There is no DirectAdmin Extended product"
+msgstr "没有DirectAdmin Extended产品"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27table_header%27][%27auto_installer%27]
+msgctxt "$_LANG['pages']['functions']['table_header']['auto_installer']"
+msgid "Auto Installer"
+msgstr "自动安装程序"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27table_header%27][%27template%27]
+msgctxt "$_LANG['pages']['functions']['table_header']['template']"
+msgid "Template"
+msgstr "模板"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27table_header%27][%27enabled_features%27]
+msgctxt "$_LANG['pages']['functions']['table_header']['enabled_features']"
+msgid "Enabled Features"
+msgstr "启用功能"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27table%27][%27enabled_features%27]
+msgctxt "$_LANG['pages']['functions']['table']['enabled_features']"
+msgid "Enabled Features"
+msgstr "启用功能"
+
+#: %24_LANG[%27pages%27][%27home%27][%27panel%27][%27products%27]
+msgid "Products"
+msgstr "制品"
+
+#: %24_LANG[%27pages%27][%27home%27][%27panel%27][%27servers%27]
+msgid "Servers"
+msgstr "服务器"
+
+#: %24_LANG[%27pages%27][%27home%27][%27panel%27][%27and%27]
+msgid "And"
+msgstr "和"
+
+#: %24_LANG[%27pages%27][%27home%27][%27badge%27][%27active%27]
+msgid "Active"
+msgstr "活跃"
+
+#: %24_LANG[%27pages%27][%27home%27][%27badge%27][%27suspended%27]
+msgid "Suspended"
+msgstr "暂停"
+
+#: %24_LANG[%27pages%27][%27home%27][%27badge%27][%27terminated%27]
+msgid "Terminated"
+msgstr "终止"
+
+#: %24_LANG[%27pages%27][%27home%27][%27badge%27][%27active_accounts%27]
+msgid "Active Accounts"
+msgstr "活跃账户"
+
+#: %24_LANG[%27pages%27][%27home%27][%27info%27][%27directadmin_products_migrate%27]
+msgid ""
+"You can easily upgrade these products to DirectAdmin Extended. Click <a href="
+"\"http://www.docs.modulesgarden.com/DirectAdmin_Extended_For_WHMCS#"
+"Management_of_Existing_Products\" style=\"color: red;\">here</a> to check "
+"how to do it."
+msgstr ""
+"您可以轻松地将这些产品升级到DirectAdmin Extended。单击<a href=\"http://www.docs.modulesgarden."
+"com/DirectAdmin_Extended_For_WHMCS#Management_of_Existing_Products\" style=\""
+"color: red;\">此处</a>以查看如何执行此操作。"
+
+#: %24_LANG[%27pages%27][%27home%27][%27label%27][%27product_configuration%27]
+msgid "Product Configuration"
+msgstr "产品配置"
+
+#: %24_LANG[%27pages%27][%27home%27][%27info%27][%27no_product_configured_yet%27]
+msgid "No products configured yet"
+msgstr "尚未配置任何产品"
+
+#: %24_LANG[%27pages%27][%27home%27][%27info%27][%27no_servers_configured_yet%27]
+msgid "No servers configured yet"
+msgstr "尚未配置任何服务器"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27info%27][%27directadmin_templates_location%27]
+msgid ""
+"All templates are located in: '/your_whmcs_path/modules/servers/"
+"directadminExtended/views/client'.\n"
+"You can create a new one by copying the current template under a new name."
+msgstr ""
+"所有模板都位于：'/ your_whmcs_path / modules / servers / directadminExtended / views "
+"/ client'。\n"
+"您可以通过以新名称复制当前模板来创建新模板。"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27help%27][%27download%27]
+msgid "Click here to download the list of applications"
+msgstr "单击此处下载应用程序列表"
+
+#: %24_LANG[%27pages%27][%27home%27][%27info%27][%27directadmin_upgrade_warning%27]
+msgid ""
+"Warning!<br/>It seems the old files have not been deleted properly! Please "
+"make sure that all files located in ':addon_dir:' and ':server_dir:' "
+"directory are removed and only then copy the new files. Note: there is no "
+"need to remove the license.php file."
+msgstr ""
+"警告！<br/>似乎旧文件没有被正确删除！请确保删除位于'：addon_dir：'和'：server_dir：'目录中的所有文件，然后才复制新文件。注意："
+"无需删除license.php文件。"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27label%27][%27ftp_backups_end_points%27]
+msgid "FTP Backups End-Points"
+msgstr "FTP备份端口"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27label%27][%27backup_directory_paths%27]
+msgid "Backup Directory Paths"
+msgstr "备份目录路径"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27none%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['none']"
+msgid "None"
+msgstr "没有"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27errorpages%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['errorpages']"
+msgid "Custom Error Pages"
+msgstr "自定义错误页面"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27install_app%27]
+msgid "Install App"
+msgstr "安装应用程序"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27auto_installer%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['auto_installer']"
+msgid "Auto Installer"
+msgstr "自动安装程序"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27softaculous%27]
+msgid "Softaculous"
+msgstr "Softaculous一键安装网站程序"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27installatron%27]
+msgid "Installatron"
+msgstr "安装"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27assign_to_configurable_options%27]
+msgid "Assign To Configurable Options"
+msgstr "分配给可配置选项"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27apps_configurable_options%27]
+msgid "Apps Configurable Options"
+msgstr "应用程序可配置选项"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27install_button%27]
+msgid "Install Button"
+msgstr "安装按钮"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27backup_button%27]
+msgid "Backup Button"
+msgstr "备份按钮"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27language%27]
+msgid "Language"
+msgstr "语言"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27label%27][%27ftp_backup_end_points%27]
+msgid "FTP Backup End Points"
+msgstr "FTP备份端口"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27end_points_table%27][%27server%27]
+msgid "Server"
+msgstr "服务器"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27end_points_table%27][%27backup_name%27]
+msgid "Backup Name"
+msgstr "备份名称"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27end_points_table%27][%27host%27]
+msgid "Host"
+msgstr "地址"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27end_points_table%27][%27port%27]
+msgid "Port"
+msgstr "端口"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27end_points_table%27][%27user%27]
+msgid "User"
+msgstr "用户"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27end_points_table%27][%27password%27]
+msgid "Password"
+msgstr "密码"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27end_points_table%27][%27path_to_files%27]
+msgid "Path To Files"
+msgstr "文件路径"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27end_points_table%27][%27use_admin_access%27]
+msgid "Use Admin Access"
+msgstr "使用Admin访问"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27end_points_table%27][%27enable_restores%27]
+msgid "Enable Restoring"
+msgstr "启用还原"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27end_points_table%27][%27actions%27]
+msgctxt "$_LANG['pages']['functions']['end_points_table']['actions']"
+msgid "Actions"
+msgstr "操作"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27remove%27]
+msgid "Remove"
+msgstr "移除"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27add%27]
+msgid "Add"
+msgstr "添加"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27end_points_table%27][%27name%27]
+msgid "Name"
+msgstr "名称"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27end_points_table%27][%27path%27]
+msgid "Path"
+msgstr "路径"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27end_points_table%27][%27enable_path%27]
+msgid "Enable Path"
+msgstr "启用路径"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27label%27][%27other%27]
+msgid "Other"
+msgstr "其他"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27webmail_type%27]
+msgid "Webmail Type"
+msgstr "网络邮件类型"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27show_server_ip%27]
+msgid "Show Server IP"
+msgstr "显示服务器IP"
+
+#: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27show_ssl_encrypt%27]
+msgid "Show Let's Encrypt Button"
+msgstr "显示Let's Encrypt 按钮"
