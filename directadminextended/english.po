@@ -4,7 +4,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2018-08-29 21:30+0800\n"
+"POT-Creation-Date: 2018-09-10 14:09+0800\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -47,6 +47,7 @@ msgid "Documentation"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27group_label%27][%27emails%27]
+msgctxt "$_LANG['pages']['functions']['group_label']['emails']"
 msgid "Email"
 msgstr ""
 
@@ -56,18 +57,22 @@ msgid "Emails"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27autoresponders%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['autoresponders']"
 msgid "Autoresponders"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27vacation%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['vacation']"
 msgid "Vacation Messages"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27emailfilters%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['emailfilters']"
 msgid "SPAM Filters"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27mailinglists%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['mailinglists']"
 msgid "Mailing Lists"
 msgstr ""
 
@@ -76,6 +81,7 @@ msgid "Spamassasin Setup"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27email_forwarding%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['email_forwarding']"
 msgid "Email Forwarders"
 msgstr ""
 
@@ -84,30 +90,37 @@ msgid "One Click Login"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27directadmin_login%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['directadmin_login']"
 msgid "DirectAdmin"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27webmail_login%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['webmail_login']"
 msgid "Webmail"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27login_phpmyadmin%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['login_phpmyadmin']"
 msgid "phpMyAdmin"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27group_label%27][%27domains%27]
+msgctxt "$_LANG['pages']['functions']['group_label']['domains']"
 msgid "Domains"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27addon_domains%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['addon_domains']"
 msgid "Addon Domains"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27domain_forwarders%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['domain_forwarders']"
 msgid "Site Redirections"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27subdomains%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['subdomains']"
 msgid "Subdomains"
 msgstr ""
 
@@ -116,6 +129,7 @@ msgid "Domains Pointers"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27group_label%27][%27others%27]
+msgctxt "$_LANG['pages']['functions']['group_label']['others']"
 msgid "Others"
 msgstr ""
 
@@ -130,22 +144,27 @@ msgid "Databases"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27cron%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['cron']"
 msgid "Cron Jobs"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27ssl%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['ssl']"
 msgid "SSL Certificates"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27change_password%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['change_password']"
 msgid "Change Password"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27apachehandlers%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['apachehandlers']"
 msgid "Apache Handlers"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27filemanager%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['filemanager']"
 msgid "File Manager"
 msgstr ""
 
@@ -155,10 +174,12 @@ msgid "Custom Error Pages"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27stats%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['stats']"
 msgid "Site Summary"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27perl_modules%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['perl_modules']"
 msgid "Perl Modules"
 msgstr ""
 
@@ -173,6 +194,7 @@ msgid "Backups"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27recreate%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['recreate']"
 msgid "Recreate"
 msgstr ""
 
@@ -221,6 +243,7 @@ msgid "Copy Configuration"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27button%27][%27copy%27]
+msgctxt "$_LANG['pages']['functions']['button']['copy']"
 msgid "Copy"
 msgstr ""
 
@@ -230,10 +253,12 @@ msgid "Features"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27button%27][%27install_app%27]
+msgctxt "$_LANG['pages']['functions']['button']['install_app']"
 msgid "Applications"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27button%27][%27save%27]
+msgctxt "$_LANG['pages']['functions']['button']['save']"
 msgid "Save"
 msgstr ""
 
@@ -242,6 +267,7 @@ msgid "Configuration"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27button%27][%27back%27]
+msgctxt "$_LANG['pages']['functions']['button']['back']"
 msgid "Back"
 msgstr ""
 
@@ -321,6 +347,7 @@ msgid "And"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27home%27][%27badge%27][%27active%27]
+msgctxt "$_LANG['pages']['home']['badge']['active']"
 msgid "Active"
 msgstr ""
 
@@ -427,6 +454,7 @@ msgid "Backup Button"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27language%27]
+msgctxt "$_LANG['pages']['functions']['option_label']['language']"
 msgid "Language"
 msgstr ""
 
@@ -451,6 +479,7 @@ msgid "Port"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27end_points_table%27][%27user%27]
+msgctxt "$_LANG['pages']['functions']['end_points_table']['user']"
 msgid "User"
 msgstr ""
 
@@ -476,18 +505,22 @@ msgid "Actions"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27remove%27]
+msgctxt "$_LANG['pages']['functions']['remove']"
 msgid "Remove"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27add%27]
+msgctxt "$_LANG['pages']['functions']['add']"
 msgid "Add"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27end_points_table%27][%27name%27]
+msgctxt "$_LANG['pages']['functions']['end_points_table']['name']"
 msgid "Name"
 msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27end_points_table%27][%27path%27]
+msgctxt "$_LANG['pages']['functions']['end_points_table']['path']"
 msgid "Path"
 msgstr ""
 
@@ -509,4 +542,6787 @@ msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27option_label%27][%27show_ssl_encrypt%27]
 msgid "Show Let's Encrypt Button"
+msgstr ""
+
+#: %24_LANG[%27all%27][%27close%27]
+msgid "Close"
+msgstr ""
+
+#: %24_LANG[%27all%27][%27confirm%27]
+msgctxt "$_LANG['all']['confirm']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27all%27][%27delete_confirmation%27]
+msgctxt "$_LANG['all']['delete_confirmation']"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: %24_LANG[%27all%27][%27search_results_empty_js%27]
+msgid "There are no search results, try once again"
+msgstr ""
+
+#: %24_LANG[%27all%27][%27json_parse_error%27]
+msgid "Something went wrong. Please try again later"
+msgstr ""
+
+#: %24_LANG[%27all%27][%27search_placeholder%27]
+msgid "Search..."
+msgstr ""
+
+#: %24_LANG[%27all%27][%27strength%27]
+msgid "Strength"
+msgstr ""
+
+#: %24_LANG[%27all%27][%27save_changes%27]
+msgid "Save Changes"
+msgstr ""
+
+#: %24_LANG[%27all%27][%27save%27]
+msgctxt "$_LANG['all']['save']"
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27all%27][%27delete%27]
+msgctxt "$_LANG['all']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27all%27][%27add%27]
+msgctxt "$_LANG['all']['add']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27all%27][%27edit%27]
+msgctxt "$_LANG['all']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27all%27][%27action%27]
+msgctxt "$_LANG['all']['action']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27jsvalidator%27][%27invalid_domain_name%27]
+msgid "Invalid domain name"
+msgstr ""
+
+#: %24_LANG[%27jsvalidator%27][%27field_required%27]
+msgctxt "$_LANG['jsvalidator']['field_required']"
+msgid "This field is required"
+msgstr ""
+
+#: %24_LANG[%27jsvalidator%27][%27min_5_chars%27]
+msgid "Password must be at least 5 characters long"
+msgstr ""
+
+#: %24_LANG[%27jsvalidator%27][%27field_not_match%27]
+msgid "Whoops, these don't match"
+msgstr ""
+
+#: %24_LANG[%27jsvalidator%27][%27invalid%27]
+msgid "The value of this field is not correct"
+msgstr ""
+
+#: %24_LANG[%27jsvalidator%27][%27very_weak%27]
+msgid "Very Weak"
+msgstr ""
+
+#: %24_LANG[%27jsvalidator%27][%27weak%27]
+msgid "Weak"
+msgstr ""
+
+#: %24_LANG[%27jsvalidator%27][%27adequate%27]
+msgid "Moderate"
+msgstr ""
+
+#: %24_LANG[%27jsvalidator%27][%27pretty_good%27]
+msgid "Good"
+msgstr ""
+
+#: %24_LANG[%27jsvalidator%27][%27excellent%27]
+msgid "Strong"
+msgstr ""
+
+#: %24_LANG[%27jsvalidator%27][%27invalidemail%27]
+msgid "This is not a valid email address"
+msgstr ""
+
+#: %24_LANG[%27jsvalidator%27][%27required%27]
+msgctxt "$_LANG['jsvalidator']['required']"
+msgid "This field is required"
+msgstr ""
+
+#: %24_LANG[%27jsvalidator%27][%27number%27]
+msgid "Value of this field has to be an integer"
+msgstr ""
+
+#: %24_LANG[%27jsvalidator%27][%27same_as%27]
+msgid "Value of this field is different"
+msgstr ""
+
+#: %24_LANG[%27jsvalidator%27][%27minlen%27]
+msgid "This field must be at least :length: characters long"
+msgstr ""
+
+#: %24_LANG[%27jsvalidator%27][%27maxlen%27]
+msgid "This field cannot be longer than :length: characters"
+msgstr ""
+
+#: %24_LANG[%27jsvalidator%27][%27minval%27]
+msgid "Value of this field has to be greater than :number:"
+msgstr ""
+
+#: %24_LANG[%27jsvalidator%27][%27maxval%27]
+msgid "Value of this field cannot be greater than :number:"
+msgstr ""
+
+#. /**************************
+#.  * 
+#.  * MAIN SITE
+#.  * 
+#.  **************************/
+#: %24_LANG[%27mainsite%27][%27main_header%27]
+msgid "Your Account"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27main_header3%27]
+msgid "Email Management"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27main_header4%27]
+msgid "Advanced Features"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27main_header2%27]
+msgid "Log In To"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27menu_main_header%27]
+msgid "Management:"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27menu_back_link%27]
+msgid "Back To Summary"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27ftp_link%27]
+msgctxt "$_LANG['mainsite']['ftp_link']"
+msgid "FTP Accounts"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27emails_link%27]
+msgctxt "$_LANG['mainsite']['emails_link']"
+msgid "Emails"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27emails_forwarders_link%27]
+msgctxt "$_LANG['mainsite']['emails_forwarders_link']"
+msgid "Email Forwarders"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27databases_link%27]
+msgctxt "$_LANG['mainsite']['databases_link']"
+msgid "Databases"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27cron_link%27]
+msgctxt "$_LANG['mainsite']['cron_link']"
+msgid "Cron Jobs"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27subdomains_link%27]
+msgctxt "$_LANG['mainsite']['subdomains_link']"
+msgid "Subdomains"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27addon_domains_link%27]
+msgctxt "$_LANG['mainsite']['addon_domains_link']"
+msgid "Addon Domains"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27parked_domains_link%27]
+msgctxt "$_LANG['mainsite']['parked_domains_link']"
+msgid "Domain Pointers"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27forward_domains_link%27]
+msgctxt "$_LANG['mainsite']['forward_domains_link']"
+msgid "Site Redirections"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27install_app_link%27]
+msgid "Install Applications!"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27clientareadirectadmin_link%27]
+msgctxt "$_LANG['mainsite']['clientareadirectadmin_link']"
+msgid "DirectAdmin"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27parkeddomains_link%27]
+msgctxt "$_LANG['mainsite']['parkeddomains_link']"
+msgid "Domain Pointers"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27clientareawhmlink%27]
+msgid "WHMpanel"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27clientareawebmaillink%27]
+msgctxt "$_LANG['mainsite']['clientareawebmaillink']"
+msgid "Webmail"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27clientareaphpmyadminlink%27]
+msgctxt "$_LANG['mainsite']['clientareaphpmyadminlink']"
+msgid "phpMyAdmin"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27dns_management_link%27]
+msgid "DNS Management"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27backups_link%27]
+msgctxt "$_LANG['mainsite']['backups_link']"
+msgid "Backups"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27ssl_link%27]
+msgctxt "$_LANG['mainsite']['ssl_link']"
+msgid "SSL Certificates"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27perlmodules_link%27]
+msgctxt "$_LANG['mainsite']['perlmodules_link']"
+msgid "Perl Modules"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27no_features%27]
+msgid "No features configured yet"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27autoresponders_link%27]
+msgctxt "$_LANG['mainsite']['autoresponders_link']"
+msgid "Autoresponders"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27vacation_link%27]
+msgctxt "$_LANG['mainsite']['vacation_link']"
+msgid "Vacation Messages"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27apachehandlers_link%27]
+msgctxt "$_LANG['mainsite']['apachehandlers_link']"
+msgid "Apache Handlers"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27emailfilters_link%27]
+msgctxt "$_LANG['mainsite']['emailfilters_link']"
+msgid "SPAM Filters"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27mailinglists_link%27]
+msgctxt "$_LANG['mainsite']['mailinglists_link']"
+msgid "Mailing Lists"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27filemanager_link%27]
+msgctxt "$_LANG['mainsite']['filemanager_link']"
+msgid "File Manager"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27errorpages_link%27]
+msgctxt "$_LANG['mainsite']['errorpages_link']"
+msgid "Custom Error Pages"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27stats_link%27]
+msgctxt "$_LANG['mainsite']['stats_link']"
+msgid "Site Summary"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27spamassasin_link%27]
+msgctxt "$_LANG['mainsite']['spamassasin_link']"
+msgid "Spamassassin Setup"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27managmentTitle%27]
+msgid "Manage Account"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27dedicated_ip%27]
+msgid "Dedicated IP Address"
+msgstr ""
+
+#. /*********************************
+#.  * 
+#.  * FTP MANAGEMENT
+#.  * 
+#.  *********************************/
+#: %24_LANG[%27json%27][%27error1%27]
+msgid "Incorrect data format"
+msgstr ""
+
+#: %24_LANG[%27json%27][%27error2%27]
+msgid "Unknown error. Try again"
+msgstr ""
+
+#. ### CREATE FTP ACCOUNT
+#: %24_LANG[%27ftp%27][%27main_hint%27]
+msgid ""
+"FTP accounts allow you to access your website's files through a protocol "
+"called FTP. You will need a third-party FTP program to access your files. "
+"You can connect to server via FTP by using a previously created account "
+"details."
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27main_header%27]
+msgctxt "$_LANG['ftp']['main_header']"
+msgid "FTP Accounts"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27add_header%27]
+msgid "Add FTP Accounts"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27login_label%27]
+msgid "Login:"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27password_old_label%27]
+msgid "Current Password:"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27password_label%27]
+msgctxt "$_LANG['ftp']['password_label']"
+msgid "Password:"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27password2_label%27]
+msgctxt "$_LANG['ftp']['password2_label']"
+msgid "Password (Again):"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27directory_label%27]
+msgctxt "$_LANG['ftp']['directory_label']"
+msgid "Directory"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27quota_label%27]
+msgctxt "$_LANG['ftp']['quota_label']"
+msgid "Quota:"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27quota_unlimited%27]
+msgctxt "$_LANG['ftp']['quota_unlimited']"
+msgid "Unlimited"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27add_submit_text%27]
+msgid "Create FTP Account"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27add_loader_text%27]
+msgctxt "$_LANG['ftp']['add_loader_text']"
+msgid "Creating..."
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27add_ftp_result_info%27]
+msgctxt "$_LANG['ftp']['add_ftp_result_info']"
+msgid "Account has been created successfully"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27add_ftp_result_error%27]
+msgid "A problem has occurred during the account creation"
+msgstr ""
+
+#. ### EDIT FTP ACCOUNT
+#: %24_LANG[%27ftp%27][%27chg_account_label%27]
+msgctxt "$_LANG['ftp']['chg_account_label']"
+msgid "Account:"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27chg_account_cancel_text%27]
+msgctxt "$_LANG['ftp']['chg_account_cancel_text']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27chg_password_bookmark%27]
+msgctxt "$_LANG['ftp']['chg_password_bookmark']"
+msgid "Change Password"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27chg_password_loader_text%27]
+msgid "Changing account password..."
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27chg_password_info_text%27]
+msgid "Account password changed"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27chg_password_error_text%27]
+msgid "A problem has occurred during the password change: "
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27chg_quota_bookmark%27]
+msgctxt "$_LANG['ftp']['chg_quota_bookmark']"
+msgid "Change Quota"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27chg_quota_submit_text%27]
+msgctxt "$_LANG['ftp']['chg_quota_submit_text']"
+msgid "Change Quota"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27chg_quota_loader_text%27]
+msgid "Changing account quota..."
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27chg_quota_info_text%27]
+msgid "Account quota changed"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27chg_quota_error_text%27]
+msgctxt "$_LANG['ftp']['chg_quota_error_text']"
+msgid "A problem has occurred during the account quota change: "
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27chg_quota_error2_text%27]
+msgid "Account quota cannot be changed"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27del_account_bookmark%27]
+msgctxt "$_LANG['ftp']['del_account_bookmark']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27del_account_label%27]
+msgctxt "$_LANG['ftp']['del_account_label']"
+msgid "Delete account:"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27del_account_submit_text%27]
+msgctxt "$_LANG['ftp']['del_account_submit_text']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27del_files_submit_text%27]
+msgctxt "$_LANG['ftp']['del_files_submit_text']"
+msgid "Delete Account And Files"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27del_account_loader_text%27]
+msgctxt "$_LANG['ftp']['del_account_loader_text']"
+msgid "Deleting..."
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27del_account_info_text%27]
+msgctxt "$_LANG['ftp']['del_account_info_text']"
+msgid "Account deleted"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27del_account_error_text%27]
+msgid "A problem has occurred during the account deletion:"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27del_account_error2_text%27]
+msgctxt "$_LANG['ftp']['del_account_error2_text']"
+msgid "Account cannot be removed"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27valid_login_error1%27]
+msgid "Sorry, the FTP username cannot be longer than 25 characters."
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27valid_login_error2%27]
+msgid "Only letters, numbers, -, and _ are allowed."
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27valid_quota_error1%27]
+msgctxt "$_LANG['ftp']['valid_quota_error1']"
+msgid "Quota has to be a positive integer."
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27valid_directory_error1%27]
+msgctxt "$_LANG['ftp']['valid_directory_error1']"
+msgid ""
+"Directory paths cannot be empty or contain the following characters: \\ ? % *"
+" : | \" < >"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27valid_password_error1%27]
+msgctxt "$_LANG['ftp']['valid_password_error1']"
+msgid "Password cannot be empty."
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27valid_password_error2%27]
+msgctxt "$_LANG['ftp']['valid_password_error2']"
+msgid "Password cannot include spaces."
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27valid_password_error3%27]
+msgctxt "$_LANG['ftp']['valid_password_error3']"
+msgid "Passwords do not match."
+msgstr ""
+
+#. ### SEARCH FTP
+#: %24_LANG[%27ftp%27][%27search_header%27]
+msgctxt "$_LANG['ftp']['search_header']"
+msgid "FTP Accounts"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27search_input_value%27]
+msgctxt "$_LANG['ftp']['search_input_value']"
+msgid "Search Accounts"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27search_submit_text%27]
+msgctxt "$_LANG['ftp']['search_submit_text']"
+msgid "Search Accounts"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27search_select_rows%27]
+msgctxt "$_LANG['ftp']['search_select_rows']"
+msgid "Results per page:"
+msgstr ""
+
+#. ### EDIT FTP TABLE
+#: %24_LANG[%27ftp%27][%27edit_tblhead_login%27]
+msgctxt "$_LANG['ftp']['edit_tblhead_login']"
+msgid "Login"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27edit_tblhead_path%27]
+msgctxt "$_LANG['ftp']['edit_tblhead_path']"
+msgid "Path"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27edit_tblhead_actions%27]
+msgctxt "$_LANG['ftp']['edit_tblhead_actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27search_results_error%27]
+msgctxt "$_LANG['ftp']['search_results_error']"
+msgid "The results cannot be displayed. Try again."
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27search_results_empty%27]
+msgctxt "$_LANG['ftp']['search_results_empty']"
+msgid "No accounts have been found."
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27generate_password%27]
+msgctxt "$_LANG['ftp']['generate_password']"
+msgid "Generate Password"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27domain_label%27]
+msgctxt "$_LANG['ftp']['domain_label']"
+msgid "Domain"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27domain_info_label%27]
+msgid ""
+"FTP account with the root directory in the domain's home directory (one "
+"level up from the public_html)"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27ftp_label%27]
+msgctxt "$_LANG['ftp']['ftp_label']"
+msgid "FTP"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27ftp_info_label%27]
+msgid ""
+"FTP account with the root directory in the domain's public_ftp directory"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27user_label%27]
+msgctxt "$_LANG['ftp']['user_label']"
+msgid "User"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27user_info_label%27]
+msgid ""
+"FTP account with the root directory as the user's name in the public_html "
+"directory"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27custom_label%27]
+msgid "Custom"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27delete_ftp_result_info%27]
+msgid "FTP account has been deleted successfully"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27delete_ftp_result_error%27]
+msgid "A problem has occurred during the account deletion"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27delete_confirmation_title%27]
+msgctxt "$_LANG['ftp']['delete_confirmation_title']"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27delete_confirmation_body%27]
+msgctxt "$_LANG['ftp']['delete_confirmation_body']"
+msgid "Are you sure that you want to remove this item?"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27change_ftp_password_result_info%27]
+msgid "FTP password has been changed "
+msgstr ""
+
+#. /*********************************
+#.  * 
+#.  * EMAILS
+#.  * 
+#.  *********************************/
+#. ### CREATE EMAIL ACCOUNT
+#: %24_LANG[%27emails%27][%27main_header%27]
+msgctxt "$_LANG['emails']['main_header']"
+msgid "Emails"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27main_hint%27]
+msgid ""
+"In this area, you can manage the email accounts associated with your domains."
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27add_header%27]
+msgid "Add Email Accounts"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27email_label%27]
+msgid "Email:"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27password_label%27]
+msgctxt "$_LANG['emails']['password_label']"
+msgid "Password:"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27password2_label%27]
+msgctxt "$_LANG['emails']['password2_label']"
+msgid "Password (Again):"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27quota_label%27]
+msgctxt "$_LANG['emails']['quota_label']"
+msgid "Quota:"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27quota_unlimited%27]
+msgctxt "$_LANG['emails']['quota_unlimited']"
+msgid "Unlimited"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27add_submit_text%27]
+msgid "Create Email Account"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27add_loader_text%27]
+msgctxt "$_LANG['emails']['add_loader_text']"
+msgid "Creating..."
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27add_result_info%27]
+msgctxt "$_LANG['emails']['add_result_info']"
+msgid "Account has been created successfully"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27add_result_error%27]
+msgid "A problem has occurred during the account creation: "
+msgstr ""
+
+#. ### EDIT EMAIL ACCOUNT
+#: %24_LANG[%27emails%27][%27chg_account_label%27]
+msgctxt "$_LANG['emails']['chg_account_label']"
+msgid "Account:"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27chg_account_cancel_text%27]
+msgctxt "$_LANG['emails']['chg_account_cancel_text']"
+msgid "Cancel"
+msgstr ""
+
+#. ### SEARCH EMAIL
+#: %24_LANG[%27emails%27][%27search_header%27]
+msgid "Search Email Accounts"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27search_input_value%27]
+msgctxt "$_LANG['emails']['search_input_value']"
+msgid "Search Accounts"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27search_submit_text%27]
+msgctxt "$_LANG['emails']['search_submit_text']"
+msgid "Search Accounts"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27search_select_rows%27]
+msgctxt "$_LANG['emails']['search_select_rows']"
+msgid "Results per page:"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27search_loader_text%27]
+msgctxt "$_LANG['emails']['search_loader_text']"
+msgid "Loading..."
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27search_loader2_text%27]
+msgctxt "$_LANG['emails']['search_loader2_text']"
+msgid "Searching..."
+msgstr ""
+
+#. ### EDIT EMAIL TABLE
+#: %24_LANG[%27emails%27][%27edit_tblhead_account%27]
+msgid "Account @ Domain"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27edit_tblhead_quota%27]
+msgid "Quota"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27edit_tblhead_actions%27]
+msgctxt "$_LANG['emails']['edit_tblhead_actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27search_results_error%27]
+msgid "No result to display."
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27search_results_empty%27]
+msgctxt "$_LANG['emails']['search_results_empty']"
+msgid "No accounts have been found."
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27chg_password_bookmark%27]
+msgctxt "$_LANG['emails']['chg_password_bookmark']"
+msgid "Change Password"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27chg_password_submit_text%27]
+msgid "Save Options"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27chg_password_loader_text%27]
+msgctxt "$_LANG['emails']['chg_password_loader_text']"
+msgid "Changing..."
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27chg_password_info_text%27]
+msgid "Options have been saved"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27chg_password_error_text%27]
+msgid "A problem has occurred during the account password change: "
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27chg_quota_bookmark%27]
+msgid "Change Options"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27chg_quota_submit_text%27]
+msgctxt "$_LANG['emails']['chg_quota_submit_text']"
+msgid "Change Quota"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27chg_quota_loader_text%27]
+msgctxt "$_LANG['emails']['chg_quota_loader_text']"
+msgid "Changing..."
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27chg_quota_info_text%27]
+msgid "Account quota has been changed"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27chg_quota_error_text%27]
+msgctxt "$_LANG['emails']['chg_quota_error_text']"
+msgid "A problem has occurred during the account quota change: "
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27chg_quota_error2_text%27]
+msgid "Account quota could not be unchanged"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27del_account_bookmark%27]
+msgctxt "$_LANG['emails']['del_account_bookmark']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27del_account_label%27]
+msgctxt "$_LANG['emails']['del_account_label']"
+msgid "Delete account:"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27del_account_submit_text%27]
+msgctxt "$_LANG['emails']['del_account_submit_text']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27del_files_submit_text%27]
+msgctxt "$_LANG['emails']['del_files_submit_text']"
+msgid "Delete Account And Files"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27del_account_loader_text%27]
+msgctxt "$_LANG['emails']['del_account_loader_text']"
+msgid "Deleting..."
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27delete_email_result_info%27]
+msgid "Account has been deleted successfully"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27delete_email_result_error%27]
+msgid "A problem has occurred during the account deletion."
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27del_account_error2_text%27]
+msgctxt "$_LANG['emails']['del_account_error2_text']"
+msgid "Account cannot be removed"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27valid_email_error1%27]
+msgctxt "$_LANG['emails']['valid_email_error1']"
+msgid "Email address cannot be longer than 128 characters."
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27valid_email_error2%27]
+msgctxt "$_LANG['emails']['valid_email_error2']"
+msgid "That is not a valid email address."
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27valid_quota_error1%27]
+msgctxt "$_LANG['emails']['valid_quota_error1']"
+msgid "Quota has to be a positive integer."
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27valid_directory_error1%27]
+msgctxt "$_LANG['emails']['valid_directory_error1']"
+msgid ""
+"Directory paths cannot be empty or contain the following characters: \\ ? % *"
+" : | \" < >"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27valid_password_error1%27]
+msgctxt "$_LANG['emails']['valid_password_error1']"
+msgid "Password cannot be empty."
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27valid_password_error2%27]
+msgctxt "$_LANG['emails']['valid_password_error2']"
+msgid "Password cannot include spaces."
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27valid_password_error3%27]
+msgctxt "$_LANG['emails']['valid_password_error3']"
+msgid "Passwords do not match."
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27generate_password%27]
+msgctxt "$_LANG['emails']['generate_password']"
+msgid "Generate Password"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27add_email_result_info%27]
+msgctxt "$_LANG['emails']['add_email_result_info']"
+msgid "Account has been created successfully"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27add_email_result_error%27]
+msgid "Account cannot be created"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27delete_confirmation_title%27]
+msgctxt "$_LANG['emails']['delete_confirmation_title']"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27delete_confirmation_body%27]
+msgctxt "$_LANG['emails']['delete_confirmation_body']"
+msgid "Are you sure that you want to remove this item?"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27change_email_password_result_info%27]
+msgid "Account password has been updated successfully"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27chg_account%27]
+msgid "Modify account"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27update_result_error%27]
+msgid "Account cannot be updated"
+msgstr ""
+
+#: %24_LANG[%27emails%27][%27update_result_info%27]
+msgid "Account has been updated successfully"
+msgstr ""
+
+#. /*********************************
+#.  * 
+#.  * SUBDOMAINS
+#.  * 
+#.  *********************************/
+#. ### CREATE SUBDOMAIN
+#: %24_LANG[%27subdomains%27][%27main_hint%27]
+msgid ""
+"Subdomains are URLs for different sections of your website. They use your "
+"main domain name and a prefix. For example, if your domain is dlipski.com, a "
+"sub-domain of your domain might be support.dlipski.com."
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27main_hint2%27]
+msgid "Subdomains are relative to your account's home directory."
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27main_header%27]
+msgctxt "$_LANG['subdomains']['main_header']"
+msgid "Subdomains"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27add_header%27]
+msgctxt "$_LANG['subdomains']['add_header']"
+msgid "Create Subdomain"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27subdomain_label%27]
+msgid "Subdomain:"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27root_label%27]
+msgctxt "$_LANG['subdomains']['root_label']"
+msgid "Document Root:"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27add_submit_text%27]
+msgctxt "$_LANG['subdomains']['add_submit_text']"
+msgid "Create Subdomain"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27add_loader_text%27]
+msgctxt "$_LANG['subdomains']['add_loader_text']"
+msgid "Creating..."
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27add_result_info%27]
+msgctxt "$_LANG['subdomains']['add_result_info']"
+msgid "has been created."
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27add_result_error%27]
+msgid "A problem has occurred during the subdomain creation:"
+msgstr ""
+
+#. ### SEARCH SUBDOMAINS
+#: %24_LANG[%27subdomains%27][%27search_header%27]
+msgid "Modify Subdomain"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27search_input_value%27]
+msgctxt "$_LANG['subdomains']['search_input_value']"
+msgid "Search Domains"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27search_submit_text%27]
+msgctxt "$_LANG['subdomains']['search_submit_text']"
+msgid "Go"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27search_select_rows%27]
+msgctxt "$_LANG['subdomains']['search_select_rows']"
+msgid "Results per page:"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27search_loader_text%27]
+msgctxt "$_LANG['subdomains']['search_loader_text']"
+msgid "Loading..."
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27search_loader2_text%27]
+msgctxt "$_LANG['subdomains']['search_loader2_text']"
+msgid "Searching..."
+msgstr ""
+
+#. ### EDIT SUBDOMAIN TABLE
+#: %24_LANG[%27subdomains%27][%27edit_tblhead_domain%27]
+msgid "Subdomains.Root Domain"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27edit_tblhead_root%27]
+msgctxt "$_LANG['subdomains']['edit_tblhead_root']"
+msgid "Document Root"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27edit_tblhead_redirect%27]
+msgid "Redirection"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27edit_tblhead_actions%27]
+msgctxt "$_LANG['subdomains']['edit_tblhead_actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27search_results_error%27]
+msgctxt "$_LANG['subdomains']['search_results_error']"
+msgid "The results cannot be displayed. Try again."
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27search_results_empty%27]
+msgid "No subdomains are configured."
+msgstr ""
+
+#: %24_LANG[%27not_redirected_text%27]
+msgid "not redirected"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27chg_sub_cancel_text%27]
+msgctxt "$_LANG['subdomains']['chg_sub_cancel_text']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27remove_bookmark%27]
+msgctxt "$_LANG['subdomains']['remove_bookmark']"
+msgid "Remove"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27remove_sub_label%27]
+msgid "Remove Subdomain:"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27remove_sub_submit_text%27]
+msgctxt "$_LANG['subdomains']['remove_sub_submit_text']"
+msgid "Remove"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27remove_sub_loader_text%27]
+msgctxt "$_LANG['subdomains']['remove_sub_loader_text']"
+msgid "Removing..."
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27remove_sub_info_text%27]
+msgid "Subdomain has been removed:"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27remove_sub_error_text%27]
+msgid "A problem has occurred during the subdomain removal:"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27chg_directon_bookmark%27]
+msgid "Manage Direction"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27redirects+to%27]
+msgctxt "$_LANG['subdomains']['redirects to']"
+msgid "redirects to"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27dis_redirect_sub_submit_text%27]
+msgctxt "$_LANG['subdomains']['dis_redirect_sub_submit_text']"
+msgid "Disable Redirection"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27redirect_sub_submit_text%27]
+msgctxt "$_LANG['subdomains']['redirect_sub_submit_text']"
+msgid "Redirect"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27redirect_sub_loader_text%27]
+msgctxt "$_LANG['subdomains']['redirect_sub_loader_text']"
+msgid "Redirecting..."
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27redirect_sub_info_text%27]
+msgid "Subdomain has been redirected:"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27redirect_sub_error_text%27]
+msgid "A problem has occurred during the subdomain redirection:"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27dis_redirect_sub_loader_text%27]
+msgctxt "$_LANG['subdomains']['dis_redirect_sub_loader_text']"
+msgid "Disabling..."
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27dis_redirect_sub_info_text%27]
+msgid "Redirection for subdomain has been disabled:"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27dis_redirect_sub_error_text%27]
+msgid "A problem has occurred when disabling the subdomain redirection."
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27dis_redirect_sub_error_text2%27]
+msgid ""
+"An error has occurred. The operation could not be performed correctly. "
+"Refresh this page."
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27valid_domain_error1%27]
+msgid "Subdomain cannot be empty."
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27valid_domain_error2%27]
+msgid "That is not a valid subdomain."
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27valid_directory_error1%27]
+msgid ""
+"Directory paths cannot be empty or contain the following characters: \\ ~ ` "
+"? % * : | \" < >"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27delete_confirmation_title%27]
+msgctxt "$_LANG['subdomains']['delete_confirmation_title']"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27delete_confirmation_body%27]
+msgctxt "$_LANG['subdomains']['delete_confirmation_body']"
+msgid "Are you sure that you want to remove this item?"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27add_result_info%27]
+msgid "Subdomain has been added successfully"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27add_result_error%27]
+msgid "Subdomain cannot be added"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27del_result_info%27]
+msgid "Subdomain has been deleted successfully"
+msgstr ""
+
+#: %24_LANG[%27subdomains%27][%27del_result_error%27]
+msgid "Subdomain cannot be deleted"
+msgstr ""
+
+#. /****************************
+#.  * 
+#.  * ADDON DOMAIN
+#.  * 
+#.  ****************************/
+#. ### CREATE ADDONDOMAIN
+#: %24_LANG[%27addondomains%27][%27add_addondomain_main_header%27]
+msgctxt "$_LANG['addondomains']['add_addondomain_main_header']"
+msgid "Addon Domains"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_addondomain_hint%27]
+msgid ""
+"An addon domain allows visitors to reach a subdomain of your site by typing "
+"the addon domain's URL into a browser. This means that you can host "
+"additional domains from your account, if allowed by your hosting provider. "
+"Addon Domains Subdomains are relative to your account's home directory."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_addondomain_sub_main_header%27]
+msgid "Create an addon domain"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_addondomain_domain_label%27]
+msgid "New Domain Name:"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_addondomain_username_label%27]
+msgid "Subdomain/FTP Username:"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_addondomain_password_label%27]
+msgctxt "$_LANG['addondomains']['add_addondomain_password_label']"
+msgid "Password:"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_addondomain_password2_label%27]
+msgctxt "$_LANG['addondomains']['add_addondomain_password2_label']"
+msgid "Password (Again):"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_addondomain_directory_label%27]
+msgctxt "$_LANG['addondomains']['add_addondomain_directory_label']"
+msgid "Document Root:"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_addondomain_submit_text%27]
+msgctxt "$_LANG['addondomains']['add_addondomain_submit_text']"
+msgid "Add Domain"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_addondomain_loader_text%27]
+msgctxt "$_LANG['addondomains']['add_addondomain_loader_text']"
+msgid "Creating..."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_addondomain_result_info1%27]
+msgctxt "$_LANG['addondomains']['add_addondomain_result_info1']"
+msgid "The addon domain"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_addondomain_result_info2%27]
+msgctxt "$_LANG['addondomains']['add_addondomain_result_info2']"
+msgid "has been created."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_addondomain_result_info%27]
+msgid "Addon domain has been created successfully"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_addondomain_result_error%27]
+msgid "A problem has occurred during the addon domain creation: "
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_addondomain_hint%27]
+msgid ""
+"Hint: This featurehas to be enabled for your account before you can use it. "
+"Addon domains will not work unless the domain name is registered with a "
+"valid registrar and configured to point to the correct DNS servers."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_bandwidth_label%27]
+msgid "Bandwidth:"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_diskspace_label%27]
+msgid "Disk space:"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_ssl_label%27]
+msgid "Secure SSL:"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_cgi_label%27]
+msgid "CGI Access:"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_php_label%27]
+msgid "PHP Access:"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27add_ignored_label%27]
+msgid "(Ignored if not allowed)"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27quota_unlimited%27]
+msgctxt "$_LANG['addondomains']['quota_unlimited']"
+msgid "Unlimited"
+msgstr ""
+
+#. ### SEARCH ADDONDOMAINS
+#: %24_LANG[%27addondomains%27][%27search_header%27]
+msgid "Modify Addon Domain"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27search_input_value%27]
+msgctxt "$_LANG['addondomains']['search_input_value']"
+msgid "Search Domains"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27search_submit_text%27]
+msgctxt "$_LANG['addondomains']['search_submit_text']"
+msgid "Go"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27search_select_rows%27]
+msgctxt "$_LANG['addondomains']['search_select_rows']"
+msgid "Results per page:"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27search_loader_text%27]
+msgctxt "$_LANG['addondomains']['search_loader_text']"
+msgid "Loading..."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27search_loader2_text%27]
+msgctxt "$_LANG['addondomains']['search_loader2_text']"
+msgid "Searching..."
+msgstr ""
+
+#. ### EDIT ADDONDOMAIN
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_tblhead_domain%27]
+msgid " Addon Domains"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_tblhead_document%27]
+msgctxt "$_LANG['addondomains']['modify_addondomain_tblhead_document']"
+msgid "Document Root"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_tblhead_ver%27]
+msgid "PHP Version"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_tblhead_username%27]
+msgid "Username"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_tblhead_redirect%27]
+msgid "Redirect To"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_tblhead_actions%27]
+msgctxt "$_LANG['addondomains']['modify_addondomain_tblhead_actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_search_results_error%27]
+msgctxt "$_LANG['addondomains']['modify_addondomain_search_results_error']"
+msgid "The results cannot be displayed. Try again."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_search_results_empty%27]
+msgid "No addon domains are configured."
+msgstr ""
+
+#. ### VALID ADDONDOMAIN
+#: %24_LANG[%27addondomains%27][%27valid_domainname_error1%27]
+msgctxt "$_LANG['addondomains']['valid_domainname_error1']"
+msgid "That is not a valid domain."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27valid_bandwidth_error1%27]
+msgctxt "$_LANG['addondomains']['valid_bandwidth_error1']"
+msgid "That is not a valid value."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27valid_disk_error1%27]
+msgctxt "$_LANG['addondomains']['valid_disk_error1']"
+msgid "That is not a valid value."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27valid_subdomain_user_error1%27]
+msgid "That is not a valid subdomain/FTP username."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27valid_directory_error1%27]
+msgid "That is not a valid document root name."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27valid_password_error1%27]
+msgctxt "$_LANG['addondomains']['valid_password_error1']"
+msgid "Password cannot be empty."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27valid_password_error2%27]
+msgctxt "$_LANG['addondomains']['valid_password_error2']"
+msgid "Password cannot include spaces."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27valid_password_error3%27]
+msgctxt "$_LANG['addondomains']['valid_password_error3']"
+msgid "Passwords do not match."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27valid_password_error4%27]
+msgid "Password strength has to be at least 1."
+msgstr ""
+
+#. ### EDIT BOOKMARKS
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_cancel_text%27]
+msgctxt "$_LANG['addondomains']['modify_addondomain_cancel_text']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_remove_bookmark%27]
+msgctxt "$_LANG['addondomains']['modify_addondomain_remove_bookmark']"
+msgid "Remove"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_remove_label%27]
+msgid "Remove addon domain:"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_remove_submit_text%27]
+msgctxt "$_LANG['addondomains']['modify_addondomain_remove_submit_text']"
+msgid "Remove"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_remove_loader_text%27]
+msgctxt "$_LANG['addondomains']['modify_addondomain_remove_loader_text']"
+msgid "Removing..."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_remove_info_text1%27]
+msgctxt "$_LANG['addondomains']['modify_addondomain_remove_info_text1']"
+msgid "The addon domain"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_remove_info_text2%27]
+msgctxt "$_LANG['addondomains']['modify_addondomain_remove_info_text2']"
+msgid "has been removed."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_remove_error_text%27]
+msgid "A problem has occurred during the addon domain removal:"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_redirecton_bookmark%27]
+msgctxt "$_LANG['addondomains']['modify_addondomain_redirecton_bookmark']"
+msgid "Manage Redirection"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_redirects+to%27]
+msgctxt "$_LANG['addondomains']['modify_addondomain_redirects to']"
+msgid "redirects to"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_disable_submit_text%27]
+msgctxt "$_LANG['addondomains']['modify_addondomain_disable_submit_text']"
+msgid "Disable Redirection"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_redirect_submit_text%27]
+msgctxt "$_LANG['addondomains']['modify_addondomain_redirect_submit_text']"
+msgid "Redirect"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_redirect_loader_text%27]
+msgctxt "$_LANG['addondomains']['modify_addondomain_redirect_loader_text']"
+msgid "Redirecting..."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_redirect_info_text%27]
+msgctxt "$_LANG['addondomains']['modify_addondomain_redirect_info_text']"
+msgid "is now being redirected to"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_redirect_error_text%27]
+msgid "A problem has occurred during the addon domain redirection:"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_disable_loader_text%27]
+msgctxt "$_LANG['addondomains']['modify_addondomain_disable_loader_text']"
+msgid "Disabling..."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_disable_info_text%27]
+msgid "Redirection for addon domain has been disabled:"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27modify_addondomain_disable_error_text%27]
+msgid "A problem has occurred when disabling the addon domain redirection."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27generate_password%27]
+msgctxt "$_LANG['addondomains']['generate_password']"
+msgid "Generate Password"
+msgstr ""
+
+#. ### DELETE ADDONDOMAINS
+#: %24_LANG[%27addondomains%27][%27delete_addondomain_result_info%27]
+msgid "Addon domain has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27delete_addondomain_result_error%27]
+msgid "A problem has occurred during the addon domain removal."
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27delete_confirmation_title%27]
+msgctxt "$_LANG['addondomains']['delete_confirmation_title']"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: %24_LANG[%27addondomains%27][%27delete_confirmation_body%27]
+msgctxt "$_LANG['addondomains']['delete_confirmation_body']"
+msgid "Are you sure that you want to remove this item?"
+msgstr ""
+
+#. /****************************
+#.  * 
+#.  * PARKED DOMAIN
+#.  * 
+#.  ****************************/
+#. ### CREATE PARKED DOMAIN FORM
+#: %24_LANG[%27parkeddomains%27][%27add_parkeddomain_main_header%27]
+msgctxt "$_LANG['parkeddomains']['add_parkeddomain_main_header']"
+msgid "Domain Pointers"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27add_parkeddomain_hint%27]
+msgid ""
+"Domain Pointers allow you to \"point\" or \"park\" additional domain names "
+"to your existing hosting account. This will allow users to also reach your "
+"website when entering the \"parked\" or \"pointed\" domain into their "
+"browsers."
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27add_parkeddomain_sub_main_header%27]
+msgid "Create New Domain Pointer"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27add_parkeddomain_domain_label%27]
+msgid "http://www."
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27add_parkeddomain_submit_text%27]
+msgctxt "$_LANG['parkeddomains']['add_parkeddomain_submit_text']"
+msgid "Add Domain"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27add_parkeddomain_add_loader_text%27]
+msgctxt "$_LANG['parkeddomains']['add_parkeddomain_add_loader_text']"
+msgid "Creating..."
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27add_parkeddomain_add_result_info%27]
+msgid "Domain pointer has been successfully added."
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27add_parkeddomain_result_error%27]
+msgid "A problem has occurred during the domain pointer addition:"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27add_parkeddomain_add_hint%27]
+msgid ""
+"Hint: Domains have to be registered with a valid registrar before they can "
+"be pointed. In addition, they will not be functional unless they are "
+"configured to point to your DNS servers."
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27add_parkeddomain_select_type%27]
+msgid "Select type:"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27add_parkeddomain_stype_alias%27]
+msgid "Alias"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27add_parkeddomain_stype_pointer%27]
+msgid "Pointer"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27valid_domainname_error1%27]
+msgctxt "$_LANG['parkeddomains']['valid_domainname_error1']"
+msgid "That is not a valid domain."
+msgstr ""
+
+#. ### VALID PARKED DOMAIN FORM
+#: %24_LANG[%27parkeddomains%27][%27valid_domainname_error1%27]
+msgctxt "$_LANG['parkeddomains']['valid_domainname_error1']"
+msgid "That is not a valid domain."
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27add_loader_text%27]
+msgctxt "$_LANG['parkeddomains']['add_loader_text']"
+msgid "Creating..."
+msgstr ""
+
+#. ### PARKEDDOMAINS SEARCH FORM
+#: %24_LANG[%27parkeddomains%27][%27search_parkeddomain_header%27]
+msgid "Search Domain Pointers"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27search_parkeddomain_input_value%27]
+msgctxt "$_LANG['parkeddomains']['search_parkeddomain_input_value']"
+msgid "Search"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27search_parkeddomain_submit_text%27]
+msgctxt "$_LANG['parkeddomains']['search_parkeddomain_submit_text']"
+msgid "Go"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27search_parkeddomain_count_select%27]
+msgctxt "$_LANG['parkeddomains']['search_parkeddomain_count_select']"
+msgid "Results per page:"
+msgstr ""
+
+#. ### MODIFY PARKED DOMAINS (TABLE)
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_tblhead_domain%27]
+msgid "Source Domain"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_tblhead_targer_domain%27]
+msgid "Target Domain"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_tblhead_type%27]
+msgctxt "$_LANG['parkeddomains']['modify_parkeddomain_tblhead_type']"
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27search_loader_searching_text%27]
+msgctxt "$_LANG['parkeddomains']['search_loader_searching_text']"
+msgid "Searching..."
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27search_parked_domains_noresult%27]
+msgid "No domain pointers are configured."
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27search_parked_domains_error%27]
+msgctxt "$_LANG['parkeddomains']['search_parked_domains_error']"
+msgid "The results cannot be displayed. Try again."
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_tblhead_action%27]
+msgctxt "$_LANG['parkeddomains']['modify_parkeddomain_tblhead_action']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_tbl_remove_link%27]
+msgctxt "$_LANG['parkeddomains']['modify_parkeddomain_tbl_remove_link']"
+msgid "Remove"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_tbl_redirect_link%27]
+msgctxt "$_LANG['parkeddomains']['modify_parkeddomain_tbl_redirect_link']"
+msgid "Manage Redirection"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_tbl_results_error%27]
+msgctxt "$_LANG['parkeddomains']['modify_parkeddomain_tbl_results_error']"
+msgid "The results cannot be displayed. Try again."
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_tbl_results_empty%27]
+msgid "No domain pointers are present."
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_load_list%27]
+msgctxt "$_LANG['parkeddomains']['modify_parkeddomain_load_list']"
+msgid "Loading..."
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_search_list%27]
+msgctxt "$_LANG['parkeddomains']['modify_parkeddomain_search_list']"
+msgid "Searching..."
+msgstr ""
+
+#. ### MODIFY PARKED DOMAINS (TABLE BOOKMARKS)
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_cancel_text%27]
+msgctxt "$_LANG['parkeddomains']['modify_parkeddomain_cancel_text']"
+msgid "Cancel"
+msgstr ""
+
+#. ### remove
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_delete_button_label%27]
+msgctxt "$_LANG['parkeddomains']['modify_parkeddomain_delete_button_label']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_remove_label%27]
+msgid "Remove domain pointer:"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_remove_submit_text%27]
+msgid "Remove Domain Pointer"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_remove_loader_text%27]
+msgctxt "$_LANG['parkeddomains']['modify_parkeddomain_remove_loader_text']"
+msgid "Removing..."
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_remove_info_text1%27]
+msgid "The domain pointer has been removed."
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_remove_info_text2%27]
+msgctxt "$_LANG['parkeddomains']['modify_parkeddomain_remove_info_text2']"
+msgid "has been removed."
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_remove_error_text%27]
+msgid "A problem has occurred during the domain pointer removal:"
+msgstr ""
+
+#. ### manage redirection
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_redirects+to%27]
+msgctxt "$_LANG['parkeddomains']['modify_parkeddomain_redirects to']"
+msgid "redirects to"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_disable_submit_text%27]
+msgctxt "$_LANG['parkeddomains']['modify_parkeddomain_disable_submit_text']"
+msgid "Disable Redirection"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_redirect_submit_text%27]
+msgctxt "$_LANG['parkeddomains']['modify_parkeddomain_redirect_submit_text']"
+msgid "Redirect"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_redirect_loader_text%27]
+msgctxt "$_LANG['parkeddomains']['modify_parkeddomain_redirect_loader_text']"
+msgid "Redirecting..."
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_redirect_info_text%27]
+msgctxt "$_LANG['parkeddomains']['modify_parkeddomain_redirect_info_text']"
+msgid "is now being redirected to"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_redirect_error_text%27]
+msgid "A problem has occurred during the domain pointer redirection:"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_disable_loader_text%27]
+msgctxt "$_LANG['parkeddomains']['modify_parkeddomain_disable_loader_text']"
+msgid "Disabling..."
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_disable_info_text%27]
+msgid "is now being redirected to nowhere (Redirection Disabled!)"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27modify_parkeddomain_disable_error_text%27]
+msgid "A problem has occurred when disabling the domain pointer redirection."
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27add_result_info%27]
+msgid "Domain pointer has been added successfully"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27add_result_error%27]
+msgid "Domain pointer cannot be added"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27del_result_info%27]
+msgid "Domain pointer has been deleted successfully "
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27del_result_error%27]
+msgid "Domain pointer cannot be deleted"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27delete_confirmation_title%27]
+msgctxt "$_LANG['parkeddomains']['delete_confirmation_title']"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27delete_confirmation_body%27]
+msgctxt "$_LANG['parkeddomains']['delete_confirmation_body']"
+msgid "Are you sure that you want to remove this item?"
+msgstr ""
+
+#. /*********************************
+#.  * 
+#.  * DATABSASES
+#.  * 
+#.  *********************************/
+#. ### CREATE DB
+#: %24_LANG[%27databases%27][%27main_hint%27]
+msgid ""
+"MySQL Databases allow you to store lots of information in an easy to access "
+"manner. The databases themselves are not easily read by humans. MySQL "
+"databases are required by many web applications including some bulletin "
+"boards, content management systems, and others. To use a database, you'll "
+"need to create it. Only MySQL Users (different than mail or other users) "
+"that have privileges to access a database can read from or write to that "
+"database."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27main_header%27]
+msgctxt "$_LANG['databases']['main_header']"
+msgid "Databases"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_header%27]
+msgid "Create New Database"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_label%27]
+msgid "New Database:"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_submit_text%27]
+msgid "Create Database"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_loader_text%27]
+msgctxt "$_LANG['databases']['new_db_loader_text']"
+msgid "Creating..."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_info_text%27]
+msgctxt "$_LANG['databases']['new_db_info_text']"
+msgid "Database has been created successfully."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_error_text%27]
+msgid "A problem has occurred during the database creation:"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_error1%27]
+msgid "Unknown error. Try again!"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_error2%27]
+msgid "Database cannot be created"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_error3%27]
+msgid "The database"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_error4%27]
+msgid "already exists!"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_priv_loader_text%27]
+msgctxt "$_LANG['databases']['new_db_priv_loader_text']"
+msgid "Loading..."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27manage_user_privileges%27]
+msgid "Manage privileges for user"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_priv_submit%27]
+msgid "Change Privileges"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_del_priv_submit%27]
+msgctxt "$_LANG['databases']['new_db_del_priv_submit']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_priv_cancel%27]
+msgctxt "$_LANG['databases']['new_db_priv_cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_priv_loader%27]
+msgctxt "$_LANG['databases']['new_db_priv_loader']"
+msgid "Changing..."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_priv_info%27]
+msgctxt "$_LANG['databases']['new_db_priv_info']"
+msgid "Privileges have been updated."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_priv_error%27]
+msgid "A problem has occurred during the user privileges change:"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_del_priv_loader%27]
+msgctxt "$_LANG['databases']['new_db_del_priv_loader']"
+msgid "Deleting..."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_del_priv_info%27]
+msgctxt "$_LANG['databases']['new_db_del_priv_info']"
+msgid "User has been deleted from database."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_del_priv_error%27]
+msgid "A problem has occurred during the user deletion from the database:"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_del_db_label%27]
+msgid "Delete database:"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_del_db_submit%27]
+msgctxt "$_LANG['databases']['new_db_del_db_submit']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_del_db_cancel%27]
+msgctxt "$_LANG['databases']['new_db_del_db_cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_del_db_loader%27]
+msgctxt "$_LANG['databases']['new_db_del_db_loader']"
+msgid "Deleting..."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_del_db_info%27]
+msgctxt "$_LANG['databases']['new_db_del_db_info']"
+msgid "Database has been deleted successfully."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27new_db_del_db_error%27]
+msgctxt "$_LANG['databases']['new_db_del_db_error']"
+msgid "There are no databases associated with your account."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27chg_sub_cancel_text%27]
+msgctxt "$_LANG['databases']['chg_sub_cancel_text']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_database_result_info%27]
+msgctxt "$_LANG['databases']['add_database_result_info']"
+msgid "Database has been created successfully."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_database_result_error%27]
+msgid "A problem has occurred during the database creation."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27delete_database_result_info%27]
+msgctxt "$_LANG['databases']['delete_database_result_info']"
+msgid "Database has been deleted successfully."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27delete_database_result_error%27]
+msgid "A problem has occurred during the database deletion."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_user_result_info%27]
+msgid "User added."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_user_result_error%27]
+msgid "A problem has occurred during the user creation."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27delete_user_result_info%27]
+msgctxt "$_LANG['databases']['delete_user_result_info']"
+msgid "User has been deleted from database."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27delete_user_result_error%27]
+msgid "A problem has occurred during the user deletion from the database."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27set_user_privilages_result_info%27]
+msgctxt "$_LANG['databases']['set_user_privilages_result_info']"
+msgid "Privileges have been updated."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27set_user_privilages_result_error%27]
+msgid "A problem has occurred during the user privileges change."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27delete_confirmation_title%27]
+msgctxt "$_LANG['databases']['delete_confirmation_title']"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27delete_confirmation_body%27]
+msgctxt "$_LANG['databases']['delete_confirmation_body']"
+msgid "Are you sure that you want to remove this item?"
+msgstr ""
+
+#. ### CURRENT DB
+#: %24_LANG[%27databases%27][%27current_db_header%27]
+msgid "Current Databases"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_db_input_value%27]
+msgctxt "$_LANG['databases']['current_db_input_value']"
+msgid "Search Databases"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_db_submit_text%27]
+msgctxt "$_LANG['databases']['current_db_submit_text']"
+msgid "Search Databases"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_db_select_rows%27]
+msgctxt "$_LANG['databases']['current_db_select_rows']"
+msgid "Results per page:"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_db_loader_text%27]
+msgctxt "$_LANG['databases']['current_db_loader_text']"
+msgid "Loading..."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_db_loader2_text%27]
+msgctxt "$_LANG['databases']['current_db_loader2_text']"
+msgid "Searching..."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_db_head_db%27]
+msgctxt "$_LANG['databases']['current_db_head_db']"
+msgid "Database"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_db_head_size%27]
+msgctxt "$_LANG['databases']['current_db_head_size']"
+msgid "Size"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_db_head_users%27]
+msgctxt "$_LANG['databases']['current_db_head_users']"
+msgid "Users"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_db_head_actions%27]
+msgctxt "$_LANG['databases']['current_db_head_actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_db_search_error%27]
+msgctxt "$_LANG['databases']['current_db_search_error']"
+msgid "No result to display"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_db_search_empty%27]
+msgctxt "$_LANG['databases']['current_db_search_empty']"
+msgid "There are no databases associated with your account."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_db_bookmark_delete%27]
+msgctxt "$_LANG['databases']['current_db_bookmark_delete']"
+msgid "Delete"
+msgstr ""
+
+#. ### CREATE DB USER
+#: %24_LANG[%27databases%27][%27add_user_header%27]
+msgid "Add New Mysql User"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_user_label_username%27]
+msgctxt "$_LANG['databases']['add_user_label_username']"
+msgid "Username:"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_user_label_password%27]
+msgctxt "$_LANG['databases']['add_user_label_password']"
+msgid "Password:"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_user_label_password2%27]
+msgctxt "$_LANG['databases']['add_user_label_password2']"
+msgid "Password (Again):"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_user_submit_text%27]
+msgid "Create User"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_user_loader_text%27]
+msgctxt "$_LANG['databases']['add_user_loader_text']"
+msgid "Creating..."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_user_info%27]
+msgid "Added the user"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_user_error%27]
+msgid "A problem has occurred during the user addition:"
+msgstr ""
+
+#. ### ADD USER TO DB
+#: %24_LANG[%27databases%27][%27add_userdb_header%27]
+msgid "Add User To Database"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_userdb_label_database%27]
+msgid "Database:"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_userdb_label_user%27]
+msgid "User:"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_userdb_label_privileges%27]
+msgid "Privileges:"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_userdb_priv_submit_text%27]
+msgid "Add Privileges"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_userdb_set_submit_text%27]
+msgid "Set Privileges"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_userdb_loader_text%27]
+msgid "Adding user to database..."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_userdb_info%27]
+msgid "User has been added to the database."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27add_userdb_error%27]
+msgid "A problem has occurred during the user addition to the database:"
+msgstr ""
+
+#. ### CURRENT USERS
+#: %24_LANG[%27databases%27][%27current_users_header%27]
+msgid "Current Users"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_users_input_value%27]
+msgid "Search Users"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_users_submit_text%27]
+msgctxt "$_LANG['databases']['current_users_submit_text']"
+msgid "Search Accounts"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_users_select_rows%27]
+msgctxt "$_LANG['databases']['current_users_select_rows']"
+msgid "Results per page:"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_users_loader_text%27]
+msgid "Loading databases list..."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_users_loader2_text%27]
+msgctxt "$_LANG['databases']['current_users_loader2_text']"
+msgid "Searching..."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_users_head_users%27]
+msgctxt "$_LANG['databases']['current_users_head_users']"
+msgid "Users"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_users_head_actions%27]
+msgctxt "$_LANG['databases']['current_users_head_actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_users_search_error%27]
+msgid "No results to display"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_users_search_empty%27]
+msgid "There are no users associated with your account."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_users_bookmark_delete%27]
+msgctxt "$_LANG['databases']['current_users_bookmark_delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_users_lbl_delete%27]
+msgid "Delete user:"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_users_delete_submit%27]
+msgctxt "$_LANG['databases']['current_users_delete_submit']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_users_delete_cancel%27]
+msgctxt "$_LANG['databases']['current_users_delete_cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_users_delete_loader%27]
+msgctxt "$_LANG['databases']['current_users_delete_loader']"
+msgid "Deleting..."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_users_delete_info%27]
+msgid "User deleted"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27current_users_delete_error%27]
+msgid "A problem has occurred during the user deletion:"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27dbname_valid1%27]
+msgid "The maximum input length for this field is 56 characters."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27dbname_valid2%27]
+msgid "Database name has to contain alphanumeric characters."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27username_valid1%27]
+msgid "Username cannot be longer than 8 characters."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27username_valid2%27]
+msgid "Username has to contain alphanumeric characters."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27password_valid1%27]
+msgctxt "$_LANG['databases']['password_valid1']"
+msgid "Password cannot be empty."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27password_valid2%27]
+msgid "Password strength has to be at least 5."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27password_valid3%27]
+msgctxt "$_LANG['databases']['password_valid3']"
+msgid "Password cannot include spaces."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27password_valid4%27]
+msgctxt "$_LANG['databases']['password_valid4']"
+msgid "Passwords do not match."
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27generate_password%27]
+msgctxt "$_LANG['databases']['generate_password']"
+msgid "Generate Password"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27database_delete_confirmation_title%27]
+msgid "database_delete_confirmation_title"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27database_delete_confirmation_body%27]
+msgid "database_delete_confirmation_body"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27user_delete_confirmation_title%27]
+msgid "user_delete_confirmation_title"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27user_delete_confirmation_body%27]
+msgid "user_delete_confirmation_body"
+msgstr ""
+
+#: %24_LANG[%27databases%27][%27field_required%27]
+msgctxt "$_LANG['databases']['field_required']"
+msgid "This field is required"
+msgstr ""
+
+#. /*********************************
+#.  * 
+#.  * FORWARD DOMAINS
+#.  * 
+#.  *********************************/
+#. ### MANAGING SELECT
+#: %24_LANG[%27forwarddomains%27][%27page_header%27]
+msgctxt "$_LANG['forwarddomains']['page_header']"
+msgid "Site Redirections"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27managing_select_label%27]
+msgid "Managing:"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27managing_submit_text%27]
+msgctxt "$_LANG['forwarddomains']['managing_submit_text']"
+msgid "Go"
+msgstr ""
+
+#. ### CREATE EMAIL ACCOUNT FORWARDES
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_main_header%27]
+msgctxt "$_LANG['forwarddomains']['add_aforward_main_header']"
+msgid "Email Forwarders"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_hint%27]
+msgid ""
+"Redirects allow you to make a specific web page redirect to another page and "
+"display the contents of that page. This way you can make a page with a long "
+"URL accessible by a page which has a shorter and easier to remember URL."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_sub_main_header%27]
+msgctxt "$_LANG['forwarddomains']['add_aforward_sub_main_header']"
+msgid "Add Redirection"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_address_header%27]
+msgctxt "$_LANG['forwarddomains']['add_aforward_address_header']"
+msgid "Address"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_label%27]
+msgid "Local URL Path:"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_dest_header%27]
+msgid "Destination"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_dest_email%27]
+msgid "Forward to email address:"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_dest_discard1%27]
+msgid "Discard with error to sender (at SMTP time):"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_dest_discard2%27]
+msgid "Failure Message (seen by sender):"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_dest_discard3%27]
+msgid "No such person at this address"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_submit_text%27]
+msgctxt "$_LANG['forwarddomains']['add_aforward_submit_text']"
+msgid "Add Redirection"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_advanced_link%27]
+msgid "Advanced Options"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_advanced_system%27]
+msgid "Forward to a system account:"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_advanced_pipe%27]
+msgid "Pipe to a Program:"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_advanced_pipe_hint%27]
+msgid ""
+"When piping to a program, you should enter a path relative to your home "
+"directory. If the script requires an interpreter such as Perl or PHP, you "
+"should omit the /usr/bin/perl or /usr/bin/php portion. Make sure that your "
+"script is executable and has the appropriate hashbang at the top of the "
+"script. If you do not know how to add the hashbang, just make sure to name "
+"your script file with the correct extension and you will be prompted to have "
+"the hashbang added automatically. "
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_advanced_discard%27]
+msgid "Discard (Not Recommended) "
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_loader%27]
+msgctxt "$_LANG['forwarddomains']['add_aforward_loader']"
+msgid "Creating..."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_info_text%27]
+msgctxt "$_LANG['forwarddomains']['add_aforward_info_text']"
+msgid "New site redirection has been created"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_error_text1%27]
+msgid "A problem has occurred during the new email forwarder creation."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_aforward_error_text2%27]
+msgid ""
+"A problem has probably occurred during the new email forwarder creation. "
+"Check the table of forwards."
+msgstr ""
+
+#. ### CREATE EMAIL ACCOUNT FORWARDES VALIDATION
+#: %24_LANG[%27forwarddomains%27][%27valid_aforward_email%27]
+msgid "That is not a valid directory."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27valid_aforward_destination_email%27]
+msgctxt "$_LANG['forwarddomains']['valid_aforward_destination_email']"
+msgid "That is not a valid email address."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27valid_aforward_destination_discard%27]
+msgid "Failure message cannot be empty."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27valid_aforward_destination_sustemuser%27]
+msgid "Username invalid."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27valid_aforward_destination_pipe%27]
+msgctxt "$_LANG['forwarddomains']['valid_aforward_destination_pipe']"
+msgid ""
+"Directory paths cannot be empty or contain the following characters: \\ ? % *"
+" : | \" < >"
+msgstr ""
+
+#. ### EMAIL ACCOUNT FORWARDES SEARCH
+#: %24_LANG[%27forwarddomains%27][%27search_aforward_header%27]
+msgctxt "$_LANG['forwarddomains']['search_aforward_header']"
+msgid "Search Account Redirections"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27search_aforward_value%27]
+msgctxt "$_LANG['forwarddomains']['search_aforward_value']"
+msgid "Search"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27search_aforward_submit%27]
+msgctxt "$_LANG['forwarddomains']['search_aforward_submit']"
+msgid "Go"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27search_aforward_count%27]
+msgctxt "$_LANG['forwarddomains']['search_aforward_count']"
+msgid "Results per page:"
+msgstr ""
+
+#. ### MODIFY EMAIL ACCOUNT FORWARDES (TABLE)
+#: %24_LANG[%27forwarddomains%27][%27modify_aforward_tblhead_address%27]
+msgctxt "$_LANG['forwarddomains']['modify_aforward_tblhead_address']"
+msgid "Address"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_aforward_tblhead_forward%27]
+msgctxt "$_LANG['forwarddomains']['modify_aforward_tblhead_forward']"
+msgid "Forward To"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_aforward_tblhead_action%27]
+msgctxt "$_LANG['forwarddomains']['modify_aforward_tblhead_action']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_aforward_tbl_delete_link%27]
+msgctxt "$_LANG['forwarddomains']['modify_aforward_tbl_delete_link']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_aforward_tbl_to_text%27]
+msgctxt "$_LANG['forwarddomains']['modify_aforward_tbl_to_text']"
+msgid "to"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_aforward_tbl_results_error%27]
+msgctxt "$_LANG['forwarddomains']['modify_aforward_tbl_results_error']"
+msgid "The results cannot be displayed. Try again."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_aforward_tbl_results_empty%27]
+msgid "There are no forwarders configured for the current domain."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_aforward_load_list%27]
+msgctxt "$_LANG['forwarddomains']['modify_aforward_load_list']"
+msgid "Loading..."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_aforward_search_list%27]
+msgctxt "$_LANG['forwarddomains']['modify_aforward_search_list']"
+msgid "Searching..."
+msgstr ""
+
+#. ### MODIFY EMAIL ACCOUNT FORWARDES (TABLE, DELETE BUTTON)
+#: %24_LANG[%27forwarddomains%27][%27modify_aforward_delete_label%27]
+msgid "Delete this site redirection"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_aforward_delete_button%27]
+msgid "Delete Forwarder"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_aforward_delete_cancel%27]
+msgctxt "$_LANG['forwarddomains']['modify_aforward_delete_cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_aforward_delete_loader%27]
+msgctxt "$_LANG['forwarddomains']['modify_aforward_delete_loader']"
+msgid "Deleting..."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_aforward_info_text%27]
+msgid "The site redirection has been deleted"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_aforward_error_text%27]
+msgid "A problem has occurred during the site redirection deletion. Try Again!"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_aforward_error_text2%27]
+msgid "The site redirection cannot be deleted. Refresh the page"
+msgstr ""
+
+#. ### CREATE EMAIL DOMAIN FORWARDES
+#: %24_LANG[%27forwarddomains%27][%27add_dforward_main_header%27]
+msgid "Email Domain Forwarders"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_dforward_hint1%27]
+msgid ""
+"In addition to forwarding individual mail accounts, you can forward all "
+"emails from one domain to another. Forwarding a domain's email will override "
+"the default address for that domain."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_dforward_hint2%27]
+msgctxt "$_LANG['forwarddomains']['add_dforward_hint2']"
+msgid "Warning:"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_dforward_hint3%27]
+msgid ""
+"Forwarding a domain's email will override the default address for that "
+"domain."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_dforward_sub_main_header%27]
+msgid "Add New Domain Forwarder"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_dforward_address_header%27]
+msgctxt "$_LANG['forwarddomains']['add_dforward_address_header']"
+msgid "Address"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_dforward_label%27]
+msgid "Address to be forwarded:"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_dforward_label%27]
+msgctxt "$_LANG['forwarddomains']['add_dforward_label']"
+msgid "Domain to be forwarded:"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_dforward_submit_text%27]
+msgid "Add Domain Forwarder"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_destination_info_label%27]
+msgid "Destination URL"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_result_info%27]
+msgctxt "$_LANG['forwarddomains']['add_result_info']"
+msgid "Success"
+msgstr ""
+
+#. ### EMAIL DOMAIN FORWARDES SEARCH
+#: %24_LANG[%27forwarddomains%27][%27search_dforward_header%27]
+msgctxt "$_LANG['forwarddomains']['search_dforward_header']"
+msgid "Search Account Redirections"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27search_dforward_value%27]
+msgctxt "$_LANG['forwarddomains']['search_dforward_value']"
+msgid "Search"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27search_dforward_submit%27]
+msgctxt "$_LANG['forwarddomains']['search_dforward_submit']"
+msgid "Go"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27search_dforward_count%27]
+msgctxt "$_LANG['forwarddomains']['search_dforward_count']"
+msgid "Results per page:"
+msgstr ""
+
+#. ### MODIFY EMAIL DOMAIN FORWARDES (TABLE)
+#: %24_LANG[%27forwarddomains%27][%27modify_dforward_tblhead_address%27]
+msgctxt "$_LANG['forwarddomains']['modify_dforward_tblhead_address']"
+msgid "Domain"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_dforward_tblhead_forward%27]
+msgctxt "$_LANG['forwarddomains']['modify_dforward_tblhead_forward']"
+msgid "Forward To"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_dforward_tblhead_action%27]
+msgctxt "$_LANG['forwarddomains']['modify_dforward_tblhead_action']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_dforward_tbl_delete_link%27]
+msgctxt "$_LANG['forwarddomains']['modify_dforward_tbl_delete_link']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_dforward_tbl_to_text%27]
+msgctxt "$_LANG['forwarddomains']['modify_dforward_tbl_to_text']"
+msgid "to"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_dforward_tbl_results_error%27]
+msgctxt "$_LANG['forwarddomains']['modify_dforward_tbl_results_error']"
+msgid "The results cannot be displayed. Try again."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_dforward_tbl_results_empty%27]
+msgid "There are no domain forwarders set for this domain."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_dforward_load_list%27]
+msgctxt "$_LANG['forwarddomains']['modify_dforward_load_list']"
+msgid "Loading..."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_dforward_search_list%27]
+msgctxt "$_LANG['forwarddomains']['modify_dforward_search_list']"
+msgid "Searching..."
+msgstr ""
+
+#. ### MODIFY EMAIL DOMAIN FORWARDES (TABLE, DELETE BUTTON)
+#: %24_LANG[%27forwarddomains%27][%27modify_dforward_delete_label%27]
+msgid "Delete domain forwarder:"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_dforward_delete_button%27]
+msgctxt "$_LANG['forwarddomains']['modify_dforward_delete_button']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_dforward_delete_cancel%27]
+msgctxt "$_LANG['forwarddomains']['modify_dforward_delete_cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_dforward_delete_loader%27]
+msgctxt "$_LANG['forwarddomains']['modify_dforward_delete_loader']"
+msgid "Deleting..."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_dforward_info_text%27]
+msgctxt "$_LANG['forwarddomains']['modify_dforward_info_text']"
+msgid "The domain forwarder has been deleted"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_dforward_error_text%27]
+msgctxt "$_LANG['forwarddomains']['modify_dforward_error_text']"
+msgid "A problem has occurred during the domain forwarder deletion. Try Again!"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27modify_dforward_error_text2%27]
+msgctxt "$_LANG['forwarddomains']['modify_dforward_error_text2']"
+msgid "The domain forwarder cannot be deleted. Refresh the page"
+msgstr ""
+
+#. ### CREATE DOMAIN FORWARDES SUBMIT
+#: %24_LANG[%27forwarddomains%27][%27add_dforward_loader%27]
+msgctxt "$_LANG['forwarddomains']['add_dforward_loader']"
+msgid "New site redirection has been created"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_dforward_info_text%27]
+msgctxt "$_LANG['forwarddomains']['add_dforward_info_text']"
+msgid "New site redirection has been created"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_dforward_error_text1%27]
+msgid "A problem has occurred during the new forwarder creation."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_dforward_error_text2%27]
+msgid ""
+"A problem has probably occurred during the new forwarder creation. Check the "
+"table of forwards."
+msgstr ""
+
+#. ### CREATE DOMAIN FORWARDES VALIDATION
+#: %24_LANG[%27forwarddomains%27][%27valid_dforward_email%27]
+msgid "Please enter a hostname (ie$_LANG: domain.com)."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27lbl_type%27]
+msgid "Type:"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27lbl_pernament%27]
+msgid "Permanent (301)"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27lbl_temporary%27]
+msgid "Temporary (302)"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27lbl_redirection%27]
+msgid "www. redirection"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27lbl_only_www%27]
+msgid "Only redirect with www."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27lbl_without_www%27]
+msgid "Redirect with or without www."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27lbl_not_www%27]
+msgid "Do Not Redirect www."
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27lbl_wildcard%27]
+msgid "Wild Card Redirect"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27add_result_info%27]
+msgid "Site redirection has been added successfully"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27del_result_info%27]
+msgid "Site redirection has been deleted successfully"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27delete_confirmation_title%27]
+msgctxt "$_LANG['forwarddomains']['delete_confirmation_title']"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27delete_confirmation_body%27]
+msgctxt "$_LANG['forwarddomains']['delete_confirmation_body']"
+msgid "Are you sure that you want to remove this item?"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27edit_forwarder%27]
+msgid "Edit Forwarder"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27add_forwarder_header%27]
+msgid "Add Forwarder"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27label_email%27]
+msgid "Email name:"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27label_forwarder_email%27]
+msgid "Destination Email:"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27modify_dforward_delete_cancel%27]
+msgctxt "$_LANG['emailsforwarders']['modify_dforward_delete_cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27add_loader_text%27]
+msgctxt "$_LANG['emailsforwarders']['add_loader_text']"
+msgid "Creating..."
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27mod_loader_text%27]
+msgid "Saving..."
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27add_result_info%27]
+msgid "Forwarder has been added successfully"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27add_result_error%27]
+msgid "A problem has occurred during the forwarder addition."
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27add_already_exists_error%27]
+msgid "Forwarder already exists."
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27edit_tblhead_account%27]
+msgctxt "$_LANG['emailsforwarders']['edit_tblhead_account']"
+msgid "User"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27edit_tblhead_actions%27]
+msgctxt "$_LANG['emailsforwarders']['edit_tblhead_actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27edit_tblhead_from%27]
+msgid "From"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27edit_tblhead_to%27]
+msgid "To"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27edit_table_modify%27]
+msgid "Modify"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27edit_table_delete%27]
+msgctxt "$_LANG['emailsforwarders']['edit_table_delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27del_forwarder_submit_text%27]
+msgctxt "$_LANG['emailsforwarders']['del_forwarder_submit_text']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27del_forwarder_label%27]
+msgid "Delete Forwarder:"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27chg_forwarder_cancel_text%27]
+msgctxt "$_LANG['emailsforwarders']['chg_forwarder_cancel_text']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27del_forwarder_loader_text%27]
+msgctxt "$_LANG['emailsforwarders']['del_forwarder_loader_text']"
+msgid "Deleting..."
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27del_forwardert_info_text%27]
+msgctxt "$_LANG['emailsforwarders']['del_forwardert_info_text']"
+msgid "Account deleted"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27search_results_empty%27]
+msgid "No forwarders have been found."
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27del_forwarder_error_text%27]
+msgid "A problem has occurred during the forwarder deletion:"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27mod_forwarder_label%27]
+msgid "Forwarder name:"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27refresh_loader_text%27]
+msgctxt "$_LANG['emailsforwarders']['refresh_loader_text']"
+msgid "Loading..."
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27mod_forwarder_btn_save%27]
+msgid "Save changes"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27valid_email_name_long_error%27]
+msgctxt "$_LANG['emailsforwarders']['valid_email_name_long_error']"
+msgid "Email address cannot be longer than 128 characters."
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27valid_email_name_error%27]
+msgid "That is not a valid name part of email address."
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27add_forwarder%27]
+msgid "Add a New Forwarder"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27valid_email_address_long_error%27]
+msgctxt "$_LANG['emailsforwarders']['valid_email_address_long_error']"
+msgid "Email address cannot be longer than 128 characters."
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27valid_email_address_error%27]
+msgctxt "$_LANG['emailsforwarders']['valid_email_address_error']"
+msgid "That is not a valid email address."
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27add_aforward_main_header%27]
+msgctxt "$_LANG['emailsforwarders']['add_aforward_main_header']"
+msgid "Email Forwarders"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27add_aforward_hint%27]
+msgid ""
+"Forwarders allow you to send a copy of all mail from one email address to "
+"another. For example, if you have two different email accounts, joe@"
+"example.com and joseph@example.com, you could forward joe@example.com to "
+"joseph@example.com so that you do not need to check both accounts. Note that "
+"the forwarded mail will still be delivered to the original address as well."
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27modify_dforward_nodify_info%27]
+msgid "The domain forwarder has been modified"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27modify_dforward_delete_loader%27]
+msgctxt "$_LANG['emailsforwarders']['modify_dforward_delete_loader']"
+msgid "Deleting..."
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27modify_dforward_info_text%27]
+msgctxt "$_LANG['emailsforwarders']['modify_dforward_info_text']"
+msgid "The domain forwarder has been deleted"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27modify_dforward_error_text%27]
+msgctxt "$_LANG['emailsforwarders']['modify_dforward_error_text']"
+msgid "A problem has occurred during the domain forwarder deletion. Try Again!"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27modify_dforward_error_text2%27]
+msgctxt "$_LANG['emailsforwarders']['modify_dforward_error_text2']"
+msgid "The domain forwarder cannot be deleted. Refresh the page"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27search_header%27]
+msgid "Search Forwarders"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27search_input_value%27]
+msgctxt "$_LANG['emailsforwarders']['search_input_value']"
+msgid "Search"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27search_submit_text%27]
+msgctxt "$_LANG['emailsforwarders']['search_submit_text']"
+msgid "Go"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27search_loader_text%27]
+msgctxt "$_LANG['emailsforwarders']['search_loader_text']"
+msgid "Searching..."
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27search_no_result%27]
+msgid "No forwarders are configured"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27search_error%27]
+msgctxt "$_LANG['emailsforwarders']['search_error']"
+msgid "The results cannot be displayed. Try again."
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27chg_result_info%27]
+msgid "Forwarder has been changed successfully"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27chg_result_error%27]
+msgid "Unknown error. Please try again later."
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27delete_confirmation_title%27]
+msgctxt "$_LANG['emailsforwarders']['delete_confirmation_title']"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27delete_confirmation_body%27]
+msgctxt "$_LANG['emailsforwarders']['delete_confirmation_body']"
+msgid "Are you sure that you want to remove this item?"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27field_required%27]
+msgctxt "$_LANG['emailsforwarders']['field_required']"
+msgid "This field is required"
+msgstr ""
+
+#: %24_LANG[%27emailsforwarders%27][%27del_result_info%27]
+msgid "Forwarder has been deleted successfully"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27main_header%27]
+msgctxt "$_LANG['cron']['main_header']"
+msgid "Cron Jobs"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27main_hint%27]
+msgid ""
+"Cron jobs allow you to automate certain commands or scripts on your site. "
+"You can set a command or script to run at a specific time every day, week, "
+"etc. For example, you could set a cron job to delete temporary files every "
+"week to free up disk space."
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27main_hint2%27]
+msgctxt "$_LANG['cron']['main_hint2']"
+msgid "Warning:"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27main_hint3%27]
+msgid ""
+"You need to have a good knowledge of Linux commands before you can use cron "
+"jobs effectively. Check your script with your hosting administrator before "
+"adding a cron job."
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27chg_sub_cancel_text%27]
+msgctxt "$_LANG['cron']['chg_sub_cancel_text']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27cron_main_header%27]
+msgctxt "$_LANG['cron']['cron_main_header']"
+msgid "Cron Jobs"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27add_header%27]
+msgctxt "$_LANG['cron']['add_header']"
+msgid "Add New Cron Job"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27common_label%27]
+msgid "Common Settings:"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27common_label1%27]
+msgctxt "$_LANG['cron']['common_label1']"
+msgid "Common Settings"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27common_label2%27]
+msgctxt "$_LANG['cron']['common_label2']"
+msgid "Every minute"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27common_label3%27]
+msgctxt "$_LANG['cron']['common_label3']"
+msgid "Every 5 minutes"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27common_label4%27]
+msgid "Twice an hour"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27common_label5%27]
+msgid "Once an hour"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27common_label6%27]
+msgid "Twice a day"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27common_label7%27]
+msgid "Once a day"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27common_label8%27]
+msgid "Once a week"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27common_label9%27]
+msgctxt "$_LANG['cron']['common_label9']"
+msgid "1st and 15th"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27common_label10%27]
+msgid "Once a month"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27common_label11%27]
+msgid "Once a year"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27min_label%27]
+msgid "Minute:"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27min_label1%27]
+msgctxt "$_LANG['cron']['min_label1']"
+msgid "Common Settings"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27min_label2%27]
+msgctxt "$_LANG['cron']['min_label2']"
+msgid "Every minute"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27min_label3%27]
+msgid "Every other minute"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27min_label4%27]
+msgctxt "$_LANG['cron']['min_label4']"
+msgid "Every 5 minutes"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27min_label5%27]
+msgid "Every 10 minutes"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27min_label6%27]
+msgid "Every 15 minutes"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27min_label7%27]
+msgid "Every 30 minutes"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27min_label8%27]
+msgid "Minutes"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27min_label9%27]
+msgid "top of the hour"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27min_label10%27]
+msgid "quarter past"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27min_label11%27]
+msgid "half past"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27min_label12%27]
+msgid "quarter till"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27hour_label%27]
+msgid "Hour:"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27hour_label1%27]
+msgctxt "$_LANG['cron']['hour_label1']"
+msgid "Common Settings"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27hour_label2%27]
+msgid "Every hour"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27hour_label3%27]
+msgid "Every other hour"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27hour_label4%27]
+msgid "Every 3 hours"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27hour_label5%27]
+msgid "Every 4 hours"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27hour_label6%27]
+msgid "Every 6 hours"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27hour_label7%27]
+msgid "Every 12 hours"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27hour_label8%27]
+msgid "Hours"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27hour_label9%27]
+msgid "12:00 a.m. midnight (0)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27hour_label10%27]
+msgid "12:00 p.m. noon (12)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27hour_label11%27]
+msgid "a.m."
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27hour_label12%27]
+msgid "p.m."
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label%27]
+msgid "Day:"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label1%27]
+msgctxt "$_LANG['cron']['day_label1']"
+msgid "Common Settings"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label2%27]
+msgid "Every day"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label3%27]
+msgid "Every other day"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label4%27]
+msgctxt "$_LANG['cron']['day_label4']"
+msgid "1st and 15th"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label5%27]
+msgid "Days"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label6%27]
+msgid "1st (1)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label7%27]
+msgid "2nd (2)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label8%27]
+msgid "3rd (3)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label9%27]
+msgid "4th (4)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label10%27]
+msgid "5th (5)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label11%27]
+msgid "6th (6)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label12%27]
+msgid "7th (7)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label13%27]
+msgid "8th (8)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label14%27]
+msgid "9th (9)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label15%27]
+msgid "10th (10)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label16%27]
+msgid "11th (11)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label17%27]
+msgid "12th (12)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label18%27]
+msgid "13th (13)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label19%27]
+msgid "14th (14)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label20%27]
+msgid "15th (15)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label21%27]
+msgid "16th (16)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label22%27]
+msgid "17th (17)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label23%27]
+msgid "18th (18)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label24%27]
+msgid "19th (19)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label25%27]
+msgid "20th (20)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label26%27]
+msgid "21st (21)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label27%27]
+msgid "22nd (22)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label28%27]
+msgid "23rd (23)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label29%27]
+msgid "24th (24)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label30%27]
+msgid "25th (25)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label31%27]
+msgid "26th (26)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label32%27]
+msgid "27th (27)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label33%27]
+msgid "28th (28)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label34%27]
+msgid "29th (29)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label35%27]
+msgid "30th (30)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27day_label36%27]
+msgid "31st (31)"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label%27]
+msgid "Month:"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label1%27]
+msgctxt "$_LANG['cron']['month_label1']"
+msgid "Common Settings"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label2%27]
+msgid "Every month"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label3%27]
+msgid "Every other month"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label4%27]
+msgid "Every 3 months"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label5%27]
+msgid "Every 6 months"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label6%27]
+msgid "Months"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label7%27]
+msgctxt "$_LANG['cron']['month_label7']"
+msgid "January"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label8%27]
+msgctxt "$_LANG['cron']['month_label8']"
+msgid "February"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label9%27]
+msgctxt "$_LANG['cron']['month_label9']"
+msgid "March"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label10%27]
+msgctxt "$_LANG['cron']['month_label10']"
+msgid "April"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label11%27]
+msgctxt "$_LANG['cron']['month_label11']"
+msgid "May"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label12%27]
+msgctxt "$_LANG['cron']['month_label12']"
+msgid "June"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label13%27]
+msgctxt "$_LANG['cron']['month_label13']"
+msgid "July"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label14%27]
+msgctxt "$_LANG['cron']['month_label14']"
+msgid "August"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label15%27]
+msgctxt "$_LANG['cron']['month_label15']"
+msgid "September"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label16%27]
+msgctxt "$_LANG['cron']['month_label16']"
+msgid "October"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label17%27]
+msgctxt "$_LANG['cron']['month_label17']"
+msgid "November"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27month_label18%27]
+msgctxt "$_LANG['cron']['month_label18']"
+msgid "December"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27weekday_label%27]
+msgid "Weekday:"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27weekday_label1%27]
+msgctxt "$_LANG['cron']['weekday_label1']"
+msgid "Common Settings"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27weekday_label2%27]
+msgid "Every weekday"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27weekday_label3%27]
+msgid "Mon till Fri"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27weekday_label4%27]
+msgid "Sat and Sun"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27weekday_label5%27]
+msgid "Mon, Wed, Fri"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27weekday_label6%27]
+msgid "Tues, Thurs"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27weekday_label7%27]
+msgid "Weekdays"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27weekday_label8%27]
+msgid "Sunday"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27weekday_label9%27]
+msgid "Monday"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27weekday_label10%27]
+msgid "Tuesday"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27weekday_label11%27]
+msgid "Wednesday"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27weekday_label12%27]
+msgid "Thursday"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27weekday_label13%27]
+msgid "Friday"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27weekday_label14%27]
+msgid "Saturday"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27command_label%27]
+msgid "Command:"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27add_submit_text%27]
+msgctxt "$_LANG['cron']['add_submit_text']"
+msgid "Add New Cron Job"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27add_loader_text%27]
+msgid "Creating a new cron job..."
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27add_result_info%27]
+msgid "Cron job has been created successfully"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27add_result_error%27]
+msgid "A problem has occurred during the cron job creation:"
+msgstr ""
+
+#. ### CURRENT CRON JOBS
+#: %24_LANG[%27cron%27][%27current_header%27]
+msgid "Current Cron Jobs"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27current_tblheader_minute%27]
+msgctxt "$_LANG['cron']['current_tblheader_minute']"
+msgid "Minute"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27current_tblheader_hour%27]
+msgctxt "$_LANG['cron']['current_tblheader_hour']"
+msgid "Hour"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27current_tblheader_day%27]
+msgctxt "$_LANG['cron']['current_tblheader_day']"
+msgid "Day"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27current_tblheader_month%27]
+msgctxt "$_LANG['cron']['current_tblheader_month']"
+msgid "Month"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27current_tblheader_weekday%27]
+msgctxt "$_LANG['cron']['current_tblheader_weekday']"
+msgid "Weekday"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27current_tblheader_command%27]
+msgctxt "$_LANG['cron']['current_tblheader_command']"
+msgid "Command"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27current_tblheader_actions%27]
+msgctxt "$_LANG['cron']['current_tblheader_actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27current_tblheader_error%27]
+msgid "The results cannot be displayed. Try again"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27current_tblheader_empty%27]
+msgid "No cron jobs have been found."
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27current_bookmark_edit%27]
+msgctxt "$_LANG['cron']['current_bookmark_edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27chg_job_submit_text%27]
+msgid "Edit Line"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27chg_job_loader_text%27]
+msgid "Changing cron job..."
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27chg_job_info_text%27]
+msgid "Cron job has been changed successfully"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27chg_job_error_text%27]
+msgid "A problem has occurred during the cron job change:"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27current_bookmark_delete%27]
+msgctxt "$_LANG['cron']['current_bookmark_delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27del_job_label_text%27]
+msgid "Delete this cron job?"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27del_job_submit_text%27]
+msgctxt "$_LANG['cron']['del_job_submit_text']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27del_job_loader_text%27]
+msgid "Deleting the cron job..."
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27del_result_info%27]
+msgid "Cron job has been deleted successfully"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27del_result_error%27]
+msgid "A problem has occurred during the cron job deletion:"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27valid_field%27]
+msgid "Cron field has not been formatted correctly."
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27edit_cron%27]
+msgid "Edit Cron"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27confirmation_title%27]
+msgctxt "$_LANG['cron']['confirmation_title']"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27confirmation_body%27]
+msgid "Are you sure that you want to remove this job?"
+msgstr ""
+
+#. /********************************************************************************************************************************************
+#.  * 
+#.  * SINCE 1.6.0 version
+#.  * 
+#.  ********************************************************************************************************************************************/
+#. /*********************************
+#.  * 
+#.  * INSTALL APPS
+#.  * 
+#.  *********************************/
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27cms%27]
+msgid "cms"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27forums%27]
+msgid "forums"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27blogs%27]
+msgid "blogs"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27admanager%27]
+msgid "admanager"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27galleries%27]
+msgid "galleries"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27calendars%27]
+msgid "calendars"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27wikis%27]
+msgid "wikis"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27projectman%27]
+msgid "projectman"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27mail%27]
+msgid "mail"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27polls%27]
+msgid "polls"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27ecommerce%27]
+msgid "ecommerce"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27guestbooks%27]
+msgid "guestbooks"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27customersupport%27]
+msgid "customersupport"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27others%27]
+msgid "others"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27educational%27]
+msgid "educational"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27music%27]
+msgid "music"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27games%27]
+msgid "games"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27files%27]
+msgid "files"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27erp%27]
+msgid "erp"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27socialnetworking%27]
+msgid "socialnetworking"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27frameworks%27]
+msgid "frameworks"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27video%27]
+msgid "video"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27rss%27]
+msgid "rss"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27microblogs%27]
+msgid "microblogs"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_catname%27][%27dbtools%27]
+msgid "dbtools"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27choseProtocolInfo%27]
+msgctxt "$_LANG['installapp']['choseProtocolInfo']"
+msgid "If your site has SSL, then please choose the HTTPS protocol."
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27choseProtocol%27]
+msgctxt "$_LANG['installapp']['choseProtocol']"
+msgid "Choose Protocol"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softsettingsheader%27]
+msgid "Software Setup"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_main_header%27]
+msgid "Install Applications With"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_main_label%27]
+msgctxt "$_LANG['installapp']['install_app_main_label']"
+msgid "Install Application"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_main_header_backups%27]
+msgctxt "$_LANG['installapp']['install_app_main_header_backups']"
+msgid "Backups"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_main_header_manage%27]
+msgid "Manage apps"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_your_softaculous_apps%27]
+msgid "Your Softaculous Apps"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_your_installatron_apps%27]
+msgid "Your Installatron Apps"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_main_header_delete%27]
+msgctxt "$_LANG['installapp']['install_app_main_header_delete']"
+msgid "Delete Application"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_main_header_edit%27]
+msgctxt "$_LANG['installapp']['install_app_main_header_edit']"
+msgid "Edit Application"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_setup_header%27]
+msgid "Application Setup"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_new%27]
+msgid "Install new"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_now%27]
+msgid "Install Now!"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_apps%27]
+msgid "&lt;&lt; Back to your apps"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_softaculous_all%27]
+msgid "All softaculous app"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_installatron_all%27]
+msgid "All installatron app"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_back%27]
+msgctxt "$_LANG['installapp']['install_app_back']"
+msgid "Back"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_edit%27]
+msgctxt "$_LANG['installapp']['install_app_edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_delete%27]
+msgctxt "$_LANG['installapp']['install_app_delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_restore%27]
+msgctxt "$_LANG['installapp']['install_app_restore']"
+msgid "Restore"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_create_backup%27]
+msgctxt "$_LANG['installapp']['install_app_create_backup']"
+msgid "Create Backup"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_cancel%27]
+msgctxt "$_LANG['installapp']['install_app_cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_name%27]
+msgctxt "$_LANG['installapp']['install_app_field_name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_version%27]
+msgid "Version"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_description%27]
+msgctxt "$_LANG['installapp']['install_app_field_description']"
+msgid "Description"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_size%27]
+msgctxt "$_LANG['installapp']['install_app_field_size']"
+msgid "Size"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_action%27]
+msgctxt "$_LANG['installapp']['install_app_field_action']"
+msgid "Action"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_date%27]
+msgid "Date"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_create_date%27]
+msgid "Create Date"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_protocol%27]
+msgctxt "$_LANG['installapp']['install_app_field_protocol']"
+msgid "Choose Protocol"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_protocol_description%27]
+msgctxt "$_LANG['installapp']['install_app_field_protocol_description']"
+msgid "If your site has SSL, then please choose the HTTPS protocol."
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_domain%27]
+msgctxt "$_LANG['installapp']['install_app_field_domain']"
+msgid "Domain"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_domain_description%27]
+msgid "Please choose the domain to install the software."
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_directory%27]
+msgctxt "$_LANG['installapp']['install_app_field_directory']"
+msgid "Directory"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_datadir%27]
+msgid "Data directory"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_directory_description%27]
+msgid ""
+"The directory is relative to your domain and should not exist. e.g. To "
+"install at http://mydomain/dir/ just type dir. To install only in http://"
+"mydomain/ leave this empty."
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_datadir_description%27]
+msgid ""
+"This script requires to store its data in a folder not accessible via the "
+"web. It will be created in your home folder. i.e. if you specify datadir, "
+"the following will be created - /home/username/datadir"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_database%27]
+msgid "Database Name"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_database_dbuser%27]
+msgid "Database username"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_database_dbpass%27]
+msgid "Database password"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_database_description%27]
+msgid "Type the name of the database to be created for the installation"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_table%27]
+msgid "Table prefix"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_sitename%27]
+msgid "Site name"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_sitetitle%27]
+msgid "Site title"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_siteshotrname%27]
+msgid "Site short name"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_sitedescription%27]
+msgid "Site description"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_fname%27]
+msgid "First name"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_lname%27]
+msgid "Last name"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_realname%27]
+msgid "Admin real name"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_adminname%27]
+msgid "Admin username"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_adminpass%27]
+msgid "Admin password"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_adminemail%27]
+msgid "Admin email"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_noreply%27]
+msgid "No-Reply Email"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_overwrite%27]
+msgid "Overwrite Existing"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_autoupdate%27]
+msgid "Auto update"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_btn_install%27]
+msgctxt "$_LANG['installapp']['install_app_btn_install']"
+msgid "Install"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_results_error%27]
+msgid "No application has been installed yet"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_results_nothing%27]
+msgid "Nothing to display!"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_delete_text%27]
+msgid "Are you sure you want to uninstall this application?"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_cancel_btn%27]
+msgctxt "$_LANG['installapp']['install_app_cancel_btn']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_nodomains_lbl%27]
+msgid "No domains"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_backup_btn%27]
+msgctxt "$_LANG['installapp']['install_app_backup_btn']"
+msgid "Backups"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_create_backup_link%27]
+msgctxt "$_LANG['installapp']['install_app_create_backup_link']"
+msgid "Create Backup"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_create_manage_link%27]
+msgid "Manage"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_delete_link%27]
+msgctxt "$_LANG['installapp']['install_app_delete_link']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_delete_btn%27]
+msgctxt "$_LANG['installapp']['install_app_delete_btn']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_remove_dir_lbl%27]
+msgid "Remove Directory"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_remove_db_lbl%27]
+msgid "Remove Database"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_remove_datadir_lbl%27]
+msgid "Remove Data Directory"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_remove_wwwdir_lbl%27]
+msgid "Remove WWW Directory"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_progressbar_del_bckp%27]
+msgid "Deleting Backup"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_progressbar_rest_bckp%27]
+msgid "Restoring Backup"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_progressbar_processing%27]
+msgctxt "$_LANG['installapp']['install_app_progressbar_processing']"
+msgid "Processing..."
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_progressbar_completed%27]
+msgctxt "$_LANG['installapp']['install_app_progressbar_completed']"
+msgid "Completed"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_success_install%27]
+msgctxt "$_LANG['installapp']['install_app_success_install']"
+msgid "Success"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_progressbar_error_install%27]
+msgid "Error:"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_progressbar_creat_bckp%27]
+msgid "Creating Backup"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_progressbar_uninstall%27]
+msgid "Uninstalling"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_progressbar_install%27]
+msgid "Installing"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27installatron_catname%27][%27content+management%27]
+msgid "content management"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27installatron_catname%27][%27e-commerce+and+business%27]
+msgid "e-commerce and business"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27installatron_catname%27][%27surveys+and+statistics%27]
+msgid "surveys and statistics"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27installatron_catname%27][%27miscellaneous%27]
+msgid "miscellaneous"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27installatron_catname%27][%27community+building%27]
+msgid "community building"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27installatron_catname%27][%27photos+and+files%27]
+msgid "photos and files"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_lang%27]
+msgctxt "$_LANG['installapp']['install_app_field_lang']"
+msgid "Language"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_content%27]
+msgid "Content"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_content_demo%27]
+msgid "Demo Content"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_field_content_clean%27]
+msgid "Clean Install"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_hint_databease%27]
+msgid "Leave blank when it has to be set automatically"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_hint_databease21%27]
+msgid "Note:"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_app_hint_databease22%27]
+msgid ""
+"To install application your hosting account has to come with at least one "
+"database available"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27site_name%27]
+msgid "Site Name"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27site_desc%27]
+msgid "Site Description"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27dbprefix%27]
+msgid "Table Prefix"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27sample_data%27]
+msgid "Import Sample Data"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27admin_username%27]
+msgid "Admin Username"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27admin_pass%27]
+msgctxt "$_LANG['installapp']['softaculous_fields']['admin_pass']"
+msgid "Admin Password"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27admin_realname%27]
+msgid "Real Name"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27admin_email%27]
+msgid "Admin Email"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27language%27]
+msgctxt "$_LANG['installapp']['softaculous_fields']['language']"
+msgid "Language"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27multisite%27]
+msgid "Enable Multisite (WPMU)"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27admin_fname%27]
+msgid "First Name"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27admin_lname%27]
+msgid "Last Name"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27cron_job%27]
+msgid "CRON Job"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27cron_min%27]
+msgid "Min"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27cron_hour%27]
+msgctxt "$_LANG['installapp']['softaculous_fields']['cron_hour']"
+msgid "Hour"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27cron_day%27]
+msgctxt "$_LANG['installapp']['softaculous_fields']['cron_day']"
+msgid "Day"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27cron_month%27]
+msgctxt "$_LANG['installapp']['softaculous_fields']['cron_month']"
+msgid "Month"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27cron_weekday%27]
+msgctxt "$_LANG['installapp']['softaculous_fields']['cron_weekday']"
+msgid "Weekday"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27admin_folder%27]
+msgid "Admin Folder"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27site_email%27]
+msgid "Company Email"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27license_key%27]
+msgid "Valid License Key"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27admin_language%27]
+msgid "Select Admin Language"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27end_language%27]
+msgid "Select Site Language"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27softaculous_fields%27][%27datadir%27]
+msgid "Data Directory"
+msgstr ""
+
+#. /**************************
+#.  * 
+#.  * Backups
+#.  * 
+#.  **************************/
+#: %24_LANG[%27backups%27][%27createBackup%27]
+msgid "Create User Backup"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27createBackupBtn%27]
+msgid "Backup"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27userBackups%27]
+msgid "User Backups"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27ftpBackups%27]
+msgid "FTP Backups"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27adminBackups%27]
+msgid "Admin / Reseller Backups"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27noresult%27]
+msgctxt "$_LANG['backups']['noresult']"
+msgid "No result to display"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27useListFiles%27]
+msgid "List files to see result"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27restore%27]
+msgctxt "$_LANG['backups']['restore']"
+msgid "Restore"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27remove%27]
+msgctxt "$_LANG['backups']['remove']"
+msgid "Remove"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27listFiles%27]
+msgid "List files"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27recreate%27]
+msgctxt "$_LANG['backups']['recreate']"
+msgid "Recreate"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27tblHeadFile%27]
+msgid "Backup File"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27restoreFromFtp%27]
+msgid "Restore from FTP"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27restoreFtpEndpoints%27]
+msgid "Restore FTP Endpoints:"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27tblHeadActions%27]
+msgctxt "$_LANG['backups']['tblHeadActions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27noBackupsFound%27]
+msgid "No backups have been found"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27restoreOk%27]
+msgid "Restoring has been added to queue."
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27recreateOk%27]
+msgid "Recreating has been added to queue."
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27restoreError%27]
+msgid "Cannot restore..."
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27recreateError%27]
+msgid "Cannot recreate..."
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27recreateInfo%27]
+msgid ""
+"Recreating account will take a lot of time. During that time, you should not "
+"make any actions in the client area.\\n"
+"Do you want to continue?"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27restoring%27]
+msgid "Restoring..."
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27recreating%27]
+msgid "Recreating..."
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27downloading%27]
+msgid "Downloading files..."
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27creating%27]
+msgctxt "$_LANG['backups']['creating']"
+msgid "Creating..."
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27createOk%27]
+msgid ""
+"Backup creation has been added to queue. Refresh this page in a few seconds"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27createError%27]
+msgid "Backup has been created successfully."
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27removing%27]
+msgctxt "$_LANG['backups']['removing']"
+msgid "Removing..."
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27removeOk%27]
+msgid "Backup has been removed successfully."
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27removeError%27]
+msgid "Cannot remove ..."
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27ipAddress%27]
+msgid "IP Address:"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27username%27]
+msgctxt "$_LANG['backups']['username']"
+msgid "Username:"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27password%27]
+msgctxt "$_LANG['backups']['password']"
+msgid "Password:"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27remotePath%27]
+msgid "Remote Path:"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27port%27]
+msgid "Port:"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27cannotListFiles%27]
+msgid "Cannot list files: "
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27cannotListFiles2%27]
+msgid "No files have been found"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27successListFiles%27]
+msgid "File list has been received successfully"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27cannotLoadSettings%27]
+msgid "Cannot load settings: "
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27loadingSettings%27]
+msgid "Loading settings... "
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27usr_level_backup_option%27][%22select0%22]
+msgctxt "$_LANG['backups']['usr_level_backup_option'][\"select0\"]"
+msgid "Domain"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27usr_level_backup_option%27][%22select1%22]
+msgid "Subdomain"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27usr_level_backup_option%27][%22select2%22]
+msgctxt "$_LANG['backups']['usr_level_backup_option'][\"select2\"]"
+msgid "Email"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27usr_level_backup_option%27][%22select3%22]
+msgid "Forwarder"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27usr_level_backup_option%27][%22select4%22]
+msgid "Autoresponder"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27usr_level_backup_option%27][%22select5%22]
+msgid "Vacation"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27usr_level_backup_option%27][%22select6%22]
+msgid "List"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27usr_level_backup_option%27][%22select7%22]
+msgid "Email Settings"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27usr_level_backup_option%27][%22select8%22]
+msgctxt "$_LANG['backups']['usr_level_backup_option'][\"select8\"]"
+msgid "FTP"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27usr_level_backup_option%27][%22select9%22]
+msgid "FTP Settings"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27usr_level_backup_option%27][%22select10%22]
+msgctxt "$_LANG['backups']['usr_level_backup_option'][\"select10\"]"
+msgid "Database"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27usr_level_backup_option%27][%22select11%22]
+msgid "Database Data"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27adminBackupLocation%27]
+msgid "Admin / reseller backups location:"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27remove_user_bck_warning%27]
+msgid "Are you sure you want to delete this backup?"
+msgstr ""
+
+#. /**************************
+#.  * 
+#.  * SSL Managment
+#.  * 
+#.  **************************/
+#: %24_LANG[%27ssl%27][%27main_header%27]
+msgctxt "$_LANG['ssl']['main_header']"
+msgid "SSL Certificates"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27main_hint%27]
+msgid ""
+"In this area you can conveniently manage all the aspects of your SSL "
+"Certificates. You can manage SSL certificates when you own the IP you are "
+"using. Info for admins: Assign an owned IP."
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27current_ssl%27]
+msgctxt "$_LANG['ssl']['current_ssl']"
+msgid "Current SSL Certificate"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27current_status%27]
+msgid "Current SSL Status"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27change_ssl%27]
+msgctxt "$_LANG['ssl']['change_ssl']"
+msgid "Change SSL Certificate"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27add_ssl%27]
+msgctxt "$_LANG['ssl']['add_ssl']"
+msgid "Certificate Authority SSL Certificate"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27save_ssl%27]
+msgctxt "$_LANG['ssl']['save_ssl']"
+msgid "Save CA Certificate"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27error1%27]
+msgid "Action cannot be completed. Please try again later."
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27listHead%27]
+msgctxt "$_LANG['ssl']['listHead']"
+msgid "Current SSL Certificate"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27addHead%27]
+msgctxt "$_LANG['ssl']['addHead']"
+msgid "Change SSL Certificate"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27addButton%27]
+msgctxt "$_LANG['ssl']['addButton']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27changeButton%27]
+msgctxt "$_LANG['ssl']['changeButton']"
+msgid "Change"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27delete%27]
+msgctxt "$_LANG['ssl']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27edit%27]
+msgctxt "$_LANG['ssl']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27cancel%27]
+msgctxt "$_LANG['ssl']['cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27type%27]
+msgctxt "$_LANG['ssl']['type']"
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27login%27]
+msgctxt "$_LANG['ssl']['login']"
+msgid "Login"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27path%27]
+msgctxt "$_LANG['ssl']['path']"
+msgid "Path"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27genPass%27]
+msgctxt "$_LANG['ssl']['genPass']"
+msgid "Generate Password"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27deleteSuccess%27]
+msgid "Account has been deleted successfully."
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27editSuccess%27]
+msgid "Account has been changed successfully."
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27editHead%27]
+msgid "Edit Account"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27editButton%27]
+msgctxt "$_LANG['ssl']['editButton']"
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27deleteSure%27]
+msgid "Are you sure that you want to delete this cron job?"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27minute%27]
+msgctxt "$_LANG['ssl']['minute']"
+msgid "Minute"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27hour%27]
+msgctxt "$_LANG['ssl']['hour']"
+msgid "Hour"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27daym%27]
+msgid "Day of Month"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27month%27]
+msgctxt "$_LANG['ssl']['month']"
+msgid "Month"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27dayw%27]
+msgid "Day of Week"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27comm%27]
+msgctxt "$_LANG['ssl']['comm']"
+msgid "Command"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27sslStatusLbl%27]
+msgid "SSL Status"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27sslStatus%27][%27yes%27]
+msgctxt "$_LANG['ssl']['sslStatus']['yes']"
+msgid "Active"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27sslStatus%27][%27no%27]
+msgid "Inactive"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27sslInfo%27]
+msgid "The domain has been modified"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27caInfo%27]
+msgid "CA Certificate is OK. Your site should be secure within a few minutes"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27servInfo%27]
+msgid "Certificate and key have been saved successfully."
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27useSSlLbl%27]
+msgid "Currently Used SSL"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27useSSl%27][%27yes%27]
+msgid "Server Shared"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27useSSl%27][%27no%27]
+msgid "Private"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27rsaPrivateKey%27]
+msgid "RSA Private Key"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27privateCert%27]
+msgid "Certificate"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27requestSucces%27]
+msgid "Successfully Created Certificate Request"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27certreq%27]
+msgid "Certificate Request"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27changeLbl%27]
+msgid "Select SSL Action"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27change%27][%27info%27]
+msgid "Select Change Option"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27change%27][%27self%27]
+msgid "Create Your Own Self Signed Certificate"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27change%27][%27request%27]
+msgid "Create A Certificate Request"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27change%27][%27paste%27]
+msgid "Paste A Pre-generated Certificate And Key"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27change%27][%27server%27]
+msgid "Use The Server's Certificate"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27addfield%27][%27country%27]
+msgctxt "$_LANG['ssl']['addfield']['country']"
+msgid "2-Letter Country Code"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27addfield%27][%27state%27]
+msgid "State/Province"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27addfield%27][%27city%27]
+msgctxt "$_LANG['ssl']['addfield']['city']"
+msgid "City"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27addfield%27][%27company%27]
+msgctxt "$_LANG['ssl']['addfield']['company']"
+msgid "Company"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27addfield%27][%27division%27]
+msgctxt "$_LANG['ssl']['addfield']['division']"
+msgid "Company Division"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27addfield%27][%27common%27]
+msgid "Common Name"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27addfield%27][%27email%27]
+msgctxt "$_LANG['ssl']['addfield']['email']"
+msgid "Email"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27addfield%27][%27keyLbl%27]
+msgid "Key Size (bits)"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27addfield%27][%27key%27][1024]
+msgid "1024"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27addfield%27][%27key%27][2048]
+msgid "2048"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27addfield%27][%27key%27][4096]
+msgid "4096"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27addfield%27][%27pasteKey%27]
+msgid "Paste a pre-generated key"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27addfield%27][%27pasteCrt%27]
+msgid "Paste a pre-generated certificate"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27caCertHead%27]
+msgctxt "$_LANG['ssl']['caCertHead']"
+msgid "Certificate Authority SSL Certificate"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27useCaCert%27]
+msgid "Use CA Certificate"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27caCert%27]
+msgid "CA Certificate"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27saveCAButton%27]
+msgctxt "$_LANG['ssl']['saveCAButton']"
+msgid "Save CA Certificate"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27encrypt%27]
+msgid "Encrypt"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27letsencrypt%27]
+msgid "Let's Encrypt"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27letsencryptdesc%27]
+msgid ""
+"Let's Encrypt is a free SSL tool that will allow you to install a basic SSL "
+"certificate with a single click. It is compatible with multiple domains and "
+"subdomains, and will be automatically renewed before it expires after the 90-"
+"day period of validity."
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27key_on_server%27]
+msgid "Private Keys"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27csr_on_server%27]
+msgid "CSR Keys"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27crt_on_server%27]
+msgctxt "$_LANG['ssl']['crt_on_server']"
+msgid "SSL Certificates"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27no_keys_in_table%27]
+msgid "There is no key to show"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27key_desc%27]
+msgid ""
+"A private key is used to decrypt information transmitted over SSL. When you "
+"create an SSL certificate, the first step is to generate a private key file "
+"associated with that SSL certificate. You should generate a private key for "
+"each SSL certificate you create. This private key is very important and "
+"should be kept confidential. A copy of each private key should be kept in a "
+"safe place; there is no way to recover a lost private key."
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27csr_desc%27]
+msgid ""
+"If you obtain a certificate from a trusted SSL provider, you must complete "
+"the Certificate Signing Request form to provide the information needed to "
+"generate your SSL certificate."
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27crt_desc%27]
+msgid ""
+"You can use a self-signed certificate or a trusted certificate from an SSL "
+"Certificate Authority. If you plan to use a self-signed certificate for one "
+"of your sites, you can generate it below. To use a trusted certificate, "
+"upload or provide the certificate below, after you have received the SSL "
+"certificate from your trusted provider."
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27install%27]
+msgctxt "$_LANG['ssl']['install']"
+msgid "Install"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27generate%27]
+msgid "Generate"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27upload%27]
+msgctxt "$_LANG['ssl']['upload']"
+msgid "Upload"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27domain%27]
+msgctxt "$_LANG['ssl']['domain']"
+msgid "Domain"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27action%27]
+msgctxt "$_LANG['ssl']['action']"
+msgid "Action"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27keys_upload%27]
+msgid "Upload Your Private Keys"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27keys_generate%27]
+msgid "Generate Your Private Keys"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27csr_generate%27]
+msgid "Generate SSL Certificate Signing Requests"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27crt_generate%27]
+msgid "Generate Certificates"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27crt_upload%27]
+msgid "Upload Certificates"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27selectedentries%27]
+msgid "Selected Entries"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27entries%27]
+msgid "Entries"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27select%27]
+msgid "Select"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27emptyentries%27]
+msgid "There are no entries."
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27country%27]
+msgid "Country"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27state%27]
+msgid "State"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27city%27]
+msgctxt "$_LANG['ssl']['fields']['city']"
+msgid "City"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27company%27]
+msgctxt "$_LANG['ssl']['fields']['company']"
+msgid "Company"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27comp_divi%27]
+msgctxt "$_LANG['ssl']['fields']['comp_divi']"
+msgid "Company Division"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27email%27]
+msgctxt "$_LANG['ssl']['fields']['email']"
+msgid "Email"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27pass%27]
+msgid "Pass Phrase"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27key4domain%27]
+msgid "Domain For Key:"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27cert4domain%27]
+msgid "Domain for certificate:"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27choose_key%27]
+msgid "Choose a .key file:"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27paste_key%27]
+msgid "Paste The Key:"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27select_domain%27]
+msgid "Select A Domain"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27key_size%27]
+msgid "Key Size:"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27key_domain%27]
+msgid "Domain key is for: "
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27host%27]
+msgid "Host: "
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27or%27]
+msgid "OR"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27select_key_domain%27]
+msgid "Domain With A Key"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27encryption%27]
+msgid "Encryption"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27encryption_types%27][%27sha256%27]
+msgid "SHA256"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27fields%27][%27encryption_types%27][%27sha1%27]
+msgid "SHA1"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27key_sizes%27][2048]
+msgid "2,048 bits"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27key_sizes%27][4096]
+msgid "4,096 bits"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27expDate%27]
+msgid "Expire Date"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27view%27]
+msgctxt "$_LANG['ssl']['view']"
+msgid "View"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27certlbl%27]
+msgctxt "$_LANG['ssl']['certlbl']"
+msgid "Contents Of The SSL Certificate"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27keylbl%27]
+msgid "Encoded Private Key"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27content_ssl%27]
+msgctxt "$_LANG['ssl']['content_ssl']"
+msgid "Contents Of The SSL Certificate"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27content_key%27]
+msgid "Key File Associated With The Certificate"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27key_not_avaible%27]
+msgid "Keys and certificate are not available"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27key_not_awaible_desc%27]
+msgid "When the certificate is not installed, try directly in cPanel"
+msgstr ""
+
+#. /**************************
+#.  * 
+#.  * OTHER
+#.  * 
+#.  **************************/
+#: %24_LANG[%27mainsite%27][%27account_usage_header%27]
+msgid "Account Details:"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27head_used%27]
+msgid "Used"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27head_max%27]
+msgid "Max"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27lbl_disk%27]
+msgid "Disk Space (MB)"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27lbl_bandwidth%27]
+msgctxt "$_LANG['mainsite']['lbl_bandwidth']"
+msgid "Bandwidth (MB)"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27lbl_email%27]
+msgctxt "$_LANG['mainsite']['lbl_email']"
+msgid "Emails"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27lbl_ftp%27]
+msgctxt "$_LANG['mainsite']['lbl_ftp']"
+msgid "FTP Accounts"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27lbl_database%27]
+msgctxt "$_LANG['mainsite']['lbl_database']"
+msgid "Databases"
+msgstr ""
+
+#: %24_LANG[%27mainsite_errors%27][%27error1%27]
+msgid "No results to display: Wrong hostname or ip value"
+msgstr ""
+
+#: %24_LANG[%27mainsite_errors%27][%27error2%27]
+msgid "No results to display: Wrong serverusername value"
+msgstr ""
+
+#: %24_LANG[%27mainsite_errors%27][%27error3%27]
+msgid "No results to display: Wrong password or accesskey value"
+msgstr ""
+
+#: %24_LANG[%27mainsite_errors%27][%27error4%27]
+msgid "No results to display: Wrong username value"
+msgstr ""
+
+#: %24_LANG[%27mainsite_errors%27][%27error5%27]
+msgid "No results to display: Invalid username or password"
+msgstr ""
+
+#: %24_LANG[%27mainsite_errors%27][%27error6%27]
+msgid "No results to display: Unable to load connection module"
+msgstr ""
+
+#: %24_LANG[%27mainsite_errors%27][%27error7%27]
+msgid "No results to display: User or domain not found"
+msgstr ""
+
+#: %24_LANG[%27mainsite_errors%27][%27error8%27]
+msgid "No results to display: Connection problem"
+msgstr ""
+
+#: %24_LANG[%27mainsite_errors%27][%27error9%27]
+msgid "No results to display:"
+msgstr ""
+
+#: %24_LANG[%27mainsite_errors%27][%27error10%27]
+msgid "No results to display: Unknown error"
+msgstr ""
+
+#: %24_LANG[%27mainsite_errors%27][%27error11%27]
+msgid "Unable to load the page file"
+msgstr ""
+
+#: %24_LANG[%27mainsite_errors%27][%27error12%27]
+msgid "You cannot view this page. No permission"
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27search_loader_info%27]
+msgctxt "$_LANG['ftp']['search_loader_info']"
+msgid "Searching..."
+msgstr ""
+
+#: %24_LANG[%27ftp%27][%27load_loader_info%27]
+msgctxt "$_LANG['ftp']['load_loader_info']"
+msgid "Loading..."
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27get_backups_loader%27]
+msgid "Getting backup list..."
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27get_backups_error%27]
+msgid "A problem has occurred while getting the backups file list ."
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27get_backups_empty%27]
+msgid "No backup files have been found"
+msgstr ""
+
+#: %24_LANG[%27forwarddomains%27][%27lbl_replaced%27]
+msgid "Replaced (303)"
+msgstr ""
+
+#: %24_LANG[%27parkeddomains%27][%27remove_confirm%27]
+msgid "Are you sure you want to delete these domains?"
+msgstr ""
+
+#: %24_LANG[%27cron%27][%27remove_confirm%27]
+msgid "Are you sure you want to delete these cron jobs?"
+msgstr ""
+
+#: %24_LANG[%27mainsite%27][%27val_unlimited%27]
+msgid "unlimited"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27main_header%27]
+msgctxt "$_LANG['autoresponders']['main_header']"
+msgid "Autoresponders"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27main_hint%27]
+msgid "On this page you can set up your autoresponders."
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27user%27]
+msgctxt "$_LANG['autoresponders']['user']"
+msgid "User"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27cc_email%27]
+msgid "CC Email"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27actions%27]
+msgctxt "$_LANG['autoresponders']['actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27no_autoresponders%27]
+msgctxt "$_LANG['autoresponders']['no_autoresponders']"
+msgid "List is empty"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27delete%27]
+msgctxt "$_LANG['autoresponders']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27edit%27]
+msgctxt "$_LANG['autoresponders']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27cannot_load_list%27]
+msgid "Cannot load autoresponders list"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27create_new_autoresponder%27]
+msgid "Create new autoresponder"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27responder_address%27]
+msgid "Responder Address"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27responder_message%27]
+msgid "Responder Message"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27send_cc_to%27]
+msgid "Send a CC to"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27auto_reponders_list%27]
+msgid "Auto Responders List"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27add_submit_text%27]
+msgid "Create Autoresponder"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27delete_confirmation_label%27]
+msgctxt "$_LANG['autoresponders']['delete_confirmation_label']"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27delete_confirmation_text%27]
+msgctxt "$_LANG['autoresponders']['delete_confirmation_text']"
+msgid "Are you sure that you want to remove this item?"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27confirm%27]
+msgctxt "$_LANG['autoresponders']['confirm']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27save%27]
+msgctxt "$_LANG['autoresponders']['save']"
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27cancel%27]
+msgctxt "$_LANG['autoresponders']['cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27edit_label%27]
+msgid "Edit Autoresponder"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27domain%27]
+msgctxt "$_LANG['autoresponders']['domain']"
+msgid "Domain"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27edit_result_info%27]
+msgid "Autoresponder has been updated successfully"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27delete_result_info%27]
+msgid "Autoresponder has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27autoresponders%27][%27add_result_info%27]
+msgid "Autoresponder has been created successfully"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27invalid_dates_range%27]
+msgid "End date has to be a later date"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27main_header%27]
+msgctxt "$_LANG['vacation']['main_header']"
+msgid "Vacation Messages"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27main_hint%27]
+msgid "On this page you can set up your vacation messages."
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27set_new_vacation_message%27]
+msgid "Create new vacation message"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27vacation_account%27]
+msgid "Vacation Account"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27vacation_message%27]
+msgid "Vacation Message"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27vacation_start%27]
+msgid "Vacation Start"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27vacation_end%27]
+msgid "Vacation End"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27of%27]
+msgid "of"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27morning%27]
+msgid "Morning"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27afternoon%27]
+msgid "Afternoon"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27evening%27]
+msgid "Evening"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%2701%27]
+msgctxt "$_LANG['vacation']['01']"
+msgid "January"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%2702%27]
+msgctxt "$_LANG['vacation']['02']"
+msgid "February"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%2703%27]
+msgctxt "$_LANG['vacation']['03']"
+msgid "March"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%2704%27]
+msgctxt "$_LANG['vacation']['04']"
+msgid "April"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%2705%27]
+msgctxt "$_LANG['vacation']['05']"
+msgid "May"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%2706%27]
+msgctxt "$_LANG['vacation']['06']"
+msgid "June"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%2707%27]
+msgctxt "$_LANG['vacation']['07']"
+msgid "July"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%2708%27]
+msgctxt "$_LANG['vacation']['08']"
+msgid "August"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%2709%27]
+msgctxt "$_LANG['vacation']['09']"
+msgid "September"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%2710%27]
+msgctxt "$_LANG['vacation']['10']"
+msgid "October"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%2711%27]
+msgctxt "$_LANG['vacation']['11']"
+msgid "November"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%2712%27]
+msgctxt "$_LANG['vacation']['12']"
+msgid "December"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27start_time%27]
+msgid "Start Time"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27end_time%27]
+msgid "End Time"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27user%27]
+msgctxt "$_LANG['vacation']['user']"
+msgid "User"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27actions%27]
+msgctxt "$_LANG['vacation']['actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27no_vacations%27]
+msgctxt "$_LANG['vacation']['no_vacations']"
+msgid "List is empty"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27delete%27]
+msgctxt "$_LANG['vacation']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27edit%27]
+msgctxt "$_LANG['vacation']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27cannot_load_list%27]
+msgid "Cannot load vacation list"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27vacations_list%27]
+msgid "Vacation Messages List"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27add_submit_text%27]
+msgctxt "$_LANG['vacation']['add_submit_text']"
+msgid "Create"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27delete_confirmation_label%27]
+msgctxt "$_LANG['vacation']['delete_confirmation_label']"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27delete_confirmation_text%27]
+msgctxt "$_LANG['vacation']['delete_confirmation_text']"
+msgid "Are you sure that you want to remove this item?"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27confirm%27]
+msgctxt "$_LANG['vacation']['confirm']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27save%27]
+msgctxt "$_LANG['vacation']['save']"
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27cancel%27]
+msgctxt "$_LANG['vacation']['cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27edit_label%27]
+msgid "Edit Vacation Message"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27add_result_info%27]
+msgid "Vacation message has been created successfully"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27delete_result_info%27]
+msgid "Vacation message has been deleted successfully"
+msgstr ""
+
+#: %24_LANG[%27vacation%27][%27edit_result_info%27]
+msgid "Vacation message has been updated successfully"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27main_header%27]
+msgctxt "$_LANG['apachehandlers']['main_header']"
+msgid "Apache Handlers"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27main_hint%27]
+msgid "On this page you can set up your apache handlers."
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27add_apache_handler%27]
+msgid "Add Apache Handler"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27handler%27]
+msgid "Handler"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27extension%27]
+msgid "Extension"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27extensions%27]
+msgid "Extensions (click to remove)"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27add_submit_text%27]
+msgctxt "$_LANG['apachehandlers']['add_submit_text']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27handlers_list%27]
+msgid "User Installed Apache Handlers"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27actions%27]
+msgctxt "$_LANG['apachehandlers']['actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27delete_confirmation_label%27]
+msgctxt "$_LANG['apachehandlers']['delete_confirmation_label']"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27delete_confirmation_text%27]
+msgctxt "$_LANG['apachehandlers']['delete_confirmation_text']"
+msgid "Are you sure that you want to remove this item?"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27delete_extension_confirmation_label%27]
+msgid "Delete Extension Confirmation"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27delete_extension_confirmation_text%27]
+msgid "Are you sure that you want to remove this extension?"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27delete%27]
+msgid "Delete Handler"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27cancel%27]
+msgctxt "$_LANG['apachehandlers']['cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27confirm%27]
+msgctxt "$_LANG['apachehandlers']['confirm']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27no_handlers%27]
+msgid "Na Data In Table"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27add_result_info%27]
+msgid "Handler has been added successfully"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27del_result_info%27]
+msgid "Handler has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27apachehandlers%27][%27del_ext_result_info%27]
+msgid "Extension has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27main_header%27]
+msgctxt "$_LANG['emailfilters']['main_header']"
+msgid "SPAM Filters"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27main_hint%27]
+msgid "On this page you can configure your SPAM filters."
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27create_new_filter%27]
+msgid "Create New Filter"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27filter_type%27]
+msgid "Filter Type"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27email%27]
+msgid "Block a specific email address"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27domain%27]
+msgid "Block email from an entire domain"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27word%27]
+msgid "Block all emails containing the word"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27size%27]
+msgid "Block all emails larger than (KB)"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27value%27]
+msgid "Value"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27add_submit_text%27]
+msgid "Block"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27adult_filter%27]
+msgid "Adult Filter"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27email_filters_list%27]
+msgid "Filters List"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27filter%27]
+msgid "Filter"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27action%27]
+msgctxt "$_LANG['emailfilters']['action']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27emailfilter_delete_confirmation_title%27]
+msgctxt "$_LANG['emailfilters']['emailfilter_delete_confirmation_title']"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27emailfilter_delete_confirmation_body%27]
+msgctxt "$_LANG['emailfilters']['emailfilter_delete_confirmation_body']"
+msgid "Are you sure that you want to remove this item?"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27cancel%27]
+msgctxt "$_LANG['emailfilters']['cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27confirm%27]
+msgctxt "$_LANG['emailfilters']['confirm']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27cannot_load_list%27]
+msgid "Cannot load email filters list"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27no_filters%27]
+msgid "There are no filters specified"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27delete%27]
+msgctxt "$_LANG['emailfilters']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27disable%27]
+msgctxt "$_LANG['emailfilters']['disable']"
+msgid "Disable"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27enable%27]
+msgid "Enable"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27action_after_match%27]
+msgid "Action for filter matches"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27drop_email%27]
+msgid "Drop Email"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27spambox%27]
+msgid "Send to spambox"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27save%27]
+msgctxt "$_LANG['emailfilters']['save']"
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27filter_options%27]
+msgid "Filter Options"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27action_result_info%27]
+msgid "Filter action has been saved successfully."
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27adult_result_info%27]
+msgid "Adult filter has been enabled/disabled successfully."
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27delete_result_info%27]
+msgid "Filter has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27emailfilters%27][%27add_result_info%27]
+msgid "Filter has been set successfully."
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27main_header%27]
+msgctxt "$_LANG['mailinglists']['main_header']"
+msgid "Mailing Lists"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27main_hint%27]
+msgid "On this page you can configure your mailing lists."
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27add_mailing_list%27]
+msgid "Add Mailing List"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27list_name%27]
+msgid "List Name"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27add_list_submit%27]
+msgid "Add List"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27mailing_lists%27]
+msgctxt "$_LANG['mailinglists']['mailing_lists']"
+msgid "Mailing Lists"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27mailing_list%27]
+msgctxt "$_LANG['mailinglists']['mailing_list']"
+msgid "Mailing List"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27subscribers%27]
+msgid "Subscribers"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27digest_subscribers%27]
+msgctxt "$_LANG['mailinglists']['digest_subscribers']"
+msgid "Digest Subscribers"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27actions%27]
+msgctxt "$_LANG['mailinglists']['actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27add_email_to_list%27]
+msgid "Add Email To List"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27email%27]
+msgctxt "$_LANG['mailinglists']['email']"
+msgid "Email"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27subscriber_type%27]
+msgid "Subscriber Type"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27add_to%27]
+msgid "add to"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27digest%27]
+msgid "digest"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27add_email_submit%27]
+msgid "Add Email"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27subscribers_list%27]
+msgid "Subscribers List"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27modify_mailing_list%27]
+msgid "Modify Mailing List"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27admin_password%27]
+msgctxt "$_LANG['mailinglists']['admin_password']"
+msgid "Admin Password"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27approve_password%27]
+msgid "Approve Password"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27reply_to%27]
+msgid "Reply To"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27restrict_post%27]
+msgid "Restrict Post"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27description%27]
+msgctxt "$_LANG['mailinglists']['description']"
+msgid "Description"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27digest_issue%27]
+msgid "Digest Issue"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27digest_volume%27]
+msgid "Digest Volume"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27digest_maxdays%27]
+msgid "Digest Maxdays"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27digest_maxlines%27]
+msgid "Digest Maxlines"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27precedence%27]
+msgid "Precedence"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27moderator%27]
+msgid "Moderator"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27subject_prefix%27]
+msgid "Subject Prefix"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27maxlength%27]
+msgid "Max Length"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27taboo_body%27]
+msgid "Taboo Body"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27taboo_headers%27]
+msgid "Taboo Headers"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27message_footer%27]
+msgid "Message Footer"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27message_fronter%27]
+msgid "Message Fronter"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27message_headers%27]
+msgid "Message Headers"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27save_settings%27]
+msgid "Save Settings"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27delete_confirmation_label%27]
+msgctxt "$_LANG['mailinglists']['delete_confirmation_label']"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27delete_confirmation_text%27]
+msgctxt "$_LANG['mailinglists']['delete_confirmation_text']"
+msgid "Are you sure that you want to remove this item?"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27cancel%27]
+msgctxt "$_LANG['mailinglists']['cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27confirm%27]
+msgctxt "$_LANG['mailinglists']['confirm']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27actions%27]
+msgctxt "$_LANG['mailinglists']['actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27cannot_load_list%27]
+msgid "Cannot Load List"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27no_data%27]
+msgid "No Data"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27delete%27]
+msgctxt "$_LANG['mailinglists']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27view%27]
+msgctxt "$_LANG['mailinglists']['view']"
+msgid "View"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27settings%27]
+msgctxt "$_LANG['mailinglists']['settings']"
+msgid "Settings"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27subscriber%27]
+msgid "Subscriber"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27type%27]
+msgctxt "$_LANG['mailinglists']['type']"
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27back%27]
+msgctxt "$_LANG['mailinglists']['back']"
+msgid "Back"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27yes%27]
+msgctxt "$_LANG['mailinglists']['yes']"
+msgid "Yes"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27no%27]
+msgid "No"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27invalid_chars%27]
+msgid ""
+"List name contains invalid characters (numeric and alphabetical characters "
+"are allowed‏ only)"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27save_result_info%27]
+msgid "Mailing list has been modified successfully"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27add_result_info%27]
+msgid "Email has been added to the list successfully"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27view_result_info%27]
+msgctxt "$_LANG['mailinglists']['view_result_info']"
+msgid ""
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27delete_result_info%27]
+msgid "Mailing list has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27create_result_info%27]
+msgid "Mailing list has been added successfully"
+msgstr ""
+
+#: %24_LANG[%27mailinglists%27][%27delete_acc_result_info%27]
+msgid "Email has been removed from the list successfully"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27main_header%27]
+msgctxt "$_LANG['filemanager']['main_header']"
+msgid "File Manager"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27main_hint%27]
+msgid "On this page you can manage your files."
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27file_name%27]
+msgid "File Name"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27file_size%27]
+msgid "File Size"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27modified%27]
+msgid "Modified"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27permissions%27]
+msgctxt "$_LANG['filemanager']['permissions']"
+msgid "Permissions"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27uid%27]
+msgid "Uid"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27gid%27]
+msgid "Gid"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27actions%27]
+msgctxt "$_LANG['filemanager']['actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27upload%27]
+msgctxt "$_LANG['filemanager']['upload']"
+msgid "Upload"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27select_file%27]
+msgid "Select File"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27upload_path%27]
+msgid "Upload Path"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27cancel%27]
+msgctxt "$_LANG['filemanager']['cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27create_dir%27]
+msgid "Create Directory"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27dir_name%27]
+msgid "Directory Name"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27create_in%27]
+msgid "Create In"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27create%27]
+msgctxt "$_LANG['filemanager']['create']"
+msgid "Create"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27delete%27]
+msgctxt "$_LANG['filemanager']['delete']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27are_you_sure_delete%27]
+msgctxt "$_LANG['filemanager']['are_you_sure_delete']"
+msgid "Are you sure that you want to remove this item?"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27yes%27]
+msgctxt "$_LANG['filemanager']['yes']"
+msgid "Yes"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27copy%27]
+msgctxt "$_LANG['filemanager']['copy']"
+msgid "Copy"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27replace_warning_text%27]
+msgid "Replace Warning Text"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27copy_to%27]
+msgid "Copy To"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27overwrite%27]
+msgid "Overwrite"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27rename%27]
+msgid "Rename"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27rename_to%27]
+msgid "Rename To"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27change_permissions%27]
+msgid "Change Permissions"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27owner%27]
+msgid "Owner"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27group%27]
+msgid "Group"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27others%27]
+msgctxt "$_LANG['filemanager']['others']"
+msgid "Others"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27read%27]
+msgid "Read"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27write%27]
+msgid "Write"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27execute%27]
+msgid "Execute"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27change%27]
+msgctxt "$_LANG['filemanager']['change']"
+msgid "Change"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27no_files_are_available%27]
+msgid "No Files Are Available"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27chmod%27]
+msgctxt "$_LANG['filemanager']['chmod']"
+msgid "Permissions"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27ok%27]
+msgid "OK"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27file_req%27]
+msgid "File Required"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27file_req_desc%27]
+msgid "It is required to choose at least one file."
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27filenames_warning%27]
+msgid ""
+"Note: Using special characters in file names is not supported by DirectAdmin "
+"server.‏"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27create_dir_result_info%27]
+msgid "Directory has been created successfully‏"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27delete_result_info%27]
+msgid "Files have been deleted successfully‏"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27copy_result_info%27]
+msgid "File has been copied successfully"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27chmod_result_info%27]
+msgid "Permissions have been set successfully‏"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27rename_result_info%27]
+msgid "File has been renamed successfully‏"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27upload_result_info%27]
+msgid "File has been uploaded successfully"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27your_files%27]
+msgid "Your Files"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27maximum_file_size%27]
+msgid "Maximum file size is"
+msgstr ""
+
+#: %24_LANG[%27filemanager%27][%27file_is_to_big%27]
+msgid "File size limit has been exceeded"
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27main_header%27]
+msgctxt "$_LANG['errorpages']['main_header']"
+msgid "Custom Error Pages"
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27main_hint%27]
+msgid "On this page you can edit apache error pages."
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27error_pages_list%27]
+msgid "Error Pages List"
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27page_name%27]
+msgid "Page Name"
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27file%27]
+msgid "File"
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27actions%27]
+msgctxt "$_LANG['errorpages']['actions']"
+msgid "Actions"
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27code401%27]
+msgid "401 Unauthorized"
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27code403%27]
+msgid "403 Forbidden"
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27code404%27]
+msgid "404 Not Found"
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27code500%27]
+msgid "500 Internal Server Error"
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27view%27]
+msgctxt "$_LANG['errorpages']['view']"
+msgid "View"
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27edit%27]
+msgctxt "$_LANG['errorpages']['edit']"
+msgid "Edit"
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27edit_label%27]
+msgid "Error Page Edit"
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27error_page%27]
+msgid "Error Page"
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27edit_a_file%27]
+msgid "Edit A File"
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27cancel%27]
+msgctxt "$_LANG['errorpages']['cancel']"
+msgid "Cancel"
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27preview%27]
+msgid "Preview"
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27save%27]
+msgctxt "$_LANG['errorpages']['save']"
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27errorpages%27][%27edit_result_info%27]
+msgid "Page has been updated successfully"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27main_header%27]
+msgctxt "$_LANG['stats']['main_header']"
+msgid "Site Summary"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27main_hint%27]
+msgid "On this page you can check your site summary."
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27settings%27]
+msgctxt "$_LANG['stats']['settings']"
+msgid "Settings"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27setting%27]
+msgid "Setting"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27current_usage%27]
+msgid "Current Usage"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27maximum_usage%27]
+msgid "Maximum Usage"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27bandwidth%27]
+msgctxt "$_LANG['stats']['bandwidth']"
+msgid "Bandwidth (MB)"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27quota%27]
+msgid "Total Disk Usage (MB)"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27email_disk_usage%27]
+msgid "Email Disk Usage"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27database_disk_usage%27]
+msgid "Database Disk Usage"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27inodes%27]
+msgid "Inodes"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27domains%27]
+msgctxt "$_LANG['stats']['domains']"
+msgid "Domains"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27subdomains%27]
+msgid "SubDomains"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27pop_email_acounts%27]
+msgid "POP Email Accounts"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27email_forwarders%27]
+msgctxt "$_LANG['stats']['email_forwarders']"
+msgid "Email Forwarders"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27mailing_list%27]
+msgctxt "$_LANG['stats']['mailing_list']"
+msgid "Mailing List"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27autoresponders%27]
+msgid "AutoResponders"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27emails_usage%27]
+msgid "Emails Usage"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27day%27]
+msgctxt "$_LANG['stats']['day']"
+msgid "Day"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27sent_emials%27]
+msgid "Sent Emails"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27recived_emails%27]
+msgid "Received Emails"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27mysql_databases%27]
+msgid "MySQL Databases"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27domain_pointers%27]
+msgctxt "$_LANG['stats']['domain_pointers']"
+msgid "Domain Pointers"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27ftp_acounts%27]
+msgctxt "$_LANG['stats']['ftp_acounts']"
+msgid "FTP Accounts"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27email%27]
+msgctxt "$_LANG['stats']['email']"
+msgid "Email"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27name%27]
+msgctxt "$_LANG['stats']['name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27language%27]
+msgctxt "$_LANG['stats']['language']"
+msgid "Language"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27ip%27]
+msgid "IP"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27name_server_1%27]
+msgid "Name Server 1"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27name_server_2%27]
+msgid "Name Server 2"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27shell_access%27]
+msgid "Shell Access (SSH)"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27secure_socket_layer%27]
+msgid "Secure Socket Layer (SSL)"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27cgibin%27]
+msgid "CGI-Bin"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27php%27]
+msgid "PHP"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27spamassasin%27]
+msgid "SpamAssasin"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27catch_all_email%27]
+msgid "Catch-All Email"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27anonymous_ftp%27]
+msgid "Anonymous Ftp"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27cron_jobs%27]
+msgctxt "$_LANG['stats']['cron_jobs']"
+msgid "Cron Jobs"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27system_info%27]
+msgid "System Info"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27login_keys%27]
+msgid "Login Keys"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27dns_control%27]
+msgid "DNS Control"
+msgstr ""
+
+#: %24_LANG[%27stats%27][%27suspend_at_limit%27]
+msgid "Suspend At Limit"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27main_header%27]
+msgctxt "$_LANG['spamassasin']['main_header']"
+msgid "Spamassassin Setup"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27main_hint%27]
+msgid "On this page you can configure your Spamassasin."
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27spamassasin_is_not_currently_enabled%27]
+msgid "SpamAssassin is not currently enabled."
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27click_save_to_enable_it%27]
+msgid "Click \"Save\" below to enable it. "
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27spamassasin_is_currently_enabled%27]
+msgid "SpamAssassin is currently enabled."
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27disable%27]
+msgctxt "$_LANG['spamassasin']['disable']"
+msgid "Disable"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27where_do_you_want_the_spam_go_to%27]
+msgid "Where do you want the spam to go?"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27inbox%27]
+msgid "Inbox (don't block it)"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27redirect_to_catchall%27]
+msgid "Redirect it to the catch-all spam folder in your main imap account."
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27send_the_spam_to_the_user_spam_folder%27]
+msgid "Send the spam to the user's spam folder."
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27delete_the_spam%27]
+msgid "Delete the spam."
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27what_score_threshold_do_you_wish_to_use%27]
+msgid "What score threshold do you wish to use?"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27a_lower_threshold_will_block_more_spam%27]
+msgid ""
+"A lower threshold will block more spam, but can potentially tag a legitimate "
+"mail."
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27a_higher_threshold_will_let_more_spam_through%27]
+msgid ""
+"A higher threshold will let more spam through, but is less likely to tag a "
+"legitimate mail."
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27low_threshold%27]
+msgid "Low Threshold (5.0)"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27medium_threshold%27]
+msgid "Medium Threshold (7.5)"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27high_threshold%27]
+msgid "High Threshold (10.0)"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27custom_threshold%27]
+msgid "Custom Threshold"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27would_toy_like_to_delete_high_scoring_spam%27]
+msgid "Would you like to delete the high scoring spam?"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27yes_block_all_spam_scoring_higher_than%27]
+msgid "Yes, block all spam scoring higher than"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27no_decimals%27]
+msgid "(1-50, no decimals)"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27no_do_not_block_high_scoring_spam%27]
+msgid ""
+"No, do not block the high scoring spam. Use only the threshold from the "
+"previous section."
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27do_you_wish_to_rewrite_the_subject%27]
+msgid "Do you wish to rewrite the subject of a spam email?"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27yes_set_the_subject_to_the_following%27]
+msgid "Yes, set the subject to the following"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27no_leave_the_subject_unchanged%27]
+msgid "No, leave the subject unchanged."
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27how_should_the_spam_be_delivered%27]
+msgid "How should the spam be delivered?"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27how_deliver_info%27]
+msgid ""
+"Attachments will separate the spam into its own messages, preventing scripts "
+"from being run.<br />Text-only attachments are used for increased safety.<br "
+"/>Not using attachments will leave the spam unaltered except for spam "
+"headers."
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27dont_use_attachments%27]
+msgid "Don't use attachments (dangerous)."
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27use_attachments%27]
+msgid "Use attachments."
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27use_textonly_attachments%27]
+msgid "Use text-only attachments."
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27email_blacklist%27]
+msgid "Email Blacklist"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27email_blacklist_info%27]
+msgid ""
+"This is the list of email addresses that will be blocked.<br />Any email "
+"from these addresses will automatically be tagged as spam.<br />One email "
+"per line, no commas, etc. * and ? are both valid.<br />eg: *@domain.com"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27email_whitelist%27]
+msgid "Email Whitelist"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27email_whitelist_info%27]
+msgid ""
+"This is the list of email addresses that will be allowed through, regardless "
+"of content.<br />The format is the same as for the Email Blacklist"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27save%27]
+msgctxt "$_LANG['spamassasin']['save']"
+msgid "Save"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27turned_off%27]
+msgid "Your administrator has turned off Spamassasin for your account."
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27save_result_error%27]
+msgid "Something has gone wrong. Please try again later"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27save_result_info%27]
+msgid "Configuration has been saved successfully"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27spamassasin_disabled%27]
+msgid "Spamassasin is disabled on your account"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27spamassasin_unknown_error%27]
+msgid "Unknown error"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27invalid_high_score%27]
+msgid "High score needs to be a number between 1 and 50"
+msgstr ""
+
+#: %24_LANG[%27spamassasin%27][%27invalid_required_hits_custom%27]
+msgid "Custom threshold needs to be a positive number"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27main_header%27]
+msgctxt "$_LANG['installapp']['main_header']"
+msgid "Applications"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27main_hint%27]
+msgid ""
+"Manage your applications here. View the already set up applications and "
+"backups, install new ones."
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27installed_apps%27]
+msgid "Installed Applications"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27backups%27]
+msgctxt "$_LANG['installapp']['backups']"
+msgid "Backups"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27your_installed_apps%27]
+msgid "List Of Installed Applications"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27your_apps_backups%27]
+msgid "List Of Applications Backups"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27sorry_no_applicatons_in_this_group%27]
+msgid "Sorry, there are no applications in this group"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27sorry_no_applicatons_to_install%27]
+msgid "Sorry, there are no applications available to install"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27delete_confirmation%27]
+msgctxt "$_LANG['installapp']['delete_confirmation']"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27path%27]
+msgctxt "$_LANG['installapp']['path']"
+msgid "Path"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27confirm%27]
+msgctxt "$_LANG['installapp']['confirm']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27generate_backup_title%27]
+msgid "Generate Backup"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27generate_backup_body%27]
+msgid "Are you sure that you want to generate backup of this application?"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27delete_backup_title%27]
+msgctxt "$_LANG['installapp']['delete_backup_title']"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27delete_backup_body%27]
+msgid "Are you sure that you want to remove this backup?"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27restore_backup_title%27]
+msgid "Restore Confirmation"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27restore_backup_body%27]
+msgid "Are you sure that you want to restore this backup?"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27delete_app_title%27]
+msgctxt "$_LANG['installapp']['delete_app_title']"
+msgid "Delete Confirmation"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27delete_app_body%27]
+msgid "Are you sure that you want to remove this application?"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27new_task_added_to_queue%27]
+msgid "New task has been added to queue"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27create_backup%27]
+msgctxt "$_LANG['installapp']['create_backup']"
+msgid "Create Backup"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27restore_backup%27]
+msgctxt "$_LANG['installapp']['restore_backup']"
+msgid "Restore Backup"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27delete_backup%27]
+msgctxt "$_LANG['installapp']['delete_backup']"
+msgid "Delete Backup"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27edit_application%27]
+msgctxt "$_LANG['installapp']['edit_application']"
+msgid "Edit Application"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27delete_application%27]
+msgctxt "$_LANG['installapp']['delete_application']"
+msgid "Delete Application"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27install_application%27]
+msgctxt "$_LANG['installapp']['install_application']"
+msgid "Install Application"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27processing%27]
+msgctxt "$_LANG['installapp']['processing']"
+msgid "Processing..."
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27completed%27]
+msgctxt "$_LANG['installapp']['completed']"
+msgid "Completed"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27error%27]
+msgid "Error"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27cannot_update_task_list%27]
+msgid "Task list cannot be updated"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27info_backup_created%27]
+msgid "Backup has been created successfully"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27info_backup_restored%27]
+msgctxt "$_LANG['installapp']['info_backup_restored']"
+msgid "Backup has been restored successfully"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27info_backup_deleted%27]
+msgid "Backup has been deleted successfully"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27info_app_uinstalled%27]
+msgid "Your application has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27info_app_installed%27]
+msgid "Your application has been installed successfully"
+msgstr ""
+
+#: %24_LANG[%27installapp%27][%27toggle_all%27]
+msgid "Toggle All"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27main_header%27]
+msgctxt "$_LANG['backups']['main_header']"
+msgid "Backups"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27main_hint%27]
+msgid ""
+"Download a zipped copy of your entire site or a part of your site that you "
+"can save to your computer. When you backup your website, you have an extra "
+"copy of your information in case something happens to your host. For more "
+"information, read the documentation."
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27delete_confirmation_label%27]
+msgctxt "$_LANG['backups']['delete_confirmation_label']"
+msgid "Delete Backup"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27delete_confirmation_text%27]
+msgid "Are you sure that you want to delete this backup?"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27remove_success%27]
+msgid "Backup has been removed successfully"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27restore_success%27]
+msgctxt "$_LANG['backups']['restore_success']"
+msgid "Backup has been restored successfully"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27no_setting_info%27]
+msgid "There is no option to check"
+msgstr ""
+
+#: %24_LANG[%27backups%27][%27resotre_backup%27]
+msgctxt "$_LANG['backups']['resotre_backup']"
+msgid "Restore Backup"
+msgstr ""
+
+#: %24_LANG[%27perlmodules%27][%27main_header%27]
+msgctxt "$_LANG['perlmodules']['main_header']"
+msgid "Perl Modules"
+msgstr ""
+
+#: %24_LANG[%27perlmodules%27][%27main_hint%27]
+msgid "On this page you can check Perl Modules."
+msgstr ""
+
+#: %24_LANG[%27perlmodules%27][%27perl_modules_list%27]
+msgid "Perl Modules List"
+msgstr ""
+
+#: %24_LANG[%27all%27][%27switch_domain%27]
+msgid "Switch Domain"
+msgstr ""
+
+#: %24_LANG[%27ssl%27][%27certificateRequestTitle%27]
+msgid "Certificate Request Body"
 msgstr ""

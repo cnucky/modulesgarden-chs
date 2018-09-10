@@ -137,6 +137,7 @@ $_LANG['pages']['functions']['option_label']['show_server_ip'] = "Show Server IP
 $_LANG['pages']['functions']['option_label']['show_ssl_encrypt'] = "Show Let's Encrypt Button";
 
 
+
 $_LANG['all']['close'] = "Close";
 $_LANG['all']['confirm'] = "Confirm";
 $_LANG['all']['delete_confirmation'] = "Delete Confirmation";
@@ -172,7 +173,7 @@ $_LANG['jsvalidator']['maxval'] = "Value of this field cannot be greater than :n
 
 /**************************
  * 
- *       MAIN SITE
+ * MAIN SITE
  * 
  **************************/
 
@@ -217,7 +218,7 @@ $_LANG['mainsite']['dedicated_ip'] = "Dedicated IP Address";
 
 /*********************************
  * 
- *      FTP MANAGEMENT
+ * FTP MANAGEMENT
  * 
  *********************************/
 
@@ -236,7 +237,7 @@ $_LANG['ftp']['directory_label'] = 'Directory';
 $_LANG['ftp']['quota_label'] = 'Quota:';
 $_LANG['ftp']['quota_unlimited'] = 'Unlimited';
 $_LANG['ftp']['add_submit_text'] = 'Create FTP Account';
-$_LANG['ftp']['add_loader_text'] = 'Creating...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['ftp']['add_loader_text'] = 'Creating...'; 
 $_LANG['ftp']['add_ftp_result_info'] = 'Account has been created successfully';
 $_LANG['ftp']['add_ftp_result_error'] = 'A problem has occurred during the account creation';
 
@@ -255,9 +256,9 @@ $_LANG['ftp']['chg_quota_error_text'] = 'A problem has occurred during the accou
 $_LANG['ftp']['chg_quota_error2_text'] = 'Account quota cannot be changed';
 $_LANG['ftp']['del_account_bookmark'] = 'Delete';
 $_LANG['ftp']['del_account_label'] = 'Delete account:';
-$_LANG['ftp']['del_account_submit_text'] = 'Delete'; // CHANGED IN 1.6.0 VERSION
+$_LANG['ftp']['del_account_submit_text'] = 'Delete'; 
 $_LANG['ftp']['del_files_submit_text'] = 'Delete Account And Files';
-$_LANG['ftp']['del_account_loader_text'] = 'Deleting...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['ftp']['del_account_loader_text'] = 'Deleting...'; 
 $_LANG['ftp']['del_account_info_text'] = 'Account deleted';
 $_LANG['ftp']['del_account_error_text'] = 'A problem has occurred during the account deletion:';
 $_LANG['ftp']['del_account_error2_text'] = 'Account cannot be removed';
@@ -290,15 +291,15 @@ $_LANG['ftp']['user_label'] = 'User';
 $_LANG['ftp']['user_info_label'] = 'FTP account with the root directory as the user\'s name in the public_html directory';
 $_LANG['ftp']['custom_label'] = 'Custom';
 
-$_LANG['ftp']['delete_ftp_result_info']             =   'FTP account has been deleted successfully';
-$_LANG['ftp']['delete_ftp_result_error']            =   'A problem has occurred during the account deletion'.
-$_LANG['ftp']['delete_confirmation_title']          =   'Delete Confirmation'; 
-$_LANG['ftp']['delete_confirmation_body']           =  'Are you sure that you want to remove this item?'; 
+$_LANG['ftp']['delete_ftp_result_info'] = 'FTP account has been deleted successfully';
+$_LANG['ftp']['delete_ftp_result_error'] = 'A problem has occurred during the account deletion';
+$_LANG['ftp']['delete_confirmation_title'] = 'Delete Confirmation'; 
+$_LANG['ftp']['delete_confirmation_body'] = 'Are you sure that you want to remove this item?'; 
 
-$_LANG['ftp']['change_ftp_password_result_info']    =   'FTP password has been changed ';
+$_LANG['ftp']['change_ftp_password_result_info'] = 'FTP password has been changed ';
 /*********************************
  * 
- *          EMAILS
+ * EMAILS
  * 
  *********************************/
 
@@ -306,13 +307,13 @@ $_LANG['ftp']['change_ftp_password_result_info']    =   'FTP password has been c
 $_LANG['emails']['main_header'] = 'Emails';
 $_LANG['emails']['main_hint'] = 'In this area, you can manage the email accounts associated with your domains.';
 $_LANG['emails']['add_header'] = 'Add Email Accounts';
-$_LANG['emails']['email_label'] = 'Email:'; // CHANGED IN 1.6.0 VERSION
+$_LANG['emails']['email_label'] = 'Email:'; 
 $_LANG['emails']['password_label'] = 'Password:';
 $_LANG['emails']['password2_label'] = 'Password (Again):';
 $_LANG['emails']['quota_label'] = 'Quota:';
 $_LANG['emails']['quota_unlimited'] = 'Unlimited';
 $_LANG['emails']['add_submit_text'] = 'Create Email Account';
-$_LANG['emails']['add_loader_text'] = 'Creating...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['emails']['add_loader_text'] = 'Creating...'; 
 $_LANG['emails']['add_result_info'] = 'Account has been created successfully';
 $_LANG['emails']['add_result_error'] = 'A problem has occurred during the account creation: ';
 
@@ -325,8 +326,8 @@ $_LANG['emails']['search_header'] = 'Search Email Accounts';
 $_LANG['emails']['search_input_value'] = 'Search Accounts';
 $_LANG['emails']['search_submit_text'] = 'Search Accounts';
 $_LANG['emails']['search_select_rows'] = 'Results per page:';
-$_LANG['emails']['search_loader_text'] = 'Loading...'; // CHANGED IN 1.6.0 VERSION
-$_LANG['emails']['search_loader2_text'] = 'Searching...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['emails']['search_loader_text'] = 'Loading...'; 
+$_LANG['emails']['search_loader2_text'] = 'Searching...'; 
 
 ### EDIT EMAIL TABLE
 $_LANG['emails']['edit_tblhead_account'] = 'Account @ Domain';
@@ -336,20 +337,20 @@ $_LANG['emails']['search_results_error'] = 'No result to display.';
 $_LANG['emails']['search_results_empty'] = 'No accounts have been found.';
 $_LANG['emails']['chg_password_bookmark'] = 'Change Password';
 $_LANG['emails']['chg_password_submit_text'] = 'Save Options';
-$_LANG['emails']['chg_password_loader_text'] = 'Changing...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['emails']['chg_password_loader_text'] = 'Changing...'; 
 $_LANG['emails']['chg_password_info_text'] = 'Options have been saved';
 $_LANG['emails']['chg_password_error_text'] = 'A problem has occurred during the account password change: ';
 $_LANG['emails']['chg_quota_bookmark'] = 'Change Options';
 $_LANG['emails']['chg_quota_submit_text'] = 'Change Quota';
-$_LANG['emails']['chg_quota_loader_text'] = 'Changing...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['emails']['chg_quota_loader_text'] = 'Changing...'; 
 $_LANG['emails']['chg_quota_info_text'] = 'Account quota has been changed';
 $_LANG['emails']['chg_quota_error_text'] = 'A problem has occurred during the account quota change: ';
 $_LANG['emails']['chg_quota_error2_text'] = 'Account quota could not be unchanged';
 $_LANG['emails']['del_account_bookmark'] = 'Delete';
 $_LANG['emails']['del_account_label'] = 'Delete account:';
-$_LANG['emails']['del_account_submit_text'] = 'Delete'; // CHANGED IN 1.6.0 VERSION
+$_LANG['emails']['del_account_submit_text'] = 'Delete'; 
 $_LANG['emails']['del_files_submit_text'] = 'Delete Account And Files';
-$_LANG['emails']['del_account_loader_text'] = 'Deleting...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['emails']['del_account_loader_text'] = 'Deleting...'; 
 $_LANG['emails']['delete_email_result_info'] = 'Account has been deleted successfully';
 $_LANG['emails']['delete_email_result_error'] = 'A problem has occurred during the account deletion.';
 $_LANG['emails']['del_account_error2_text'] = 'Account cannot be removed';
@@ -362,18 +363,18 @@ $_LANG['emails']['valid_password_error2'] = 'Password cannot include spaces.';
 $_LANG['emails']['valid_password_error3'] = 'Passwords do not match.';
 $_LANG['emails']['generate_password'] = 'Generate Password';
 
-$_LANG['emails']['add_email_result_info']   =   'Account has been created successfully';
-$_LANG['emails']['add_email_result_error']   =   'Account cannot be created';
-$_LANG['emails']['delete_confirmation_title']         =   'Delete Confirmation';
-$_LANG['emails']['delete_confirmation_body']           =  'Are you sure that you want to remove this item?'; 
-$_LANG['emails']['change_email_password_result_info']   =   'Account password has been updated successfully';
-$_LANG['emails']['chg_account']                         =   'Modify account';
-$_LANG['emails']['update_result_error']                 =   'Account cannot be updated';
-$_LANG['emails']['update_result_info']                  =   'Account has been updated successfully';
+$_LANG['emails']['add_email_result_info'] = 'Account has been created successfully';
+$_LANG['emails']['add_email_result_error'] = 'Account cannot be created';
+$_LANG['emails']['delete_confirmation_title'] = 'Delete Confirmation';
+$_LANG['emails']['delete_confirmation_body'] = 'Are you sure that you want to remove this item?'; 
+$_LANG['emails']['change_email_password_result_info'] = 'Account password has been updated successfully';
+$_LANG['emails']['chg_account'] = 'Modify account';
+$_LANG['emails']['update_result_error'] = 'Account cannot be updated';
+$_LANG['emails']['update_result_info'] = 'Account has been updated successfully';
 
 /*********************************
  * 
- *         SUBDOMAINS
+ * SUBDOMAINS
  * 
  *********************************/
 
@@ -385,7 +386,7 @@ $_LANG['subdomains']['add_header'] = 'Create Subdomain';
 $_LANG['subdomains']['subdomain_label'] = 'Subdomain:';
 $_LANG['subdomains']['root_label'] = 'Document Root:';
 $_LANG['subdomains']['add_submit_text'] = 'Create Subdomain';
-$_LANG['subdomains']['add_loader_text'] = 'Creating...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['subdomains']['add_loader_text'] = 'Creating...'; 
 $_LANG['subdomains']['add_result_info'] = 'has been created.';
 $_LANG['subdomains']['add_result_error'] = 'A problem has occurred during the subdomain creation:';
 
@@ -394,8 +395,8 @@ $_LANG['subdomains']['search_header'] = 'Modify Subdomain';
 $_LANG['subdomains']['search_input_value'] = 'Search Domains';
 $_LANG['subdomains']['search_submit_text'] = 'Go';
 $_LANG['subdomains']['search_select_rows'] = 'Results per page:';
-$_LANG['subdomains']['search_loader_text'] = 'Loading...'; // CHANGED IN 1.6.0 VERSION
-$_LANG['subdomains']['search_loader2_text'] = 'Searching...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['subdomains']['search_loader_text'] = 'Loading...'; 
+$_LANG['subdomains']['search_loader2_text'] = 'Searching...'; 
 
 ### EDIT SUBDOMAIN TABLE
 $_LANG['subdomains']['edit_tblhead_domain'] = 'Subdomains.Root Domain';
@@ -408,18 +409,18 @@ $_LANG['not_redirected_text'] = 'not redirected';
 $_LANG['subdomains']['chg_sub_cancel_text'] = 'Cancel';
 $_LANG['subdomains']['remove_bookmark'] = 'Remove';
 $_LANG['subdomains']['remove_sub_label'] = 'Remove Subdomain:';
-$_LANG['subdomains']['remove_sub_submit_text'] = 'Remove'; // CHANGED IN 1.6.0 VERSION
-$_LANG['subdomains']['remove_sub_loader_text'] = 'Removing...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['subdomains']['remove_sub_submit_text'] = 'Remove'; 
+$_LANG['subdomains']['remove_sub_loader_text'] = 'Removing...'; 
 $_LANG['subdomains']['remove_sub_info_text'] = 'Subdomain has been removed:';
 $_LANG['subdomains']['remove_sub_error_text'] = 'A problem has occurred during the subdomain removal:';
 $_LANG['subdomains']['chg_directon_bookmark'] = 'Manage Direction';
 $_LANG['subdomains']['redirects to'] = 'redirects to';
 $_LANG['subdomains']['dis_redirect_sub_submit_text'] = 'Disable Redirection';
 $_LANG['subdomains']['redirect_sub_submit_text'] = 'Redirect';
-$_LANG['subdomains']['redirect_sub_loader_text'] = 'Redirecting...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['subdomains']['redirect_sub_loader_text'] = 'Redirecting...'; 
 $_LANG['subdomains']['redirect_sub_info_text'] = 'Subdomain has been redirected:';
 $_LANG['subdomains']['redirect_sub_error_text'] = 'A problem has occurred during the subdomain redirection:';
-$_LANG['subdomains']['dis_redirect_sub_loader_text'] = 'Disabling...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['subdomains']['dis_redirect_sub_loader_text'] = 'Disabling...'; 
 $_LANG['subdomains']['dis_redirect_sub_info_text'] = 'Redirection for subdomain has been disabled:';
 $_LANG['subdomains']['dis_redirect_sub_error_text'] = 'A problem has occurred when disabling the subdomain redirection.';
 $_LANG['subdomains']['dis_redirect_sub_error_text2'] = 'An error has occurred. The operation could not be performed correctly. Refresh this page.';
@@ -438,7 +439,7 @@ $_LANG['subdomains']['del_result_error'] = "Subdomain cannot be deleted";
 
 /****************************
  * 
- *      ADDON DOMAIN
+ * ADDON DOMAIN
  * 
  ****************************/
 
@@ -452,19 +453,19 @@ $_LANG['addondomains']['add_addondomain_password_label'] = 'Password:';
 $_LANG['addondomains']['add_addondomain_password2_label'] = 'Password (Again):';
 $_LANG['addondomains']['add_addondomain_directory_label'] = 'Document Root:';
 $_LANG['addondomains']['add_addondomain_submit_text'] = 'Add Domain';
-$_LANG['addondomains']['add_addondomain_loader_text'] = 'Creating...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['addondomains']['add_addondomain_loader_text'] = 'Creating...'; 
 $_LANG['addondomains']['add_addondomain_result_info1'] = 'The addon domain'; 
 $_LANG['addondomains']['add_addondomain_result_info2'] = 'has been created.';
 $_LANG['addondomains']['add_addondomain_result_info'] = 'Addon domain has been created successfully';
 $_LANG['addondomains']['add_addondomain_result_error'] = 'A problem has occurred during the addon domain creation: ';
 $_LANG['addondomains']['add_addondomain_hint'] = 'Hint: This featurehas to be enabled for your account before you can use it. Addon domains will not work unless the domain name is registered with a valid registrar and configured to point to the correct DNS servers.';
-$_LANG['addondomains']['add_bandwidth_label']  = 'Bandwidth:'; // CHANGED IN 1.6.0 VERSION
-$_LANG['addondomains']['add_diskspace_label']  = 'Disk space:'; // CHANGED IN 1.6.0 VERSION
-$_LANG['addondomains']['add_ssl_label']  = 'Secure SSL:'; // CHANGED IN 1.6.0 VERSION
-$_LANG['addondomains']['add_cgi_label']  = 'CGI Access:'; // CHANGED IN 1.6.0 VERSION
-$_LANG['addondomains']['add_php_label']  = 'PHP Access:'; // CHANGED IN 1.6.0 VERSION
-$_LANG['addondomains']['add_ignored_label']  = '(Ignored if not allowed)';
-$_LANG['addondomains']['quota_unlimited']  = 'Unlimited';
+$_LANG['addondomains']['add_bandwidth_label'] = 'Bandwidth:'; 
+$_LANG['addondomains']['add_diskspace_label'] = 'Disk space:'; 
+$_LANG['addondomains']['add_ssl_label'] = 'Secure SSL:'; 
+$_LANG['addondomains']['add_cgi_label'] = 'CGI Access:'; 
+$_LANG['addondomains']['add_php_label'] = 'PHP Access:'; 
+$_LANG['addondomains']['add_ignored_label'] = '(Ignored if not allowed)';
+$_LANG['addondomains']['quota_unlimited'] = 'Unlimited';
 
 ### SEARCH ADDONDOMAINS
 $_LANG['addondomains']['search_header'] = 'Modify Addon Domain';
@@ -485,9 +486,9 @@ $_LANG['addondomains']['modify_addondomain_search_results_error'] = 'The results
 $_LANG['addondomains']['modify_addondomain_search_results_empty'] = 'No addon domains are configured.';
 
 ### VALID ADDONDOMAIN
-$_LANG['addondomains']['valid_domainname_error1']   = 'That is not a valid domain.';
-$_LANG['addondomains']['valid_bandwidth_error1']    = 'That is not a valid value.';
-$_LANG['addondomains']['valid_disk_error1']         = 'That is not a valid value.';
+$_LANG['addondomains']['valid_domainname_error1'] = 'That is not a valid domain.';
+$_LANG['addondomains']['valid_bandwidth_error1'] = 'That is not a valid value.';
+$_LANG['addondomains']['valid_disk_error1'] = 'That is not a valid value.';
 $_LANG['addondomains']['valid_subdomain_user_error1'] = 'That is not a valid subdomain/FTP username.';
 $_LANG['addondomains']['valid_directory_error1'] = 'That is not a valid document root name.';
 $_LANG['addondomains']['valid_password_error1'] = 'Password cannot be empty.';
@@ -499,8 +500,8 @@ $_LANG['addondomains']['valid_password_error4'] = 'Password strength has to be a
 $_LANG['addondomains']['modify_addondomain_cancel_text'] = 'Cancel';
 $_LANG['addondomains']['modify_addondomain_remove_bookmark'] = 'Remove';
 $_LANG['addondomains']['modify_addondomain_remove_label'] = 'Remove addon domain:';
-$_LANG['addondomains']['modify_addondomain_remove_submit_text'] = 'Remove'; // CHANGED IN 1.6.0 VERSION
-$_LANG['addondomains']['modify_addondomain_remove_loader_text'] = 'Removing...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['addondomains']['modify_addondomain_remove_submit_text'] = 'Remove'; 
+$_LANG['addondomains']['modify_addondomain_remove_loader_text'] = 'Removing...'; 
 $_LANG['addondomains']['modify_addondomain_remove_info_text1'] = 'The addon domain';
 $_LANG['addondomains']['modify_addondomain_remove_info_text2'] = 'has been removed.';
 $_LANG['addondomains']['modify_addondomain_remove_error_text'] = 'A problem has occurred during the addon domain removal:';
@@ -508,24 +509,24 @@ $_LANG['addondomains']['modify_addondomain_redirecton_bookmark'] = 'Manage Redir
 $_LANG['addondomains']['modify_addondomain_redirects to'] = 'redirects to';
 $_LANG['addondomains']['modify_addondomain_disable_submit_text'] = 'Disable Redirection';
 $_LANG['addondomains']['modify_addondomain_redirect_submit_text'] = 'Redirect';
-$_LANG['addondomains']['modify_addondomain_redirect_loader_text'] = 'Redirecting...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['addondomains']['modify_addondomain_redirect_loader_text'] = 'Redirecting...'; 
 $_LANG['addondomains']['modify_addondomain_redirect_info_text'] = 'is now being redirected to';
 $_LANG['addondomains']['modify_addondomain_redirect_error_text'] = 'A problem has occurred during the addon domain redirection:';
-$_LANG['addondomains']['modify_addondomain_disable_loader_text'] = 'Disabling...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['addondomains']['modify_addondomain_disable_loader_text'] = 'Disabling...'; 
 $_LANG['addondomains']['modify_addondomain_disable_info_text'] = 'Redirection for addon domain has been disabled:';
 $_LANG['addondomains']['modify_addondomain_disable_error_text'] = 'A problem has occurred when disabling the addon domain redirection.';
 $_LANG['addondomains']['generate_password'] = 'Generate Password';
 
 
 ### DELETE ADDONDOMAINS
-$_LANG['addondomains']['delete_addondomain_result_info']    =   'Addon domain has been removed successfully';
-$_LANG['addondomains']['delete_addondomain_result_error']   =   'A problem has occurred during the addon domain removal.';
-$_LANG['addondomains']['delete_confirmation_title']         =   'Delete Confirmation';
-$_LANG['addondomains']['delete_confirmation_body']           =  'Are you sure that you want to remove this item?'; 
+$_LANG['addondomains']['delete_addondomain_result_info'] = 'Addon domain has been removed successfully';
+$_LANG['addondomains']['delete_addondomain_result_error'] = 'A problem has occurred during the addon domain removal.';
+$_LANG['addondomains']['delete_confirmation_title'] = 'Delete Confirmation';
+$_LANG['addondomains']['delete_confirmation_body'] = 'Are you sure that you want to remove this item?'; 
 
 /****************************
  * 
- *   PARKED DOMAIN
+ * PARKED DOMAIN
  * 
  ****************************/
 
@@ -540,13 +541,13 @@ $_LANG['parkeddomains']['add_parkeddomain_add_result_info'] = 'Domain pointer ha
 $_LANG['parkeddomains']['add_parkeddomain_result_error'] = 'A problem has occurred during the domain pointer addition:';
 $_LANG['parkeddomains']['add_parkeddomain_add_hint'] = 'Hint: Domains have to be registered with a valid registrar before they can be pointed. In addition, they will not be functional unless they are configured to point to your DNS servers.';
 $_LANG['parkeddomains']['add_parkeddomain_select_type'] = 'Select type:';
-$_LANG['parkeddomains']['add_parkeddomain_stype_alias'] = 'Alias'; // CHANGED IN 1.6.0 VERSION
-$_LANG['parkeddomains']['add_parkeddomain_stype_pointer'] = 'Pointer'; // CHANGED IN 1.6.0 VERSION
+$_LANG['parkeddomains']['add_parkeddomain_stype_alias'] = 'Alias'; 
+$_LANG['parkeddomains']['add_parkeddomain_stype_pointer'] = 'Pointer'; 
 $_LANG['parkeddomains']['valid_domainname_error1'] = 'That is not a valid domain.';
 
 ### VALID PARKED DOMAIN FORM
 $_LANG['parkeddomains']['valid_domainname_error1'] = 'That is not a valid domain.';
-$_LANG['parkeddomains']['add_loader_text'] = 'Creating...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['parkeddomains']['add_loader_text'] = 'Creating...'; 
 
 ### PARKEDDOMAINS SEARCH FORM
 $_LANG['parkeddomains']['search_parkeddomain_header'] = 'Search Domain Pointers';
@@ -555,7 +556,7 @@ $_LANG['parkeddomains']['search_parkeddomain_submit_text'] = 'Go';
 $_LANG['parkeddomains']['search_parkeddomain_count_select'] = 'Results per page:';
 
 ### MODIFY PARKED DOMAINS (TABLE)
-$_LANG['parkeddomains']['modify_parkeddomain_tblhead_domain'] = 'Source Domain'; // CHANGED IN 1.6.0 VERSION
+$_LANG['parkeddomains']['modify_parkeddomain_tblhead_domain'] = 'Source Domain'; 
 $_LANG['parkeddomains']['modify_parkeddomain_tblhead_targer_domain'] = 'Target Domain';
 $_LANG['parkeddomains']['modify_parkeddomain_tblhead_type'] = 'Type';
 $_LANG['parkeddomains']['search_loader_searching_text'] = 'Searching...';
@@ -573,10 +574,10 @@ $_LANG['parkeddomains']['modify_parkeddomain_search_list'] = 'Searching...';
 $_LANG['parkeddomains']['modify_parkeddomain_cancel_text'] = 'Cancel';
 
 ### remove
-$_LANG['parkeddomains']['modify_parkeddomain_delete_button_label'] = 'Delete'; // CHANGED IN 1.6.0 VERSION
+$_LANG['parkeddomains']['modify_parkeddomain_delete_button_label'] = 'Delete'; 
 $_LANG['parkeddomains']['modify_parkeddomain_remove_label'] = 'Remove domain pointer:';
 $_LANG['parkeddomains']['modify_parkeddomain_remove_submit_text'] = 'Remove Domain Pointer';
-$_LANG['parkeddomains']['modify_parkeddomain_remove_loader_text'] = 'Removing...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['parkeddomains']['modify_parkeddomain_remove_loader_text'] = 'Removing...'; 
 $_LANG['parkeddomains']['modify_parkeddomain_remove_info_text1'] = 'The domain pointer has been removed.';
 $_LANG['parkeddomains']['modify_parkeddomain_remove_info_text2'] = 'has been removed.';
 $_LANG['parkeddomains']['modify_parkeddomain_remove_error_text'] = 'A problem has occurred during the domain pointer removal:';
@@ -585,17 +586,17 @@ $_LANG['parkeddomains']['modify_parkeddomain_remove_error_text'] = 'A problem ha
 $_LANG['parkeddomains']['modify_parkeddomain_redirects to'] = 'redirects to';
 $_LANG['parkeddomains']['modify_parkeddomain_disable_submit_text'] = 'Disable Redirection';
 $_LANG['parkeddomains']['modify_parkeddomain_redirect_submit_text'] = 'Redirect';
-$_LANG['parkeddomains']['modify_parkeddomain_redirect_loader_text'] = 'Redirecting...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['parkeddomains']['modify_parkeddomain_redirect_loader_text'] = 'Redirecting...'; 
 $_LANG['parkeddomains']['modify_parkeddomain_redirect_info_text'] = 'is now being redirected to';
 $_LANG['parkeddomains']['modify_parkeddomain_redirect_error_text'] = 'A problem has occurred during the domain pointer redirection:';
-$_LANG['parkeddomains']['modify_parkeddomain_disable_loader_text'] = 'Disabling...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['parkeddomains']['modify_parkeddomain_disable_loader_text'] = 'Disabling...'; 
 $_LANG['parkeddomains']['modify_parkeddomain_disable_info_text'] = 'is now being redirected to nowhere (Redirection Disabled!)';
 $_LANG['parkeddomains']['modify_parkeddomain_disable_error_text'] = 'A problem has occurred when disabling the domain pointer redirection.';
 
-$_LANG['parkeddomains']['add_result_info']      =   'Domain pointer has been added successfully';
-$_LANG['parkeddomains']['add_result_error']     =   'Domain pointer cannot be added';
-$_LANG['parkeddomains']['del_result_info']      =   'Domain pointer has been deleted successfully ';
-$_LANG['parkeddomains']['del_result_error']     =   'Domain pointer cannot be deleted';
+$_LANG['parkeddomains']['add_result_info'] = 'Domain pointer has been added successfully';
+$_LANG['parkeddomains']['add_result_error'] = 'Domain pointer cannot be added';
+$_LANG['parkeddomains']['del_result_info'] = 'Domain pointer has been deleted successfully ';
+$_LANG['parkeddomains']['del_result_error'] = 'Domain pointer cannot be deleted';
 
 $_LANG['parkeddomains']['delete_confirmation_title'] = "Delete Confirmation";
 $_LANG['parkeddomains']['delete_confirmation_body'] = "Are you sure that you want to remove this item?";
@@ -604,7 +605,7 @@ $_LANG['parkeddomains']['delete_confirmation_body'] = "Are you sure that you wan
 
 /*********************************
  * 
- *        DATABSASES
+ * DATABSASES
  * 
  *********************************/
 
@@ -614,28 +615,28 @@ $_LANG['databases']['main_header'] = 'Databases';
 $_LANG['databases']['add_header'] = 'Create New Database';
 $_LANG['databases']['new_db_label'] = 'New Database:';
 $_LANG['databases']['new_db_submit_text'] = 'Create Database';
-$_LANG['databases']['new_db_loader_text'] = 'Creating...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['databases']['new_db_loader_text'] = 'Creating...'; 
 $_LANG['databases']['new_db_info_text'] = 'Database has been created successfully.';
 $_LANG['databases']['new_db_error_text'] = 'A problem has occurred during the database creation:';
 $_LANG['databases']['new_db_error1'] = 'Unknown error. Try again!';
 $_LANG['databases']['new_db_error2'] = 'Database cannot be created';
 $_LANG['databases']['new_db_error3'] = 'The database';
 $_LANG['databases']['new_db_error4'] = 'already exists!';
-$_LANG['databases']['new_db_priv_loader_text'] = 'Loading...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['databases']['new_db_priv_loader_text'] = 'Loading...'; 
 $_LANG['databases']['manage_user_privileges'] = 'Manage privileges for user';
 $_LANG['databases']['new_db_priv_submit'] = 'Change Privileges';
 $_LANG['databases']['new_db_del_priv_submit'] = 'Delete';
 $_LANG['databases']['new_db_priv_cancel'] = 'Cancel';
-$_LANG['databases']['new_db_priv_loader'] = 'Changing...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['databases']['new_db_priv_loader'] = 'Changing...'; 
 $_LANG['databases']['new_db_priv_info'] = 'Privileges have been updated.';
 $_LANG['databases']['new_db_priv_error'] = 'A problem has occurred during the user privileges change:';
-$_LANG['databases']['new_db_del_priv_loader'] = 'Deleting...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['databases']['new_db_del_priv_loader'] = 'Deleting...'; 
 $_LANG['databases']['new_db_del_priv_info'] = 'User has been deleted from database.';
 $_LANG['databases']['new_db_del_priv_error'] = 'A problem has occurred during the user deletion from the database:';
 $_LANG['databases']['new_db_del_db_label'] = 'Delete database:';
 $_LANG['databases']['new_db_del_db_submit'] = 'Delete';
 $_LANG['databases']['new_db_del_db_cancel'] = 'Cancel';
-$_LANG['databases']['new_db_del_db_loader'] = 'Deleting...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['databases']['new_db_del_db_loader'] = 'Deleting...'; 
 $_LANG['databases']['new_db_del_db_info'] = 'Database has been deleted successfully.';
 $_LANG['databases']['new_db_del_db_error'] = 'There are no databases associated with your account.';
 $_LANG['databases']['chg_sub_cancel_text'] = 'Cancel';
@@ -646,16 +647,16 @@ $_LANG['databases']['add_database_result_error'] = 'A problem has occurred durin
 $_LANG['databases']['delete_database_result_info'] = 'Database has been deleted successfully.';
 $_LANG['databases']['delete_database_result_error'] = 'A problem has occurred during the database deletion.';
 
-$_LANG['databases']['add_user_result_info']     =   'User added.';
-$_LANG['databases']['add_user_result_error']     =   'A problem has occurred during the user creation.';
+$_LANG['databases']['add_user_result_info'] = 'User added.';
+$_LANG['databases']['add_user_result_error'] = 'A problem has occurred during the user creation.';
 
-$_LANG['databases']['delete_user_result_info']  =   'User has been deleted from database.';
-$_LANG['databases']['delete_user_result_error'] =   'A problem has occurred during the user deletion from the database.';
+$_LANG['databases']['delete_user_result_info'] = 'User has been deleted from database.';
+$_LANG['databases']['delete_user_result_error'] = 'A problem has occurred during the user deletion from the database.';
 
 
 
 $_LANG['databases']['set_user_privilages_result_info'] = 'Privileges have been updated.';
-$_LANG['databases']['set_user_privilages_result_error'] =   'A problem has occurred during the user privileges change.';
+$_LANG['databases']['set_user_privilages_result_error'] = 'A problem has occurred during the user privileges change.';
 $_LANG['databases']['delete_confirmation_title'] = "Delete Confirmation";
 $_LANG['databases']['delete_confirmation_body'] = "Are you sure that you want to remove this item?";
 
@@ -664,8 +665,8 @@ $_LANG['databases']['current_db_header'] = 'Current Databases';
 $_LANG['databases']['current_db_input_value'] = 'Search Databases';
 $_LANG['databases']['current_db_submit_text'] = 'Search Databases';
 $_LANG['databases']['current_db_select_rows'] = 'Results per page:';
-$_LANG['databases']['current_db_loader_text'] = 'Loading...'; // CHANGED IN 1.6.0 VERSION
-$_LANG['databases']['current_db_loader2_text'] = 'Searching...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['databases']['current_db_loader_text'] = 'Loading...'; 
+$_LANG['databases']['current_db_loader2_text'] = 'Searching...'; 
 $_LANG['databases']['current_db_head_db'] = 'Database';
 $_LANG['databases']['current_db_head_size'] = 'Size';
 $_LANG['databases']['current_db_head_users'] = 'Users';
@@ -680,7 +681,7 @@ $_LANG['databases']['add_user_label_username'] = 'Username:';
 $_LANG['databases']['add_user_label_password'] = 'Password:';
 $_LANG['databases']['add_user_label_password2'] = 'Password (Again):';
 $_LANG['databases']['add_user_submit_text'] = 'Create User';
-$_LANG['databases']['add_user_loader_text'] = 'Creating...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['databases']['add_user_loader_text'] = 'Creating...'; 
 $_LANG['databases']['add_user_info'] = 'Added the user';
 $_LANG['databases']['add_user_error'] = 'A problem has occurred during the user addition:';
 
@@ -701,16 +702,16 @@ $_LANG['databases']['current_users_input_value'] = 'Search Users';
 $_LANG['databases']['current_users_submit_text'] = 'Search Accounts';
 $_LANG['databases']['current_users_select_rows'] = 'Results per page:';
 $_LANG['databases']['current_users_loader_text'] = 'Loading databases list...';
-$_LANG['databases']['current_users_loader2_text'] = 'Searching...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['databases']['current_users_loader2_text'] = 'Searching...'; 
 $_LANG['databases']['current_users_head_users'] = 'Users';
 $_LANG['databases']['current_users_head_actions'] = 'Actions';
 $_LANG['databases']['current_users_search_error'] = 'No results to display';
 $_LANG['databases']['current_users_search_empty'] = 'There are no users associated with your account.';
 $_LANG['databases']['current_users_bookmark_delete'] = 'Delete';
-$_LANG['databases']['current_users_lbl_delete'] = 'Delete user:'; // CHANGED IN 1.6.0 VERSION
-$_LANG['databases']['current_users_delete_submit'] = 'Delete'; // CHANGED IN 1.6.0 VERSION
+$_LANG['databases']['current_users_lbl_delete'] = 'Delete user:'; 
+$_LANG['databases']['current_users_delete_submit'] = 'Delete'; 
 $_LANG['databases']['current_users_delete_cancel'] = 'Cancel';
-$_LANG['databases']['current_users_delete_loader'] = 'Deleting...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['databases']['current_users_delete_loader'] = 'Deleting...'; 
 $_LANG['databases']['current_users_delete_info'] = 'User deleted';
 $_LANG['databases']['current_users_delete_error'] = 'A problem has occurred during the user deletion:';
 $_LANG['databases']['dbname_valid1'] = 'The maximum input length for this field is 56 characters.';
@@ -723,17 +724,17 @@ $_LANG['databases']['password_valid3'] = 'Password cannot include spaces.';
 $_LANG['databases']['password_valid4'] = 'Passwords do not match.';
 $_LANG['databases']['generate_password'] = 'Generate Password';
 
-$_LANG['databases']['database_delete_confirmation_title']   =   'database_delete_confirmation_title';
-$_LANG['databases']['database_delete_confirmation_body']    =   'database_delete_confirmation_body';
-$_LANG['databases']['user_delete_confirmation_title']       =   'user_delete_confirmation_title';
-$_LANG['databases']['user_delete_confirmation_body']        =   'user_delete_confirmation_body';
+$_LANG['databases']['database_delete_confirmation_title'] = 'database_delete_confirmation_title';
+$_LANG['databases']['database_delete_confirmation_body'] = 'database_delete_confirmation_body';
+$_LANG['databases']['user_delete_confirmation_title'] = 'user_delete_confirmation_title';
+$_LANG['databases']['user_delete_confirmation_body'] = 'user_delete_confirmation_body';
 
 $_LANG['databases']['field_required'] = "This field is required";
 
 
 /*********************************
  * 
- *          FORWARD DOMAINS
+ * FORWARD DOMAINS
  * 
  *********************************/
 
@@ -747,7 +748,7 @@ $_LANG['forwarddomains']['add_aforward_main_header'] = 'Email Forwarders';
 $_LANG['forwarddomains']['add_aforward_hint'] = 'Redirects allow you to make a specific web page redirect to another page and display the contents of that page. This way you can make a page with a long URL accessible by a page which has a shorter and easier to remember URL.';
 $_LANG['forwarddomains']['add_aforward_sub_main_header'] = 'Add Redirection';
 $_LANG['forwarddomains']['add_aforward_address_header'] = 'Address';
-$_LANG['forwarddomains']['add_aforward_label'] = 'Local URL Path:'; // CHANGED IN 1.6.0 VERSION
+$_LANG['forwarddomains']['add_aforward_label'] = 'Local URL Path:'; 
 $_LANG['forwarddomains']['add_aforward_dest_header'] = 'Destination';
 $_LANG['forwarddomains']['add_aforward_dest_email'] = 'Forward to email address:';
 $_LANG['forwarddomains']['add_aforward_dest_discard1'] = 'Discard with error to sender (at SMTP time):';
@@ -759,7 +760,7 @@ $_LANG['forwarddomains']['add_aforward_advanced_system'] = 'Forward to a system 
 $_LANG['forwarddomains']['add_aforward_advanced_pipe'] = 'Pipe to a Program:';
 $_LANG['forwarddomains']['add_aforward_advanced_pipe_hint'] = 'When piping to a program, you should enter a path relative to your home directory. If the script requires an interpreter such as Perl or PHP, you should omit the /usr/bin/perl or /usr/bin/php portion. Make sure that your script is executable and has the appropriate hashbang at the top of the script. If you do not know how to add the hashbang, just make sure to name your script file with the correct extension and you will be prompted to have the hashbang added automatically. ';
 $_LANG['forwarddomains']['add_aforward_advanced_discard'] = 'Discard (Not Recommended) ';
-$_LANG['forwarddomains']['add_aforward_loader'] = 'Creating...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['forwarddomains']['add_aforward_loader'] = 'Creating...'; 
 $_LANG['forwarddomains']['add_aforward_info_text'] = 'New site redirection has been created';
 $_LANG['forwarddomains']['add_aforward_error_text1'] = 'A problem has occurred during the new email forwarder creation.';
 $_LANG['forwarddomains']['add_aforward_error_text2'] = 'A problem has probably occurred during the new email forwarder creation. Check the table of forwards.';
@@ -792,7 +793,7 @@ $_LANG['forwarddomains']['modify_aforward_search_list'] = 'Searching...';
 $_LANG['forwarddomains']['modify_aforward_delete_label'] = 'Delete this site redirection';
 $_LANG['forwarddomains']['modify_aforward_delete_button'] = 'Delete Forwarder';
 $_LANG['forwarddomains']['modify_aforward_delete_cancel'] = 'Cancel';
-$_LANG['forwarddomains']['modify_aforward_delete_loader'] = 'Deleting...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['forwarddomains']['modify_aforward_delete_loader'] = 'Deleting...'; 
 $_LANG['forwarddomains']['modify_aforward_info_text'] = 'The site redirection has been deleted';
 $_LANG['forwarddomains']['modify_aforward_error_text'] = 'A problem has occurred during the site redirection deletion. Try Again!';
 $_LANG['forwarddomains']['modify_aforward_error_text2'] = 'The site redirection cannot be deleted. Refresh the page';
@@ -830,10 +831,10 @@ $_LANG['forwarddomains']['modify_dforward_load_list'] = 'Loading...';
 $_LANG['forwarddomains']['modify_dforward_search_list'] = 'Searching...';
 
 ### MODIFY EMAIL DOMAIN FORWARDES (TABLE, DELETE BUTTON)
-$_LANG['forwarddomains']['modify_dforward_delete_label'] = 'Delete domain forwarder:'; // CHANGED IN 1.6.0 VERSION
-$_LANG['forwarddomains']['modify_dforward_delete_button'] = 'Delete'; // CHANGED IN 1.6.0 VERSION
+$_LANG['forwarddomains']['modify_dforward_delete_label'] = 'Delete domain forwarder:'; 
+$_LANG['forwarddomains']['modify_dforward_delete_button'] = 'Delete'; 
 $_LANG['forwarddomains']['modify_dforward_delete_cancel'] = 'Cancel';
-$_LANG['forwarddomains']['modify_dforward_delete_loader'] = 'Deleting...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['forwarddomains']['modify_dforward_delete_loader'] = 'Deleting...'; 
 $_LANG['forwarddomains']['modify_dforward_info_text'] = 'The domain forwarder has been deleted';
 $_LANG['forwarddomains']['modify_dforward_error_text'] = 'A problem has occurred during the domain forwarder deletion. Try Again!';
 $_LANG['forwarddomains']['modify_dforward_error_text2'] = 'The domain forwarder cannot be deleted. Refresh the page';
@@ -866,8 +867,8 @@ $_LANG['emailsforwarders']['add_forwarder_header'] = 'Add Forwarder';
 $_LANG['emailsforwarders']['label_email'] = 'Email name:';
 $_LANG['emailsforwarders']['label_forwarder_email'] = 'Destination Email:';
 $_LANG['emailsforwarders']['modify_dforward_delete_cancel'] = 'Cancel';
-$_LANG['emailsforwarders']['add_loader_text'] = 'Creating...'; // CHANGED IN 1.6.0 VERSION
-$_LANG['emailsforwarders']['mod_loader_text'] = 'Saving...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['emailsforwarders']['add_loader_text'] = 'Creating...'; 
+$_LANG['emailsforwarders']['mod_loader_text'] = 'Saving...'; 
 $_LANG['emailsforwarders']['add_result_info'] = 'Forwarder has been added successfully';
 $_LANG['emailsforwarders']['add_result_error'] = 'A problem has occurred during the forwarder addition.';
 $_LANG['emailsforwarders']['add_already_exists_error'] = 'Forwarder already exists.';
@@ -877,15 +878,15 @@ $_LANG['emailsforwarders']['edit_tblhead_from'] = 'From';
 $_LANG['emailsforwarders']['edit_tblhead_to'] = 'To';
 $_LANG['emailsforwarders']['edit_table_modify'] = 'Modify';
 $_LANG['emailsforwarders']['edit_table_delete'] = 'Delete';
-$_LANG['emailsforwarders']['del_forwarder_submit_text'] = 'Delete'; // CHANGED IN 1.6.0 VERSION
+$_LANG['emailsforwarders']['del_forwarder_submit_text'] = 'Delete'; 
 $_LANG['emailsforwarders']['del_forwarder_label'] = 'Delete Forwarder:';
 $_LANG['emailsforwarders']['chg_forwarder_cancel_text'] = 'Cancel';
-$_LANG['emailsforwarders']['del_forwarder_loader_text'] = 'Deleting...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['emailsforwarders']['del_forwarder_loader_text'] = 'Deleting...'; 
 $_LANG['emailsforwarders']['del_forwardert_info_text'] = 'Account deleted';
 $_LANG['emailsforwarders']['search_results_empty'] = 'No forwarders have been found.';
 $_LANG['emailsforwarders']['del_forwarder_error_text'] = 'A problem has occurred during the forwarder deletion:';
 $_LANG['emailsforwarders']['mod_forwarder_label'] = 'Forwarder name:';
-$_LANG['emailsforwarders']['refresh_loader_text'] = 'Loading...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['emailsforwarders']['refresh_loader_text'] = 'Loading...'; 
 $_LANG['emailsforwarders']['mod_forwarder_btn_save'] = 'Save changes';
 $_LANG['emailsforwarders']['valid_email_name_long_error'] = 'Email address cannot be longer than 128 characters.';
 $_LANG['emailsforwarders']['valid_email_name_error'] = 'That is not a valid name part of email address.';
@@ -895,18 +896,18 @@ $_LANG['emailsforwarders']['valid_email_address_error'] = 'That is not a valid e
 $_LANG['emailsforwarders']['add_aforward_main_header'] = 'Email Forwarders';
 $_LANG['emailsforwarders']['add_aforward_hint'] = 'Forwarders allow you to send a copy of all mail from one email address to another. For example, if you have two different email accounts, joe@example.com and joseph@example.com, you could forward joe@example.com to joseph@example.com so that you do not need to check both accounts. Note that the forwarded mail will still be delivered to the original address as well.';
 $_LANG['emailsforwarders']['modify_dforward_nodify_info'] = 'The domain forwarder has been modified';
-$_LANG['emailsforwarders']['modify_dforward_delete_loader'] = 'Deleting...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['emailsforwarders']['modify_dforward_delete_loader'] = 'Deleting...'; 
 $_LANG['emailsforwarders']['modify_dforward_info_text'] = 'The domain forwarder has been deleted';
 $_LANG['emailsforwarders']['modify_dforward_error_text'] = 'A problem has occurred during the domain forwarder deletion. Try Again!';
 $_LANG['emailsforwarders']['modify_dforward_error_text2'] = 'The domain forwarder cannot be deleted. Refresh the page';
 $_LANG['emailsforwarders']['search_header'] = 'Search Forwarders';
 $_LANG['emailsforwarders']['search_input_value'] = 'Search';
 $_LANG['emailsforwarders']['search_submit_text'] = 'Go';
-$_LANG['emailsforwarders']['search_loader_text'] = 'Searching...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['emailsforwarders']['search_loader_text'] = 'Searching...'; 
 $_LANG['emailsforwarders']['search_no_result'] = 'No forwarders are configured';
 $_LANG['emailsforwarders']['search_error'] = 'The results cannot be displayed. Try again.';
-$_LANG['emailsforwarders']['chg_result_info']       =   'Forwarder has been changed successfully';
-$_LANG['emailsforwarders']['chg_result_error']      =   'Unknown error. Please try again later.';
+$_LANG['emailsforwarders']['chg_result_info'] = 'Forwarder has been changed successfully';
+$_LANG['emailsforwarders']['chg_result_error'] = 'Unknown error. Please try again later.';
 $_LANG['emailsforwarders']['delete_confirmation_title'] = "Delete Confirmation";
 $_LANG['emailsforwarders']['delete_confirmation_body'] = "Are you sure that you want to remove this item?";
 $_LANG['emailsforwarders']['field_required'] = "This field is required";
@@ -1070,7 +1071,7 @@ $_LANG['cron']['confirmation_body'] = "Are you sure that you want to remove this
 
 /*********************************
  * 
- *      INSTALL APPS
+ * INSTALL APPS
  * 
  *********************************/
 
@@ -1102,33 +1103,33 @@ $_LANG['installapp']['softaculous_catname']['dbtools'] = 'dbtools';
 $_LANG['installapp']['choseProtocolInfo'] = 'If your site has SSL, then please choose the HTTPS protocol.';
 $_LANG['installapp']['choseProtocol'] = 'Choose Protocol';
 $_LANG['installapp']['softsettingsheader'] = 'Software Setup';
-$_LANG['installapp']['install_app_main_header'] = 'Install Applications With';  
-$_LANG['installapp']['install_app_main_label'] = 'Install Application';         
-$_LANG['installapp']['install_app_main_header_backups'] = 'Backups';            
-$_LANG['installapp']['install_app_main_header_manage'] = 'Manage apps';         
+$_LANG['installapp']['install_app_main_header'] = 'Install Applications With'; 
+$_LANG['installapp']['install_app_main_label'] = 'Install Application'; 
+$_LANG['installapp']['install_app_main_header_backups'] = 'Backups'; 
+$_LANG['installapp']['install_app_main_header_manage'] = 'Manage apps'; 
 $_LANG['installapp']['install_app_your_softaculous_apps'] = 'Your Softaculous Apps';
 $_LANG['installapp']['install_app_your_installatron_apps'] = 'Your Installatron Apps';
 $_LANG['installapp']['install_app_main_header_delete'] = 'Delete Application';
-$_LANG['installapp']['install_app_main_header_edit'] = 'Edit Application';      
+$_LANG['installapp']['install_app_main_header_edit'] = 'Edit Application'; 
 $_LANG['installapp']['install_app_setup_header'] = 'Application Setup';
 $_LANG['installapp']['install_app_new'] = 'Install new';
-$_LANG['installapp']['install_app_now'] = 'Install Now!';    
+$_LANG['installapp']['install_app_now'] = 'Install Now!'; 
 $_LANG['installapp']['install_app_apps'] = '&lt;&lt; Back to your apps';
 $_LANG['installapp']['install_app_softaculous_all'] = 'All softaculous app';
 $_LANG['installapp']['install_app_installatron_all'] = 'All installatron app';
 $_LANG['installapp']['install_app_back'] = 'Back';
-$_LANG['installapp']['install_app_edit'] = 'Edit';        
-$_LANG['installapp']['install_app_delete'] = 'Delete';    
-$_LANG['installapp']['install_app_restore'] = 'Restore';  
-$_LANG['installapp']['install_app_create_backup'] = 'Create Backup';   
-$_LANG['installapp']['install_app_cancel'] = 'Cancel';                 
+$_LANG['installapp']['install_app_edit'] = 'Edit'; 
+$_LANG['installapp']['install_app_delete'] = 'Delete'; 
+$_LANG['installapp']['install_app_restore'] = 'Restore'; 
+$_LANG['installapp']['install_app_create_backup'] = 'Create Backup'; 
+$_LANG['installapp']['install_app_cancel'] = 'Cancel'; 
 $_LANG['installapp']['install_app_field_name'] = 'Name';
 $_LANG['installapp']['install_app_field_version'] = 'Version';
 $_LANG['installapp']['install_app_field_description'] = 'Description';
 $_LANG['installapp']['install_app_field_size'] = 'Size';
 $_LANG['installapp']['install_app_field_action'] = 'Action';
 $_LANG['installapp']['install_app_field_date'] = 'Date';
-$_LANG['installapp']['install_app_field_create_date'] = 'Create Date';    
+$_LANG['installapp']['install_app_field_create_date'] = 'Create Date'; 
 $_LANG['installapp']['install_app_field_protocol'] = 'Choose Protocol';
 $_LANG['installapp']['install_app_field_protocol_description'] = 'If your site has SSL, then please choose the HTTPS protocol.';
 $_LANG['installapp']['install_app_field_domain'] = 'Domain';
@@ -1138,37 +1139,37 @@ $_LANG['installapp']['install_app_field_datadir'] = 'Data directory';
 $_LANG['installapp']['install_app_field_directory_description'] = 'The directory is relative to your domain and should not exist. e.g. To install at http://mydomain/dir/ just type dir. To install only in http://mydomain/ leave this empty.';
 $_LANG['installapp']['install_app_field_datadir_description'] = 'This script requires to store its data in a folder not accessible via the web. It will be created in your home folder. i.e. if you specify datadir, the following will be created - /home/username/datadir';
 $_LANG['installapp']['install_app_field_database'] = 'Database Name';
-$_LANG['installapp']['install_app_field_database_dbuser'] = "Database username";   
-$_LANG['installapp']['install_app_field_database_dbpass'] = "Database password";   
+$_LANG['installapp']['install_app_field_database_dbuser'] = "Database username"; 
+$_LANG['installapp']['install_app_field_database_dbpass'] = "Database password"; 
 $_LANG['installapp']['install_app_field_database_description'] = 'Type the name of the database to be created for the installation';
 $_LANG['installapp']['install_app_field_table'] = "Table prefix";
 $_LANG['installapp']['install_app_field_sitename'] = "Site name";
 $_LANG['installapp']['install_app_field_sitetitle'] = "Site title";
 $_LANG['installapp']['install_app_field_siteshotrname'] = "Site short name"; 
 $_LANG['installapp']['install_app_field_sitedescription'] = "Site description";
-$_LANG['installapp']['install_app_field_fname'] = "First name";      
-$_LANG['installapp']['install_app_field_lname'] = "Last name";       
-$_LANG['installapp']['install_app_field_realname'] = "Admin real name";       
+$_LANG['installapp']['install_app_field_fname'] = "First name"; 
+$_LANG['installapp']['install_app_field_lname'] = "Last name"; 
+$_LANG['installapp']['install_app_field_realname'] = "Admin real name"; 
 $_LANG['installapp']['install_app_field_adminname'] = "Admin username";
 $_LANG['installapp']['install_app_field_adminpass'] = "Admin password";
 $_LANG['installapp']['install_app_field_adminemail'] = "Admin email";
 $_LANG['installapp']['install_app_field_noreply'] = "No-Reply Email";
-$_LANG['installapp']['install_app_field_overwrite'] = 'Overwrite Existing';  
-$_LANG['installapp']['install_app_field_autoupdate'] = "Auto update";   
+$_LANG['installapp']['install_app_field_overwrite'] = 'Overwrite Existing'; 
+$_LANG['installapp']['install_app_field_autoupdate'] = "Auto update"; 
 $_LANG['installapp']['install_app_btn_install'] = "Install";
 $_LANG['installapp']['install_app_results_error'] = "No application has been installed yet";
-$_LANG['installapp']['install_app_results_nothing'] = "Nothing to display!";   
+$_LANG['installapp']['install_app_results_nothing'] = "Nothing to display!"; 
 $_LANG['installapp']['install_app_delete_text'] = "Are you sure you want to uninstall this application?";
-$_LANG['installapp']['install_app_cancel_btn'] = "Cancel";  
-$_LANG['installapp']['install_app_nodomains_lbl'] = "No domains";   
-$_LANG['installapp']['install_app_backup_btn'] = "Backups";   
-$_LANG['installapp']['install_app_create_backup_link'] = "Create Backup";   
-$_LANG['installapp']['install_app_create_manage_link'] = "Manage";   
-$_LANG['installapp']['install_app_delete_link'] = "Delete";     
-$_LANG['installapp']['install_app_delete_btn'] = "Delete";  
-$_LANG['installapp']['install_app_remove_dir_lbl'] = 'Remove Directory';    
-$_LANG['installapp']['install_app_remove_db_lbl'] = 'Remove Database';  
-$_LANG['installapp']['install_app_remove_datadir_lbl'] = 'Remove Data Directory';   
+$_LANG['installapp']['install_app_cancel_btn'] = "Cancel"; 
+$_LANG['installapp']['install_app_nodomains_lbl'] = "No domains"; 
+$_LANG['installapp']['install_app_backup_btn'] = "Backups"; 
+$_LANG['installapp']['install_app_create_backup_link'] = "Create Backup"; 
+$_LANG['installapp']['install_app_create_manage_link'] = "Manage"; 
+$_LANG['installapp']['install_app_delete_link'] = "Delete"; 
+$_LANG['installapp']['install_app_delete_btn'] = "Delete"; 
+$_LANG['installapp']['install_app_remove_dir_lbl'] = 'Remove Directory'; 
+$_LANG['installapp']['install_app_remove_db_lbl'] = 'Remove Database'; 
+$_LANG['installapp']['install_app_remove_datadir_lbl'] = 'Remove Data Directory'; 
 $_LANG['installapp']['install_app_remove_wwwdir_lbl'] = 'Remove WWW Directory'; 
 $_LANG['installapp']['install_app_progressbar_del_bckp'] = 'Deleting Backup'; 
 $_LANG['installapp']['install_app_progressbar_rest_bckp'] = 'Restoring Backup'; 
@@ -1219,7 +1220,7 @@ $_LANG['installapp']['softaculous_fields']['datadir'] = 'Data Directory';
 
 /**************************
  * 
- *       Backups
+ * Backups
  * 
  **************************/
 
@@ -1280,7 +1281,7 @@ $_LANG['backups']['remove_user_bck_warning'] = 'Are you sure you want to delete 
 
 /**************************
  * 
- *      SSL Managment
+ * SSL Managment
  * 
  **************************/
 
@@ -1294,150 +1295,150 @@ $_LANG['ssl']['save_ssl'] = 'Save CA Certificate';
 
 $_LANG['ssl']['error1'] = 'Action cannot be completed. Please try again later.';
 
-$_LANG['ssl']['listHead']     = 'Current SSL Certificate';
-$_LANG['ssl']['addHead']      = 'Change SSL Certificate';
-$_LANG['ssl']['addButton']    = 'Add';
+$_LANG['ssl']['listHead'] = 'Current SSL Certificate';
+$_LANG['ssl']['addHead'] = 'Change SSL Certificate';
+$_LANG['ssl']['addButton'] = 'Add';
 $_LANG['ssl']['changeButton'] = 'Change';
-$_LANG['ssl']['delete']       = 'Delete';
-$_LANG['ssl']['edit']         = 'Edit';
-$_LANG['ssl']['cancel']       = 'Cancel';
-$_LANG['ssl']['type']         = 'Type';
-$_LANG['ssl']['login']        = 'Login';
-$_LANG['ssl']['path']         = 'Path';
-$_LANG['ssl']['genPass']      = 'Generate Password';
+$_LANG['ssl']['delete'] = 'Delete';
+$_LANG['ssl']['edit'] = 'Edit';
+$_LANG['ssl']['cancel'] = 'Cancel';
+$_LANG['ssl']['type'] = 'Type';
+$_LANG['ssl']['login'] = 'Login';
+$_LANG['ssl']['path'] = 'Path';
+$_LANG['ssl']['genPass'] = 'Generate Password';
 $_LANG['ssl']['deleteSuccess']= 'Account has been deleted successfully.';
-$_LANG['ssl']['editSuccess']  = 'Account has been changed successfully.';
+$_LANG['ssl']['editSuccess'] = 'Account has been changed successfully.';
 
-$_LANG['ssl']['editHead']     = 'Edit Account';
-$_LANG['ssl']['editButton']   = 'Save';
-$_LANG['ssl']['deleteSure']   = 'Are you sure that you want to delete this cron job?';
-
-
-$_LANG['ssl']['minute']   = 'Minute';
-$_LANG['ssl']['hour']     = 'Hour';
-$_LANG['ssl']['daym']     = 'Day of Month';
-$_LANG['ssl']['month']    = 'Month';
-$_LANG['ssl']['dayw']     = 'Day of Week';
-$_LANG['ssl']['comm']     = 'Command';
-
-$_LANG['ssl']['sslStatusLbl']         = 'SSL Status';
-$_LANG['ssl']['sslStatus']['yes']     = 'Active';
-$_LANG['ssl']['sslStatus']['no']      = 'Inactive';
+$_LANG['ssl']['editHead'] = 'Edit Account';
+$_LANG['ssl']['editButton'] = 'Save';
+$_LANG['ssl']['deleteSure'] = 'Are you sure that you want to delete this cron job?';
 
 
-$_LANG['ssl']['sslInfo']              = 'The domain has been modified';
-$_LANG['ssl']['caInfo']               = 'CA Certificate is OK. Your site should be secure within a few minutes';
-$_LANG['ssl']['servInfo']             = 'Certificate and key have been saved successfully.';
-$_LANG['ssl']['useSSlLbl']            = 'Currently Used SSL';
-$_LANG['ssl']['useSSl']['yes']        = 'Server Shared';
-$_LANG['ssl']['useSSl']['no']         = 'Private';
+$_LANG['ssl']['minute'] = 'Minute';
+$_LANG['ssl']['hour'] = 'Hour';
+$_LANG['ssl']['daym'] = 'Day of Month';
+$_LANG['ssl']['month'] = 'Month';
+$_LANG['ssl']['dayw'] = 'Day of Week';
+$_LANG['ssl']['comm'] = 'Command';
 
-$_LANG['ssl']['rsaPrivateKey']        = 'RSA Private Key';
-$_LANG['ssl']['privateCert']          = 'Certificate';
-
-$_LANG['ssl']['requestSucces']        = 'Successfully Created Certificate Request';
-
-$_LANG['ssl']['certreq']              = 'Certificate Request';
-
-$_LANG['ssl']['changeLbl']            = 'Select SSL Action';
-$_LANG['ssl']['change']['info']           = 'Select Change Option';
-$_LANG['ssl']['change']['self']       = 'Create Your Own Self Signed Certificate';
-$_LANG['ssl']['change']['request']    = 'Create A Certificate Request';
-$_LANG['ssl']['change']['paste']      = 'Paste A Pre-generated Certificate And Key';
-$_LANG['ssl']['change']['server']     = 'Use The Server\'s Certificate';
-        
-            
-$_LANG['ssl']['addfield']['country']       = '2-Letter Country Code';
-$_LANG['ssl']['addfield']['country']       = '2-Letter Country Code';
-$_LANG['ssl']['addfield']['state']         = 'State/Province';	
-$_LANG['ssl']['addfield']['city']          = 'City';	
-$_LANG['ssl']['addfield']['company']       = 'Company';	
-$_LANG['ssl']['addfield']['division']      = 'Company Division';	
-$_LANG['ssl']['addfield']['common']        = 'Common Name';	
-$_LANG['ssl']['addfield']['email']         = 'Email';	
-$_LANG['ssl']['addfield']['keyLbl']        = 'Key Size (bits)';
-
-$_LANG['ssl']['addfield']['key'][1024]     = '1024';
-$_LANG['ssl']['addfield']['key'][2048]     = '2048';
-$_LANG['ssl']['addfield']['key'][4096]     = '4096';
-
-$_LANG['ssl']['addfield']['pasteKey']      = 'Paste a pre-generated key';
-$_LANG['ssl']['addfield']['pasteCrt']      = 'Paste a pre-generated certificate';
-
-$_LANG['ssl']['caCertHead']           = 'Certificate Authority SSL Certificate';
-$_LANG['ssl']['useCaCert']            = 'Use CA Certificate';
-$_LANG['ssl']['caCert']               = 'CA Certificate';
-$_LANG['ssl']['saveCAButton']         = 'Save CA Certificate';
+$_LANG['ssl']['sslStatusLbl'] = 'SSL Status';
+$_LANG['ssl']['sslStatus']['yes'] = 'Active';
+$_LANG['ssl']['sslStatus']['no'] = 'Inactive';
 
 
+$_LANG['ssl']['sslInfo'] = 'The domain has been modified';
+$_LANG['ssl']['caInfo'] = 'CA Certificate is OK. Your site should be secure within a few minutes';
+$_LANG['ssl']['servInfo'] = 'Certificate and key have been saved successfully.';
+$_LANG['ssl']['useSSlLbl'] = 'Currently Used SSL';
+$_LANG['ssl']['useSSl']['yes'] = 'Server Shared';
+$_LANG['ssl']['useSSl']['no'] = 'Private';
+
+$_LANG['ssl']['rsaPrivateKey'] = 'RSA Private Key';
+$_LANG['ssl']['privateCert'] = 'Certificate';
+
+$_LANG['ssl']['requestSucces'] = 'Successfully Created Certificate Request';
+
+$_LANG['ssl']['certreq'] = 'Certificate Request';
+
+$_LANG['ssl']['changeLbl'] = 'Select SSL Action';
+$_LANG['ssl']['change']['info'] = 'Select Change Option';
+$_LANG['ssl']['change']['self'] = 'Create Your Own Self Signed Certificate';
+$_LANG['ssl']['change']['request'] = 'Create A Certificate Request';
+$_LANG['ssl']['change']['paste'] = 'Paste A Pre-generated Certificate And Key';
+$_LANG['ssl']['change']['server'] = 'Use The Server\'s Certificate';
+ 
+ 
+$_LANG['ssl']['addfield']['country'] = '2-Letter Country Code';
+$_LANG['ssl']['addfield']['country'] = '2-Letter Country Code';
+$_LANG['ssl']['addfield']['state'] = 'State/Province';	
+$_LANG['ssl']['addfield']['city'] = 'City';	
+$_LANG['ssl']['addfield']['company'] = 'Company';	
+$_LANG['ssl']['addfield']['division'] = 'Company Division';	
+$_LANG['ssl']['addfield']['common'] = 'Common Name';	
+$_LANG['ssl']['addfield']['email'] = 'Email';	
+$_LANG['ssl']['addfield']['keyLbl'] = 'Key Size (bits)';
+
+$_LANG['ssl']['addfield']['key'][1024] = '1024';
+$_LANG['ssl']['addfield']['key'][2048] = '2048';
+$_LANG['ssl']['addfield']['key'][4096] = '4096';
+
+$_LANG['ssl']['addfield']['pasteKey'] = 'Paste a pre-generated key';
+$_LANG['ssl']['addfield']['pasteCrt'] = 'Paste a pre-generated certificate';
+
+$_LANG['ssl']['caCertHead'] = 'Certificate Authority SSL Certificate';
+$_LANG['ssl']['useCaCert'] = 'Use CA Certificate';
+$_LANG['ssl']['caCert'] = 'CA Certificate';
+$_LANG['ssl']['saveCAButton'] = 'Save CA Certificate';
 
 
-$_LANG['ssl']['encrypt']                    = 'Encrypt';
-$_LANG['ssl']['letsencrypt']                = 'Let\'s Encrypt';
-$_LANG['ssl']['letsencryptdesc']            = 'Let\'s Encrypt is a free SSL tool that will allow you to install a basic SSL certificate with a single click.  It is compatible with multiple domains and subdomains, and will be automatically renewed before it expires after the 90-day period of validity.';
-$_LANG['ssl']['key_on_server']              = 'Private Keys';
-$_LANG['ssl']['csr_on_server']              = 'CSR Keys';
-$_LANG['ssl']['crt_on_server']              = 'SSL Certificates';
+
+
+$_LANG['ssl']['encrypt'] = 'Encrypt';
+$_LANG['ssl']['letsencrypt'] = 'Let\'s Encrypt';
+$_LANG['ssl']['letsencryptdesc'] = 'Let\'s Encrypt is a free SSL tool that will allow you to install a basic SSL certificate with a single click. It is compatible with multiple domains and subdomains, and will be automatically renewed before it expires after the 90-day period of validity.';
+$_LANG['ssl']['key_on_server'] = 'Private Keys';
+$_LANG['ssl']['csr_on_server'] = 'CSR Keys';
+$_LANG['ssl']['crt_on_server'] = 'SSL Certificates';
 $_LANG['ssl']['no_keys_in_table'] = "There is no key to show";
 
-$_LANG['ssl']['key_desc']                   = 'A private key is used to decrypt information transmitted over SSL. When you create an SSL certificate, the first step is to generate a private key file associated with that SSL certificate. You should generate a private key for each SSL certificate you create. This private key is very important and should be kept confidential. A copy of each private key should be kept in a safe place; there is no way to recover a lost private key.';
-$_LANG['ssl']['csr_desc']                   = 'If you obtain a certificate from a trusted SSL provider, you must complete the Certificate Signing Request form to provide the information needed to generate your SSL certificate.';
-$_LANG['ssl']['crt_desc']                   = 'You can use a self-signed certificate or a trusted certificate from an SSL Certificate Authority. If you plan to use a self-signed certificate for one of your sites, you can generate it below. To use a trusted certificate, upload or provide the certificate below, after you have received the SSL certificate from your trusted provider.';
+$_LANG['ssl']['key_desc'] = 'A private key is used to decrypt information transmitted over SSL. When you create an SSL certificate, the first step is to generate a private key file associated with that SSL certificate. You should generate a private key for each SSL certificate you create. This private key is very important and should be kept confidential. A copy of each private key should be kept in a safe place; there is no way to recover a lost private key.';
+$_LANG['ssl']['csr_desc'] = 'If you obtain a certificate from a trusted SSL provider, you must complete the Certificate Signing Request form to provide the information needed to generate your SSL certificate.';
+$_LANG['ssl']['crt_desc'] = 'You can use a self-signed certificate or a trusted certificate from an SSL Certificate Authority. If you plan to use a self-signed certificate for one of your sites, you can generate it below. To use a trusted certificate, upload or provide the certificate below, after you have received the SSL certificate from your trusted provider.';
 
-$_LANG['ssl']['install']                    = 'Install';
-$_LANG['ssl']['generate']                   = 'Generate';
-$_LANG['ssl']['upload']                     = 'Upload';
+$_LANG['ssl']['install'] = 'Install';
+$_LANG['ssl']['generate'] = 'Generate';
+$_LANG['ssl']['upload'] = 'Upload';
 
-$_LANG['ssl']['domain']                     = 'Domain';
-$_LANG['ssl']['action']                     = 'Action';
+$_LANG['ssl']['domain'] = 'Domain';
+$_LANG['ssl']['action'] = 'Action';
 
-$_LANG['ssl']['keys_upload']                = 'Upload Your Private Keys';
-$_LANG['ssl']['keys_generate']              = 'Generate Your Private Keys';
-$_LANG['ssl']['csr_generate']               = 'Generate SSL Certificate Signing Requests';
-$_LANG['ssl']['crt_generate']               = 'Generate Certificates';
-$_LANG['ssl']['crt_upload']                 = 'Upload Certificates';
-$_LANG['ssl']['selectedentries']            = 'Selected Entries';
-$_LANG['ssl']['entries']                    = 'Entries';
-$_LANG['ssl']['select']                     = 'Select';
-$_LANG['ssl']['emptyentries']               = 'There are no entries.';
+$_LANG['ssl']['keys_upload'] = 'Upload Your Private Keys';
+$_LANG['ssl']['keys_generate'] = 'Generate Your Private Keys';
+$_LANG['ssl']['csr_generate'] = 'Generate SSL Certificate Signing Requests';
+$_LANG['ssl']['crt_generate'] = 'Generate Certificates';
+$_LANG['ssl']['crt_upload'] = 'Upload Certificates';
+$_LANG['ssl']['selectedentries'] = 'Selected Entries';
+$_LANG['ssl']['entries'] = 'Entries';
+$_LANG['ssl']['select'] = 'Select';
+$_LANG['ssl']['emptyentries'] = 'There are no entries.';
 
-$_LANG['ssl']['fields']['country']          = 'Country';
-$_LANG['ssl']['fields']['state']            = 'State';
-$_LANG['ssl']['fields']['city']             = 'City';
-$_LANG['ssl']['fields']['company']          = 'Company';
-$_LANG['ssl']['fields']['comp_divi']        = 'Company Division';
-$_LANG['ssl']['fields']['email']            = 'Email';
-$_LANG['ssl']['fields']['pass']             = 'Pass Phrase';
-$_LANG['ssl']['fields']['key4domain']       = 'Domain For Key:';
-$_LANG['ssl']['fields']['cert4domain']      = 'Domain for certificate:';
-$_LANG['ssl']['fields']['choose_key']       = 'Choose a .key file:';
-$_LANG['ssl']['fields']['paste_key']        = 'Paste The Key:';
-$_LANG['ssl']['fields']['select_domain']    = 'Select A Domain';
-$_LANG['ssl']['fields']['key_size']         = 'Key Size:';
-$_LANG['ssl']['fields']['key_domain']       = 'Domain key is for: ';
-$_LANG['ssl']['fields']['host']             = 'Host: ';
-$_LANG['ssl']['fields']['or']               = 'OR';
+$_LANG['ssl']['fields']['country'] = 'Country';
+$_LANG['ssl']['fields']['state'] = 'State';
+$_LANG['ssl']['fields']['city'] = 'City';
+$_LANG['ssl']['fields']['company'] = 'Company';
+$_LANG['ssl']['fields']['comp_divi'] = 'Company Division';
+$_LANG['ssl']['fields']['email'] = 'Email';
+$_LANG['ssl']['fields']['pass'] = 'Pass Phrase';
+$_LANG['ssl']['fields']['key4domain'] = 'Domain For Key:';
+$_LANG['ssl']['fields']['cert4domain'] = 'Domain for certificate:';
+$_LANG['ssl']['fields']['choose_key'] = 'Choose a .key file:';
+$_LANG['ssl']['fields']['paste_key'] = 'Paste The Key:';
+$_LANG['ssl']['fields']['select_domain'] = 'Select A Domain';
+$_LANG['ssl']['fields']['key_size'] = 'Key Size:';
+$_LANG['ssl']['fields']['key_domain'] = 'Domain key is for: ';
+$_LANG['ssl']['fields']['host'] = 'Host: ';
+$_LANG['ssl']['fields']['or'] = 'OR';
 $_LANG['ssl']['fields']['select_key_domain'] = 'Domain With A Key';
-$_LANG['ssl']['fields']['encryption']        = 'Encryption';
-$_LANG['ssl']['fields']['encryption_types']['sha256']        = 'SHA256';
-$_LANG['ssl']['fields']['encryption_types']['sha1']        = 'SHA1';
+$_LANG['ssl']['fields']['encryption'] = 'Encryption';
+$_LANG['ssl']['fields']['encryption_types']['sha256'] = 'SHA256';
+$_LANG['ssl']['fields']['encryption_types']['sha1'] = 'SHA1';
 
 
-$_LANG['ssl']['key_sizes'][2048]            = '2,048 bits';
-$_LANG['ssl']['key_sizes'][4096]            = '4,096 bits';
-$_LANG['ssl']['expDate']                    = 'Expire Date';
-$_LANG['ssl']['view']                       = 'View';
-$_LANG['ssl']['certlbl']                    = 'Contents Of The SSL Certificate';
-$_LANG['ssl']['keylbl']                     = 'Encoded Private Key';
-$_LANG['ssl']['content_ssl']                = 'Contents Of The SSL Certificate';
-$_LANG['ssl']['content_key']                = 'Key File Associated With The Certificate';
-$_LANG['ssl']['key_not_avaible']            = 'Keys and certificate are not available';
-$_LANG['ssl']['key_not_awaible_desc']       = 'When the certificate is not installed, try directly in cPanel';
+$_LANG['ssl']['key_sizes'][2048] = '2,048 bits';
+$_LANG['ssl']['key_sizes'][4096] = '4,096 bits';
+$_LANG['ssl']['expDate'] = 'Expire Date';
+$_LANG['ssl']['view'] = 'View';
+$_LANG['ssl']['certlbl'] = 'Contents Of The SSL Certificate';
+$_LANG['ssl']['keylbl'] = 'Encoded Private Key';
+$_LANG['ssl']['content_ssl'] = 'Contents Of The SSL Certificate';
+$_LANG['ssl']['content_key'] = 'Key File Associated With The Certificate';
+$_LANG['ssl']['key_not_avaible'] = 'Keys and certificate are not available';
+$_LANG['ssl']['key_not_awaible_desc'] = 'When the certificate is not installed, try directly in cPanel';
 
 
 /**************************
  * 
- *        OTHER
+ * OTHER
  * 
  **************************/
 
@@ -1461,8 +1462,8 @@ $_LANG['mainsite_errors']['error9'] = 'No results to display:';
 $_LANG['mainsite_errors']['error10'] = 'No results to display: Unknown error';
 $_LANG['mainsite_errors']['error11'] = 'Unable to load the page file';
 $_LANG['mainsite_errors']['error12'] = 'You cannot view this page. No permission';
-$_LANG['ftp']['search_loader_info'] = 'Searching...'; // CHANGED IN 1.6.0 VERSION
-$_LANG['ftp']['load_loader_info'] = 'Loading...'; // CHANGED IN 1.6.0 VERSION
+$_LANG['ftp']['search_loader_info'] = 'Searching...'; 
+$_LANG['ftp']['load_loader_info'] = 'Loading...'; 
 $_LANG['backups']['get_backups_loader'] = 'Getting backup list...';
 $_LANG['backups']['get_backups_error'] = 'A problem has occurred while getting the backups file list .';
 $_LANG['backups']['get_backups_empty'] = 'No backup files have been found';
@@ -1495,9 +1496,9 @@ $_LANG['autoresponders']['save'] = "Save";
 $_LANG['autoresponders']['cancel'] = "Cancel";
 $_LANG['autoresponders']['edit_label'] = "Edit Autoresponder";
 $_LANG['autoresponders']['domain'] = "Domain";
-$_LANG['autoresponders']['edit_result_info']    = "Autoresponder has been updated successfully";
-$_LANG['autoresponders']['delete_result_info']  = "Autoresponder has been removed successfully";
-$_LANG['autoresponders']['add_result_info']     = "Autoresponder has been created successfully";
+$_LANG['autoresponders']['edit_result_info'] = "Autoresponder has been updated successfully";
+$_LANG['autoresponders']['delete_result_info'] = "Autoresponder has been removed successfully";
+$_LANG['autoresponders']['add_result_info'] = "Autoresponder has been created successfully";
 
 
 
@@ -1598,12 +1599,12 @@ $_LANG['emailfilters']['action_after_match'] = "Action for filter matches";
 $_LANG['emailfilters']['drop_email'] = "Drop Email";
 $_LANG['emailfilters']['spambox'] = "Send to spambox";
 $_LANG['emailfilters']['save'] = "Save";
-$_LANG['emailfilters']['filter_options']    =   'Filter Options';
+$_LANG['emailfilters']['filter_options'] = 'Filter Options';
 
-$_LANG['emailfilters']['action_result_info']       =   'Filter action has been saved successfully.';
-$_LANG['emailfilters']['adult_result_info']        =   'Adult filter has been enabled/disabled successfully.';
-$_LANG['emailfilters']['delete_result_info']       =   'Filter has been removed successfully';
-$_LANG['emailfilters']['add_result_info']          =   'Filter has been set successfully.';
+$_LANG['emailfilters']['action_result_info'] = 'Filter action has been saved successfully.';
+$_LANG['emailfilters']['adult_result_info'] = 'Adult filter has been enabled/disabled successfully.';
+$_LANG['emailfilters']['delete_result_info'] = 'Filter has been removed successfully';
+$_LANG['emailfilters']['add_result_info'] = 'Filter has been set successfully.';
 
 
 
@@ -1714,12 +1715,12 @@ $_LANG['filemanager']['file_req'] = "File Required";
 $_LANG['filemanager']['file_req_desc'] = "It is required to choose at least one file.";
 $_LANG['filemanager']['filenames_warning'] = "Note: Using special characters in file names is not supported by DirectAdmin server.‏";
 
-$_LANG['filemanager']['create_dir_result_info']     = "Directory has been created successfully‏";
-$_LANG['filemanager']['delete_result_info']         = "Files have been deleted successfully‏";
-$_LANG['filemanager']['copy_result_info']           = "File has been copied successfully";
-$_LANG['filemanager']['chmod_result_info']          = "Permissions have been set successfully‏";
-$_LANG['filemanager']['rename_result_info']         = "File has been renamed successfully‏";
-$_LANG['filemanager']['upload_result_info']         = "File has been uploaded successfully";
+$_LANG['filemanager']['create_dir_result_info'] = "Directory has been created successfully‏";
+$_LANG['filemanager']['delete_result_info'] = "Files have been deleted successfully‏";
+$_LANG['filemanager']['copy_result_info'] = "File has been copied successfully";
+$_LANG['filemanager']['chmod_result_info'] = "Permissions have been set successfully‏";
+$_LANG['filemanager']['rename_result_info'] = "File has been renamed successfully‏";
+$_LANG['filemanager']['upload_result_info'] = "File has been uploaded successfully";
 
 $_LANG['filemanager']['your_files'] = "Your Files";
 $_LANG['filemanager']['maximum_file_size'] = "Maximum file size is";
@@ -1827,14 +1828,14 @@ $_LANG['spamassasin']['save'] = "Save";
 $_LANG['spamassasin']['turned_off'] = "Your administrator has turned off Spamassasin for your account.";
 $_LANG['spamassasin']['save_result_error'] = "Something has gone wrong. Please try again later";
 $_LANG['spamassasin']['save_result_info'] = "Configuration has been saved successfully";
-$_LANG['spamassasin']['spamassasin_disabled']   =   'Spamassasin is disabled on your account';
-$_LANG['spamassasin']['spamassasin_unknown_error']   =   'Unknown error';
-$_LANG['spamassasin']['invalid_high_score']   =   'High score needs to be a number between 1 and 50';
-$_LANG['spamassasin']['invalid_required_hits_custom']   =   'Custom threshold needs to be a positive number';
+$_LANG['spamassasin']['spamassasin_disabled'] = 'Spamassasin is disabled on your account';
+$_LANG['spamassasin']['spamassasin_unknown_error'] = 'Unknown error';
+$_LANG['spamassasin']['invalid_high_score'] = 'High score needs to be a number between 1 and 50';
+$_LANG['spamassasin']['invalid_required_hits_custom'] = 'Custom threshold needs to be a positive number';
 
 
 
-$_LANG['installapp']['main_header'] = "Applications";  
+$_LANG['installapp']['main_header'] = "Applications"; 
 $_LANG['installapp']['main_hint'] = "Manage your applications here. View the already set up applications and backups, install new ones.";
 $_LANG['installapp']['installed_apps'] = "Installed Applications";
 $_LANG['installapp']['backups'] = "Backups";
@@ -1842,7 +1843,7 @@ $_LANG['installapp']['your_installed_apps'] = "List Of Installed Applications";
 $_LANG['installapp']['your_apps_backups'] = "List Of Applications Backups";
 $_LANG['installapp']['sorry_no_applicatons_in_this_group'] = "Sorry, there are no applications in this group";
 $_LANG['installapp']['sorry_no_applicatons_to_install'] = "Sorry, there are no applications available to install";
-$_LANG['installapp']['delete_confirmation'] = "Delete Confirmation";  
+$_LANG['installapp']['delete_confirmation'] = "Delete Confirmation"; 
 $_LANG['installapp']['path'] = "Path"; 
 $_LANG['installapp']['confirm'] = "Confirm";
 $_LANG['installapp']['generate_backup_title'] = "Generate Backup";
@@ -1871,8 +1872,8 @@ $_LANG['installapp']['info_app_uinstalled'] = "Your application has been removed
 $_LANG['installapp']['info_app_installed'] = "Your application has been installed successfully";
 $_LANG['installapp']['toggle_all'] = "Toggle All";
 
-$_LANG['backups']['main_header']            = 'Backups';
-$_LANG['backups']['main_hint']              = 'Download a zipped copy of your entire site or a part of your site that you can save to your computer. When you backup your website, you have an extra copy of your information in case something happens to your host. For more information, read the documentation.';
+$_LANG['backups']['main_header'] = 'Backups';
+$_LANG['backups']['main_hint'] = 'Download a zipped copy of your entire site or a part of your site that you can save to your computer. When you backup your website, you have an extra copy of your information in case something happens to your host. For more information, read the documentation.';
 
 $_LANG['backups']['delete_confirmation_label'] = 'Delete Backup';
 $_LANG['backups']['delete_confirmation_text'] = 'Are you sure that you want to delete this backup?';
@@ -1886,4 +1887,11 @@ $_LANG['perlmodules']['main_hint'] = 'On this page you can check Perl Modules.';
 $_LANG['perlmodules']['perl_modules_list'] = 'Perl Modules List';
 
 $_LANG['all']['switch_domain'] = 'Switch Domain';
-$_LANG['ssl']['certificateRequestTitle']   = 'Certificate Request Body';
+$_LANG['ssl']['certificateRequestTitle'] = 'Certificate Request Body';
+
+
+
+
+
+
+
