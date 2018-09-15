@@ -1,17 +1,19 @@
 #. extracted from english.php
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-10 14:09+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-09-15 17:55+0000\n"
+"Last-Translator: 北极熊 <bejix@qq.com>\n"
+"Language-Team: English <https://i18n.misakacloud.cn/projects/"
+"ModulesGarden_CHS/directadminextended/en/>\n"
+"Language: english\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.3.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #: %24_LANG[%27token%27]
 msgid ", Error Token:"
@@ -485,7 +487,7 @@ msgstr ""
 
 #: %24_LANG[%27pages%27][%27functions%27][%27end_points_table%27][%27password%27]
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 #: %24_LANG[%27pages%27][%27functions%27][%27end_points_table%27][%27path_to_files%27]
 msgid "Path To Files"
