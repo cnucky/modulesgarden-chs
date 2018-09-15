@@ -1,17 +1,19 @@
 #. extracted from english.php
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-29 19:14+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-09-15 17:55+0000\n"
+"Last-Translator: 北极熊 <bejix@qq.com>\n"
+"Language-Team: English <https://i18n.misakacloud.cn/projects/"
+"ModulesGarden_CHS/solusvmextendedvps/en/>\n"
+"Language: english\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.3.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #. /* * ********************************************************************
 #.  * Customization Services by ModulesGarden.com
@@ -67,12 +69,12 @@ msgstr ""
 
 #: %24_LANG[%27generalError%27]
 msgid "Something has gone wrong. Contact to administrator."
-msgstr ""
+msgstr "出了点问题。联系管理员。"
 
 #: %24_LANG[%27serverCA%27][%27home%27][%27details%27]
 msgctxt "$_LANG['serverCA']['home']['details']"
 msgid "Details"
-msgstr ""
+msgstr "详细信息"
 
 #: %24_LANG[%27general%27][%27back%27]
 msgid "Back To Service"
@@ -114,7 +116,7 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27delete%27]
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 #: %24_LANG[%27vps%27][%27rebuild%27]
 msgctxt "$_LANG['vps']['rebuild']"
@@ -123,15 +125,15 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27shutdown%27]
 msgid "Shutdown"
-msgstr ""
+msgstr "关机"
 
 #: %24_LANG[%27vps%27][%27reboot%27]
 msgid "Reboot"
-msgstr ""
+msgstr "重启"
 
 #: %24_LANG[%27vps%27][%27console%27]
 msgid "Console"
-msgstr ""
+msgstr "控制台"
 
 #: %24_LANG[%27vps%27][%27control_panel%27]
 msgctxt "$_LANG['vps']['control_panel']"
@@ -158,7 +160,7 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27template%27]
 msgid "Template"
-msgstr ""
+msgstr "操作系统"
 
 #: %24_LANG[%27vps%27][%27hostname%27]
 msgctxt "$_LANG['vps']['hostname']"
@@ -167,7 +169,7 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27nodename%27]
 msgid "Nodename"
-msgstr ""
+msgstr "节点名称"
 
 #: %24_LANG[%27vps%27][%27change_host_btn%27]
 msgctxt "$_LANG['vps']['change_host_btn']"
@@ -181,7 +183,7 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27main_ip%27]
 msgid "Main IP Address"
-msgstr ""
+msgstr "主要IP地址"
 
 #: %24_LANG[%27vps%27][%27ip_addresses%27]
 msgid "IP Addresses"
@@ -193,7 +195,7 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27root_pass_show%27]
 msgid "Show"
-msgstr ""
+msgstr "显示"
 
 #: %24_LANG[%27vps%27][%27root_change_password%27]
 msgctxt "$_LANG['vps']['root_change_password']"
@@ -266,19 +268,20 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27boot_order_cd%27]
 msgid "1. Hard Disk 2. CDROM"
-msgstr ""
+msgstr "1.硬盘 2.CDROM"
 
 #: %24_LANG[%27vps%27][%27boot_order_dc%27]
 msgid "1. CDROM 2. Hard Disk"
-msgstr ""
+msgstr "1.CDROM  2.硬盘"
 
 #: %24_LANG[%27vps%27][%27boot_order_c%27]
 msgid "Hard Disk"
-msgstr ""
+msgstr "硬盘"
 
 #: %24_LANG[%27vps%27][%27boot_order_d%27]
+#, fuzzy
 msgid "CDROM"
-msgstr ""
+msgstr "CDROM"
 
 #: %24_LANG[%27vps%27][%27graph_no_tra%27]
 msgid "Traffic graph is not available yet"
@@ -294,7 +297,7 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27rebuild_template%27]
 msgid "Select Template:"
-msgstr ""
+msgstr "选择系统："
 
 #: %24_LANG[%27vps%27][%27rebuild_no_templates%27]
 msgid "No available templates"
@@ -302,15 +305,15 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27console_pass%27]
 msgid "Password:"
-msgstr ""
+msgstr "密码:"
 
 #: %24_LANG[%27vps%27][%27console_username%27]
 msgid "Username:"
-msgstr ""
+msgstr "用户名:"
 
 #: %24_LANG[%27vps%27][%27console_session%27]
 msgid "Session Expires:"
-msgstr ""
+msgstr "会话到期："
 
 #: %24_LANG[%27vps_ajax%27][%27no_server%27]
 msgid "Setup Server first"
@@ -334,11 +337,11 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27dns_manager_reverse%27]
 msgid "Manage Reverse DNS"
-msgstr ""
+msgstr "管理反向DNS"
 
 #: %24_LANG[%27vps%27][%27dns_manager_manage%27]
 msgid "Manage DNS"
-msgstr ""
+msgstr "管理DNS"
 
 #: %24_LANG[%27vps%27][%27clientarea_no_isos%27]
 msgid "No available iso images"
@@ -367,7 +370,7 @@ msgstr ""
 
 #: %24_LANG[%27solus%27][%27Virtual+server+is+being+rebuilt%27]
 msgid "Virtual server is being rebuilt"
-msgstr ""
+msgstr "正在重建虚拟服务器"
 
 #: %24_LANG[%27solus%27][%27Virtual+server+root+password+changed%27]
 msgid "Virtual server root password changed"
@@ -387,27 +390,27 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27consolenovnc%27]
 msgid "noVNC Console"
-msgstr ""
+msgstr "noVNC控制台"
 
 #: %24_LANG[%27serverCA%27][%27rebuild%27][%27header%27][%27Rebuild%27]
 msgctxt "$_LANG['serverCA']['rebuild']['header']['Rebuild']"
 msgid "Rebuild"
-msgstr ""
+msgstr "重建"
 
 #: %24_LANG[%27serverCA%27][%27rebuild%27][%27description%27]
 msgid ""
 "Select template to reinstall. If you continue, all data located on virtual "
 "machine will be lost!"
-msgstr ""
+msgstr "选择新操作系统以重新安装。如果继续，虚拟机上的所有数据都将丢失！"
 
 #: %24_LANG[%27serverCA%27][%27home%27][%27Manage+VM%27]
 msgid "Manage VM"
-msgstr ""
+msgstr "管理虚拟机"
 
 #: %24_LANG[%27serverCA%27][%27home%27][%27Additional+Tools%27]
 msgctxt "$_LANG['serverCA']['home']['Additional Tools']"
 msgid "Additional Tools"
-msgstr ""
+msgstr "其他工具"
 
 #: %24_LANG[%27serverCA%27][%27home%27][%27Control+Panel%27]
 msgctxt "$_LANG['serverCA']['home']['Control Panel']"
@@ -416,34 +419,34 @@ msgstr ""
 
 #: %24_LANG[%27serverCA%27][%27home%27][%27Virtual+server+has+been+booted%27]
 msgid "Virtual Server has been booted"
-msgstr ""
+msgstr "虚拟服务器已启动"
 
 #: %24_LANG[%27serverCA%27][%27home%27][%27Virtual+server+has+been+rebooted%27]
 msgid "Virtual Server has been rebooted"
-msgstr ""
+msgstr "虚拟服务器已重新启动"
 
 #: %24_LANG[%27serverCA%27][%27home%27][%27Virtual+server+has+been+shutdown%27]
 msgid "Virtual Server has been shutdown"
-msgstr ""
+msgstr "虚拟服务器已关闭"
 
 #: %24_LANG[%27serverCA%27][%27graph%27][%27header%27][%27Graphs%27]
 msgctxt "$_LANG['serverCA']['graph']['header']['Graphs']"
 msgid "Graphs"
-msgstr ""
+msgstr "图表"
 
 #: %24_LANG[%27serverCA%27][%27graph%27][%27description%27]
 msgid ""
 "Your VPS usage over time can be viewed here. If some graphs are close to "
 "their maximum value, then perhaps you need a VPS upgrade?"
-msgstr ""
+msgstr "您可以在此处查看您的VPS使用情况。如果某些图表接近其最大值，那么您是否需要进行VPS升级？"
 
 #: %24_LANG[%27serverCA%27][%27graph%27][%27Memory+Usage%27]
 msgid "Memory Usage"
-msgstr ""
+msgstr "内存使用情况"
 
 #: %24_LANG[%27serverCA%27][%27graph%27][%27Network+Traffic%27]
 msgid "Network Traffic"
-msgstr ""
+msgstr "网络流量"
 
 #: %24_LANG[%27serverCA%27][%27graph%27][%27Load+Average%27]
 msgctxt "$_LANG['serverCA']['graph']['Load Average']"
@@ -452,7 +455,7 @@ msgstr ""
 
 #: %24_LANG[%27serverCA%27][%27rebuild%27][%27Select+template+before+rebuild%27]
 msgid "Select template to continue re-installation!"
-msgstr ""
+msgstr "选择新系统继续重新安装！"
 
 #: %24_LANG[%27serverCA%27][%27rebuild%27][%27Virtual+server+is+being+rebuilt%27]
 msgid "Virtual Server is being rebuilt"
@@ -465,12 +468,12 @@ msgstr ""
 #: %24_LANG[%27serverCA%27][%27home%27][%27Change+Hostname%27]
 msgctxt "$_LANG['serverCA']['home']['Change Hostname']"
 msgid "Change Hostname"
-msgstr ""
+msgstr "更改主机名"
 
 #: %24_LANG[%27serverCA%27][%27home%27][%27Hostname%27]
 msgctxt "$_LANG['serverCA']['home']['Hostname']"
 msgid "Hostname"
-msgstr ""
+msgstr "主机名"
 
 #: %24_LANG[%27serverCA%27][%27home%27][%27Save%27]
 msgid "Save"
@@ -487,16 +490,16 @@ msgstr ""
 #: %24_LANG[%27serverCA%27][%27home%27][%27Change+Password%27]
 msgctxt "$_LANG['serverCA']['home']['Change Password']"
 msgid "Change Password"
-msgstr ""
+msgstr "更改密码"
 
 #: %24_LANG[%27serverCA%27][%27home%27][%27Password%27]
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 #: %24_LANG[%27serverCA%27][%27home%27][%27Change%27]
 msgctxt "$_LANG['serverCA']['home']['Change']"
 msgid "Change"
-msgstr ""
+msgstr "更改"
 
 #: %24_LANG[%27serverCA%27][%27home%27][%27New+Password%27]
 msgid "New Password"
@@ -517,7 +520,7 @@ msgstr ""
 #: %24_LANG[%27serverCA%27][%27home%27][%27Boot+Order%27]
 msgctxt "$_LANG['serverCA']['home']['Boot Order']"
 msgid "Boot Order"
-msgstr ""
+msgstr "引导顺序"
 
 #: %24_LANG[%27serverCA%27][%27home%27][%27Boot+Order+has+been+changed%27]
 msgid "Boot Order has been changed"
@@ -594,7 +597,7 @@ msgstr ""
 
 #: %24_LANG[%27HTML+5+Serial+Console%27]
 msgid "HTML 5 Serial Console"
-msgstr ""
+msgstr "HTML 5串行控制台"
 
 #: %24_LANG[%27TUN/TAP%27]
 msgctxt "$_LANG['TUN/TAP']"
@@ -615,23 +618,23 @@ msgstr ""
 
 #: %24_LANG[%27serverCA%27][%27home%27][%27Are+you+sure+you+want+to+change+password%3F%27]
 msgid "Are you sure you want to change password?"
-msgstr ""
+msgstr "您确定要更改密码吗？"
 
 #: %24_LANG[%27Yes%27]
 msgid "Yes"
-msgstr ""
+msgstr "Yes"
 
 #: %24_LANG[%27No%27]
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: %24_LANG[%27Secure+Shell+Terminal:%27]
 msgid "Secure Shell Terminal:"
-msgstr ""
+msgstr "安全Shell终端:"
 
 #: %24_LANG[%27Cannot+connect+to+master+server%27]
 msgid "Cannot connect to master server"
-msgstr ""
+msgstr "无法连接到主服务器"
 
 #: %24_LANG[%27PXE%27]
 msgid "PXE"
@@ -647,8 +650,9 @@ msgstr ""
 
 #: %24_LANG[%27serverCA%27][%27home%27][%27PXE+ON%27]
 msgid "PXE ON"
-msgstr ""
+msgstr "PXE ON"
 
 #: %24_LANG[%27serverCA%27][%27home%27][%27PXE+OFF%27]
+#, fuzzy
 msgid "PXE OFF"
-msgstr ""
+msgstr "PXE OFF"
