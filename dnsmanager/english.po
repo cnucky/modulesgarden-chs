@@ -4,9 +4,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-28 21:28+0800\n"
-"PO-Revision-Date: 2018-09-15 17:55+0000\n"
-"Last-Translator: 北极熊 <bejix@qq.com>\n"
-"Language-Team: English <https://i18n.misakacloud.cn/projects/"
+"PO-Revision-Date: 2018-09-21 11:56+0000\n"
+"Last-Translator: Li Mi <xjdzch@126.com>\n"
+"Language-Team: English <http://i18n.misakacloud.cn/projects/"
 "ModulesGarden_CHS/dnsmanager/en/>\n"
 "Language: english\n"
 "MIME-Version: 1.0\n"
@@ -38,7 +38,7 @@ msgstr ""
 #: %24_LANG[%27addonAA%27][%27datatables%27][%27next%27]
 msgctxt "$_LANG['addonAA']['datatables']['next']"
 msgid "Next"
-msgstr ""
+msgstr "下一个"
 
 #: %24_LANG[%27addonAA%27][%27datatables%27][%27previous%27]
 msgctxt "$_LANG['addonAA']['datatables']['previous']"
@@ -149,7 +149,7 @@ msgstr ""
 
 #: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27documentation%27][%27label%27]
 msgid "Documentation"
-msgstr ""
+msgstr "文档"
 
 #: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27tools%27][%27tasks%27]
 msgid "Tasks"
@@ -1176,7 +1176,7 @@ msgstr ""
 
 #: %24_LANG[%27addonAA%27][%27settings%27][%27days%27][%2730%27]
 msgid "1 Month"
-msgstr ""
+msgstr "1个月"
 
 #: %24_LANG[%27addonAA%27][%27settings%27][%27days%27][%2760%27]
 msgid "2 Months"
@@ -1184,11 +1184,11 @@ msgstr ""
 
 #: %24_LANG[%27addonAA%27][%27settings%27][%27days%27][%2790%27]
 msgid "3 Months"
-msgstr ""
+msgstr "3个月"
 
 #: %24_LANG[%27addonAA%27][%27settings%27][%27days%27][%27180%27]
 msgid "6 Months"
-msgstr ""
+msgstr "6个月"
 
 #: %24_LANG[%27addonAA%27][%27settings%27][%27table%27][%27name%27]
 msgctxt "$_LANG['addonAA']['settings']['table']['name']"
