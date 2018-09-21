@@ -1,17 +1,19 @@
 #. extracted from ipmanager/english.php
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-28 21:28+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-09-21 11:56+0000\n"
+"Last-Translator: Li Mi <xjdzch@126.com>\n"
+"Language-Team: English <http://i18n.misakacloud.cn/projects/"
+"ModulesGarden_CHS/ipmanager/en/>\n"
+"Language: english\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.3.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #. /**************************
 #.  *
@@ -1214,7 +1216,7 @@ msgstr ""
 
 #: %24_LANG[%22IPManagerAdminArea%22][%22Group%22]
 msgid "Group"
-msgstr ""
+msgstr "组"
 
 #: %24_LANG[%22IPManagerAdminArea%22][%22Nothing+to+show+here+right+now%22]
 msgid "Nothing to show here right now"
