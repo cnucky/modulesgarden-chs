@@ -1,17 +1,19 @@
 #. extracted from discountcenter/english.php
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-28 21:28+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-09-21 11:56+0000\n"
+"Last-Translator: Li Mi <xjdzch@126.com>\n"
+"Language-Team: English <http://i18n.misakacloud.cn/projects/"
+"ModulesGarden_CHS/discountcenter/en/>\n"
+"Language: english\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.3.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #. /* *********************************************************************
 #.  * DiscountCenter product developed. (2015-11-16)
@@ -61,7 +63,7 @@ msgstr ""
 
 #: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27documentation%27]
 msgid "Documentation"
-msgstr ""
+msgstr "文档"
 
 #: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27quantityDiscounts%27][%27add%27]
 msgctxt "$_LANG['addonAA']['pagesLabels']['quantityDiscounts']['add']"
@@ -342,15 +344,15 @@ msgstr ""
 
 #: %24_LANG[%27addonAA%27][%27discounts%27][%271+Year%27]
 msgid "1 Year"
-msgstr ""
+msgstr "1年"
 
 #: %24_LANG[%27addonAA%27][%27discounts%27][%272+Years%27]
 msgid "2 Years"
-msgstr ""
+msgstr "2年"
 
 #: %24_LANG[%27addonAA%27][%27discounts%27][%273+Years%27]
 msgid "3 Years"
-msgstr ""
+msgstr "3年"
 
 #: %24_LANG[%27addonAA%27][%27discounts%27][%274+Years%27]
 msgid "4 Years"
@@ -1288,7 +1290,7 @@ msgstr ""
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27Year%27]
 msgid "Year"
-msgstr ""
+msgstr "年"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27Day+of+the+Week%27]
 msgid "Day of the Week"
@@ -1300,7 +1302,7 @@ msgstr ""
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27Years%27]
 msgid "Years"
-msgstr ""
+msgstr "年"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27Guide%27]
 msgid "Guide"
