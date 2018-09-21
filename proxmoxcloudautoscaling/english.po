@@ -4,9 +4,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-28 21:28+0800\n"
-"PO-Revision-Date: 2018-09-15 17:55+0000\n"
-"Last-Translator: 北极熊 <bejix@qq.com>\n"
-"Language-Team: English <https://i18n.misakacloud.cn/projects/"
+"PO-Revision-Date: 2018-09-21 11:56+0000\n"
+"Last-Translator: Li Mi <xjdzch@126.com>\n"
+"Language-Team: English <http://i18n.misakacloud.cn/projects/"
 "ModulesGarden_CHS/proxmoxcloudautoscaling/en/>\n"
 "Language: english\n"
 "MIME-Version: 1.0\n"
@@ -502,7 +502,7 @@ msgstr ""
 
 #: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Group%27]
 msgid "Group"
-msgstr ""
+msgstr "组"
 
 #: %24_LANG[%27addonAA%27][%27MultiAutoscale%27][%27Changes+History%27]
 msgid "Changes History"
