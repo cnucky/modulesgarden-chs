@@ -4,9 +4,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-28 21:28+0800\n"
-"PO-Revision-Date: 2018-09-15 17:55+0000\n"
-"Last-Translator: 北极熊 <bejix@qq.com>\n"
-"Language-Team: English <https://i18n.misakacloud.cn/projects/"
+"PO-Revision-Date: 2018-09-21 11:56+0000\n"
+"Last-Translator: Li Mi <xjdzch@126.com>\n"
+"Language-Team: English <http://i18n.misakacloud.cn/projects/"
 "ModulesGarden_CHS/clientareadesigner/en/>\n"
 "Language: english\n"
 "MIME-Version: 1.0\n"
@@ -56,7 +56,7 @@ msgstr ""
 
 #: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27documentation%27]
 msgid "Documentation"
-msgstr ""
+msgstr "文档"
 
 #: %24_LANG[%27addonAA%27][%27panels%27][%27Navbars%27]
 msgctxt "$_LANG['addonAA']['panels']['Navbars']"
@@ -225,7 +225,7 @@ msgstr ""
 
 #: %24_LANG[%27addonAA%27][%27scanner%27][%27Disabled%27]
 msgid "Disabled"
-msgstr ""
+msgstr "禁用"
 
 #: %24_LANG[%27addonAA%27][%27scanner%27][%27Run+As+Client%27]
 msgid "Run As Client"
@@ -388,7 +388,7 @@ msgstr ""
 
 #: %24_LANG[%27Search%27]
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: %24_LANG[%27Previous%27]
 msgid "Previous"
