@@ -1,17 +1,19 @@
 #. extracted from domainsreseller/english.php
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-28 21:28+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-09-15 17:55+0000\n"
+"Last-Translator: 北极熊 <bejix@qq.com>\n"
+"Language-Team: English <https://i18n.misakacloud.cn/projects/"
+"ModulesGarden_CHS/domainsreseller/en/>\n"
+"Language: english\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.3.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #. // api messages
 #: %24LANG[%27formErrorEmptyField%27]
@@ -317,11 +319,11 @@ msgstr ""
 
 #: %24LANG[%27api_users%27][%27yes%27]
 msgid "Yes"
-msgstr ""
+msgstr "Yes"
 
 #: %24LANG[%27api_users%27][%27no%27]
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #: %24LANG[%27api_users%27][%27enabled%27]
 msgid "enabled"
@@ -600,7 +602,7 @@ msgstr ""
 
 #: %24LANG[%27configuration%27][%27save%27]
 msgid "Save Changes"
-msgstr ""
+msgstr "保存更改"
 
 #: %24LANG[%27configuration%27][%27changesSaved%27]
 msgid "Your changes have been saved"
@@ -719,7 +721,7 @@ msgstr ""
 
 #: %24LANG[%27configuration%27][%27unlimited%27]
 msgid "Unlimited"
-msgstr ""
+msgstr "无限"
 
 #: %24LANG[%27configuration%27][%27ipRestrictionClientTooltip%27]
 msgid ""
@@ -1151,7 +1153,7 @@ msgstr ""
 
 #: %24LANG[%27responses%27][%27delete%27]
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 #: %24LANG[%27responses%27][%27editTitle%27]
 msgid "Edit Template"
@@ -1326,7 +1328,7 @@ msgstr ""
 
 #: %24LANG[%27show%27]
 msgid "Show"
-msgstr ""
+msgstr "显示"
 
 #: %24LANG[%27hide%27]
 msgid "Hide"

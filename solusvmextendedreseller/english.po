@@ -1,17 +1,19 @@
 #. extracted from solusvmextendedreseller/english.php
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-28 21:28+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-09-15 17:55+0000\n"
+"Last-Translator: 北极熊 <bejix@qq.com>\n"
+"Language-Team: English <https://i18n.misakacloud.cn/projects/"
+"ModulesGarden_CHS/solusvmextendedreseller/en/>\n"
+"Language: english\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.3.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #. /* * ********************************************************************
 #.  * Customization Services by ModulesGarden.com
@@ -153,15 +155,15 @@ msgstr ""
 
 #: %24_LANG[%27reseller%27][%27control_panel%27]
 msgid "Control Panel"
-msgstr ""
+msgstr "控制面板"
 
 #: %24_LANG[%27reseller%27][%27yes%27]
 msgid "Yes"
-msgstr ""
+msgstr "Yes"
 
 #: %24_LANG[%27reseller%27][%27no%27]
 msgid "No"
-msgstr ""
+msgstr "No"
 
 #. // messages from SolusVM API
 #: %24_LANG[%27solus%27][%27Virtual+server+booted%27]
@@ -186,7 +188,7 @@ msgstr ""
 
 #: %24_LANG[%27solus%27][%27Virtual+server+is+being+rebuilt%27]
 msgid "Virtual server is being rebuilt"
-msgstr ""
+msgstr "正在重建虚拟服务器"
 
 #: %24_LANG[%27solus%27][%27Virtual+server+root+password+changed%27]
 msgid "Virtual server root password changed"

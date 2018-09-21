@@ -1,17 +1,19 @@
 #. extracted from english.php
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-29 19:16+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-09-15 17:55+0000\n"
+"Last-Translator: 北极熊 <bejix@qq.com>\n"
+"Language-Team: English <https://i18n.misakacloud.cn/projects/"
+"ModulesGarden_CHS/proxmoxvps/en/>\n"
+"Language: english\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.3.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #: %24_LANG[%27token%27]
 msgid ", Error Token:"
@@ -331,7 +333,7 @@ msgstr ""
 
 #: %24_LANG[%27addonAA%27][%27clusters%27][%27loadAverage%27]
 msgid "Load Average"
-msgstr ""
+msgstr "负载平均值"
 
 #: %24_LANG[%27addonAA%27][%27clusters%27][%27cpus%27]
 msgctxt "$_LANG['addonAA']['clusters']['cpus']"
@@ -1163,7 +1165,7 @@ msgstr ""
 
 #: %24_LANG[%27addonAA%27][%27servers%27][%27actionButtons%27][%27manage%27]
 msgid "Manage"
-msgstr ""
+msgstr "管理"
 
 #: %24_LANG[%27addonAA%27][%27servers%27][%27actionButtons%27][%27edit%27]
 msgctxt "$_LANG['addonAA']['servers']['actionButtons']['edit']"
@@ -1833,7 +1835,7 @@ msgstr ""
 
 #: %24_LANG[%27addonAA%27][%27servers%27][%27Password%27]
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 #: %24_LANG[%27addonAA%27][%27servers%27][%27Password+is+reguired%27]
 msgid "The password is required"
@@ -2251,7 +2253,7 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27shutdown%27]
 msgid "Shutdown"
-msgstr ""
+msgstr "关机"
 
 #: %24_LANG[%27vps%27][%27reinstall%27]
 msgctxt "$_LANG['vps']['reinstall']"
@@ -2264,7 +2266,7 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27reboot%27]
 msgid "Reboot"
-msgstr ""
+msgstr "重启"
 
 #: %24_LANG[%27vps%27][%27console%27]
 msgctxt "$_LANG['vps']['console']"
@@ -2273,7 +2275,7 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27control_panel%27]
 msgid "Control Panel"
-msgstr ""
+msgstr "控制面板"
 
 #: %24_LANG[%27vps%27][%27details%27]
 msgctxt "$_LANG['vps']['details']"
@@ -2296,7 +2298,7 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27template%27]
 msgid "Template"
-msgstr ""
+msgstr "操作系统"
 
 #: %24_LANG[%27vps%27][%27hostname%27]
 msgctxt "$_LANG['vps']['hostname']"
@@ -2314,7 +2316,7 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27main_ip%27]
 msgid "Main IP Address"
-msgstr ""
+msgstr "主要IP地址"
 
 #: %24_LANG[%27vps%27][%27ip_addresses%27]
 msgctxt "$_LANG['vps']['ip_addresses']"
@@ -2327,7 +2329,7 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27root_pass_show%27]
 msgid "Show"
-msgstr ""
+msgstr "显示"
 
 #: %24_LANG[%27vps%27][%27root_change_password%27]
 msgid "Change Password"
@@ -2430,7 +2432,7 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27rebuild_template%27]
 msgid "Select Template:"
-msgstr ""
+msgstr "选择系统："
 
 #: %24_LANG[%27vps%27][%27rebuild_cd_rom_iso%27]
 msgid "Select CD-ROM ISO:"
@@ -2569,7 +2571,7 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27console_session%27]
 msgid "Session Expires:"
-msgstr ""
+msgstr "会话到期："
 
 #: %24_LANG[%27vps_ajax%27][%27no_server%27]
 msgid "You need to setup the server first"
@@ -2586,11 +2588,11 @@ msgstr ""
 
 #: %24_LANG[%27vps%27][%27dns_manager_reverse%27]
 msgid "Manage Reverse DNS"
-msgstr ""
+msgstr "管理反向DNS"
 
 #: %24_LANG[%27vps%27][%27dns_manager_manage%27]
 msgid "Manage DNS"
-msgstr ""
+msgstr "管理DNS"
 
 #: %24_LANG[%27vps%27][%27reinstallmsg%27]
 msgid "Are you sure that you want to reinstall the virtual machine?"
@@ -3335,7 +3337,7 @@ msgstr ""
 
 #: %24_LANG[%27panel%27][%27manageVM%27]
 msgid "Manage VM"
-msgstr ""
+msgstr "管理虚拟机"
 
 #: %24_LANG[%27panel%27][%27additionalTools%27]
 msgctxt "$_LANG['panel']['additionalTools']"
@@ -3792,7 +3794,7 @@ msgstr ""
 
 #: %24_LANG[%27CAPages%27][%27MountPoints%27][%27Delete:%27]
 msgid "Delete:"
-msgstr ""
+msgstr "删除:"
 
 #: %24_LANG[%27CAPages%27][%27MountPoints%27][%27Close%27]
 msgctxt "$_LANG['CAPages']['MountPoints']['Close']"

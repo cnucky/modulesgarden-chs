@@ -1,17 +1,19 @@
 #. extracted from english.php
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-29 19:28+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-09-15 17:55+0000\n"
+"Last-Translator: 北极熊 <bejix@qq.com>\n"
+"Language-Team: English <https://i18n.misakacloud.cn/projects/"
+"ModulesGarden_CHS/accountsynchronization/en/>\n"
+"Language: english\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.3.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #. //====================================================================================
 #. //==============================ADMIN AREA============================================
@@ -171,7 +173,7 @@ msgstr ""
 
 #: %24_LANG[%22Delete%22]
 msgid "Delete"
-msgstr ""
+msgstr "删除"
 
 #. //==================================SCAN ACCOUNTS=====================================
 #: %24_LANG[%22Nameserver+1%22]
@@ -496,7 +498,7 @@ msgstr ""
 
 #: %24_LANG[%22Actions%22]
 msgid "Actions"
-msgstr ""
+msgstr "操作"
 
 #: %24_LANG[%22WHMCS+Product%22]
 msgid "WHMCS Product"
@@ -674,7 +676,7 @@ msgstr ""
 
 #: %24_LANG[%22Password%22]
 msgid "Password"
-msgstr ""
+msgstr "密码"
 
 #: %24_LANG[%22password%22]
 msgid "password"
