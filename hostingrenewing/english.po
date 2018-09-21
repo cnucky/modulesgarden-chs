@@ -1,17 +1,19 @@
 #. extracted from english.php
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-21 19:14+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-09-21 11:56+0000\n"
+"Last-Translator: Li Mi <xjdzch@126.com>\n"
+"Language-Team: English <http://i18n.misakacloud.cn/projects/"
+"ModulesGarden_CHS/hostingrenewing/en/>\n"
+"Language: english\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.3.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #: %24_LANG[%27token%27]
 msgid ", Error Token:"
@@ -19,81 +21,81 @@ msgstr ""
 
 #: %24_LANG[%27generalError%27]
 msgid "Something has gone wrong. Check the logs and contact the administrator."
-msgstr ""
+msgstr "出现了一些错误,检查日志并联系管理员."
 
 #: %24_LANG[%27generalErrorClientArea%27]
 msgid "Something has gone wrong. Contact the administrator."
-msgstr ""
+msgstr "出错了,联系管理员."
 
 #: %24_LANG[%27permissionsStorage%27]
 msgid ""
 ":storage_path: settings are not sufficient. Please change the permissions to "
 "the value 777."
-msgstr ""
+msgstr ":storage_path: 权限不正确,请把权限改为777."
 
 #: %24_LANG[%27undefinedAction%27]
 msgid "Undefined Action"
-msgstr ""
+msgstr "没定义的操作"
 
 #: %24_LANG[%27changesHasBeenSaved%27]
 msgctxt "$_LANG['changesHasBeenSaved']"
 msgid "Changes have been saved successfully."
-msgstr ""
+msgstr "已成功保存修改."
 
 #: %24_LANG[%27Free+Account%27]
 msgid "Free Account"
-msgstr ""
+msgstr "免费的账号"
 
 #: %24_LANG[%27Passwords%27]
 msgid "Passwords"
-msgstr ""
+msgstr "密码"
 
 #: %24_LANG[%27discountAddedSuccesfully%27]
 msgid "The discount has been added successfully."
-msgstr ""
+msgstr "已经成功添加折扣."
 
 #: %24_LANG[%27Nothing+to+display%27]
 msgctxt "$_LANG['Nothing to display']"
 msgid "Nothing to display"
-msgstr ""
+msgstr "无可奉告(没有可显示的)"
 
 #: %24_LANG[%27Search%27]
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: %24_LANG[%27Previous%27]
 msgctxt "$_LANG['Previous']"
 msgid "Previous"
-msgstr ""
+msgstr "上一个"
 
 #: %24_LANG[%27Next%27]
 msgctxt "$_LANG['Next']"
 msgid "Next"
-msgstr ""
+msgstr "下一个"
 
 #: %24_LANG[%27searchPlacecholder%27]
 msgid "Search..."
-msgstr ""
+msgstr "搜索中..."
 
 #: %24_LANG[%27noDataAvalible%27]
 msgid "No Data Available"
-msgstr ""
+msgstr "没有可用的数据"
 
 #: %24_LANG[%27validationErrors%27][%27emptyField%27]
 msgid "Field cannot be empty"
-msgstr ""
+msgstr "栏目不能为空"
 
 #: %24_LANG[%27bootstrapswitch%27][%27disabled%27]
 msgid "Disabled"
-msgstr ""
+msgstr "禁用"
 
 #: %24_LANG[%27bootstrapswitch%27][%27enabled%27]
 msgid "Enabled"
-msgstr ""
+msgstr "启用"
 
 #: %24_LANG[%27AdminAreaClientTabServiceAutorenewalOff%27]
 msgid "AutoRenewal is Off."
-msgstr ""
+msgstr "自动续费已关闭"
 
 #. /* * ********************************************************************************************************************
 #.  *                                                   ADMIN AREA                                                        *
@@ -101,184 +103,186 @@ msgstr ""
 #: %24_LANG[%27addonAA%27][%27datatables%27][%27next%27]
 msgctxt "$_LANG['addonAA']['datatables']['next']"
 msgid "Next"
-msgstr ""
+msgstr "下一个"
 
 #: %24_LANG[%27addonAA%27][%27datatables%27][%27previous%27]
 msgctxt "$_LANG['addonAA']['datatables']['previous']"
 msgid "Previous"
-msgstr ""
+msgstr "上一个"
 
 #: %24_LANG[%27addonAA%27][%27datatables%27][%27zeroRecords%27]
 msgctxt "$_LANG['addonAA']['datatables']['zeroRecords']"
 msgid "Nothing to display"
-msgstr ""
+msgstr "无可显示(奉告)"
 
 #. // -------------------------------------------------> MENU <--------------------------------------------------------- //
 #: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27Home%27]
 msgid "Product Settings"
-msgstr ""
+msgstr "产品设置"
 
 #: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27documentation3%27]
 msgid "Documentation"
-msgstr ""
+msgstr "文档"
 
 #: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27Home%27][%27Setting%27]
 msgid ":productNameSettings:  Settings"
-msgstr ""
+msgstr ":productNameSettings:  设置"
 
 #: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27Discounts%27]
 msgctxt "$_LANG['addonAA']['pagesLabels']['label']['Discounts']"
 msgid "Discounts"
-msgstr ""
+msgstr "折扣"
 
 #: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27LoggerManager%27]
 msgctxt "$_LANG['addonAA']['pagesLabels']['label']['LoggerManager']"
 msgid "Logs"
-msgstr ""
+msgstr "日志"
 
 #. // -------------------------------------------------> Products Settings <--------------------------------------------------------- //
 #: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27home%27][%27Index%27]
 msgid "Table Of Products"
-msgstr ""
+msgstr "产品列表"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27labelscont%27][%27labelsContTitle%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['labelscont']['labelsContTitle']"
 msgid "Products"
-msgstr ""
+msgstr "产品"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27labelscont%27][%27table%27][%27product%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['labelscont']['table']['product']"
 msgid "Product"
-msgstr ""
+msgstr "产品"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27labelscont%27][%27table%27][%27groups%27]
 msgid "Group"
-msgstr ""
+msgstr "组"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27labelscont%27][%27table%27][%27status%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['labelscont']['table']['status']"
 msgid "Status"
-msgstr ""
+msgstr "状态"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27labelscont%27][%27editLabelModalButton%27][%27button%27][%27editLabelModalButton%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['labelscont']['editLabelModalButton']['button']['editLabelModalButton']"
 msgid "Edit"
-msgstr ""
+msgstr "编辑"
 
 #. // -------------------------------------------------> Settings Per Product <--------------------------------------------------------- //
 #: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27Settings%27][%27Index%27]
 msgctxt "$_LANG['addonAA']['pagesLabels']['label']['Settings']['Index']"
 msgid "Settings"
-msgstr ""
+msgstr "设置"
 
 #: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27Home%27][%27Settings%27][%27Index%27]
 msgctxt "$_LANG['addonAA']['pagesLabels']['Home']['Settings']['Index']"
 msgid "Settings"
-msgstr ""
+msgstr "设置"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27labelscont%27][%27moveToSettingPage%27][%27button%27][%27moveToSettingPage%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['labelscont']['moveToSettingPage']['button']['moveToSettingPage']"
 msgid "Settings"
-msgstr ""
+msgstr "设置"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27firstSection%27]
 msgid "Settings Per Product"
-msgstr ""
+msgstr "为每个产品单独设置"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27status%27][%27status%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['status']['status']"
 msgid "Enable Renewal Configuration"
-msgstr ""
+msgstr "启用续费配置"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27auto_renew%27][%27auto_renew%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['auto_renew']['auto_renew']"
 msgid "Control Auto Renew"
-msgstr ""
+msgstr "控制自动续费"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27auto_renew%27][%27description%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['auto_renew']['description']"
 msgid "Allow clients to control auto renew"
-msgstr ""
+msgstr "允许客户控制自动续费"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27renew_hosting%27][%27renew_hosting%27]
+#, fuzzy
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['renew_hosting']['renew_hosting']"
 msgid "Upfront Renew Hosting"
-msgstr ""
+msgstr "提前续费主机"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27renew_hosting%27][%27description%27]
+#, fuzzy
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['renew_hosting']['description']"
 msgid "Allow clients to upfront renew hosting"
-msgstr ""
+msgstr "允许客户提前续费主机"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27change_billing_cycle%27][%27change_billing_cycle%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['change_billing_cycle']['change_billing_cycle']"
 msgid "Allow Billing Cycle Change"
-msgstr ""
+msgstr "允许修改计费周期"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27change_billing_cycle%27][%27description%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['change_billing_cycle']['description']"
 msgid "Allow clients to change the billing cycle."
-msgstr ""
+msgstr "允许客户修改产品的计费周期."
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27status_off%27][%27status_off%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['status_off']['status_off']"
 msgid "Disable Auto Renewal By Default"
-msgstr ""
+msgstr "默认禁止自动续费"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27status_off%27][%27description%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['status_off']['description']"
 msgid ""
 "If enabled, automatic renewals will be disabled by default for all new "
 "services."
-msgstr ""
+msgstr "如果启用了,自动续费在所有新的服务商默认停用."
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27addons_renewal%27][%27addons_renewal%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['addons_renewal']['addons_renewal']"
 msgid "Allow Addons Renewal"
-msgstr ""
+msgstr "允许续费附加项目"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27addons_renewal%27][%27description%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['addons_renewal']['description']"
 msgid "Enable the renewal of addons."
-msgstr ""
+msgstr "启用附加项目的续费."
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27domain_renewal%27][%27domain_renewal%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['domain_renewal']['domain_renewal']"
 msgid "Allow Domain Renewal"
-msgstr ""
+msgstr "允许域名续费"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27domain_renewal%27][%27description%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['domain_renewal']['description']"
 msgid "Enable the renewal of a domain."
-msgstr ""
+msgstr "启用域名续费."
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27force_renew%27][%27force_renew%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['force_renew']['force_renew']"
 msgid "Force Domain Renewal"
-msgstr ""
+msgstr "强制域名续费"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27force_renew%27][%27description%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['force_renew']['description']"
 msgid ""
 "Force the domain renewal along with the renewal of a service it belongs to."
-msgstr ""
+msgstr "强制域名续费以及续费其所属的服务."
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27send_notifications%27][%27send_notifications%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['send_notifications']['send_notifications']"
 msgid "Disable Auto Renewal Reminders"
-msgstr ""
+msgstr "禁用自动续费的提醒"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27send_notifications%27][%27description%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['send_notifications']['description']"
 msgid ""
 "If enabled, renewal reminders will not be sent in case the automatic renewal "
 "is switched on."
-msgstr ""
+msgstr "如果启用了,在打开自动续费的时候将不会有续费提醒."
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27service_price%27][%27service_price%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['service_price']['service_price']"
 msgid "Apply Recurring Amount From Service Settings"
-msgstr ""
+msgstr "从服务设置应用循环金额"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27service_price%27][%27description%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['service_price']['description']"
@@ -362,7 +366,7 @@ msgstr ""
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27monthly%27][%27Monthly%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['monthly']['Monthly']"
 msgid "Monthly"
-msgstr ""
+msgstr "月付"
 
 #: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27quarterly%27][%27Quarterly%27]
 msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['quarterly']['Quarterly']"
@@ -1502,7 +1506,7 @@ msgstr ""
 
 #: %24_LANG[%27addonCA%27][%27hostingActions%27][%27renewfor%27]
 msgid "Renew Service For"
-msgstr ""
+msgstr "续"
 
 #: %24_LANG[%27addonCA%27][%27hostingActions%27][%271%27]
 msgctxt "$_LANG['addonCA']['hostingActions']['1']"
@@ -1531,32 +1535,32 @@ msgstr ""
 
 #: %24_LANG[%27addonCA%27][%27hostingActions%27][%27Monthly%27]
 msgid "1 Month"
-msgstr ""
+msgstr "1个月"
 
 #: %24_LANG[%27addonCA%27][%27hostingActions%27][%27Quarterly%27]
 msgid "3 Months"
-msgstr ""
+msgstr "3个月"
 
 #: %24_LANG[%27addonCA%27][%27hostingActions%27][%27Semi-Annually%27]
 msgid "6 Months"
-msgstr ""
+msgstr "6个月"
 
 #: %24_LANG[%27addonCA%27][%27hostingActions%27][%27Annually%27]
 msgid "1 Year"
-msgstr ""
+msgstr "1年"
 
 #: %24_LANG[%27addonCA%27][%27hostingActions%27][%27Biennially%27]
 msgid "2 Years"
-msgstr ""
+msgstr "2年"
 
 #: %24_LANG[%27addonCA%27][%27hostingActions%27][%27Triennially%27]
 msgid "3 Years"
-msgstr ""
+msgstr "3年"
 
 #: %24_LANG[%27Monthly%27]
 msgctxt "$_LANG['Monthly']"
 msgid "Monthly"
-msgstr ""
+msgstr "月付"
 
 #: %24_LANG[%27Quarterly%27]
 msgctxt "$_LANG['Quarterly']"
@@ -1671,11 +1675,11 @@ msgstr ""
 
 #: %24_LANG[%27addonCA%27][%27hostingActions%27][%27year%27]
 msgid "Year"
-msgstr ""
+msgstr "年"
 
 #: %24_LANG[%27addonCA%27][%27hostingActions%27][%27years%27]
 msgid "Years"
-msgstr ""
+msgstr "年"
 
 #: %24_LANG[%27addonCA%27][%27hostingActions%27][%27free%27]
 msgid "Free"
