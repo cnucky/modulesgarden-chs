@@ -247,43 +247,43 @@ $_LANG['addonAA']['home']['massOffRenewalModal']['baseCancelButton']['title']   
 
 $_LANG['addonAA']['pagesLabels']['Discounts']['Index']                                                                               = '折扣';
 $_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['labelsContTitle']                                                  = '折扣';
-$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['addDiscountModalButton']['button']['addDiscountModalButton']       = 'Add Discount';
+$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['addDiscountModalButton']['button']['addDiscountModalButton']       = '添加折扣';
 $_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['deleteDiscountModalButton']['button']['deleteDiscountModalButton'] = 'Delete Discount';
 $_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['editDiscountModalButton']['button']['editDiscountModalButton']     = 'Edit Discount';
-$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['name']                                                    = 'Name';
+$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['name']                                                    = '名字';
 $_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['type']                                                    = 'Type';
 $_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['value']                                                   = 'Value';
 $_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['product']                                                 = '产品';
-$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['discount_type']                                           = 'Discount Type';
-$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['cycle_from']                                              = 'Cycle Change From';
-$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['cycle_to']                                                = 'Cycle Change To';
+$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['discount_type']                                           = '折扣类型';
+$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['cycle_from']                                              = '改变计费周期从';
+$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['cycle_to']                                                = '改变计费周期到';
 $_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['enabled']                                                 = '状态';
 
-$_LANG['addonAA']['discounts']['addDiscountModal']['modal']['addDiscountModal']                         = 'Add Discount';
+$_LANG['addonAA']['discounts']['addDiscountModal']['modal']['addDiscountModal']                         = '添加折扣';
 $_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['enabled']['enabled']             = '状态';
-$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['name']['name']                   = 'Name';
+$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['name']['name']                   = '名字';
 $_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['items']['items']                 = '产品';
 $_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['type']['type']                   = 'Type';
 $_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['value']['value']                 = 'Value';
-$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['discount_type']['discount_type'] = 'Discount Type';
-$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['cycle_from']['cycle_from']       = 'Cycle Change From';
-$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['cycle_to']['cycle_to']           = 'Cycle Change To';
+$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['discount_type']['discount_type'] = '折扣类型';
+$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['cycle_from']['cycle_from']       = '改变计费周期从';
+$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['cycle_to']['cycle_to']           = '改变计费周期到';
 $_LANG['addonAA']['discounts']['addDiscountModal']['baseAcceptButton']['title']                         = 'Add';
 $_LANG['addonAA']['discounts']['addDiscountModal']['baseCancelButton']['title']                         = '取消';
 
 $_LANG['addonAA']['discounts']['editDiscountModal']['modal']['editDiscountModal']                         = 'Edit Discount';
 $_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['enabled']['enabled']             = '状态';
-$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['name']['name']                   = 'Name';
+$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['name']['name']                   = '名字';
 $_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['items']['items']                 = '产品';
 $_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['type']['type']                   = 'Type';
 $_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['value']['value']                 = 'Value';
-$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['discount_type']['discount_type'] = 'Discount Type';
-$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['cycle_from']['cycle_from']       = 'Cycle Change From';
-$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['cycle_to']['cycle_to']           = 'Cycle Change To';
+$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['discount_type']['discount_type'] = '折扣类型';
+$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['cycle_from']['cycle_from']       = '改变计费周期从';
+$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['cycle_to']['cycle_to']           = '改变计费周期到';
 $_LANG['addonAA']['discounts']['editDiscountModal']['baseAcceptButton']['title']                          = '编辑';
 $_LANG['addonAA']['discounts']['editDiscountModal']['baseCancelButton']['title']                          = '取消';
 
-$_LANG['addonAA']['discounts']['deleteDiscountModal']['modal']['deleteDiscountModal']              = '删除折扣';
+$_LANG['addonAA']['discounts']['deleteDiscountModal']['modal']['deleteDiscountModal']              = 'Delete Discount';
 $_LANG['addonAA']['discounts']['deleteDiscountModal']['deleteDiscountForm']['confirmLabelRemoval'] = 'Are you sure that you want to delete this discount?';
 $_LANG['addonAA']['discounts']['deleteDiscountModal']['baseAcceptButton']['title']                 = 'Delete';
 $_LANG['addonAA']['discounts']['deleteDiscountModal']['baseCancelButton']['title']                 = '取消';
@@ -361,17 +361,17 @@ $_LANG['addonCA']['pagesLabels']['label']['home'] = "Owned Passwords";
 
 $_LANG['addonCA']['pageNotFound'] = "Page Not Found";
 
-$_LANG['addonCA']['hostingActions']['autorenewal_label']     = 'Auto Renewal Status';
+$_LANG['addonCA']['hostingActions']['autorenewal_label']     = '自动续费状态';
 $_LANG['addonCA']['hostingActions']['autorenewal_label_on']  = 'ON';
 $_LANG['addonCA']['hostingActions']['autorenewal_label_off'] = 'OFF';
 
 $_LANG['addonCA']['hostingActions']['renewfor']            = '续';
 $_LANG['addonCA']['hostingActions']['1']                   = '';
-$_LANG['addonCA']['hostingActions']['turnautorenewon']     = 'Enable Auto Renewal';
-$_LANG['addonCA']['hostingActions']['turnautorenewoff']    = 'Disable Auto Renewal';
-$_LANG['addonCA']['hostingActions']['choose_biling_cycle'] = 'Choose Billing Cycle';
-$_LANG['addonCA']['hostingActions']['confirm_text']        = 'Are you sure that you want to change the billing cycle from';
-$_LANG['addonCA']['hostingActions']['to']                  = 'to';
+$_LANG['addonCA']['hostingActions']['turnautorenewon']     = '启用自动续费';
+$_LANG['addonCA']['hostingActions']['turnautorenewoff']    = '禁用自动续费';
+$_LANG['addonCA']['hostingActions']['choose_biling_cycle'] = '选择计费周期';
+$_LANG['addonCA']['hostingActions']['confirm_text']        = '你确定你要把计费周期从';
+$_LANG['addonCA']['hostingActions']['to']                  = '变成';
 
 $_LANG['addonCA']['hostingActions']['Monthly']       = '1个月';
 $_LANG['addonCA']['hostingActions']['Quarterly']     = '3个月';
@@ -402,7 +402,7 @@ $_LANG['FormValidators']['PleaseProvideANumericValueBetween'] = 'Please provide 
 $_LANG['addonCA']['hostingActions']['biling_cycle_label']      = 'Billing Cycle';
 $_LANG['addonCA']['hostingActions']['domain_group']            = 'Domain';
 $_LANG['addonCA']['hostingActions']['addons_group']            = 'Addons';
-$_LANG['addonCA']['hostingActions']['changeBillingCycleModal'] = 'Change Billing Cycle';
+$_LANG['addonCA']['hostingActions']['changeBillingCycleModal'] = '改变计费周期';
 
 $_LANG['addonCA']['hostingActions']['recurring'] = 'Recurring';
 $_LANG['addonCA']['hostingActions']['price']     = 'Price';
