@@ -283,7 +283,7 @@ $_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['cycle_t
 $_LANG['addonAA']['discounts']['editDiscountModal']['baseAcceptButton']['title']                          = '编辑';
 $_LANG['addonAA']['discounts']['editDiscountModal']['baseCancelButton']['title']                          = '取消';
 
-$_LANG['addonAA']['discounts']['deleteDiscountModal']['modal']['deleteDiscountModal']              = 'Delete Discount';
+$_LANG['addonAA']['discounts']['deleteDiscountModal']['modal']['deleteDiscountModal']              = '删除折扣';
 $_LANG['addonAA']['discounts']['deleteDiscountModal']['deleteDiscountForm']['confirmLabelRemoval'] = 'Are you sure that you want to delete this discount?';
 $_LANG['addonAA']['discounts']['deleteDiscountModal']['baseAcceptButton']['title']                 = 'Delete';
 $_LANG['addonAA']['discounts']['deleteDiscountModal']['baseCancelButton']['title']                 = '取消';
