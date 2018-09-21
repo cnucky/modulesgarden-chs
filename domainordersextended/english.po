@@ -4,9 +4,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-28 21:28+0800\n"
-"PO-Revision-Date: 2018-09-15 17:55+0000\n"
-"Last-Translator: 北极熊 <bejix@qq.com>\n"
-"Language-Team: English <https://i18n.misakacloud.cn/projects/"
+"PO-Revision-Date: 2018-09-21 11:56+0000\n"
+"Last-Translator: Li Mi <xjdzch@126.com>\n"
+"Language-Team: English <http://i18n.misakacloud.cn/projects/"
 "ModulesGarden_CHS/domainordersextended/en/>\n"
 "Language: english\n"
 "MIME-Version: 1.0\n"
@@ -21,11 +21,11 @@ msgstr ""
 
 #: %24_LANG[%27generalError%27]
 msgid "Something has gone wrong. Check the logs and contact the administrator."
-msgstr ""
+msgstr "出现了一些错误,检查日志并联系管理员."
 
 #: %24_LANG[%27generalErrorClientArea%27]
 msgid "Something has gone wrong. Contact the administrator."
-msgstr ""
+msgstr "出错了,联系管理员."
 
 #: %24_LANG[%27permissionsStorage%27]
 msgid ""
@@ -35,7 +35,7 @@ msgstr ""
 
 #: %24_LANG[%27undefinedAction%27]
 msgid "Undefined Action"
-msgstr ""
+msgstr "没定义的操作"
 
 #: %24_LANG[%27changesHasBeenSaved%27]
 msgctxt "$_LANG['changesHasBeenSaved']"
@@ -48,11 +48,11 @@ msgstr ""
 
 #: %24_LANG[%27Free+Account%27]
 msgid "Free Account"
-msgstr ""
+msgstr "免费的账号"
 
 #: %24_LANG[%27Passwords%27]
 msgid "Passwords"
-msgstr ""
+msgstr "密码"
 
 #: %24_LANG[%27labelAddedSuccesfully%27]
 msgid "Label has been added successfully"
@@ -61,29 +61,29 @@ msgstr ""
 #: %24_LANG[%27Nothing+to+display%27]
 msgctxt "$_LANG['Nothing to display']"
 msgid "Nothing to display"
-msgstr ""
+msgstr "无可奉告(没有可显示的)"
 
 #: %24_LANG[%27Search%27]
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: %24_LANG[%27Previous%27]
 msgctxt "$_LANG['Previous']"
 msgid "Previous"
-msgstr ""
+msgstr "上一个"
 
 #: %24_LANG[%27Next%27]
 msgctxt "$_LANG['Next']"
 msgid "Next"
-msgstr ""
+msgstr "下一个"
 
 #: %24_LANG[%27searchPlacecholder%27]
 msgid "Search..."
-msgstr ""
+msgstr "搜索中..."
 
 #: %24_LANG[%27noDataAvalible%27]
 msgid "No Data Available"
-msgstr ""
+msgstr "没有可用的数据"
 
 #: %24_LANG[%27labelsDeletedSuccesfully%27]
 msgid "Labels have been deleted successfully"
@@ -95,7 +95,7 @@ msgstr ""
 
 #: %24_LANG[%27validationErrors%27][%27emptyField%27]
 msgid "Field cannot be empty"
-msgstr ""
+msgstr "栏目不能为空"
 
 #: %24_LANG[%27bootstrapswitch%27][%27disabled%27]
 msgctxt "$_LANG['bootstrapswitch']['disabled']"
@@ -104,7 +104,7 @@ msgstr ""
 
 #: %24_LANG[%27bootstrapswitch%27][%27enabled%27]
 msgid "Enabled"
-msgstr ""
+msgstr "启用"
 
 #: %24_LANG[%27MULTIPLE_DOMAIN_SEARCH%27]
 msgid "Multi Category View"
@@ -376,17 +376,17 @@ msgstr ""
 #: %24_LANG[%27addonAA%27][%27datatables%27][%27next%27]
 msgctxt "$_LANG['addonAA']['datatables']['next']"
 msgid "Next"
-msgstr ""
+msgstr "下一个"
 
 #: %24_LANG[%27addonAA%27][%27datatables%27][%27previous%27]
 msgctxt "$_LANG['addonAA']['datatables']['previous']"
 msgid "Previous"
-msgstr ""
+msgstr "上一个"
 
 #: %24_LANG[%27addonAA%27][%27datatables%27][%27zeroRecords%27]
 msgctxt "$_LANG['addonAA']['datatables']['zeroRecords']"
 msgid "Nothing to display"
-msgstr ""
+msgstr "无可显示(奉告)"
 
 #: %24_LANG[%27addonAA%27][%27Page+not+found%27]
 msgid "Page not found"
@@ -394,15 +394,15 @@ msgstr ""
 
 #: %24_LANG[%27domainPricing%27][%27msetupfee%27]
 msgid "1 Year"
-msgstr ""
+msgstr "1年"
 
 #: %24_LANG[%27domainPricing%27][%27qsetupfee%27]
 msgid "2 Years"
-msgstr ""
+msgstr "2年"
 
 #: %24_LANG[%27domainPricing%27][%27ssetupfee%27]
 msgid "3 Years"
-msgstr ""
+msgstr "3年"
 
 #: %24_LANG[%27domainPricing%27][%27asetupfee%27]
 msgid "4 Years"
