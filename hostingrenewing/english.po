@@ -5,7 +5,7 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-21 19:14+0800\n"
-"PO-Revision-Date: 2018-09-21 13:28+0000\n"
+"PO-Revision-Date: 2018-09-21 13:37+0000\n"
 "Last-Translator: Li Mi <xjdzch@126.com>\n"
 "Language-Team: English <http://i18n.misakacloud.cn/projects/"
 "ModulesGarden_CHS/hostingrenewing/en/>\n"
@@ -1036,7 +1036,7 @@ msgstr "折扣"
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27addDiscountModalButton%27][%27button%27][%27addDiscountModalButton%27]
 msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['addDiscountModalButton']['button']['addDiscountModalButton']"
 msgid "Add Discount"
-msgstr ""
+msgstr "添加折扣"
 
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27deleteDiscountModalButton%27][%27button%27][%27deleteDiscountModalButton%27]
 msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['deleteDiscountModalButton']['button']['deleteDiscountModalButton']"
@@ -1051,7 +1051,7 @@ msgstr ""
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27table%27][%27name%27]
 msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['name']"
 msgid "Name"
-msgstr ""
+msgstr "名字"
 
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27table%27][%27type%27]
 msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['type']"
@@ -1071,17 +1071,17 @@ msgstr "产品"
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27table%27][%27discount_type%27]
 msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['discount_type']"
 msgid "Discount Type"
-msgstr ""
+msgstr "折扣类型"
 
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27table%27][%27cycle_from%27]
 msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['cycle_from']"
 msgid "Cycle Change From"
-msgstr ""
+msgstr "改变计费周期从"
 
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27table%27][%27cycle_to%27]
 msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['cycle_to']"
 msgid "Cycle Change To"
-msgstr ""
+msgstr "改变计费周期到"
 
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27table%27][%27enabled%27]
 msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['enabled']"
@@ -1091,7 +1091,7 @@ msgstr "状态"
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27modal%27][%27addDiscountModal%27]
 msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['modal']['addDiscountModal']"
 msgid "Add Discount"
-msgstr ""
+msgstr "添加折扣"
 
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27addDiscountForm%27][%27enabled%27][%27enabled%27]
 msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['enabled']['enabled']"
@@ -1101,7 +1101,7 @@ msgstr "状态"
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27addDiscountForm%27][%27name%27][%27name%27]
 msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['name']['name']"
 msgid "Name"
-msgstr ""
+msgstr "名字"
 
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27addDiscountForm%27][%27items%27][%27items%27]
 msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['items']['items']"
@@ -1121,17 +1121,17 @@ msgstr ""
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27addDiscountForm%27][%27discount_type%27][%27discount_type%27]
 msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['discount_type']['discount_type']"
 msgid "Discount Type"
-msgstr ""
+msgstr "折扣类型"
 
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27addDiscountForm%27][%27cycle_from%27][%27cycle_from%27]
 msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['cycle_from']['cycle_from']"
 msgid "Cycle Change From"
-msgstr ""
+msgstr "改变计费周期从"
 
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27addDiscountForm%27][%27cycle_to%27][%27cycle_to%27]
 msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['cycle_to']['cycle_to']"
 msgid "Cycle Change To"
-msgstr ""
+msgstr "改变计费周期到"
 
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27baseAcceptButton%27][%27title%27]
 msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['baseAcceptButton']['title']"
@@ -1156,7 +1156,7 @@ msgstr "状态"
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27editDiscountModal%27][%27editDiscountForm%27][%27name%27][%27name%27]
 msgctxt "$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['name']['name']"
 msgid "Name"
-msgstr ""
+msgstr "名字"
 
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27editDiscountModal%27][%27editDiscountForm%27][%27items%27][%27items%27]
 msgctxt "$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['items']['items']"
@@ -1176,17 +1176,17 @@ msgstr ""
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27editDiscountModal%27][%27editDiscountForm%27][%27discount_type%27][%27discount_type%27]
 msgctxt "$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['discount_type']['discount_type']"
 msgid "Discount Type"
-msgstr ""
+msgstr "折扣类型"
 
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27editDiscountModal%27][%27editDiscountForm%27][%27cycle_from%27][%27cycle_from%27]
 msgctxt "$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['cycle_from']['cycle_from']"
 msgid "Cycle Change From"
-msgstr ""
+msgstr "改变计费周期从"
 
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27editDiscountModal%27][%27editDiscountForm%27][%27cycle_to%27][%27cycle_to%27]
 msgctxt "$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['cycle_to']['cycle_to']"
 msgid "Cycle Change To"
-msgstr ""
+msgstr "改变计费周期到"
 
 #: %24_LANG[%27addonAA%27][%27discounts%27][%27editDiscountModal%27][%27baseAcceptButton%27][%27title%27]
 msgctxt "$_LANG['addonAA']['discounts']['editDiscountModal']['baseAcceptButton']['title']"
@@ -1493,7 +1493,7 @@ msgstr ""
 
 #: %24_LANG[%27addonCA%27][%27hostingActions%27][%27autorenewal_label%27]
 msgid "Auto Renewal Status"
-msgstr ""
+msgstr "自动续费状态"
 
 #: %24_LANG[%27addonCA%27][%27hostingActions%27][%27autorenewal_label_on%27]
 msgid "ON"
@@ -1643,7 +1643,7 @@ msgstr ""
 
 #: %24_LANG[%27addonCA%27][%27hostingActions%27][%27changeBillingCycleModal%27]
 msgid "Change Billing Cycle"
-msgstr ""
+msgstr "改变计费周期"
 
 #: %24_LANG[%27addonCA%27][%27hostingActions%27][%27recurring%27]
 msgid "Recurring"
