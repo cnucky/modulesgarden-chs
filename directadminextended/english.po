@@ -4,9 +4,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-09-10 14:09+0800\n"
-"PO-Revision-Date: 2018-09-15 17:55+0000\n"
-"Last-Translator: 北极熊 <bejix@qq.com>\n"
-"Language-Team: English <https://i18n.misakacloud.cn/projects/"
+"PO-Revision-Date: 2018-09-21 11:56+0000\n"
+"Last-Translator: Li Mi <xjdzch@126.com>\n"
+"Language-Team: English <http://i18n.misakacloud.cn/projects/"
 "ModulesGarden_CHS/directadminextended/en/>\n"
 "Language: english\n"
 "MIME-Version: 1.0\n"
@@ -46,7 +46,7 @@ msgstr ""
 
 #: %24_LANG[%27pagesLabels%27][%27documentation%27][%27label%27]
 msgid "Documentation"
-msgstr ""
+msgstr "文档"
 
 #: %24_LANG[%27pages%27][%27functions%27][%27group_label%27][%27emails%27]
 msgctxt "$_LANG['pages']['functions']['group_label']['emails']"
