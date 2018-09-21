@@ -1,0 +1,1713 @@
+# extracted from english.php
+#. extracted from english.php
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-09-21 19:14+0800\n"
+"PO-Revision-Date: 2018-09-21 13:28+0000\n"
+"Last-Translator: Li Mi <xjdzch@126.com>\n"
+"Language-Team: English <http://i18n.misakacloud.cn/projects/"
+"ModulesGarden_CHS/hostingrenewing/en/>\n"
+"Language: english\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
+
+#: %24_LANG[%27token%27]
+msgid ", Error Token:"
+msgstr ""
+
+#: %24_LANG[%27generalError%27]
+msgid "Something has gone wrong. Check the logs and contact the administrator."
+msgstr ""
+
+#: %24_LANG[%27generalErrorClientArea%27]
+msgid "Something has gone wrong. Contact the administrator."
+msgstr ""
+
+#: %24_LANG[%27permissionsStorage%27]
+msgid ""
+":storage_path: settings are not sufficient. Please change the permissions to "
+"the value 777."
+msgstr ""
+
+#: %24_LANG[%27undefinedAction%27]
+msgid "Undefined Action"
+msgstr "没定义的操作"
+
+#: %24_LANG[%27changesHasBeenSaved%27]
+msgctxt "$_LANG['changesHasBeenSaved']"
+msgid "Changes have been saved successfully."
+msgstr "已成功保存修改."
+
+#: %24_LANG[%27Free+Account%27]
+msgid "Free Account"
+msgstr "免费的账号"
+
+#: %24_LANG[%27Passwords%27]
+msgid "Passwords"
+msgstr "密码"
+
+#: %24_LANG[%27discountAddedSuccesfully%27]
+msgid "The discount has been added successfully."
+msgstr "已经成功添加折扣."
+
+#: %24_LANG[%27Nothing+to+display%27]
+msgctxt "$_LANG['Nothing to display']"
+msgid "Nothing to display"
+msgstr "无可奉告(没有可显示的)"
+
+#: %24_LANG[%27Search%27]
+msgid "Search"
+msgstr "搜索"
+
+#: %24_LANG[%27Previous%27]
+msgctxt "$_LANG['Previous']"
+msgid "Previous"
+msgstr "上一个"
+
+#: %24_LANG[%27Next%27]
+msgctxt "$_LANG['Next']"
+msgid "Next"
+msgstr "下一个"
+
+#: %24_LANG[%27searchPlacecholder%27]
+msgid "Search..."
+msgstr "搜索中..."
+
+#: %24_LANG[%27noDataAvalible%27]
+msgid "No Data Available"
+msgstr "没有可用的数据"
+
+#: %24_LANG[%27validationErrors%27][%27emptyField%27]
+msgid "Field cannot be empty"
+msgstr "栏目不能为空"
+
+#: %24_LANG[%27bootstrapswitch%27][%27disabled%27]
+msgid "Disabled"
+msgstr "禁用"
+
+#: %24_LANG[%27bootstrapswitch%27][%27enabled%27]
+msgid "Enabled"
+msgstr "启用"
+
+#: %24_LANG[%27AdminAreaClientTabServiceAutorenewalOff%27]
+msgid "AutoRenewal is Off."
+msgstr "自动续费已关闭"
+
+#. /* * ********************************************************************************************************************
+#.  *                                                   ADMIN AREA                                                        *
+#.  * ******************************************************************************************************************** */
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27next%27]
+msgctxt "$_LANG['addonAA']['datatables']['next']"
+msgid "Next"
+msgstr "下一个"
+
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27previous%27]
+msgctxt "$_LANG['addonAA']['datatables']['previous']"
+msgid "Previous"
+msgstr "上一个"
+
+#: %24_LANG[%27addonAA%27][%27datatables%27][%27zeroRecords%27]
+msgctxt "$_LANG['addonAA']['datatables']['zeroRecords']"
+msgid "Nothing to display"
+msgstr "无可显示(奉告)"
+
+#. // -------------------------------------------------> MENU <--------------------------------------------------------- //
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27Home%27]
+msgid "Product Settings"
+msgstr "产品设置"
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27documentation3%27]
+msgid "Documentation"
+msgstr "文档"
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27Home%27][%27Setting%27]
+msgid ":productNameSettings:  Settings"
+msgstr ":productNameSettings:  设置"
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27Discounts%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['Discounts']"
+msgid "Discounts"
+msgstr "折扣"
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27LoggerManager%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['LoggerManager']"
+msgid "Logs"
+msgstr "日志"
+
+#. // -------------------------------------------------> Products Settings <--------------------------------------------------------- //
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27home%27][%27Index%27]
+msgid "Table Of Products"
+msgstr "产品列表"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27labelscont%27][%27labelsContTitle%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['labelscont']['labelsContTitle']"
+msgid "Products"
+msgstr "产品"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27labelscont%27][%27table%27][%27product%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['labelscont']['table']['product']"
+msgid "Product"
+msgstr "产品"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27labelscont%27][%27table%27][%27groups%27]
+msgid "Group"
+msgstr "组"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27labelscont%27][%27table%27][%27status%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['labelscont']['table']['status']"
+msgid "Status"
+msgstr "状态"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27labelscont%27][%27editLabelModalButton%27][%27button%27][%27editLabelModalButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['labelscont']['editLabelModalButton']['button']['editLabelModalButton']"
+msgid "Edit"
+msgstr "编辑"
+
+#. // -------------------------------------------------> Settings Per Product <--------------------------------------------------------- //
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27Settings%27][%27Index%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['label']['Settings']['Index']"
+msgid "Settings"
+msgstr "设置"
+
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27Home%27][%27Settings%27][%27Index%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['Home']['Settings']['Index']"
+msgid "Settings"
+msgstr "设置"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27labelscont%27][%27moveToSettingPage%27][%27button%27][%27moveToSettingPage%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['labelscont']['moveToSettingPage']['button']['moveToSettingPage']"
+msgid "Settings"
+msgstr "设置"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27firstSection%27]
+msgid "Settings Per Product"
+msgstr "为每个产品单独设置"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27status%27][%27status%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['status']['status']"
+msgid "Enable Renewal Configuration"
+msgstr "启用续费配置"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27auto_renew%27][%27auto_renew%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['auto_renew']['auto_renew']"
+msgid "Control Auto Renew"
+msgstr "控制自动续费"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27auto_renew%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['auto_renew']['description']"
+msgid "Allow clients to control auto renew"
+msgstr "允许客户控制自动续费"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27renew_hosting%27][%27renew_hosting%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['renew_hosting']['renew_hosting']"
+msgid "Upfront Renew Hosting"
+msgstr "提前续费产品"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27renew_hosting%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['renew_hosting']['description']"
+msgid "Allow clients to upfront renew hosting"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27change_billing_cycle%27][%27change_billing_cycle%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['change_billing_cycle']['change_billing_cycle']"
+msgid "Allow Billing Cycle Change"
+msgstr "允许修改计费周期"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27change_billing_cycle%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['change_billing_cycle']['description']"
+msgid "Allow clients to change the billing cycle."
+msgstr "允许客户修改产品的计费周期."
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27status_off%27][%27status_off%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['status_off']['status_off']"
+msgid "Disable Auto Renewal By Default"
+msgstr "默认禁止自动续费"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27status_off%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['status_off']['description']"
+msgid ""
+"If enabled, automatic renewals will be disabled by default for all new "
+"services."
+msgstr "如果启用了,自动续费在所有新的服务商默认停用."
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27addons_renewal%27][%27addons_renewal%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['addons_renewal']['addons_renewal']"
+msgid "Allow Addons Renewal"
+msgstr "允许续费附加项目"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27addons_renewal%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['addons_renewal']['description']"
+msgid "Enable the renewal of addons."
+msgstr "启用附加项目的续费."
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27domain_renewal%27][%27domain_renewal%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['domain_renewal']['domain_renewal']"
+msgid "Allow Domain Renewal"
+msgstr "允许域名续费"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27domain_renewal%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['domain_renewal']['description']"
+msgid "Enable the renewal of a domain."
+msgstr "启用域名续费."
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27force_renew%27][%27force_renew%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['force_renew']['force_renew']"
+msgid "Force Domain Renewal"
+msgstr "强制域名续费"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27force_renew%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['force_renew']['description']"
+msgid ""
+"Force the domain renewal along with the renewal of a service it belongs to."
+msgstr "强制域名续费以及续费其所属的服务."
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27send_notifications%27][%27send_notifications%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['send_notifications']['send_notifications']"
+msgid "Disable Auto Renewal Reminders"
+msgstr "禁用自动续费的提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27send_notifications%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['send_notifications']['description']"
+msgid ""
+"If enabled, renewal reminders will not be sent in case the automatic renewal "
+"is switched on."
+msgstr "如果启用了,在打开自动续费的时候将不会有续费提醒."
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27service_price%27][%27service_price%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['service_price']['service_price']"
+msgid "Apply Recurring Amount From Service Settings"
+msgstr "从服务设置应用循环金额"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27service_price%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['service_price']['description']"
+msgid ""
+"If enabled, the custom recurring amount from the service's settings will be "
+"applied. Otherwise, the default one set in the product's configuration will "
+"be used."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27change_invoice_exis%27][%27change_invoice_exis%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['change_invoice_exis']['change_invoice_exis']"
+msgid "Allow Billing Cycle Change When Unpaid Invoice Exists"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27change_invoice_exis%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['change_invoice_exis']['description']"
+msgid "Allow clients to change the billing cycle if an unpaid invoice exists."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27allow_upfront_renew%27][%27allow_upfront_renew%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['allow_upfront_renew']['allow_upfront_renew']"
+msgid "Allow Upfront Renewal"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27force_addon_renew%27][%27force_addon_renew%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['force_addon_renew']['force_addon_renew']"
+msgid "Force Addons Renewal"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27change_autorenewal%27][%27change_autorenewal%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['change_autorenewal']['change_autorenewal']"
+msgid "Allow Auto Renewal Change"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27available_biling_cycle%27][%27available_biling_cycle%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['available_biling_cycle']['available_biling_cycle']"
+msgid "Choose Available Billing Cycles"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27available_biling_cycle%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['available_biling_cycle']['description']"
+msgid "Pick the billing cycles that clients will be able to choose from."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27is_cancelation_immediate%27][%27is_cancelation_immediate%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['is_cancelation_immediate']['is_cancelation_immediate']"
+msgid "Allow Immediate Cancellation Requests"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27is_cancelation_immediate%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['is_cancelation_immediate']['description']"
+msgid ""
+"If enabled, the 'Immediate' cancellation requests are no longer blocked, "
+"causing the service to be canceled after the cron execution. By default, "
+"this sort of an action is not available due to the fact that the module uses "
+"the 'Override Auto Suspend' feature disabling the immediate cancellations. "
+"Note that the 'End Of Billing Period' cancellation type will work normally "
+"regardless of the current status of this setting."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27baseSubmitButton%27][%27button%27][%27submit%27]
+msgid "Accept Changes"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27force_addon_renew%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['force_addon_renew']['description']"
+msgid ""
+"Force the addons renewal along with the renewal of a service they belong to."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27allow_upfront_renew%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['allow_upfront_renew']['description']"
+msgid "Allow clients to renew the service before its renewal date."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27change_autorenewal%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['change_autorenewal']['description']"
+msgid "Allow clients to toggle the automatic renewals."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27monthly%27][%27Monthly%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['monthly']['Monthly']"
+msgid "Monthly"
+msgstr "月付"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27quarterly%27][%27Quarterly%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['quarterly']['Quarterly']"
+msgid "Quarterly"
+msgstr "季付(三个月)"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27semi-Annually%27][%27Semi-Annually%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['semi-Annually']['Semi-Annually']"
+msgid "Semi-Annually"
+msgstr "半年付"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27annually%27][%27Annually%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['annually']['Annually']"
+msgid "Annually"
+msgstr "年付"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27biennially%27][%27Biennially%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['biennially']['Biennially']"
+msgid "Biennially"
+msgstr "两年付"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27baseAutoSaveFormExtSections%27][%27boxSection%27][%27halfPageSection%27][%27triennially%27][%27Triennially%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['baseAutoSaveFormExtSections']['boxSection']['halfPageSection']['triennially']['Triennially']"
+msgid "Triennially"
+msgstr "三年付"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27editCategoryModal%27][%27modal%27][%27editCategoryModal%27]
+msgid "Email Notifications"
+msgstr "邮件提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27editCategoryModal%27][%27editCategoryForm%27][%27status%27][%27status%27]
+msgid "Enable Notification 1"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27editCategoryModal%27][%27editCategoryForm%27][%27template_id%27][%27template_id%27]
+msgid "Notification Template"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27editCategoryModal%27][%27editCategoryForm%27][%27period%27][%27period%27]
+msgid "Days Before Renewal"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27editCategoryModal%27][%27editCategoryForm%27][%27period%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['editCategoryModal']['editCategoryForm']['period']['description']"
+msgid ""
+"Specify how many days before the end of the billing cycle the reminder "
+"should be sent."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27editCategoryModal%27][%27baseAcceptButton%27][%27title%27]
+msgid "Accept"
+msgstr "接受"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27editCategoryModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['home']['editCategoryModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr "取消"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27billingCycleBox%27]
+msgid "Reminders"
+msgstr "提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27monthly%27][%27Monthly%27]
+msgid "Monthly Reminders"
+msgstr "每月提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27quarterly%27][%27Quarterly%27]
+msgid "Quarterly Reminders"
+msgstr "每季提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27semi-Annually%27][%27Semi-Annually%27]
+msgid "Semi-Annually Reminders"
+msgstr "每半年提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27annually%27][%27Annually%27]
+msgid "Annually Reminders"
+msgstr "每年提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27biennially%27][%27Biennially%27]
+msgid "Biennially Reminders"
+msgstr "每两年提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27triennially%27][%27Triennially%27]
+msgid "Triennially Reminders"
+msgstr "每三年提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27quarterly%27][%27table%27][%27id%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['quarterly']['table']['id']"
+msgid "ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27quarterly%27][%27table%27][%27template_id%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['quarterly']['table']['template_id']"
+msgid "Template"
+msgstr "模板"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27quarterly%27][%27table%27][%27period%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['quarterly']['table']['period']"
+msgid "Period"
+msgstr "期"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27quarterly%27][%27table%27][%27status%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['quarterly']['table']['status']"
+msgid "Status"
+msgstr "状态"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27quarterly%27][%27addReminderButton%27][%27button%27][%27addReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['quarterly']['addReminderButton']['button']['addReminderButton']"
+msgid "Add Reminder"
+msgstr "添加提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27quarterly%27][%27editReminderButton%27][%27button%27][%27editReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['quarterly']['editReminderButton']['button']['editReminderButton']"
+msgid "Edit Reminder"
+msgstr "编辑提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27quarterly%27][%27deleteReminderButton%27][%27button%27][%27deleteReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['quarterly']['deleteReminderButton']['button']['deleteReminderButton']"
+msgid "Delete Reminder"
+msgstr "删除提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27button%27][%27addReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['button']['addReminderButton']"
+msgid "Add Reminder"
+msgstr "添加提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27monthly%27][%27table%27][%27id%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['monthly']['table']['id']"
+msgid "ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27monthly%27][%27table%27][%27template_id%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['monthly']['table']['template_id']"
+msgid "Template"
+msgstr "模板"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27monthly%27][%27table%27][%27period%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['monthly']['table']['period']"
+msgid "Period"
+msgstr "期"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27monthly%27][%27table%27][%27status%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['monthly']['table']['status']"
+msgid "Status"
+msgstr "状态"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27monthly%27][%27addReminderButton%27][%27button%27][%27addReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['monthly']['addReminderButton']['button']['addReminderButton']"
+msgid "Add Reminder"
+msgstr "添加提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27monthly%27][%27editReminderButton%27][%27button%27][%27editReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['monthly']['editReminderButton']['button']['editReminderButton']"
+msgid "Edit Reminder"
+msgstr "编辑提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27monthly%27][%27deleteReminderButton%27][%27button%27][%27deleteReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['monthly']['deleteReminderButton']['button']['deleteReminderButton']"
+msgid "Delete Reminder"
+msgstr "删除提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27semi-Annually%27][%27table%27][%27id%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['semi-Annually']['table']['id']"
+msgid "ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27semi-Annually%27][%27table%27][%27template_id%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['semi-Annually']['table']['template_id']"
+msgid "Template"
+msgstr "模板"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27semi-Annually%27][%27table%27][%27period%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['semi-Annually']['table']['period']"
+msgid "Period"
+msgstr "期"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27semi-Annually%27][%27table%27][%27status%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['semi-Annually']['table']['status']"
+msgid "Status"
+msgstr "状态"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27semi-Annually%27][%27addReminderButton%27][%27button%27][%27addReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['semi-Annually']['addReminderButton']['button']['addReminderButton']"
+msgid "Add Reminder"
+msgstr "添加提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27semi-Annually%27][%27editReminderButton%27][%27button%27][%27editReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['semi-Annually']['editReminderButton']['button']['editReminderButton']"
+msgid "Edit Reminder"
+msgstr "编辑提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27semi-Annually%27][%27deleteReminderButton%27][%27button%27][%27deleteReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['semi-Annually']['deleteReminderButton']['button']['deleteReminderButton']"
+msgid "Delete Reminder"
+msgstr "删除提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27annually%27][%27table%27][%27id%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['annually']['table']['id']"
+msgid "ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27annually%27][%27table%27][%27template_id%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['annually']['table']['template_id']"
+msgid "Template"
+msgstr "模板"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27annually%27][%27table%27][%27period%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['annually']['table']['period']"
+msgid "Period"
+msgstr "期"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27annually%27][%27table%27][%27status%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['annually']['table']['status']"
+msgid "Status"
+msgstr "状态"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27annually%27][%27addReminderButton%27][%27button%27][%27addReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['annually']['addReminderButton']['button']['addReminderButton']"
+msgid "Add Reminder"
+msgstr "添加提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27annually%27][%27editReminderButton%27][%27button%27][%27editReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['annually']['editReminderButton']['button']['editReminderButton']"
+msgid "Edit Reminder"
+msgstr "编辑提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27annually%27][%27deleteReminderButton%27][%27button%27][%27deleteReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['annually']['deleteReminderButton']['button']['deleteReminderButton']"
+msgid "Delete Reminder"
+msgstr "删除提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27biennially%27][%27table%27][%27id%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['biennially']['table']['id']"
+msgid "ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27biennially%27][%27table%27][%27template_id%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['biennially']['table']['template_id']"
+msgid "Template"
+msgstr "模板"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27biennially%27][%27table%27][%27period%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['biennially']['table']['period']"
+msgid "Period"
+msgstr "期"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27biennially%27][%27table%27][%27status%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['biennially']['table']['status']"
+msgid "Status"
+msgstr "状态"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27biennially%27][%27addReminderButton%27][%27button%27][%27addReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['biennially']['addReminderButton']['button']['addReminderButton']"
+msgid "Add Reminder"
+msgstr "添加提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27biennially%27][%27editReminderButton%27][%27button%27][%27editReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['biennially']['editReminderButton']['button']['editReminderButton']"
+msgid "Edit Reminder"
+msgstr "编辑提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27biennially%27][%27deleteReminderButton%27][%27button%27][%27deleteReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['biennially']['deleteReminderButton']['button']['deleteReminderButton']"
+msgid "Delete Reminder"
+msgstr "删除提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27triennially%27][%27table%27][%27id%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['triennially']['table']['id']"
+msgid "ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27triennially%27][%27table%27][%27template_id%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['triennially']['table']['template_id']"
+msgid "Template"
+msgstr "模板"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27triennially%27][%27table%27][%27period%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['triennially']['table']['period']"
+msgid "Period"
+msgstr "期"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27triennially%27][%27table%27][%27status%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['triennially']['table']['status']"
+msgid "Status"
+msgstr "状态"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27triennially%27][%27addReminderButton%27][%27button%27][%27addReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['triennially']['addReminderButton']['button']['addReminderButton']"
+msgid "Add Reminder"
+msgstr "添加提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27triennially%27][%27editReminderButton%27][%27button%27][%27editReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['triennially']['editReminderButton']['button']['editReminderButton']"
+msgid "Edit Reminder"
+msgstr "编辑提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27mainContainer%27][%27billingCycleBox%27][%27triennially%27][%27deleteReminderButton%27][%27button%27][%27deleteReminderButton%27]
+msgctxt "$_LANG['addonAA']['home']['mainContainer']['billingCycleBox']['triennially']['deleteReminderButton']['button']['deleteReminderButton']"
+msgid "Delete Reminder"
+msgstr "删除提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27addReminderModal%27][%27modal%27][%27addReminderModal%27]
+msgctxt "$_LANG['addonAA']['home']['addReminderModal']['modal']['addReminderModal']"
+msgid "Add Reminder"
+msgstr "添加提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27addReminderModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['home']['addReminderModal']['baseAcceptButton']['title']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27addReminderModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['home']['addReminderModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr "取消"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27addReminderModal%27][%27addReminderForm%27][%27template_id%27][%27template_id%27]
+msgctxt "$_LANG['addonAA']['home']['addReminderModal']['addReminderForm']['template_id']['template_id']"
+msgid "Custom Template"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27addReminderModal%27][%27addReminderForm%27][%27status%27][%27status%27]
+msgctxt "$_LANG['addonAA']['home']['addReminderModal']['addReminderForm']['status']['status']"
+msgid "Status"
+msgstr "状态"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27addReminderModal%27][%27addReminderForm%27][%27period%27][%27period%27]
+msgctxt "$_LANG['addonAA']['home']['addReminderModal']['addReminderForm']['period']['period']"
+msgid "Period (days)"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27addReminderModal%27][%27addReminderForm%27][%27period%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['addReminderModal']['addReminderForm']['period']['description']"
+msgid ""
+"Specify how many days before the end of the billing cycle the reminder "
+"should be sent."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27editReminderModal%27][%27modal%27][%27editReminderModal%27]
+msgctxt "$_LANG['addonAA']['home']['editReminderModal']['modal']['editReminderModal']"
+msgid "Edit Reminder"
+msgstr "编辑提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27editReminderModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['home']['editReminderModal']['baseAcceptButton']['title']"
+msgid "Edit"
+msgstr "编辑"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27editReminderModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['home']['editReminderModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr "取消"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27editReminderModal%27][%27editReminderForm%27][%27template_id%27][%27template_id%27]
+msgctxt "$_LANG['addonAA']['home']['editReminderModal']['editReminderForm']['template_id']['template_id']"
+msgid "Custom Template"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27editReminderModal%27][%27editReminderForm%27][%27period%27][%27period%27]
+msgctxt "$_LANG['addonAA']['home']['editReminderModal']['editReminderForm']['period']['period']"
+msgid "Period (days)"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27editReminderModal%27][%27editReminderForm%27][%27status%27][%27status%27]
+msgctxt "$_LANG['addonAA']['home']['editReminderModal']['editReminderForm']['status']['status']"
+msgid "Status"
+msgstr "状态"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27editReminderModal%27][%27editReminderForm%27][%27period%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['editReminderModal']['editReminderForm']['period']['description']"
+msgid ""
+"Specify how many days before the end of the billing cycle the reminder "
+"should be sent."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27deleteReminderModal%27][%27modal%27][%27deleteReminderModal%27]
+msgctxt "$_LANG['addonAA']['home']['deleteReminderModal']['modal']['deleteReminderModal']"
+msgid "Delete Reminder"
+msgstr "删除提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27deleteReminderModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['home']['deleteReminderModal']['baseAcceptButton']['title']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27deleteReminderModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['home']['deleteReminderModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr "取消"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27deleteReminderModal%27][%27deleteReminderForm%27][%27confirmLabelRemoval%27]
+msgid "Are you sure you want to remove this reminder?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27button%27][%27massSetSettingsButton%27]
+msgctxt "$_LANG['addonAA']['home']['button']['massSetSettingsButton']"
+msgid "Change Settings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27button%27][%27massAddRemindersButton%27]
+msgctxt "$_LANG['addonAA']['home']['button']['massAddRemindersButton']"
+msgid "Add Reminder"
+msgstr "添加提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27modal%27][%27massSetSettingsModal%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['modal']['massSetSettingsModal']"
+msgid "Change Settings"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27status%27][%27status%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['status']['status']"
+msgid "Enable Renewal Configuration"
+msgstr "启用续费配置"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27auto_renew%27][%27auto_renew%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['auto_renew']['auto_renew']"
+msgid "Control Auto Renew"
+msgstr "控制自动续费"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27auto_renew%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['auto_renew']['description']"
+msgid "Allow clients to control auto renew"
+msgstr "允许客户控制自动续费"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27renew_hosting%27][%27renew_hosting%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['renew_hosting']['renew_hosting']"
+msgid "Upfront Renew Hosting"
+msgstr "提前续费产品"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27renew_hosting%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['renew_hosting']['description']"
+msgid "Allow clients to upfront renew hosting"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27change_billing_cycle%27][%27change_billing_cycle%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['change_billing_cycle']['change_billing_cycle']"
+msgid "Allow Billing Cycle Change"
+msgstr "允许修改计费周期"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27change_billing_cycle%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['change_billing_cycle']['description']"
+msgid "Allow clients to change the billing cycle."
+msgstr "允许客户修改产品的计费周期."
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27status_off%27][%27status_off%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['status_off']['status_off']"
+msgid "Disable Auto Renewal By Default"
+msgstr "默认禁止自动续费"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27status_off%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['status_off']['description']"
+msgid ""
+"If enabled, automatic renewals will be disabled by default for all new "
+"services."
+msgstr "如果启用了,自动续费在所有新的服务商默认停用."
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27addons_renewal%27][%27addons_renewal%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['addons_renewal']['addons_renewal']"
+msgid "Allow Addons Renewal"
+msgstr "允许续费附加项目"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27addons_renewal%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['addons_renewal']['description']"
+msgid "Enable the renewal of addons."
+msgstr "启用附加项目的续费."
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27domain_renewal%27][%27domain_renewal%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['domain_renewal']['domain_renewal']"
+msgid "Allow Domain Renewal"
+msgstr "允许域名续费"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27domain_renewal%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['domain_renewal']['description']"
+msgid "Enable the renewal of a domain."
+msgstr "启用域名续费."
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27force_renew%27][%27force_renew%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['force_renew']['force_renew']"
+msgid "Force Domain Renewal"
+msgstr "强制域名续费"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27force_renew%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['force_renew']['description']"
+msgid ""
+"Force the domain renewal along with the renewal of a service it belongs to."
+msgstr "强制域名续费以及续费其所属的服务."
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27send_notifications%27][%27send_notifications%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['send_notifications']['send_notifications']"
+msgid "Disable Auto Renewal Reminders"
+msgstr "禁用自动续费的提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27send_notifications%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['send_notifications']['description']"
+msgid ""
+"If enabled, renewal reminders will not be sent in case the automatic renewal "
+"is switched on."
+msgstr "如果启用了,在打开自动续费的时候将不会有续费提醒."
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27service_price%27][%27service_price%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['service_price']['service_price']"
+msgid "Apply Recurring Amount From Service Settings"
+msgstr "从服务设置应用循环金额"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27service_price%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['service_price']['description']"
+msgid ""
+"If enabled, the custom recurring amount from the service's settings will be "
+"applied. Otherwise, the default one set in the product's configuration will "
+"be used."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27change_invoice_exis%27][%27change_invoice_exis%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['change_invoice_exis']['change_invoice_exis']"
+msgid "Allow Billing Cycle Change When Unpaid Invoice Exists"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27change_invoice_exis%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['change_invoice_exis']['description']"
+msgid "Allow clients to change the billing cycle if an unpaid invoice exists."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27allow_upfront_renew%27][%27allow_upfront_renew%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['allow_upfront_renew']['allow_upfront_renew']"
+msgid "Allow Upfront Renewal"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27force_addon_renew%27][%27force_addon_renew%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['force_addon_renew']['force_addon_renew']"
+msgid "Force Addons Renewal"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27change_autorenewal%27][%27change_autorenewal%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['change_autorenewal']['change_autorenewal']"
+msgid "Allow Auto Renewal Change"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27available_biling_cycle%27][%27available_biling_cycle%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['available_biling_cycle']['available_biling_cycle']"
+msgid "Choose Available Billing Cycles"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27available_biling_cycle%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['available_biling_cycle']['description']"
+msgid "Pick the billing cycles that clients will be able to choose from."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27force_addon_renew%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['force_addon_renew']['description']"
+msgid ""
+"Force the addons renewal along with the renewal of a service they belong to."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27allow_upfront_renew%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['allow_upfront_renew']['description']"
+msgid "Allow clients to renew the service before its renewal date."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27change_autorenewal%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['change_autorenewal']['description']"
+msgid "Allow clients to toggle the automatic renewals."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27is_cancelation_immediate%27][%27is_cancelation_immediate%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['is_cancelation_immediate']['is_cancelation_immediate']"
+msgid "Allow Immediate Cancellation Requests"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27setSettingsForm%27][%27is_cancelation_immediate%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['setSettingsForm']['is_cancelation_immediate']['description']"
+msgid ""
+"If enabled, the 'Immediate' cancellation requests are no longer blocked, "
+"causing the service to be canceled after the cron execution. By default, "
+"this sort of an action is not available due to the fact that the module uses "
+"the 'Override Auto Suspend' feature disabling the immediate cancellations. "
+"Note that the 'End Of Billing Period' cancellation type will work normally "
+"regardless of the current status of this setting."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['baseAcceptButton']['title']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massSetSettingsModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['home']['massSetSettingsModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr "取消"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massAddRemindersModal%27][%27modal%27][%27massAddRemindersModal%27]
+msgctxt "$_LANG['addonAA']['home']['massAddRemindersModal']['modal']['massAddRemindersModal']"
+msgid "Add Reminder"
+msgstr "添加提醒"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massAddRemindersModal%27][%27addRemindersForm%27][%27billing_cycle%27][%27billing_cycle%27]
+msgctxt "$_LANG['addonAA']['home']['massAddRemindersModal']['addRemindersForm']['billing_cycle']['billing_cycle']"
+msgid "Billing Cycle"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massAddRemindersModal%27][%27addRemindersForm%27][%27status%27][%27status%27]
+msgctxt "$_LANG['addonAA']['home']['massAddRemindersModal']['addRemindersForm']['status']['status']"
+msgid "Status"
+msgstr "状态"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massAddRemindersModal%27][%27addRemindersForm%27][%27template_id%27][%27template_id%27]
+msgctxt "$_LANG['addonAA']['home']['massAddRemindersModal']['addRemindersForm']['template_id']['template_id']"
+msgid "Custom Template"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massAddRemindersModal%27][%27addRemindersForm%27][%27period%27][%27period%27]
+msgctxt "$_LANG['addonAA']['home']['massAddRemindersModal']['addRemindersForm']['period']['period']"
+msgid "Period (days)"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massAddRemindersModal%27][%27addRemindersForm%27][%27period%27][%27description%27]
+msgctxt "$_LANG['addonAA']['home']['massAddRemindersModal']['addRemindersForm']['period']['description']"
+msgid ""
+"Specify how many days before the end of the billing cycle the reminder "
+"should be sent."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massAddRemindersModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['home']['massAddRemindersModal']['baseAcceptButton']['title']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massAddRemindersModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['home']['massAddRemindersModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr "取消"
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27button%27][%27massOffRenewalButton%27]
+msgctxt "$_LANG['addonAA']['home']['button']['massOffRenewalButton']"
+msgid "Disable Services Auto Renewal"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massOffRenewalModal%27][%27modal%27][%27massOffRenewalModal%27]
+msgctxt "$_LANG['addonAA']['home']['massOffRenewalModal']['modal']['massOffRenewalModal']"
+msgid "Disable Services Auto Renewal"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massOffRenewalModal%27][%27offRenewalForm%27][%27confirmOffRenewal%27]
+msgid ""
+"Are you sure that you want to disable the automatic renewal of services?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massOffRenewalModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['home']['massOffRenewalModal']['baseAcceptButton']['title']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27home%27][%27massOffRenewalModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['home']['massOffRenewalModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr "取消"
+
+#. // -------------------------------------------------> Discounts <--------------------------------------------------------- //
+#: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27Discounts%27][%27Index%27]
+msgctxt "$_LANG['addonAA']['pagesLabels']['Discounts']['Index']"
+msgid "Discounts"
+msgstr "折扣"
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27labelsContTitle%27]
+msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['labelsContTitle']"
+msgid "Discounts"
+msgstr "折扣"
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27addDiscountModalButton%27][%27button%27][%27addDiscountModalButton%27]
+msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['addDiscountModalButton']['button']['addDiscountModalButton']"
+msgid "Add Discount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27deleteDiscountModalButton%27][%27button%27][%27deleteDiscountModalButton%27]
+msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['deleteDiscountModalButton']['button']['deleteDiscountModalButton']"
+msgid "Delete Discount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27editDiscountModalButton%27][%27button%27][%27editDiscountModalButton%27]
+msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['editDiscountModalButton']['button']['editDiscountModalButton']"
+msgid "Edit Discount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27table%27][%27name%27]
+msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27table%27][%27type%27]
+msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['type']"
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27table%27][%27value%27]
+msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['value']"
+msgid "Value"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27table%27][%27product%27]
+msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['product']"
+msgid "Products"
+msgstr "产品"
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27table%27][%27discount_type%27]
+msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['discount_type']"
+msgid "Discount Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27table%27][%27cycle_from%27]
+msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['cycle_from']"
+msgid "Cycle Change From"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27table%27][%27cycle_to%27]
+msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['cycle_to']"
+msgid "Cycle Change To"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27mainContainer%27][%27discountsPage%27][%27table%27][%27enabled%27]
+msgctxt "$_LANG['addonAA']['discounts']['mainContainer']['discountsPage']['table']['enabled']"
+msgid "Status"
+msgstr "状态"
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27modal%27][%27addDiscountModal%27]
+msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['modal']['addDiscountModal']"
+msgid "Add Discount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27addDiscountForm%27][%27enabled%27][%27enabled%27]
+msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['enabled']['enabled']"
+msgid "Status"
+msgstr "状态"
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27addDiscountForm%27][%27name%27][%27name%27]
+msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['name']['name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27addDiscountForm%27][%27items%27][%27items%27]
+msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['items']['items']"
+msgid "Product"
+msgstr "产品"
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27addDiscountForm%27][%27type%27][%27type%27]
+msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['type']['type']"
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27addDiscountForm%27][%27value%27][%27value%27]
+msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['value']['value']"
+msgid "Value"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27addDiscountForm%27][%27discount_type%27][%27discount_type%27]
+msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['discount_type']['discount_type']"
+msgid "Discount Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27addDiscountForm%27][%27cycle_from%27][%27cycle_from%27]
+msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['cycle_from']['cycle_from']"
+msgid "Cycle Change From"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27addDiscountForm%27][%27cycle_to%27][%27cycle_to%27]
+msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['addDiscountForm']['cycle_to']['cycle_to']"
+msgid "Cycle Change To"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['baseAcceptButton']['title']"
+msgid "Add"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27addDiscountModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['discounts']['addDiscountModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr "取消"
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27editDiscountModal%27][%27modal%27][%27editDiscountModal%27]
+msgctxt "$_LANG['addonAA']['discounts']['editDiscountModal']['modal']['editDiscountModal']"
+msgid "Edit Discount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27editDiscountModal%27][%27editDiscountForm%27][%27enabled%27][%27enabled%27]
+msgctxt "$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['enabled']['enabled']"
+msgid "Status"
+msgstr "状态"
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27editDiscountModal%27][%27editDiscountForm%27][%27name%27][%27name%27]
+msgctxt "$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['name']['name']"
+msgid "Name"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27editDiscountModal%27][%27editDiscountForm%27][%27items%27][%27items%27]
+msgctxt "$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['items']['items']"
+msgid "Product"
+msgstr "产品"
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27editDiscountModal%27][%27editDiscountForm%27][%27type%27][%27type%27]
+msgctxt "$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['type']['type']"
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27editDiscountModal%27][%27editDiscountForm%27][%27value%27][%27value%27]
+msgctxt "$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['value']['value']"
+msgid "Value"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27editDiscountModal%27][%27editDiscountForm%27][%27discount_type%27][%27discount_type%27]
+msgctxt "$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['discount_type']['discount_type']"
+msgid "Discount Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27editDiscountModal%27][%27editDiscountForm%27][%27cycle_from%27][%27cycle_from%27]
+msgctxt "$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['cycle_from']['cycle_from']"
+msgid "Cycle Change From"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27editDiscountModal%27][%27editDiscountForm%27][%27cycle_to%27][%27cycle_to%27]
+msgctxt "$_LANG['addonAA']['discounts']['editDiscountModal']['editDiscountForm']['cycle_to']['cycle_to']"
+msgid "Cycle Change To"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27editDiscountModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['discounts']['editDiscountModal']['baseAcceptButton']['title']"
+msgid "Edit"
+msgstr "编辑"
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27editDiscountModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['discounts']['editDiscountModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr "取消"
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27deleteDiscountModal%27][%27modal%27][%27deleteDiscountModal%27]
+msgctxt "$_LANG['addonAA']['discounts']['deleteDiscountModal']['modal']['deleteDiscountModal']"
+msgid "Delete Discount"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27deleteDiscountModal%27][%27deleteDiscountForm%27][%27confirmLabelRemoval%27]
+msgid "Are you sure that you want to delete this discount?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27deleteDiscountModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['discounts']['deleteDiscountModal']['baseAcceptButton']['title']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27discounts%27][%27deleteDiscountModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['discounts']['deleteDiscountModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr "取消"
+
+#: %24_LANG[%27remindersDataCreate%27]
+msgid "A reminder has been added successfully."
+msgstr ""
+
+#: %24_LANG[%27remindersDataUpdate%27]
+msgid "The reminder has been updated successfully."
+msgstr ""
+
+#: %24_LANG[%27remindersDataDelete%27]
+msgid "The reminder has been deleted successfully."
+msgstr ""
+
+#. // -------------------------------------------------> Logs <--------------------------------------------------------- //
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27loggerContTitle%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['mainContainer']['loggercont']['loggerContTitle']"
+msgid "Logs"
+msgstr "日志"
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27id%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['mainContainer']['loggercont']['table']['id']"
+msgid "ID"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27message%27]
+msgid "Message"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27ref%27]
+msgid "Reference Object"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27type%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['mainContainer']['loggercont']['table']['type']"
+msgid "Type"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27level%27]
+msgid "Level"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27request%27]
+msgid "Request"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27response%27]
+msgid "Response"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27before_vars%27]
+msgid "Before Vars"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27vars%27]
+msgid "Vars"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27table%27][%27date%27]
+msgid "Date"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27deleteLoggerModalButton%27][%27button%27][%27deleteLoggerModalButton%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['mainContainer']['loggercont']['deleteLoggerModalButton']['button']['deleteLoggerModalButton']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteLoggerModal%27][%27modal%27][%27deleteLoggerModal%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['deleteLoggerModal']['modal']['deleteLoggerModal']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteLoggerModal%27][%27deleteLoggerForm%27][%27confirmLabelRemoval%27]
+msgid "Are you sure that you want to remove the selected log?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteLoggerModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['deleteLoggerModal']['baseAcceptButton']['title']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteLoggerModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['deleteLoggerModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr "取消"
+
+#: %24_LANG[%27loggerDeletedSuccesfully%27]
+msgid "The selected log has been deleted successfully"
+msgstr ""
+
+#: %24_LANG[%27loggersDeletedSuccesfully%27]
+msgid "The selected logs have been deleted successfully"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27massDeleteLoggerButton%27][%27button%27][%27massDeleteLoggerButton%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['mainContainer']['loggercont']['massDeleteLoggerButton']['button']['massDeleteLoggerButton']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27button%27][%27massDeleteLoggerButton%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['button']['massDeleteLoggerButton']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27massDeleteLoggerModal%27][%27modal%27][%27massDeleteLoggerModal%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['massDeleteLoggerModal']['modal']['massDeleteLoggerModal']"
+msgid "Delete"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27massDeleteLoggerModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['massDeleteLoggerModal']['baseAcceptButton']['title']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27massDeleteLoggerModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['massDeleteLoggerModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr "取消"
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27massDeleteLoggerModal%27][%27deleteLoggerForm%27][%27confirmLabelRemoval%27]
+msgid "Are you sure that you want to remove the selected logs?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27mainContainer%27][%27loggercont%27][%27deleteAllLoggersButton%27][%27button%27][%27deleteAllLoggersButton%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['mainContainer']['loggercont']['deleteAllLoggersButton']['button']['deleteAllLoggersButton']"
+msgid "Delete All Logs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27button%27][%27deleteAllLoggersButton%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['button']['deleteAllLoggersButton']"
+msgid "Delete All Logs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteAllLoggersModal%27][%27modal%27][%27deleteAllLoggersModal%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['deleteAllLoggersModal']['modal']['deleteAllLoggersModal']"
+msgid "Delete All Logs"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteAllLoggersModal%27][%27deleteAllLoggerForm%27][%27confirmLabelRemoval%27]
+msgid "Are you sure that you want to remove all logs?"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteAllLoggersModal%27][%27baseAcceptButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['deleteAllLoggersModal']['baseAcceptButton']['title']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27loggerManager%27][%27deleteAllLoggersModal%27][%27baseCancelButton%27][%27title%27]
+msgctxt "$_LANG['addonAA']['loggerManager']['deleteAllLoggersModal']['baseCancelButton']['title']"
+msgid "Cancel"
+msgstr "取消"
+
+#: %24_LANG[%27addonAA%27][%27logger%27][%27createReminder%27]
+msgid ""
+"A reminder <b>:createReminderId:</b> for the product "
+"<b>':createReminderProductName:' (ID: :createReminderProductId:)</b> has "
+"been created successfully."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logger%27][%27updateReminder%27]
+msgid ""
+"The reminder <b>:updateReminderId:</b> for the product "
+"<b>':updateReminderProductName:' (ID: :updateReminderProductId:)</b> has "
+"been updated successfully."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logger%27][%27deleteReminder%27]
+msgid ""
+"The reminder <b>:deleteReminderId:</b> for the product "
+"<b>':deleteReminderProductName:' (ID: :deleteReminderProductId:)</b> has "
+"been deleted successfully."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logger%27][%27changeStatusReminder%27]
+msgid ""
+"The reminder <b>:changeStatusReminderId:</b> for the product "
+"<b>':changeStatusReminderProductName:' (ID: "
+":changeStatusReminderProductId:)</b> has been successfully changed to "
+"<b>':changeStatusReminderValue:'</b>."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logger%27][%27updateProductSettings%27]
+msgid ""
+"The product <b>':updateProductSettingsProductName:' (ID: "
+":updateProductSettingsProductId:)</b> has been updated successfully."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logger%27][%27changeStatusProductSettings%27]
+msgid ""
+"The product <b>':changeStatusProductSettingsProductName:' (ID: "
+":changeStatusProductSettingsProductId:)</b> has been successfully changed to "
+"<b>':changeStatusProductSettingsValue:'</b>."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logger%27][%27createDiscounts%27]
+msgid ""
+"A discount <b>':createDiscountsName:' (ID: :createDiscountsId:)</b> has been "
+"created successfully."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logger%27][%27updateDiscounts%27]
+msgid ""
+"The discount <b>':updateDiscountsName:' (ID: :updateDiscountsId:)</b> has "
+"been updated successfully."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logger%27][%27deleteDiscounts%27]
+msgid ""
+"The discount <b>':deleteDiscountsName:' (ID: :deleteDiscountsId:)</b> has "
+"been deleted successfully."
+msgstr ""
+
+#: %24_LANG[%27addonAA%27][%27logger%27][%27changeStatusDiscounts%27]
+msgid ""
+"The discount <b>':changeStatusDiscountsName:' (ID: "
+":changeStatusDiscountsId:)</b> has been successfully changed to "
+"<b>':changeStatusDiscountsValue:'</b>."
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27logger%27][%27changeBillingCycleValidateCycle%27]
+msgid ""
+"No access to the cycle "
+"<b>:changeBillingCycleValidateCycleFormattedNewCycle:</b> for the hosting ID "
+"<b>:changeBillingCycleValidateCycleHostingId:</b>."
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27logger%27][%27changeBillingCycleInvoiceExistOff%27]
+msgid ""
+"The details of the unpaid invoice for the hosting ID "
+"<b>:changeBillingCycleInvoiceExistOffHostingId:</b> has been fetched "
+"successfully."
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27logger%27][%27changeBillingCycleInvoiceExistOn%27]
+msgid ""
+"The unpaid invoice for the hosting ID "
+"<b>:changeBillingCycleInvoiceExistOnHostingId:</b> has been deleted "
+"successfully."
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27logger%27][%27changeBillingCycleSuccess%27]
+msgid ""
+"A new invoice ID <b>:changeBillingCycleSuccessInvoiceId:</b> has been "
+"successfully created for the hosting ID "
+"<b>:changeBillingCycleSuccessHostingId:</b> ."
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27logger%27][%27renewInvoiceExistOff%27]
+msgid ""
+"The details of the unpaid invoice for the hosting ID "
+"<b>:renewInvoiceExistOffHostingId:</b> has been fetched successfully."
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27logger%27][%27renewInvoiceExistOn%27]
+msgid ""
+"The unpaid invoice for the hosting ID <b>:renewInvoiceExistOnHostingId:</b> "
+"has been deleted successfully."
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27logger%27][%27renewSuccess%27]
+msgid ""
+"A new invoice ID <b>:renewSuccessInvoiceId:</b> has been successfully "
+"created for the hosting ID <b>:renewSuccessHostingId:</b> ."
+msgstr ""
+
+#. /* * ********************************************************************************************************************
+#.  *                                                    CLIENT AREA                                                      *
+#.  * ******************************************************************************************************************** */
+#: %24_LANG[%27addonCA%27][%27pagesLabels%27][%27label%27][%27home%27]
+msgid "Owned Passwords"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27pageNotFound%27]
+msgid "Page Not Found"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27autorenewal_label%27]
+msgid "Auto Renewal Status"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27autorenewal_label_on%27]
+msgid "ON"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27autorenewal_label_off%27]
+msgid "OFF"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27renewfor%27]
+msgid "Renew Service For"
+msgstr "续"
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%271%27]
+msgctxt "$_LANG['addonCA']['hostingActions']['1']"
+msgid ""
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27turnautorenewon%27]
+msgid "Enable Auto Renewal"
+msgstr "启用自动续费"
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27turnautorenewoff%27]
+msgid "Disable Auto Renewal"
+msgstr "禁用自动续费"
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27choose_biling_cycle%27]
+msgid "Choose Billing Cycle"
+msgstr "选择计费周期"
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27confirm_text%27]
+msgid "Are you sure that you want to change the billing cycle from"
+msgstr "你确定你要把计费周期从"
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27to%27]
+msgid "to"
+msgstr "变成"
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27Monthly%27]
+msgid "1 Month"
+msgstr "1个月"
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27Quarterly%27]
+msgid "3 Months"
+msgstr "3个月"
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27Semi-Annually%27]
+msgid "6 Months"
+msgstr "6个月"
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27Annually%27]
+msgid "1 Year"
+msgstr "1年"
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27Biennially%27]
+msgid "2 Years"
+msgstr "2年"
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27Triennially%27]
+msgid "3 Years"
+msgstr "3年"
+
+#: %24_LANG[%27Monthly%27]
+msgctxt "$_LANG['Monthly']"
+msgid "Monthly"
+msgstr "月付"
+
+#: %24_LANG[%27Quarterly%27]
+msgctxt "$_LANG['Quarterly']"
+msgid "Quarterly"
+msgstr "季付(三个月)"
+
+#: %24_LANG[%27Semi-Annually%27]
+msgctxt "$_LANG['Semi-Annually']"
+msgid "Semi-Annually"
+msgstr "半年付"
+
+#: %24_LANG[%27Annually%27]
+msgctxt "$_LANG['Annually']"
+msgid "Annually"
+msgstr "年付"
+
+#: %24_LANG[%27Biennially%27]
+msgctxt "$_LANG['Biennially']"
+msgid "Biennially"
+msgstr "两年付"
+
+#: %24_LANG[%27Triennially%27]
+msgctxt "$_LANG['Triennially']"
+msgid "Triennially"
+msgstr "三年付"
+
+#: %24_LANG[%27discountChangesSaved%27]
+msgid "The discount has been updated successfully."
+msgstr ""
+
+#: %24_LANG[%27discountDeletedSuccesfully%27]
+msgid "The discount has been deleted successfully."
+msgstr ""
+
+#: %24_LANG[%27changesSaved%27]
+msgctxt "$_LANG['changesSaved']"
+msgid "Changes have been saved successfully."
+msgstr "已成功保存修改."
+
+#: %24_LANG[%27ItemNotFound%27]
+msgid "Item Not Found"
+msgstr ""
+
+#: %24_LANG[%27CategoryDeletedSuccesfully%27]
+msgid "Category has been deleted successfully"
+msgstr ""
+
+#: %24_LANG[%27categroyCannotBeAssignedAsParentToItself%27]
+msgid "Category Cannot Be Assigned As A Parent To Itself"
+msgstr ""
+
+#: %24_LANG[%27formValidationError%27]
+msgid "Form Validation Error"
+msgstr ""
+
+#: %24_LANG[%27FormValidators%27][%27thisFieldCannotBeEmpty%27]
+msgid "This field cannot be empty"
+msgstr ""
+
+#: %24_LANG[%27FormValidators%27][%27PleaseProvideANumericValue%27]
+msgid "Please provide a numeric value"
+msgstr ""
+
+#: %24_LANG[%27FormValidators%27][%27PleaseProvideANumericValueBetween%27]
+msgid "Please provide a numeric value between :minValue: and :maxValue:"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27biling_cycle_label%27]
+msgctxt "$_LANG['addonCA']['hostingActions']['biling_cycle_label']"
+msgid "Billing Cycle"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27domain_group%27]
+msgctxt "$_LANG['addonCA']['hostingActions']['domain_group']"
+msgid "Domain"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27addons_group%27]
+msgid "Addons"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27changeBillingCycleModal%27]
+msgid "Change Billing Cycle"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27recurring%27]
+msgid "Recurring"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27price%27]
+msgid "Price"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27domain%27]
+msgctxt "$_LANG['addonCA']['hostingActions']['domain']"
+msgid "Domain"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27addonName%27]
+msgid "Addon Name"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27confirm%27]
+msgctxt "$_LANG['addonCA']['hostingActions']['confirm']"
+msgid "Confirm"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27cancel%27]
+msgctxt "$_LANG['addonCA']['hostingActions']['cancel']"
+msgid "Cancel"
+msgstr "取消"
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27year%27]
+msgid "Year"
+msgstr "年"
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27years%27]
+msgid "Years"
+msgstr "年"
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27free%27]
+msgid "Free"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27total%27]
+msgid "Total"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27subtotal%27]
+msgid "Subtotal"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27discount%27]
+msgid "Discount"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27tax%27]
+msgid "Tax"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27isAutorenewal%27]
+msgid "Unpaid Invoice Notice"
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27successAutorenewalMessage1%27]
+msgid "It seems that you have an unpaid invoice for this service."
+msgstr ""
+
+#: %24_LANG[%27addonCA%27][%27hostingActions%27][%27successAutorenewalMessage2%27]
+msgid "Would you like to view its details? "
+msgstr ""
