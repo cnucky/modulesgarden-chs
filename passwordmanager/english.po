@@ -1,17 +1,19 @@
 #. extracted from passwordmanager/english.php
-#, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-28 21:28+0800\n"
-"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
-"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2018-09-21 11:56+0000\n"
+"Last-Translator: Li Mi <xjdzch@126.com>\n"
+"Language-Team: English <http://i18n.misakacloud.cn/projects/"
+"ModulesGarden_CHS/passwordmanager/en/>\n"
+"Language: english\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Translate Toolkit 2.3.0\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Weblate 3.1.1\n"
 
 #. /**********************************************************************
 #.  *  Password Manager (09.08.17)
@@ -52,7 +54,7 @@ msgstr ""
 
 #: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27documentation%27]
 msgid "Documentation"
-msgstr ""
+msgstr "文档"
 
 #: %24_LANG[%27addonAA%27][%27settings%27][%27settings%27]
 msgctxt "$_LANG['addonAA']['settings']['settings']"
@@ -946,7 +948,7 @@ msgstr ""
 #: %24_LANG[%27Nothing+to+display%27]
 msgctxt "$_LANG['Nothing to display']"
 msgid "Nothing to display"
-msgstr ""
+msgstr "无可奉告(没有可显示的)"
 
 #: %24_LANG[%27Search%27]
 msgctxt "$_LANG['Search']"
@@ -956,12 +958,12 @@ msgstr ""
 #: %24_LANG[%27Previous%27]
 msgctxt "$_LANG['Previous']"
 msgid "Previous"
-msgstr ""
+msgstr "上一个"
 
 #: %24_LANG[%27Next%27]
 msgctxt "$_LANG['Next']"
 msgid "Next"
-msgstr ""
+msgstr "下一个"
 
 #: %24_LANG[%27addonCA%27][%27home%27][%27Field+is+required%27]
 msgctxt "$_LANG['addonCA']['home']['Field is required']"
@@ -1566,11 +1568,11 @@ msgstr ""
 
 #: %24_LANG[%27Free+Account%27]
 msgid "Free Account"
-msgstr ""
+msgstr "免费的账号"
 
 #: %24_LANG[%27Passwords%27]
 msgid "Passwords"
-msgstr ""
+msgstr "密码"
 
 #: %24_LANG[%27addonCA%27][%27product%27][%27Show+Password%27]
 msgctxt "$_LANG['addonCA']['product']['Show Password']"
