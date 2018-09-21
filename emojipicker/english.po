@@ -4,9 +4,9 @@ msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2018-08-28 21:28+0800\n"
-"PO-Revision-Date: 2018-09-15 17:55+0000\n"
-"Last-Translator: 北极熊 <bejix@qq.com>\n"
-"Language-Team: English <https://i18n.misakacloud.cn/projects/"
+"PO-Revision-Date: 2018-09-21 11:56+0000\n"
+"Last-Translator: Li Mi <xjdzch@126.com>\n"
+"Language-Team: English <http://i18n.misakacloud.cn/projects/"
 "ModulesGarden_CHS/emojipicker/en/>\n"
 "Language: english\n"
 "MIME-Version: 1.0\n"
@@ -213,7 +213,7 @@ msgstr ""
 
 #: %24_LANG[%27generalErrorClientArea%27]
 msgid "Something has gone wrong. Contact the administrator."
-msgstr ""
+msgstr "出错了,联系管理员."
 
 #: %24_LANG[%27permissionsStorage%27]
 msgid ""
@@ -223,7 +223,7 @@ msgstr ""
 
 #: %24_LANG[%27undefinedAction%27]
 msgid "Undefined Action"
-msgstr ""
+msgstr "没定义的操作"
 
 #: %24_LANG[%27changesHasBeenSaved%27]
 msgid "Changes have been saved successfully"
@@ -235,11 +235,11 @@ msgstr ""
 
 #: %24_LANG[%27Free+Account%27]
 msgid "Free Account"
-msgstr ""
+msgstr "免费的账号"
 
 #: %24_LANG[%27Passwords%27]
 msgid "Passwords"
-msgstr ""
+msgstr "密码"
 
 #: %24_LANG[%27labelAddedSuccesfully%27]
 msgid "The label has been added successfully"
@@ -248,29 +248,29 @@ msgstr ""
 #: %24_LANG[%27Nothing+to+display%27]
 msgctxt "$_LANG['Nothing to display']"
 msgid "Nothing to display"
-msgstr ""
+msgstr "无可奉告(没有可显示的)"
 
 #: %24_LANG[%27Search%27]
 msgid "Search"
-msgstr ""
+msgstr "搜索"
 
 #: %24_LANG[%27Previous%27]
 msgctxt "$_LANG['Previous']"
 msgid "Previous"
-msgstr ""
+msgstr "上一个"
 
 #: %24_LANG[%27Next%27]
 msgctxt "$_LANG['Next']"
 msgid "Next"
-msgstr ""
+msgstr "下一个"
 
 #: %24_LANG[%27searchPlacecholder%27]
 msgid "Search..."
-msgstr ""
+msgstr "搜索中..."
 
 #: %24_LANG[%27noDataAvalible%27]
 msgid "No Data Available"
-msgstr ""
+msgstr "没有可用的数据"
 
 #: %24_LANG[%27validationErrors%27][%27emptyField%27]
 msgid "The field cannot be empty"
@@ -292,17 +292,17 @@ msgstr ""
 #: %24_LANG[%27addonAA%27][%27datatables%27][%27next%27]
 msgctxt "$_LANG['addonAA']['datatables']['next']"
 msgid "Next"
-msgstr ""
+msgstr "下一个"
 
 #: %24_LANG[%27addonAA%27][%27datatables%27][%27previous%27]
 msgctxt "$_LANG['addonAA']['datatables']['previous']"
 msgid "Previous"
-msgstr ""
+msgstr "上一个"
 
 #: %24_LANG[%27addonAA%27][%27datatables%27][%27zeroRecords%27]
 msgctxt "$_LANG['addonAA']['datatables']['zeroRecords']"
 msgid "Nothing to display"
-msgstr ""
+msgstr "无可显示(奉告)"
 
 #. // -------------------------------------------------> MENU <--------------------------------------------------------- //
 #: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27home%27]
@@ -311,7 +311,7 @@ msgstr ""
 
 #: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27documentation%27]
 msgid "Documentation"
-msgstr ""
+msgstr "文档"
 
 #: %24_LANG[%27addonAA%27][%27pagesLabels%27][%27label%27][%27LoggerManager%27]
 msgid "Logs"
